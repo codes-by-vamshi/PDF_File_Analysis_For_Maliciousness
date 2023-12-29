@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 149889,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781568364322&kwd=Izakaya:%20The%20Japanese%20Pub%20Cookbook",
+        "http://getpdf.pw/book?res=123&isbn=9781568364322&kwd=Izakaya:%20The%20Japanese%20Pub%20Cookbook",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/74146abc-c6f8-4cb2-af42-06532851fac7/composition-understanding-line-notan-and-color-397.pdf",
+        "https://files8.webydo.com/9588372/UploadedFiles/272177BA-B8DD-F5DC-758B-7CAF86AEAE66.pdf",
+        "https://files8.webydo.com/9588348/UploadedFiles/C0B6D694-6526-A3E1-B95E-A5C44F8A385A.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781568364322&kwd=Izakaya:%20The%20Japanese%20Pub%20Cookbook",
+        "http://getpdf.pw/book?res=123&isbn=9781568364322&kwd=Izakaya:%20The%20Japanese%20Pub%20Cookbook",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/74146abc-c6f8-4cb2-af42-06532851fac7/composition-understanding-line-notan-and-color-397.pdf",
+        "https://files8.webydo.com/9588372/UploadedFiles/272177BA-B8DD-F5DC-758B-7CAF86AEAE66.pdf",
+        "https://files8.webydo.com/9588348/UploadedFiles/C0B6D694-6526-A3E1-B95E-A5C44F8A385A.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "150",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "100",
+        "object_start": "100",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

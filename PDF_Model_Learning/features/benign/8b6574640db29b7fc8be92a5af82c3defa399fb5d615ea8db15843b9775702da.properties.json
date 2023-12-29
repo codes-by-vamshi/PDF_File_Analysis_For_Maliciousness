@@ -1,0 +1,41 @@
+{
+    "exif_signatures": {},
+    "file_size": 8857564,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:cac@iitg.ac.in?subject=Regarding%20Krack%20the%20Case:%20Consulting%20Guide%202022",
+        "http://iitg.ac.in/sa/caciitg/ktc/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://iitg.ac.in/sa/caciitg/ktc/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "8.9",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "1550",
+        "object_start": "1550",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "30",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "55",
+        "stream_start": "55",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

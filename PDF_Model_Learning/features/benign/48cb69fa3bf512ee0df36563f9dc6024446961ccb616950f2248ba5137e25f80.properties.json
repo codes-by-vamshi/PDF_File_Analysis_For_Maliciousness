@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 498000,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science/article/pii/S0272696308000600?np=y#bib53",
+        "http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science/article/pii/S0272696308000600?np=y#bib88",
+        "http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science/article/pii/S0272696308000600?np=y#bib88",
+        "http://openurl.auckland.ac.nz/resolve?ctx_ver=Z39.88-2004&url_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&ctx_id=10_1&rft.auinit=WD&rft.volume=246&rft.issn=0003-4932&rft.genre=article&rft.issue=4&rft.pages=585-90%3B%20discussion%20590-2&rft.eissn=1528-1140&rfr_id=info%3Asid%2Fwww.exlibrisgroup.com%3Abx-menu&rft.stitle=ANN%20SURG&rft.aufirst=William%20D&rft_id=urn%3Abx%3A8356719&rft.auinitm=D&rft.atitle=Product%20line%20development%3A%20a%20strategy%20for%20clinical%20success%20in%20academic%20centers.&rft.aulast=Turnipseed&rft.jtitle=Annals%20of%20surgery&rft.date=2007-09-30&rft.au=Turnipseed%2C%20William%20D%20D&rft.epage=90&rft.spage=585&rft.auinit1=W&rft.object_id=954925380983&rft_dat=urn%3Abx%3A8356719&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&sfx.previous_request_id=7940642&svc.fulltext=yes&svc.selectedfulltext=yes&svc.TOC=yes&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science/article/pii/S0272696308000600?np=y#bib53",
+        "http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science/article/pii/S0272696308000600?np=y#bib88",
+        "http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science/article/pii/S0272696308000600?np=y#bib88",
+        "http://openurl.auckland.ac.nz/resolve?ctx_ver=Z39.88-2004",
+        "www.exlibrisgroup.com%3Abx-menu"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "498",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "92",
+        "object_start": "92",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

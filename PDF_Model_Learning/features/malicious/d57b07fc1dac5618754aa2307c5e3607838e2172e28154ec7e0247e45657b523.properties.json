@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 43028,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://hdioaia193.berilata.ru/dwnl3.php",
+        "http://hdioaia667.berilata.ru/dwnl3.php",
+        "http://tesida.bltadwin.ru/susan-eggert-austin.pdf",
+        "http://kekora.bltadwin.ru/km-memphis-20-guitar-stand.pdf",
+        "http://sasida.bltadwin.ru/tokyo-hatsudai.pdf",
+        "http://tebei.bltadwin.ru/otis-new-york.pdf",
+        "http://tenos.bltadwin.ru/kevin-wayne-nashville.pdf",
+        "http://vubar.bltadwin.ru/missouri-unfair-competition-law.pdf",
+        "http://arashikazahn.bltadwin.ru/pemf-systems-las-vegas.pdf"
+    ],
+    "regex_uris": [
+        "http://hdioaia193.berilata.ru/dwnl3.php",
+        "http://hdioaia667.berilata.ru/dwnl3.php",
+        "http://tesida.bltadwin.ru/susan-eggert-austin.pdf",
+        "http://kekora.bltadwin.ru/km-memphis-20-guitar-stand.pdf",
+        "http://sasida.bltadwin.ru/tokyo-hatsudai.pdf",
+        "http://tebei.bltadwin.ru/otis-new-york.pdf",
+        "http://tenos.bltadwin.ru/kevin-wayne-nashville.pdf",
+        "http://vubar.bltadwin.ru/missouri-unfair-competition-law.pdf",
+        "http://arashikazahn.bltadwin.ru/pemf-systems-las-vegas.pdf"
+    ],
+    "regex_urls": [
+        "http://hdioaia193.berilata.ru/dwnl3.php",
+        "http://hdioaia667.berilata.ru/dwnl3.php",
+        "http://tesida.bltadwin.ru/susan-eggert-austin.pdf",
+        "http://kekora.bltadwin.ru/km-memphis-20-guitar-stand.pdf",
+        "http://sasida.bltadwin.ru/tokyo-hatsudai.pdf",
+        "http://tebei.bltadwin.ru/otis-new-york.pdf",
+        "http://tenos.bltadwin.ru/kevin-wayne-nashville.pdf",
+        "http://vubar.bltadwin.ru/missouri-unfair-competition-law.pdf",
+        "http://arashikazahn.bltadwin.ru/pemf-systems-las-vegas.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "43",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

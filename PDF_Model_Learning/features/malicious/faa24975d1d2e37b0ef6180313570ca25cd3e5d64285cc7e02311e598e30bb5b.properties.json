@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 79536,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780359659128&kwd=Yokai%20Watch%203%20Game,%203DS,%20Blasters,%20Choices,%20Bosses,%20Tips,%20Download,%20Beat%20the%20Game,%20Jokes,%20Guide%20Unofficial",
+        "http://getpdf.pw/book?res=123&isbn=9780359659128&kwd=Yokai%20Watch%203%20Game,%203DS,%20Blasters,%20Choices,%20Bosses,%20Tips,%20Download,%20Beat%20the%20Game,%20Jokes,%20Guide%20Unofficial",
+        "https://static.s123-cdn-static-d.com/uploads/4661264/normal_61b04eeb99ba1.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661206/normal_61b04d6235672.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660437/normal_61b1016c0ce4f.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780359659128&kwd=Yokai%20Watch%203%20Game,%203DS,%20Blasters,%20Choices,%20Bosses,%20Tips,%20Download,%20Beat%20the%20Game,%20Jokes,%20Guide%20Unofficial",
+        "http://getpdf.pw/book?res=123&isbn=9780359659128&kwd=Yokai%20Watch%203%20Game,%203DS,%20Blasters,%20Choices,%20Bosses,%20Tips,%20Download,%20Beat%20the%20Game,%20Jokes,%20Guide%20Unofficial",
+        "https://static.s123-cdn-static-d.com/uploads/4661264/normal_61b04eeb99ba1.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661206/normal_61b04d6235672.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660437/normal_61b1016c0ce4f.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "80",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

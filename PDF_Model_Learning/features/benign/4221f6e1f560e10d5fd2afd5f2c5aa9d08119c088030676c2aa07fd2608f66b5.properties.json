@@ -1,0 +1,44 @@
+{
+    "exif_signatures": {},
+    "file_size": 1856562,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://mgm.kyivland.gov.ua/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.iec.ch",
+        "http://www.iec.ch",
+        "http://www.iec.ch",
+        "http://www.iec.ch",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "3",
+        "embedded_files": "0",
+        "file_size": "1857",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "88",
+        "object_start": "88",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "19",
+        "rich_media": "0",
+        "start_cross_reference_table": "3",
+        "stream_end": "44",
+        "stream_start": "44",
+        "trailer_dictionary": "3"
+    },
+    "yara_signatures": []
+}

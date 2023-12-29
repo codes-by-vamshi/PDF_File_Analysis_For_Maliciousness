@@ -1,0 +1,49 @@
+{
+    "exif_signatures": {},
+    "file_size": 2651229,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://www.minghui.org/mh/articles/2022/3/12/%E6%98%8E%E7%9C%9F%E7%9B%B8%E9%80%80%E5%85%9A%E5%90%8E-%E9%82%BB%E5%B1%85%E5%A4%A7%E7%88%B7%E7%99%8C%E7%97%87%E5%BA%B7%E5%A4%8D-439090p.html",
+        "https://www.minghui.org/mh/glossary.html#1",
+        "https://www.tuidang.org/2022/05/28/%E6%98%8E%E4%BA%86%E5%A4%A7%E6%B3%95%E7%9C%9F%E7%9B%B8-%E5%A4%A7%E9%99%86%E6%B0%91%E4%BC%97%E4%B8%BB%E5%8A%A8%E7%BF%BB%E5%A2%99%E4%B8%89%E9%80%80/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "2.7",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "152",
+        "object_start": "152",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "150",
+        "stream_start": "150",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

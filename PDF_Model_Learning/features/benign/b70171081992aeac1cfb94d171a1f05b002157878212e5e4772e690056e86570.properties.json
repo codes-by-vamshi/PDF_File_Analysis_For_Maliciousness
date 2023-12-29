@@ -1,0 +1,52 @@
+{
+    "exif_signatures": {},
+    "file_size": 2184984,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://lora-developers.semtech.com/library/tech-papers-and-guides/lora-and-lorawan/#Footnote%201",
+        "https://lora-alliance.org/resource-hub/rp002-100-lorawanr-regional-parameters",
+        "https://lora-alliance.org/resource-hub/rp002-100-lorawanr-regional-parameters",
+        "https://lora-alliance.org/search/specification",
+        "https://lora-alliance.org/search/specification",
+        "https://lora-alliance.org/lorawan-certification-test-tool",
+        "https://lora-alliance.org/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "2.2",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "135",
+        "object_start": "135",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "26",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "67",
+        "stream_start": "67",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

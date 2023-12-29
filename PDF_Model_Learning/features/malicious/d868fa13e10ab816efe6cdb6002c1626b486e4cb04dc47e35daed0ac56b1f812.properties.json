@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 138505,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781465473905&kwd=The%20Politics%20Book%20:%20Big%20Ideas%20Simply%20Explained",
+        "http://getpdf.pw/book?res=123&isbn=9781465473905&kwd=The%20Politics%20Book%20:%20Big%20Ideas%20Simply%20Explained",
+        "https://static.s123-cdn-static-d.com/uploads/4650336/normal_61aac5d04c6b5.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781465473905&kwd=The%20Politics%20Book%20:%20Big%20Ideas%20Simply%20Explained",
+        "http://getpdf.pw/book?res=123&isbn=9781465473905&kwd=The%20Politics%20Book%20:%20Big%20Ideas%20Simply%20Explained",
+        "https://static.s123-cdn-static-d.com/uploads/4650336/normal_61aac5d04c6b5.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "139",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "88",
+        "object_start": "88",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

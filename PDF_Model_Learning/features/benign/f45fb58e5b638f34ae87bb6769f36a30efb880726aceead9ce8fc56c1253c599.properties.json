@@ -1,0 +1,83 @@
+{
+    "exif_signatures": {},
+    "file_size": 644365,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAABN1YgdJVDBItvUdIXs2qza?dl=0",
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0&preview=VCT+Concurrent+Ownership+Policy+(Dec.+2020).pdf",
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0&preview=VCT+Concurrent+Ownership+Policy+(Dec.+2020).pdf",
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0&preview=VCT+Concurrent+Ownership+Policy+(Dec.+2020).pdf",
+        "https://www.figma.com/proto/zzA4OxzVM6CuEdloWkAMbx/VCT-Brand-Guide-v1.1?node-id=8719%3A27181&viewport=744%2C617%2C0.02449999935925007&scaling=contain&hide-ui=1&starting-point-node-id=8719%3A27181",
+        "https://support-valorant.riotgames.com/hc/en-us/articles/1500004375421-Managing-Your-Riot-Account",
+        "mailto:suporte@inygon.com",
+        "mailto:suporte.lplol@inygon.com"
+    ],
+    "regex_uris": [
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAABN1YgdJVDBItvUdIXs2qza?dl=0",
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0&preview=VCT+Concurrent+Ownership+Policy+\\(Dec.+2020\\).pdf",
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0&preview=VCT+Concurrent+Ownership+Policy+\\(Dec.+2020\\).pdf",
+        "https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0&preview=VCT+Concurrent+Ownership+Policy+\\(Dec.+2020\\).pdf",
+        "https://www.figma.com/proto/zzA4OxzVM6CuEdloWkAMbx/VCT-Brand-Guide-v1.1?node-id=8719%3A27181&viewport=744%2C617%2C0.02449999935925007&scaling=contain&hide-ui=1&starting-point-node-id=8719%3A27181",
+        "https://support-valorant.riotgames.com/hc/en-us/articles/1500004375421-Managing-Your-Riot-Account",
+        "mailto:suporte@inygon.com",
+        "mailto:suporte.lplol@inygon.com"
+    ],
+    "regex_urls": [
+        "https",
+        "www.dropbox.com/sh/xfy0lbve0hdr0ju/AAABN1YgdJVDBItvUdIXs2qza?dl=0",
+        "https",
+        "www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0",
+        "https",
+        "www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0",
+        "https",
+        "www.dropbox.com/sh/xfy0lbve0hdr0ju/AAAPkQWHEh7D7iNtNGx63IyGa/Rules%20and%20Policies%202022?dl=0",
+        "https",
+        "www.figma.com/proto/zzA4OxzVM6CuEdloWkAMbx/VCT-Brand-Guide-v1.1?node-id=8719%3A27181",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "644",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "322",
+        "object_start": "323",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "44",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "61",
+        "stream_start": "61",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

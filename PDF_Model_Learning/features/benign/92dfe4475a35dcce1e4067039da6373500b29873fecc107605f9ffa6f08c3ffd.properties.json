@@ -1,0 +1,67 @@
+{
+    "exif_signatures": {},
+    "file_size": 192870,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://ro.ecu.edu.au/",
+        "https://ro.ecu.edu.au/ism",
+        "https://ro.ecu.edu.au/ism",
+        "https://ro.ecu.edu.au/conference",
+        "https://ro.ecu.edu.au/ism?utm_source=ro.ecu.edu.au%2Fism%2F99&utm_medium=PDF&utm_campaign=PDFCoverPages",
+        "http://network.bepress.com/hgg/discipline/1247?utm_source=ro.ecu.edu.au%2Fism%2F99&utm_medium=PDF&utm_campaign=PDFCoverPages",
+        "https://doi.org/10.4225/75/57b6771734788"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://www.aiim.org/pdfua/ns/id/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "www.princexml.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://network.bepress.com/hgg/discipline/1247?utm_source=ro.ecu.edu.au%2Fism%2F99",
+        "https",
+        "www.princexml.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "193",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "133",
+        "object_start": "133",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "36",
+        "stream_start": "36",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

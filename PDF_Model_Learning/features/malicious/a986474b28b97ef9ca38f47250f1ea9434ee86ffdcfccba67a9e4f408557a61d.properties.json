@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 205916,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=crack+%D0%B4%D0%BB%D1%8F+ultimate+carnage",
+        "https://disamaputobiqegig.files.wordpress.com/2018/04/zapumo-srednii-ball-po-biologii-ege-2017-po-moskve-kebagoman.pdf",
+        "https://pobibonupajesavipaw.files.wordpress.com/2018/04/sibaduwifa-reshebnik-po-matematike-rabochaia-tetrad-3-kl-moro-xinofotanebekuv.pdf",
+        "https://pepewagibecosu.files.wordpress.com/2018/04/loxon-tikhii-don-argumenty-k-sochineniiu-po-russkomu-iazyku-ege-narisanel.pdf",
+        "https://kehuvujovilenu.files.wordpress.com/2018/04/megim-rezervnye-dni-ege-2016-rumotokobinawip.pdf",
+        "https://xenapuba.files.wordpress.com/2018/04/sadetoripewifo-gdz-po-geografii-9-klass-trenazher-nikolina-onlain-funudu.pdf",
+        "https://bofukiqiremodunitaq.files.wordpress.com/2018/04/nowasibetupis-gdz-istoriia-agibalova-6-klass-paragraf-19-tablitsa-jebizon.pdf",
+        "https://mibowekagabunekok.files.wordpress.com/2018/04/pevidofodedoko-trenirovochnyi-kim-ege-po-khimii-2017-kaxirowojuxomen.pdf",
+        "https://vimisobaxacilegotar.files.wordpress.com/2018/04/nutavopive-gdz-po-muzyke-6-klass-naumenko-aleev-uchebnik-otvety-velizomuzafi.pdf",
+        "https://pobibonupajesavipaw.files.wordpress.com/2018/04/telar-gdz-po-biologii-11-klass-testy-fufow.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=crack+%D0%B4%D0%BB%D1%8F+ultimate+carnage",
+        "https://disamaputobiqegig.files.wordpress.com/2018/04/zapumo-srednii-ball-po-biologii-ege-2017-po-moskve-kebagoman.pdf",
+        "https://pobibonupajesavipaw.files.wordpress.com/2018/04/sibaduwifa-reshebnik-po-matematike-rabochaia-tetrad-3-kl-moro-xinofotanebekuv.pdf",
+        "https://pepewagibecosu.files.wordpress.com/2018/04/loxon-tikhii-don-argumenty-k-sochineniiu-po-russkomu-iazyku-ege-narisanel.pdf",
+        "https://kehuvujovilenu.files.wordpress.com/2018/04/megim-rezervnye-dni-ege-2016-rumotokobinawip.pdf",
+        "https://xenapuba.files.wordpress.com/2018/04/sadetoripewifo-gdz-po-geografii-9-klass-trenazher-nikolina-onlain-funudu.pdf",
+        "https://bofukiqiremodunitaq.files.wordpress.com/2018/04/nowasibetupis-gdz-istoriia-agibalova-6-klass-paragraf-19-tablitsa-jebizon.pdf",
+        "https://mibowekagabunekok.files.wordpress.com/2018/04/pevidofodedoko-trenirovochnyi-kim-ege-po-khimii-2017-kaxirowojuxomen.pdf",
+        "https://vimisobaxacilegotar.files.wordpress.com/2018/04/nutavopive-gdz-po-muzyke-6-klass-naumenko-aleev-uchebnik-otvety-velizomuzafi.pdf",
+        "https://pobibonupajesavipaw.files.wordpress.com/2018/04/telar-gdz-po-biologii-11-klass-testy-fufow.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=crack+%D0%B4%D0%BB%D1%8F+ultimate+carnage",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "206",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

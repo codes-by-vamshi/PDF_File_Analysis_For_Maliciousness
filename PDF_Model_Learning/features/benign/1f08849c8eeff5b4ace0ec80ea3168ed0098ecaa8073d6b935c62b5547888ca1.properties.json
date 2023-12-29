@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 256147,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://2.bp.blogspot.com/-v0XGaYB-Ihk/WNx5DN32R9I/AAAAAAAAJvs/RbJHCyCcobgj0t69mkmOAtftCHHuSvoAQCLcB/s1600/Functiegenerator.jpg",
+        "https://2.bp.blogspot.com/-xR__fWOC14E/WNx57bfeFKI/AAAAAAAAJvw/R7p_oYVwbLAq6n2PAE5ZYcY5zkMJvWG_QCLcB/s1600/AudioWave_venster.jpg",
+        "https://1.bp.blogspot.com/-0XmbTotzQr4/WNx6vw7qLDI/AAAAAAAAJv0/ej24ynW6ShEX9YNVhWIJayrVYgElGnK-gCLcB/s1600/signaalvormen.jpg",
+        "https://3.bp.blogspot.com/-mqD-4dCO4uU/WNx75X_8qSI/AAAAAAAAJv8/utRa5SlyDQAJIpVapQrBJbEVf4zAGGtHgCLcB/s1600/AudioWave_modulator.jpg",
+        "https://2.bp.blogspot.com/-lxiI51u8lc8/WNx70PntYhI/AAAAAAAAJv4/TKLd0yBdko862icFXAtwUdkkYBgq0i20ACEw/s1600/modulatie.jpg",
+        "https://2.bp.blogspot.com/-lxiI51u8lc8/WNx70PntYhI/AAAAAAAAJv4/TKLd0yBdko862icFXAtwUdkkYBgq0i20ACEw/s1600/modulatie.jpg"
+    ],
+    "regex_uris": [
+        "https://2.bp.blogspot.com/-v0XGaYB-Ihk/WNx5DN32R9I/AAAAAAAAJvs/RbJHCyCcobgj0t69mkmOAtftCHHuSvoAQCLcB/s1600/Functiegenerator.jpg",
+        "https://2.bp.blogspot.com/-xR__fWOC14E/WNx57bfeFKI/AAAAAAAAJvw/R7p_oYVwbLAq6n2PAE5ZYcY5zkMJvWG_QCLcB/s1600/AudioWave_venster.jpg",
+        "https://1.bp.blogspot.com/-0XmbTotzQr4/WNx6vw7qLDI/AAAAAAAAJv0/ej24ynW6ShEX9YNVhWIJayrVYgElGnK-gCLcB/s1600/signaalvormen.jpg",
+        "https://3.bp.blogspot.com/-mqD-4dCO4uU/WNx75X_8qSI/AAAAAAAAJv8/utRa5SlyDQAJIpVapQrBJbEVf4zAGGtHgCLcB/s1600/AudioWave_modulator.jpg",
+        "https://2.bp.blogspot.com/-lxiI51u8lc8/WNx70PntYhI/AAAAAAAAJv4/TKLd0yBdko862icFXAtwUdkkYBgq0i20ACEw/s1600/modulatie.jpg",
+        "https://2.bp.blogspot.com/-lxiI51u8lc8/WNx70PntYhI/AAAAAAAAJv4/TKLd0yBdko862icFXAtwUdkkYBgq0i20ACEw/s1600/modulatie.jpg"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "256",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "195",
+        "object_start": "195",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "with_images",
+        "with_urls",
+        "contentis_base64"
+    ]
+}

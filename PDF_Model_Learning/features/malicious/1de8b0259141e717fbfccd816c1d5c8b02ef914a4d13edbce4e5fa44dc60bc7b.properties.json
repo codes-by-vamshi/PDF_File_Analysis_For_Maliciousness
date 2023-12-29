@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 122323,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781169360655&kwd=Correspondence%20of%20Charles,%20First%20Marquis%20Cornwallis%20V1",
+        "http://getpdf.pw/book?res=123&isbn=9781169360655&kwd=Correspondence%20of%20Charles,%20First%20Marquis%20Cornwallis%20V1",
+        "https://static.s123-cdn-static-a.com/uploads/4660350/normal_61afab6997126.pdf",
+        "https://files8.webydo.com/9589004/UploadedFiles/27C06B61-F921-CAA6-1586-6B593AFA101A.pdf",
+        "https://img1.wsimg.com/blobby/go/62f8908c-ce26-43f5-99cf-73d9e79953bf/the-pet-loss-companion-healing-advice-from-fam.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781169360655&kwd=Correspondence%20of%20Charles,%20First%20Marquis%20Cornwallis%20V1",
+        "http://getpdf.pw/book?res=123&isbn=9781169360655&kwd=Correspondence%20of%20Charles,%20First%20Marquis%20Cornwallis%20V1",
+        "https://static.s123-cdn-static-a.com/uploads/4660350/normal_61afab6997126.pdf",
+        "https://files8.webydo.com/9589004/UploadedFiles/27C06B61-F921-CAA6-1586-6B593AFA101A.pdf",
+        "https://img1.wsimg.com/blobby/go/62f8908c-ce26-43f5-99cf-73d9e79953bf/the-pet-loss-companion-healing-advice-from-fam.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "122",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

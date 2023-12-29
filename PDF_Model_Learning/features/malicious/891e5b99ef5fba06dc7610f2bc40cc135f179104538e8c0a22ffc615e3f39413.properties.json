@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 94122,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780448480008&kwd=The%20Night%20Before%20My%20Birthday",
+        "http://getpdf.pw/book?res=strik&isbn=9780448480008&kwd=The%20Night%20Before%20My%20Birthday",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/c2eeec3d-7754-4b17-81fe-62d47e2f5487/the-smith-tapes-lost-interviews-with-rock-stars-icons-1969-1972-399.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661754/normal_61b0c828cecc5.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/3b378735-4818-4d64-b469-a8992566e9ab/the-bangladesh-reader-history-culture-politics-866.pdf",
+        "https://files8.webydo.com/9589177/UploadedFiles/525CF1BA-3778-F351-FD03-6C94DF142808.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780448480008&kwd=The%20Night%20Before%20My%20Birthday",
+        "http://getpdf.pw/book?res=strik&isbn=9780448480008&kwd=The%20Night%20Before%20My%20Birthday",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/c2eeec3d-7754-4b17-81fe-62d47e2f5487/the-smith-tapes-lost-interviews-with-rock-stars-icons-1969-1972-399.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661754/normal_61b0c828cecc5.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/3b378735-4818-4d64-b469-a8992566e9ab/the-bangladesh-reader-history-culture-politics-866.pdf",
+        "https://files8.webydo.com/9589177/UploadedFiles/525CF1BA-3778-F351-FD03-6C94DF142808.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "66",
+        "object_start": "66",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

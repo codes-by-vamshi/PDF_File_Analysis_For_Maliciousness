@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 41772902,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://github.com/dqkjdhkqjshd/CNI_Gen/raw/main/Korsakoff.exe"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "42",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "154",
+        "object_start": "155",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "151",
+        "stream_start": "151",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

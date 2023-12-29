@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 274306,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://who.int/about/collaborations/non-state-actors/en/",
+        "http://who.int/about/collaborations/non-state-actors/en/",
+        "http://www.paho.org/hq/index.php?option=com_docman&task=doc_download&gid=40199&Itemid=270&lang=en",
+        "http://www.euro.who.int/__data/assets/pdf_file/0010/346969/67wd17e_Rev.1_Partnerships_170712.pdf?ua=1",
+        "http://www.euro.who.int/__data/assets/pdf_file/0007/349225/67rs07e_Partnerships_170893.pdf?ua=1"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://who.int/about/collaborations/non-state-actors/en/",
+        "http://who.int/about/collaborations/non-state-actors/en/",
+        "http://www.paho.org/hq/index.php?option=com_docman",
+        "http://www.euro.who.int/__data/assets/pdf_file/0010/346969/67wd17e_Rev.1_Partnerships_170712.pdf?ua=1",
+        "http://www.euro.who.int/__data/assets/pdf_file/0007/349225/67rs07e_Partnerships_170893.pdf?ua=1",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "3",
+        "embedded_files": "0",
+        "file_size": "274",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "3",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "3"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

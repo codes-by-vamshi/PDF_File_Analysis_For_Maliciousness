@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 90622,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781854596598&kwd=Finding%20Your%20Voice%20:%20A%20step-by-step%20guide%20for%20actors",
+        "http://getpdf.pw/book?res=123&isbn=9781854596598&kwd=Finding%20Your%20Voice%20:%20A%20step-by-step%20guide%20for%20actors",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F8262b6b8-05c0-4e51-94d5-1c47e79a48f5%252Flaboratory-manual-for-general-biology-5th-edition-553.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F41740b2a-33a4-4ce9-b739-26ab6ae955a5%252Fa-cultural-history-of-the-human-body-in-antiquity-487.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F65e48b16-09aa-4759-8074-e3d91a75a9d1%252Fthe-essentials-of-california-mental-health-law-a-straightforward-guide-for-clinicians-of-all-discipl-554.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781854596598&kwd=Finding%20Your%20Voice%20:%20A%20step-by-step%20guide%20for%20actors",
+        "http://getpdf.pw/book?res=123&isbn=9781854596598&kwd=Finding%20Your%20Voice%20:%20A%20step-by-step%20guide%20for%20actors",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F8262b6b8-05c0-4e51-94d5-1c47e79a48f5%252Flaboratory-manual-for-general-biology-5th-edition-553.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F41740b2a-33a4-4ce9-b739-26ab6ae955a5%252Fa-cultural-history-of-the-human-body-in-antiquity-487.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F65e48b16-09aa-4759-8074-e3d91a75a9d1%252Fthe-essentials-of-california-mental-health-law-a-straightforward-guide-for-clinicians-of-all-discipl-554.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "91",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "60",
+        "object_start": "60",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

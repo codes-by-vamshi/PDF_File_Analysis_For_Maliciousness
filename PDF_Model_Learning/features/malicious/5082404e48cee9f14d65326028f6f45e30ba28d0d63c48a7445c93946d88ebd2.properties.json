@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 120227,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780240812397&kwd=Acting%20and%20Performance%20for%20Animation",
+        "http://getpdf.pw/book?res=strik&isbn=9780240812397&kwd=Acting%20and%20Performance%20for%20Animation",
+        "https://static.s123-cdn.com/uploads/4660079/normal_61afc54576d28.pdf",
+        "https://img1.wsimg.com/blobby/go/df74f976-f949-4514-9861-34a7e499989c/patterns-in-nature-why-the-natural-world-looks.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/2952499c-293a-43b7-b8cd-ad04e0aff2e2/mud-sweat-and-tears-an-irish-womans-journey-of-self-discovery-850.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660172/normal_61afc8f690df1.pdf",
+        "https://static.s123-cdn.com/uploads/4659925/normal_61afc01b3f028.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780240812397&kwd=Acting%20and%20Performance%20for%20Animation",
+        "http://getpdf.pw/book?res=strik&isbn=9780240812397&kwd=Acting%20and%20Performance%20for%20Animation",
+        "https://static.s123-cdn.com/uploads/4660079/normal_61afc54576d28.pdf",
+        "https://img1.wsimg.com/blobby/go/df74f976-f949-4514-9861-34a7e499989c/patterns-in-nature-why-the-natural-world-looks.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/2952499c-293a-43b7-b8cd-ad04e0aff2e2/mud-sweat-and-tears-an-irish-womans-journey-of-self-discovery-850.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660172/normal_61afc8f690df1.pdf",
+        "https://static.s123-cdn.com/uploads/4659925/normal_61afc01b3f028.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "120",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "82",
+        "object_start": "82",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

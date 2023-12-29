@@ -1,0 +1,50 @@
+{
+    "exif_signatures": {},
+    "file_size": 8684121,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "www.azzarreedy.com",
+        "goo.gl/maps/xm3SZefT7ZT2",
+        "yt.vu/+azzarnewcairo",
+        "fb.com/Azzar-New-Cairo-2024768571144011/",
+        "instagram.com/azzarnewcairo/"
+    ],
+    "regex_uris": [
+        "www.azzarreedy.com",
+        "goo.gl/maps/xm3SZefT7ZT2",
+        "yt.vu/+azzarnewcairo",
+        "fb.com/Azzar-New-Cairo-2024768571144011/",
+        "instagram.com/azzarnewcairo/"
+    ],
+    "regex_urls": [
+        "www.azzarreedy.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "8.7",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "169",
+        "object_start": "169",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "49",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "99",
+        "stream_start": "99",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

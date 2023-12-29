@@ -1,0 +1,82 @@
+{
+    "exif_signatures": {},
+    "file_size": 107320,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://benefitstables.site/Fourth-Quarter-Guidance-Reflects/pdf/www.dev.sunsettrans.com",
+        "http://benefitstables.site/Fourth-Quarter-Guidance-Reflects/doc/www.dev.sunsettrans.com",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/algebraic-expression-for-relational-schema.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/are-back-contractions-high-or-low.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/death-penalty-agein-texas.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/insatiable-meaning-in-english-with-example.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/csu-east-bay-student-handbook.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/excel-spreadsheet-for-budget-tracking.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/consent-to-transfer-assignment-of-contract.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/chicago-manual-of-style-indexing.pdf"
+    ],
+    "regex_uris": [
+        "http://benefitstables.site/Fourth-Quarter-Guidance-Reflects/pdf/www.dev.sunsettrans.com)>>>><</Type /Annot /Subtype /Link /Rect [305.00 457.00 561.00 382.00] /Border [0 0 0] /A <</S /URI /URI (http://benefitstables.site/Fourth-Quarter-Guidance-Reflects/doc/www.dev.sunsettrans.com",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/algebraic-expression-for-relational-schema.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/are-back-contractions-high-or-low.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/death-penalty-agein-texas.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/insatiable-meaning-in-english-with-example.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/csu-east-bay-student-handbook.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/excel-spreadsheet-for-budget-tracking.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/consent-to-transfer-assignment-of-contract.pdf",
+        "https://www.dev.sunsettrans.com/wp-content/uploads/formidable/13/chicago-manual-of-style-indexing.pdf"
+    ],
+    "regex_urls": [
+        "http://benefitstables.site/Fourth-Quarter-Guidance-Reflects/pdf/www.dev.sunsettrans.com",
+        "http://benefitstables.site/Fourth-Quarter-Guidance-Reflects/doc/www.dev.sunsettrans.com",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/algebraic-expression-for-relational-schema.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/are-back-contractions-high-or-low.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/death-penalty-agein-texas.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/insatiable-meaning-in-english-with-example.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/csu-east-bay-student-handbook.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/excel-spreadsheet-for-budget-tracking.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/consent-to-transfer-assignment-of-contract.pdf",
+        "https",
+        "www.dev.sunsettrans.com/wp-content/uploads/formidable/13/chicago-manual-of-style-indexing.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "107",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "33",
+        "object_start": "33",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 104443,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9789899948525&kwd=POROSIS%20:%20The%20Architecture%20of%20Nuno%20Brandao%20Costa",
+        "http://getpdf.pw/book?res=strik&isbn=9789899948525&kwd=POROSIS%20:%20The%20Architecture%20of%20Nuno%20Brandao%20Costa",
+        "https://files8.webydo.com/9589053/UploadedFiles/2EFAB575-C947-DACD-7352-4701D01AB1F3.pdf",
+        "https://files8.webydo.com/9589056/UploadedFiles/232BC483-2B6E-FF3D-162D-75D75A69F723.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660385/normal_61af71ead0dfc.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660025/normal_61afa316b97ca.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660241/normal_61af8b16bf932.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660211/normal_61afc9c33c028.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660067/normal_61af6be3743f8.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660012/normal_61af6a9a4f5db.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9789899948525&kwd=POROSIS%20:%20The%20Architecture%20of%20Nuno%20Brandao%20Costa",
+        "http://getpdf.pw/book?res=strik&isbn=9789899948525&kwd=POROSIS%20:%20The%20Architecture%20of%20Nuno%20Brandao%20Costa",
+        "https://files8.webydo.com/9589053/UploadedFiles/2EFAB575-C947-DACD-7352-4701D01AB1F3.pdf",
+        "https://files8.webydo.com/9589056/UploadedFiles/232BC483-2B6E-FF3D-162D-75D75A69F723.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660385/normal_61af71ead0dfc.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660025/normal_61afa316b97ca.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660241/normal_61af8b16bf932.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660211/normal_61afc9c33c028.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660067/normal_61af6be3743f8.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660012/normal_61af6a9a4f5db.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "104",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "76",
+        "object_start": "76",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

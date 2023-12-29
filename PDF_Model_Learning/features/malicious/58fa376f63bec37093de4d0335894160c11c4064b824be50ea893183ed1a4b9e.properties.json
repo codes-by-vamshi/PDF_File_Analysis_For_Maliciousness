@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 96604,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781527230859&kwd=North%20Wales%20Scrambles:%20a%20guide%20to%2050%20of%20the%20best%20mountain%20scrambles%20in%20Snowdonia",
+        "http://getpdf.pw/book?res=strik&isbn=9781527230859&kwd=North%20Wales%20Scrambles:%20a%20guide%20to%2050%20of%20the%20best%20mountain%20scrambles%20in%20Snowdonia",
+        "https://static.s123-cdn-static-a.com/uploads/4659661/normal_61ae285f972a5.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659369/normal_61ae3efeb165f.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659395/normal_61ae1633902ff.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659535/normal_61ae1f6e99e8b.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659492/normal_61ad2bc708144.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659505/normal_61ad820b110c1.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781527230859&kwd=North%20Wales%20Scrambles:%20a%20guide%20to%2050%20of%20the%20best%20mountain%20scrambles%20in%20Snowdonia",
+        "http://getpdf.pw/book?res=strik&isbn=9781527230859&kwd=North%20Wales%20Scrambles:%20a%20guide%20to%2050%20of%20the%20best%20mountain%20scrambles%20in%20Snowdonia",
+        "https://static.s123-cdn-static-a.com/uploads/4659661/normal_61ae285f972a5.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659369/normal_61ae3efeb165f.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659395/normal_61ae1633902ff.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659535/normal_61ae1f6e99e8b.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659492/normal_61ad2bc708144.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659505/normal_61ad820b110c1.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "66",
+        "object_start": "66",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 131527,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781510735521&kwd=A%20Dark%20Night%20in%20Aurora%20:%20Inside%20James%20Holmes%20and%20the%20Colorado%20Mass%20Shootings",
+        "http://getpdf.pw/book?res=123&isbn=9781510735521&kwd=A%20Dark%20Night%20in%20Aurora%20:%20Inside%20James%20Holmes%20and%20the%20Colorado%20Mass%20Shootings",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/4acf7b81-dc82-4cbd-9e24-15cb39b8ab04/the-science-of-rondo-progressions-variations-transitions-934.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660136/normal_61af6e62e200a.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781510735521&kwd=A%20Dark%20Night%20in%20Aurora%20:%20Inside%20James%20Holmes%20and%20the%20Colorado%20Mass%20Shootings",
+        "http://getpdf.pw/book?res=123&isbn=9781510735521&kwd=A%20Dark%20Night%20in%20Aurora%20:%20Inside%20James%20Holmes%20and%20the%20Colorado%20Mass%20Shootings",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/4acf7b81-dc82-4cbd-9e24-15cb39b8ab04/the-science-of-rondo-progressions-variations-transitions-934.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660136/normal_61af6e62e200a.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "132",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "89",
+        "object_start": "89",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 113336,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780231191630&kwd=What%20Is%20Japanese%20Cinema?%20:%20A%20History",
+        "http://getpdf.pw/book?res=123&isbn=9780231191630&kwd=What%20Is%20Japanese%20Cinema?%20:%20A%20History",
+        "https://static.s123-cdn-static-d.com/uploads/4659739/normal_61ae2e4ac90d7.pdf",
+        "https://img1.wsimg.com/blobby/go/f4b0aa07-8df8-421d-b519-b17a967d86f0/the-puffer-cookbook-791.pdf",
+        "https://static.s123-cdn.com/uploads/4659519/normal_61ae1eb5d4b81.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780231191630&kwd=What%20Is%20Japanese%20Cinema?%20:%20A%20History",
+        "http://getpdf.pw/book?res=123&isbn=9780231191630&kwd=What%20Is%20Japanese%20Cinema?%20:%20A%20History",
+        "https://static.s123-cdn-static-d.com/uploads/4659739/normal_61ae2e4ac90d7.pdf",
+        "https://img1.wsimg.com/blobby/go/f4b0aa07-8df8-421d-b519-b17a967d86f0/the-puffer-cookbook-791.pdf",
+        "https://static.s123-cdn.com/uploads/4659519/normal_61ae1eb5d4b81.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "113",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "75",
+        "object_start": "75",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

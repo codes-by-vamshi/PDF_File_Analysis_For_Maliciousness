@@ -1,0 +1,18 @@
+{
+    "exif_signatures": {},
+    "file_size": 101826026,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "file_size": "102"
+    },
+    "yara_signatures": []
+}

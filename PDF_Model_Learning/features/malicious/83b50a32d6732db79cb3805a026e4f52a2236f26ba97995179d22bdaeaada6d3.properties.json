@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 94745,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781440567391&kwd=DIY%20Braids%20:%20From%20Crowns%20to%20Fishtails,%20Easy,%20Step-by-Step%20Hair-Braiding%20Instructions",
+        "http://getpdf.pw/book?res=123&isbn=9781440567391&kwd=DIY%20Braids%20:%20From%20Crowns%20to%20Fishtails,%20Easy,%20Step-by-Step%20Hair-Braiding%20Instructions",
+        "https://static.s123-cdn.com/uploads/4650111/normal_61ab7ee1b1dfa.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650600/normal_61aad246a7ba6.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649443/normal_61aab2f331146.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781440567391&kwd=DIY%20Braids%20:%20From%20Crowns%20to%20Fishtails,%20Easy,%20Step-by-Step%20Hair-Braiding%20Instructions",
+        "http://getpdf.pw/book?res=123&isbn=9781440567391&kwd=DIY%20Braids%20:%20From%20Crowns%20to%20Fishtails,%20Easy,%20Step-by-Step%20Hair-Braiding%20Instructions",
+        "https://static.s123-cdn.com/uploads/4650111/normal_61ab7ee1b1dfa.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650600/normal_61aad246a7ba6.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649443/normal_61aab2f331146.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "59",
+        "object_start": "59",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

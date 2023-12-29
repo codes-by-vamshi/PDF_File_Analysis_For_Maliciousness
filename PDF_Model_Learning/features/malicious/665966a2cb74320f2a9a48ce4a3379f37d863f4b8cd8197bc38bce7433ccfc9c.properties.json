@@ -1,0 +1,71 @@
+{
+    "exif_signatures": {},
+    "file_size": 125311,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://mongkoktrip.site/Does-Binge-Drinking-On-Weekends-Constitute-Alcoholism/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Does-Binge-Drinking-On-Weekends-Constitute-Alcoholism/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/identifying-the-design-of-an-experiment-worksheet.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/assignment-problem-using-exhaustive-search.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/illinois-mechanics-lien-prorate-calculator.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/drafting-the-declaration-of-independence-constitution-facts.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/texas-old-town-kyle-tx-directions.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/california-petting-zoo-employee-handbook.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/personal-reference-cover-letter.pdf"
+    ],
+    "regex_uris": [
+        "http://mongkoktrip.site/Does-Binge-Drinking-On-Weekends-Constitute-Alcoholism/pdf/18.219.185.187)>>>><</Type /Annot /Subtype /Link /Rect [300.00 459.00 559.00 385.00] /Border [0 0 0] /A <</S /URI /URI (http://mongkoktrip.site/Does-Binge-Drinking-On-Weekends-Constitute-Alcoholism/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/identifying-the-design-of-an-experiment-worksheet.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/assignment-problem-using-exhaustive-search.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/illinois-mechanics-lien-prorate-calculator.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/drafting-the-declaration-of-independence-constitution-facts.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/texas-old-town-kyle-tx-directions.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/california-petting-zoo-employee-handbook.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/personal-reference-cover-letter.pdf"
+    ],
+    "regex_urls": [
+        "http://mongkoktrip.site/Does-Binge-Drinking-On-Weekends-Constitute-Alcoholism/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Does-Binge-Drinking-On-Weekends-Constitute-Alcoholism/doc/18.219.185.187",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "125",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "20",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

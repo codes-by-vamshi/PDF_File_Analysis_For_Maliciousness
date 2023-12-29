@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 1108657,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://pockethealth.com/patients",
+        "https://www.pockethealth.com/providers/",
+        "https://www.pocket.health/en-US/requestrecords?pk_vid=de858ae57a52a017164585054664cae0",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "https://viewer.pocket.health/e/docs/locale_en_US/Content/user_guide/front_matter/title_page_online.htm",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://pockethealth.com/patients",
+        "https",
+        "www.pockethealth.com/providers/",
+        "https",
+        "www.pocket.health/en-US/requestrecords?pk_vid=de858ae57a52a017164585054664cae0",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "https",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view",
+        "http://pockethealth.com/view"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1109",
+        "java_script": "1",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "135",
+        "object_start": "135",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "41",
+        "stream_start": "41",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

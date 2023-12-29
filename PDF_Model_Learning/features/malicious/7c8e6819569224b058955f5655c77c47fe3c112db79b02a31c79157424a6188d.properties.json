@@ -1,0 +1,79 @@
+{
+    "exif_signatures": {},
+    "file_size": 59197,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://lehmanbrotherbankruptcy.com/clearingtheairscotland.citation/infidelity?interrelationship=UGhvdG9zaG9wIENDIDIwMTUgdmVyc2lvbiAxNwUGh.intrinsic&partum=ZG93bmxvYWR8NXQxWjNKOGZERTJOekkxT1RJMU56UjhmREkxT1RCOGZDaE5LU0JYYjNKa2NISmxjM01nVzFoTlRGSlFReUJXTWlCUVJFWmQ",
+        "https://soundcloud.com/jeltihigmanj/key-wic-reset-utility-v-1-8-2-serial-crack",
+        "https://soundcloud.com/sackensfilksynch1984/jilla-tamil-movie-download-tamilrockers-hd",
+        "https://soundcloud.com/oydenmagicop/microsoft-office-frontpage-2013-free-download-full-version-64bit",
+        "https://soundcloud.com/oydenmagicop/microsoft-office-frontpage-2013-free-download-full-version-64bit",
+        "https://soundcloud.com/argatunel1981/msxnaenginedll",
+        "https://soundcloud.com/vkotovvf0/tmpgenc-xpress-479311-setup-keygenrar",
+        "https://soundcloud.com/butkalerumm/gta-sa-anime-mod",
+        "https://soundcloud.com/ciausudjonya/stellar-ost-to-pst-converter-serial-key",
+        "https://soundcloud.com/ivanpanov2ez2/cyberlink-youcam-windows-7-free-download-full-version",
+        "https://soundcloud.com/opojtriyaa/analisis-numerico-richard-burden-novena-edicion"
+    ],
+    "regex_uris": [
+        "http://lehmanbrotherbankruptcy.com/clearingtheairscotland.citation/infidelity?interrelationship=UGhvdG9zaG9wIENDIDIwMTUgdmVyc2lvbiAxNwUGh.intrinsic&partum=ZG93bmxvYWR8NXQxWjNKOGZERTJOekkxT1RJMU56UjhmREkxT1RCOGZDaE5LU0JYYjNKa2NISmxjM01nVzFoTlRGSlFReUJXTWlCUVJFWmQ",
+        "https://soundcloud.com/jeltihigmanj/key-wic-reset-utility-v-1-8-2-serial-crack",
+        "https://soundcloud.com/sackensfilksynch1984/jilla-tamil-movie-download-tamilrockers-hd",
+        "https://soundcloud.com/oydenmagicop/microsoft-office-frontpage-2013-free-download-full-version-64bit",
+        "https://soundcloud.com/oydenmagicop/microsoft-office-frontpage-2013-free-download-full-version-64bit",
+        "https://soundcloud.com/argatunel1981/msxnaenginedll",
+        "https://soundcloud.com/vkotovvf0/tmpgenc-xpress-479311-setup-keygenrar",
+        "https://soundcloud.com/butkalerumm/gta-sa-anime-mod",
+        "https://soundcloud.com/ciausudjonya/stellar-ost-to-pst-converter-serial-key",
+        "https://soundcloud.com/ivanpanov2ez2/cyberlink-youcam-windows-7-free-download-full-version",
+        "https://soundcloud.com/opojtriyaa/analisis-numerico-richard-burden-novena-edicion"
+    ],
+    "regex_urls": [
+        "http://lehmanbrotherbankruptcy.com/clearingtheairscotland.citation/infidelity?interrelationship=UGhvdG9zaG9wIENDIDIwMTUgdmVyc2lvbiAxNwUGh.intrinsic",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "59",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

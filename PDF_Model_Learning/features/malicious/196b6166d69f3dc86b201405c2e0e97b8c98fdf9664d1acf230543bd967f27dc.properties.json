@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 36670,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://netcdn.xyz/app/406889139/free-spin-coin-master-game-game-hack",
+        "https://netcdn.xyz/app/406889139/free-spin-coin-master-game-game-hack"
+    ],
+    "regex_uris": [
+        "https://netcdn.xyz/app/406889139/free-spin-coin-master-game-game-hack",
+        "https://netcdn.xyz/app/406889139/free-spin-coin-master-game-game-hack"
+    ],
+    "regex_urls": [
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "37",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "40",
+        "object_start": "40",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "7",
+        "stream_start": "7",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 100629,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781909815988&kwd=Pure%20Colour%20:%20A%20pure%20style%20notebook%20of%20colour%20inspiration",
+        "http://getpdf.pw/book?res=123&isbn=9781909815988&kwd=Pure%20Colour%20:%20A%20pure%20style%20notebook%20of%20colour%20inspiration",
+        "https://uploads.strikinglycdn.com/files/12cbb04e-89e7-4503-8c95-7fef85d8ea98/cybercrime-and-society-795.pdf",
+        "https://static.s123-cdn-static.com/uploads/4650297/normal_61ab13ade67bc.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781909815988&kwd=Pure%20Colour%20:%20A%20pure%20style%20notebook%20of%20colour%20inspiration",
+        "http://getpdf.pw/book?res=123&isbn=9781909815988&kwd=Pure%20Colour%20:%20A%20pure%20style%20notebook%20of%20colour%20inspiration",
+        "https://uploads.strikinglycdn.com/files/12cbb04e-89e7-4503-8c95-7fef85d8ea98/cybercrime-and-society-795.pdf",
+        "https://static.s123-cdn-static.com/uploads/4650297/normal_61ab13ade67bc.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "101",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

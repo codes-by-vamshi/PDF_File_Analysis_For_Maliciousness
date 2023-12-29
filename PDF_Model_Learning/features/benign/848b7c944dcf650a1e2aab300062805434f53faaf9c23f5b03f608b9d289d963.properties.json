@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 1004943,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:gabriela.guequen@gmail.com",
+        "mailto:gabriela.guequen@gmail.com",
+        "https://www.youtube.com/watch?v=o9d8VG8pu-o",
+        "mailto:gabriela.guequen@gmail.com",
+        "mailto:gabriela.guequen@gmail.com",
+        "https://www.youtube.com/watch?v=DxkftSH_gzM",
+        "https://www.youtube.com/watch?v=kGLOQd57AdQ",
+        "mailto:gabriela.guequen@gmail.com",
+        "https://www.youtube.com/watch?v=mFaiXr8VQN4"
+    ],
+    "regex_uris": [
+        "mailto:gabriela.guequen@gmail.com",
+        "mailto:gabriela.guequen@gmail.com",
+        "https://www.youtube.com/watch?v=o9d8VG8pu-o",
+        "mailto:gabriela.guequen@gmail.com",
+        "mailto:gabriela.guequen@gmail.com",
+        "https://www.youtube.com/watch?v=DxkftSH_gzM",
+        "https://www.youtube.com/watch?v=kGLOQd57AdQ",
+        "mailto:gabriela.guequen@gmail.com",
+        "https://www.youtube.com/watch?v=mFaiXr8VQN4"
+    ],
+    "regex_urls": [
+        "https",
+        "www.youtube.com/watch?v=o9d8VG8pu-o",
+        "https",
+        "www.youtube.com/watch?v=DxkftSH_gzM",
+        "https",
+        "www.youtube.com/watch?v=kGLOQd57AdQ",
+        "https",
+        "www.youtube.com/watch?v=mFaiXr8VQN4",
+        "www.ilovepdf.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1005",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "473",
+        "object_start": "473",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "25",
+        "stream_start": "25",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

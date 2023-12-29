@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 106563,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://eminemreactor.site/Spring-Data-Jpa-Group-By-Example/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Spring-Data-Jpa-Group-By-Example/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/states-with-the-guilty-but-mentally-ill-verdict-quizlet.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/contract-for-america-newt-gingrich.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/states-with-the-guilty-but-mentally-ill-verdict-quizlet.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/reported-speech-to-direct-speech-worksheet.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/best-places-to-get-a-mortgage-through.pdf"
+    ],
+    "regex_uris": [
+        "http://eminemreactor.site/Spring-Data-Jpa-Group-By-Example/pdf/dlinnovations.com)>>>><</Type /Annot /Subtype /Link /Rect [297.00 471.00 560.00 395.00] /Border [0 0 0] /A <</S /URI /URI (http://eminemreactor.site/Spring-Data-Jpa-Group-By-Example/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/states-with-the-guilty-but-mentally-ill-verdict-quizlet.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/contract-for-america-newt-gingrich.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/states-with-the-guilty-but-mentally-ill-verdict-quizlet.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/reported-speech-to-direct-speech-worksheet.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/best-places-to-get-a-mortgage-through.pdf"
+    ],
+    "regex_urls": [
+        "http://eminemreactor.site/Spring-Data-Jpa-Group-By-Example/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Spring-Data-Jpa-Group-By-Example/doc/dlinnovations.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "107",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "31",
+        "object_start": "31",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

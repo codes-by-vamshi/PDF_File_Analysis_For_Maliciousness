@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 107356,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781481169752&kwd=The%20Threat%20of%20Russian%20Organized%20Crime.%20:%20Includes%20over%2070%20new%20photographs.",
+        "http://getpdf.pw/book?res=123&isbn=9781481169752&kwd=The%20Threat%20of%20Russian%20Organized%20Crime.%20:%20Includes%20over%2070%20new%20photographs.",
+        "https://static.s123-cdn-static-d.com/uploads/4660128/normal_61afa746f0f8b.pdf",
+        "https://static.s123-cdn.com/uploads/4660422/normal_61af8e0bcc1ed.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661620/normal_61af823773108.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781481169752&kwd=The%20Threat%20of%20Russian%20Organized%20Crime.%20:%20Includes%20over%2070%20new%20photographs.",
+        "http://getpdf.pw/book?res=123&isbn=9781481169752&kwd=The%20Threat%20of%20Russian%20Organized%20Crime.%20:%20Includes%20over%2070%20new%20photographs.",
+        "https://static.s123-cdn-static-d.com/uploads/4660128/normal_61afa746f0f8b.pdf",
+        "https://static.s123-cdn.com/uploads/4660422/normal_61af8e0bcc1ed.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661620/normal_61af823773108.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "107",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

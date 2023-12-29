@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 371366,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://ydeepty.com/123n?utm_term=smoothies+for+weight+loss+pdf"
+    ],
+    "regex_uris": [
+        "https://ydeepty.com/123n?utm_term=smoothies+for+weight+loss+pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/xap/1.0/rights/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "371",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "50",
+        "object_start": "50",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "multiple_versions",
+        "contentis_base64"
+    ]
+}

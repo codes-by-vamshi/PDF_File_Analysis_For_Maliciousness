@@ -1,0 +1,52 @@
+{
+    "exif_signatures": {},
+    "file_size": 15506371,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://t.me/OgrencixEvi",
+        "https://t.me/DenemeOtag",
+        "https://t.me/OSYMSorular",
+        "https://t.me/BenimHocam2021"
+    ],
+    "regex_uris": [
+        "https\\072\\057\\057t\\056me\\057OgrencixEvi",
+        "https\\072\\057\\057t\\056me\\057DenemeOtag",
+        "https\\072\\057\\057t\\056me\\057OSYMSorular",
+        "https\\072\\057\\057t\\056me\\057BenimHocam2021"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "www."
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "909",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "16",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "32038",
+        "object_start": "32038",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "208",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "1833",
+        "stream_start": "1833",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

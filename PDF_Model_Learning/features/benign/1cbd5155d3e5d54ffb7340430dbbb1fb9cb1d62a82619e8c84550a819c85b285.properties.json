@@ -1,0 +1,39 @@
+{
+    "exif_signatures": {},
+    "file_size": 996621,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:icampos@mtech.edu?subject=",
+        "mailto:icampos@mtech.edu?subject="
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "997",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "173",
+        "object_start": "173",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "59",
+        "stream_start": "59",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,86 @@
+{
+    "exif_signatures": {},
+    "file_size": 462910,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://1.bp.blogspot.com/-uk-sCbleJHM/XZRrthQBjOI/AAAAAAAAVYQ/6UsfBgvQX3sVZNkMI60tU3DLPJmH49d1gCLcBGAsYHQ/s1600/JTAG-en-BST-01.jpg",
+        "https://1.bp.blogspot.com/-uk-sCbleJHM/XZRrthQBjOI/AAAAAAAAVYQ/6UsfBgvQX3sVZNkMI60tU3DLPJmH49d1gCLcBGAsYHQ/s1600/JTAG-en-BST-01.jpg",
+        "https://1.bp.blogspot.com/-x81qLCW_6zs/XZRrtsEWrNI/AAAAAAAAVYY/osv6r4ZEm-gl389LNJVMrdSJdHTFORHcACLcBGAsYHQ/s1600/JTAG-en-BST-02.jpg",
+        "https://1.bp.blogspot.com/-vVvF4soSPsY/XZRrudJc7hI/AAAAAAAAVYc/0S9_Wgz52RgWpBM8jBk_6Jzr4qM2WY_1QCLcBGAsYHQ/s1600/JTAG-en-BST-03.jpg",
+        "https://1.bp.blogspot.com/-hWNMNHjR5TA/XZRrur3apqI/AAAAAAAAVYg/f_ySacEER4IvSvO4XgINy99K25uUudzVwCLcBGAsYHQ/s1600/JTAG-en-BST-04.JPG",
+        "https://1.bp.blogspot.com/-6cDTrJspVeQ/XZRruyiKCLI/AAAAAAAAVYk/6jmWZCTTBbImRigtgOnWWGZRSXQfWxJJgCLcBGAsYHQ/s1600/JTAG-en-BST-05.jpg",
+        "https://1.bp.blogspot.com/-tUHi2ve9Law/XZRrvH3E4UI/AAAAAAAAVYo/J87uAQ1ERcAAyzFn6v4tQV2zBDle4gFsQCLcBGAsYHQ/s1600/JTAG-en-BST-06.JPG",
+        "https://1.bp.blogspot.com/-5-2cjrp9oiM/XZRrvbkSCoI/AAAAAAAAVYs/BpkNxIY14Pk3Pm5BdvI2LuDX4mvpOeJBwCLcBGAsYHQ/s1600/JTAG-en-BST-07.JPG"
+    ],
+    "regex_uris": [
+        "https://1.bp.blogspot.com/-uk-sCbleJHM/XZRrthQBjOI/AAAAAAAAVYQ/6UsfBgvQX3sVZNkMI60tU3DLPJmH49d1gCLcBGAsYHQ/s1600/JTAG-en-BST-01.jpg",
+        "https://1.bp.blogspot.com/-uk-sCbleJHM/XZRrthQBjOI/AAAAAAAAVYQ/6UsfBgvQX3sVZNkMI60tU3DLPJmH49d1gCLcBGAsYHQ/s1600/JTAG-en-BST-01.jpg",
+        "https://1.bp.blogspot.com/-x81qLCW_6zs/XZRrtsEWrNI/AAAAAAAAVYY/osv6r4ZEm-gl389LNJVMrdSJdHTFORHcACLcBGAsYHQ/s1600/JTAG-en-BST-02.jpg",
+        "https://1.bp.blogspot.com/-vVvF4soSPsY/XZRrudJc7hI/AAAAAAAAVYc/0S9_Wgz52RgWpBM8jBk_6Jzr4qM2WY_1QCLcBGAsYHQ/s1600/JTAG-en-BST-03.jpg",
+        "https://1.bp.blogspot.com/-hWNMNHjR5TA/XZRrur3apqI/AAAAAAAAVYg/f_ySacEER4IvSvO4XgINy99K25uUudzVwCLcBGAsYHQ/s1600/JTAG-en-BST-04.JPG",
+        "https://1.bp.blogspot.com/-6cDTrJspVeQ/XZRruyiKCLI/AAAAAAAAVYk/6jmWZCTTBbImRigtgOnWWGZRSXQfWxJJgCLcBGAsYHQ/s1600/JTAG-en-BST-05.jpg",
+        "https://1.bp.blogspot.com/-tUHi2ve9Law/XZRrvH3E4UI/AAAAAAAAVYo/J87uAQ1ERcAAyzFn6v4tQV2zBDle4gFsQCLcBGAsYHQ/s1600/JTAG-en-BST-06.JPG",
+        "https://1.bp.blogspot.com/-5-2cjrp9oiM/XZRrvbkSCoI/AAAAAAAAVYs/BpkNxIY14Pk3Pm5BdvI2LuDX4mvpOeJBwCLcBGAsYHQ/s1600/JTAG-en-BST-07.JPG"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "463",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "312",
+        "object_start": "313",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "21",
+        "stream_start": "21",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "with_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers4"
+    ]
+}

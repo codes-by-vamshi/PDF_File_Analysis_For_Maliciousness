@@ -1,0 +1,71 @@
+{
+    "exif_signatures": {},
+    "file_size": 524052,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.cnipt.fr",
+        "http://www.cnipt.fr/wp-content/uploads/2021/02/CNIPT_Fiche_RECO_PRIM_2021_WEB.pdf",
+        "https://www.ifema.es/en/fruit-attraction",
+        "http://www.interpom.be/fr",
+        "http://plantdepommedeterre.org",
+        "http://www.gipt.net",
+        "http://www.gipt.net",
+        "http://www.cnipt.fr",
+        "http://www.fruitlogistica.com",
+        "https://www.salon-agriculture.com"
+    ],
+    "regex_uris": [
+        "http://www.cnipt.fr",
+        "http://www.cnipt.fr/wp-content/uploads/2021/02/CNIPT_Fiche_RECO_PRIM_2021_WEB.pdf",
+        "https://www.ifema.es/en/fruit-attraction",
+        "http://www.interpom.be/fr",
+        "http://plantdepommedeterre.org",
+        "http://www.gipt.net",
+        "http://www.gipt.net",
+        "http://www.cnipt.fr",
+        "http://www.fruitlogistica.com",
+        "https://www.salon-agriculture.com"
+    ],
+    "regex_urls": [
+        "http://www.cnipt.fr",
+        "http://www.cnipt.fr/wp-content/uploads/2021/02/CNIPT_Fiche_RECO_PRIM_2021_WEB.pdf",
+        "https",
+        "www.ifema.es/en/fruit-attraction",
+        "http://www.interpom.be/fr",
+        "http://plantdepommedeterre.org",
+        "http://www.gipt.net",
+        "http://www.gipt.net",
+        "http://www.cnipt.fr",
+        "http://www.fruitlogistica.com",
+        "https",
+        "www.salon-agriculture.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "524",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "331",
+        "object_start": "331",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "135",
+        "stream_start": "135",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

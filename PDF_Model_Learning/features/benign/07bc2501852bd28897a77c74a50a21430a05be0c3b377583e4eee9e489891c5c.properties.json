@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {
+        "invalid_xref_table": {
+            "description": "This PDF file contains invalid cross reference table.",
+            "families": [],
+            "marks": [],
+            "name": "invalid_xref_table",
+            "references": [],
+            "severity": 5
+        }
+    },
+    "file_size": 15436769,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://vk.com/app5898182_-124303372#u=1334764&s=1321281&force=1"
+    ],
+    "regex_uris": [
+        "https\\072\\057\\057vk\\056com\\057app5898182\\137\\055124303372\\043u\\0751334764\\046s\\0751321281\\046force\\0751"
+    ],
+    "regex_urls": [
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "15",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "9244",
+        "object_start": "9244",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "4586",
+        "stream_start": "4586",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

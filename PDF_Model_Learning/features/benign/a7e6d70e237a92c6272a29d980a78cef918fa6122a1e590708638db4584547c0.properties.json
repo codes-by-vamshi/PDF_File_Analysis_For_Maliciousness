@@ -1,0 +1,42 @@
+{
+    "exif_signatures": {},
+    "file_size": 527403,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.ukrstat.gov.ua/klasf/nac_kls/dc_009.rar",
+        "http://www.dneprstat.gov.ua/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.ukrstat.gov.ua/klasf/nac_kls/dc_009.rar",
+        "http://www.dneprstat.gov.ua/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "527",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "93",
+        "object_start": "93",
+        "object_streams": "7",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "33",
+        "stream_start": "33",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

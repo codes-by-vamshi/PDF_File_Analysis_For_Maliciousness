@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 43613,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://fsvtbyw709.berilata.ru/dwnl3.php",
+        "http://fsvtbyw653.berilata.ru/dwnl3.php",
+        "http://fezahn.bltadwin.ru/diagnosis-new-york-magazine.pdf",
+        "http://vinris.bltadwin.ru/cleveland-today-news.pdf",
+        "http://zuzuru.bltadwin.ru/riot-washington.pdf",
+        "http://goltimuro.bltadwin.ru/wale-los-angeles-2017.pdf",
+        "http://jojor.bltadwin.ru/5202-avenue-g-austin.pdf",
+        "http://kekora.bltadwin.ru/cleveland-cleve-eaton.pdf",
+        "http://tashicage.bltadwin.ru/wellington-woods-orlando-fl.pdf"
+    ],
+    "regex_uris": [
+        "http://fsvtbyw709.berilata.ru/dwnl3.php",
+        "http://fsvtbyw653.berilata.ru/dwnl3.php",
+        "http://fezahn.bltadwin.ru/diagnosis-new-york-magazine.pdf",
+        "http://vinris.bltadwin.ru/cleveland-today-news.pdf",
+        "http://zuzuru.bltadwin.ru/riot-washington.pdf",
+        "http://goltimuro.bltadwin.ru/wale-los-angeles-2017.pdf",
+        "http://jojor.bltadwin.ru/5202-avenue-g-austin.pdf",
+        "http://kekora.bltadwin.ru/cleveland-cleve-eaton.pdf",
+        "http://tashicage.bltadwin.ru/wellington-woods-orlando-fl.pdf"
+    ],
+    "regex_urls": [
+        "http://fsvtbyw709.berilata.ru/dwnl3.php",
+        "http://fsvtbyw653.berilata.ru/dwnl3.php",
+        "http://fezahn.bltadwin.ru/diagnosis-new-york-magazine.pdf",
+        "http://vinris.bltadwin.ru/cleveland-today-news.pdf",
+        "http://zuzuru.bltadwin.ru/riot-washington.pdf",
+        "http://goltimuro.bltadwin.ru/wale-los-angeles-2017.pdf",
+        "http://jojor.bltadwin.ru/5202-avenue-g-austin.pdf",
+        "http://kekora.bltadwin.ru/cleveland-cleve-eaton.pdf",
+        "http://tashicage.bltadwin.ru/wellington-woods-orlando-fl.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "44",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

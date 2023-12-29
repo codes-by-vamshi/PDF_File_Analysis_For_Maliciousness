@@ -1,0 +1,71 @@
+{
+    "exif_signatures": {},
+    "file_size": 124244,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://completespcr.site/Essay-On-Constitutional-Obligation-Of-Judiciary/pdf/wrapexwestcoast.com",
+        "http://completespcr.site/Essay-On-Constitutional-Obligation-Of-Judiciary/doc/wrapexwestcoast.com",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/serum-creatinine-reference-range-mmol-l.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/nextera-dna-library-prep-protocol-guide.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/income-tax-treaty-usa-and-india.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/license-mobility-through-software-assurance-on-azure.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/the-book-of-intentions-guidance-media.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/schools-first-fcu-mortgage-rates.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/indiana-hand-therapy-protocol.pdf"
+    ],
+    "regex_uris": [
+        "http://completespcr.site/Essay-On-Constitutional-Obligation-Of-Judiciary/pdf/wrapexwestcoast.com)>>>><</Type /Annot /Subtype /Link /Rect [304.00 458.00 570.00 379.00] /Border [0 0 0] /A <</S /URI /URI (http://completespcr.site/Essay-On-Constitutional-Obligation-Of-Judiciary/doc/wrapexwestcoast.com",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/serum-creatinine-reference-range-mmol-l.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/nextera-dna-library-prep-protocol-guide.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/income-tax-treaty-usa-and-india.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/license-mobility-through-software-assurance-on-azure.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/the-book-of-intentions-guidance-media.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/schools-first-fcu-mortgage-rates.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/indiana-hand-therapy-protocol.pdf"
+    ],
+    "regex_urls": [
+        "http://completespcr.site/Essay-On-Constitutional-Obligation-Of-Judiciary/pdf/wrapexwestcoast.com",
+        "http://completespcr.site/Essay-On-Constitutional-Obligation-Of-Judiciary/doc/wrapexwestcoast.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "124",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "16",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

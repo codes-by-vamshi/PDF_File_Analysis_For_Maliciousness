@@ -1,0 +1,46 @@
+{
+    "exif_signatures": {},
+    "file_size": 743770,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://skipp.com.br/ita",
+        "http://youtu.be/m8rRzTtP7Tc",
+        "http://youtu.be/51e2NEmuI7I",
+        "http://skipp.com.br/ita"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://skipp.com.br/ita",
+        "http://skipp.com.br/ita",
+        "http://youtu.be/51e2NEmuI7I",
+        "http://youtu.be/m8rRzTtP7Tc"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "744",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "89",
+        "object_start": "89",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "19",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

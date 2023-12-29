@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 150652,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://megabiger.com/scarica_doc",
+        "https://megabiger.com/scarica_doc"
+    ],
+    "regex_uris": [
+        "https://megabiger.com/scarica_doc) >> /Border [ 0 0 0 ] /F 4 /M (D:20230315103845+02'00') /NM (557de6a2-1194-4142-b7e57c51f4957282",
+        "https://megabiger.com/scarica_doc) >> /Border [ 0 0 0 ] /F 4 /M (D:20230315103927+02'00') /NM (1c4ff327-1462-4455-a9bcf7b2e3e0125a"
+    ],
+    "regex_urls": [
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "151",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "30",
+        "object_start": "30",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 184284,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781700514776&kwd=I%20Have%20Cerebral%20Palsy%20So%20What%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "http://getpdf.pw/book?res=123&isbn=9781700514776&kwd=I%20Have%20Cerebral%20Palsy%20So%20What%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "https://static.s123-cdn-static-d.com/uploads/4660422/normal_61afaaae794c0.pdf",
+        "https://static.s123-cdn.com/uploads/4659983/normal_61afa2978391b.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781700514776&kwd=I%20Have%20Cerebral%20Palsy%20So%20What%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "http://getpdf.pw/book?res=123&isbn=9781700514776&kwd=I%20Have%20Cerebral%20Palsy%20So%20What%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "https://static.s123-cdn-static-d.com/uploads/4660422/normal_61afaaae794c0.pdf",
+        "https://static.s123-cdn.com/uploads/4659983/normal_61afa2978391b.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "184",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "129",
+        "object_start": "129",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "18",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "25",
+        "stream_start": "25",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

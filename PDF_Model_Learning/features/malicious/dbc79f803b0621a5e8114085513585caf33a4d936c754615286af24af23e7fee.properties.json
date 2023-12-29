@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 87601,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780714827919&kwd=Topics%20of%20our%20Time%20:%20Twentieth-century%20issues%20in%20learning%20and%20in%20art",
+        "http://getpdf.pw/book?res=123&isbn=9780714827919&kwd=Topics%20of%20our%20Time%20:%20Twentieth-century%20issues%20in%20learning%20and%20in%20art",
+        "https://cdn-cms.f-static.net/uploads/4659519/normal_61adfcafd5ab8.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659808/normal_61ad3edaf1f5e.pdf",
+        "https://uploads.strikinglycdn.com/files/c2bc69cf-9169-41ee-8e51-4eb194e2ae12/how-the-brain-learns-mathematics-193.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780714827919&kwd=Topics%20of%20our%20Time%20:%20Twentieth-century%20issues%20in%20learning%20and%20in%20art",
+        "http://getpdf.pw/book?res=123&isbn=9780714827919&kwd=Topics%20of%20our%20Time%20:%20Twentieth-century%20issues%20in%20learning%20and%20in%20art",
+        "https://cdn-cms.f-static.net/uploads/4659519/normal_61adfcafd5ab8.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659808/normal_61ad3edaf1f5e.pdf",
+        "https://uploads.strikinglycdn.com/files/c2bc69cf-9169-41ee-8e51-4eb194e2ae12/how-the-brain-learns-mathematics-193.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "88",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "60",
+        "object_start": "60",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

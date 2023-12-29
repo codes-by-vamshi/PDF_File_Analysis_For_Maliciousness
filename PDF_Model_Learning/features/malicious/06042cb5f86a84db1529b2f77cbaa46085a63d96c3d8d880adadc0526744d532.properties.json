@@ -1,0 +1,61 @@
+{
+    "exif_signatures": {},
+    "file_size": 78989,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781925640779&kwd=The%20Clever%20Guts%20Diet%20Recipe%20Book%20:%20150%20delicious%20recipes%20to%20mend%20your%20gut%20and%20boost%20your%20health%20and%20wellbeing",
+        "http://getpdf.pw/book?res=123&isbn=9781925640779&kwd=The%20Clever%20Guts%20Diet%20Recipe%20Book%20:%20150%20delicious%20recipes%20to%20mend%20your%20gut%20and%20boost%20your%20health%20and%20wellbeing",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/b5c8f788-8d6f-464c-b53a-89d2b540249c/the-joy-of-life-781.pdf",
+        "https://img1.wsimg.com/blobby/go/be0475cf-df25-4fce-b39b-0021fc6f61a5/anatomy-companion-to-you-are-your-own-gym-an-i.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648548/normal_61a6551b6ecdd.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781925640779&kwd=The%20Clever%20Guts%20Diet%20Recipe%20Book%20:%20150%20delicious%20recipes%20to%20mend%20your%20gut%20and%20boost%20your%20health%20and%20wellbeing",
+        "http://getpdf.pw/book?res=123&isbn=9781925640779&kwd=The%20Clever%20Guts%20Diet%20Recipe%20Book%20:%20150%20delicious%20recipes%20to%20mend%20your%20gut%20and%20boost%20your%20health%20and%20wellbeing",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/b5c8f788-8d6f-464c-b53a-89d2b540249c/the-joy-of-life-781.pdf",
+        "https://img1.wsimg.com/blobby/go/be0475cf-df25-4fce-b39b-0021fc6f61a5/anatomy-companion-to-you-are-your-own-gym-an-i.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648548/normal_61a6551b6ecdd.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

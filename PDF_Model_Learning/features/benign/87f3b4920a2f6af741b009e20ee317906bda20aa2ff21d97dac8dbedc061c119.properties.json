@@ -1,0 +1,59 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 674313,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.hr.uct.ac.za/learning/funding/overview/",
+        "http://www.uct.ac.za/downloads/uct.ac.za/about/policies/UCT_Statement_of_Values.pdf",
+        "https://forms.uct.ac.za/hr210.doc",
+        "https://forms.uct.ac.za/hr210a.doc",
+        "https://forms.uct.ac.za/hr210b.doc",
+        "https://forms.uct.ac.za/hr211.doc",
+        "http://www.hr.uct.ac.za/hr/performance/management/pass/competency_framework"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "674",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "140",
+        "object_start": "140",
+        "object_streams": "30",
+        "open_action": "0",
+        "page_count": "40",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "98",
+        "stream_start": "98",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

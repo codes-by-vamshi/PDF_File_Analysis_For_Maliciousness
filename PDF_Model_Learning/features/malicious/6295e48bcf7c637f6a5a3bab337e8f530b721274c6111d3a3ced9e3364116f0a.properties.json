@@ -1,0 +1,68 @@
+{
+    "exif_signatures": {},
+    "file_size": 115344,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://eminemreactor.site/Dui-Death-Penalty-Usa/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Dui-Death-Penalty-Usa/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/month-to-month-employment-contract.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/iso-certification-standards-list.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/read-receipt-on-text-message-cancel.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/offer-in-compromise-california.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/filing-complaint-against-reckless-bus-driver.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/receipt-hog-com-browserbonus.pdf"
+    ],
+    "regex_uris": [
+        "http://eminemreactor.site/Dui-Death-Penalty-Usa/pdf/dlinnovations.com)>>>><</Type /Annot /Subtype /Link /Rect [301.00 456.00 555.00 383.00] /Border [0 0 0] /A <</S /URI /URI (http://eminemreactor.site/Dui-Death-Penalty-Usa/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/month-to-month-employment-contract.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/iso-certification-standards-list.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/read-receipt-on-text-message-cancel.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/offer-in-compromise-california.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/filing-complaint-against-reckless-bus-driver.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/receipt-hog-com-browserbonus.pdf"
+    ],
+    "regex_urls": [
+        "http://eminemreactor.site/Dui-Death-Penalty-Usa/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Dui-Death-Penalty-Usa/doc/dlinnovations.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "115",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "41",
+        "object_start": "41",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "14",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "22",
+        "stream_start": "22",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

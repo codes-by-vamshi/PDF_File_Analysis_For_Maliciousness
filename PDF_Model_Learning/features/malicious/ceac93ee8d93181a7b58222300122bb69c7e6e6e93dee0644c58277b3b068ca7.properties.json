@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 122085,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781441938695&kwd=Optical%20Switching",
+        "http://getpdf.pw/book?res=weby&isbn=9781441938695&kwd=Optical%20Switching",
+        "https://static.s123-cdn.com/uploads/4661384/normal_61af7e2248157.pdf",
+        "https://img1.wsimg.com/blobby/go/3e7ca7ae-dada-45a0-844d-6462e318156e/equine-herbs-healing-an-earth-lodge-guide-to-h.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660519/normal_61af8f4c9185a.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660521/normal_61af8f52bec41.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660175/normal_61afc8ed9b768.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781441938695&kwd=Optical%20Switching",
+        "http://getpdf.pw/book?res=weby&isbn=9781441938695&kwd=Optical%20Switching",
+        "https://static.s123-cdn.com/uploads/4661384/normal_61af7e2248157.pdf",
+        "https://img1.wsimg.com/blobby/go/3e7ca7ae-dada-45a0-844d-6462e318156e/equine-herbs-healing-an-earth-lodge-guide-to-h.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660519/normal_61af8f4c9185a.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660521/normal_61af8f52bec41.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660175/normal_61afc8ed9b768.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "122",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "82",
+        "object_start": "82",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

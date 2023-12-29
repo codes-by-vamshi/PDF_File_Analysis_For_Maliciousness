@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 49586,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://whulfvc834.berilata.ru/dwnl3.php",
+        "http://whulfvc522.berilata.ru/dwnl3.php",
+        "http://jojor.bltadwin.ru/democratic-committee-columbus-ohio.pdf",
+        "http://kazishura.bltadwin.ru/juegos-extremos-de-las-vegas.pdf",
+        "http://fem.bltadwin.ru/cafe-bleu-austin.pdf",
+        "http://fezuru.bltadwin.ru/baltimore-martial-arts-catonsville-md.pdf",
+        "http://fem.bltadwin.ru/lap-swimming-memphis.pdf",
+        "http://milar.bltadwin.ru/raleigh-555t.pdf",
+        "http://tebei.bltadwin.ru/prospects-academy-jacksonville-fl.pdf"
+    ],
+    "regex_uris": [
+        "http://whulfvc834.berilata.ru/dwnl3.php",
+        "http://whulfvc522.berilata.ru/dwnl3.php",
+        "http://jojor.bltadwin.ru/democratic-committee-columbus-ohio.pdf",
+        "http://kazishura.bltadwin.ru/juegos-extremos-de-las-vegas.pdf",
+        "http://fem.bltadwin.ru/cafe-bleu-austin.pdf",
+        "http://fezuru.bltadwin.ru/baltimore-martial-arts-catonsville-md.pdf",
+        "http://fem.bltadwin.ru/lap-swimming-memphis.pdf",
+        "http://milar.bltadwin.ru/raleigh-555t.pdf",
+        "http://tebei.bltadwin.ru/prospects-academy-jacksonville-fl.pdf"
+    ],
+    "regex_urls": [
+        "http://whulfvc834.berilata.ru/dwnl3.php",
+        "http://whulfvc522.berilata.ru/dwnl3.php",
+        "http://jojor.bltadwin.ru/democratic-committee-columbus-ohio.pdf",
+        "http://kazishura.bltadwin.ru/juegos-extremos-de-las-vegas.pdf",
+        "http://fem.bltadwin.ru/cafe-bleu-austin.pdf",
+        "http://fezuru.bltadwin.ru/baltimore-martial-arts-catonsville-md.pdf",
+        "http://fem.bltadwin.ru/lap-swimming-memphis.pdf",
+        "http://milar.bltadwin.ru/raleigh-555t.pdf",
+        "http://tebei.bltadwin.ru/prospects-academy-jacksonville-fl.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "50",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "52",
+        "object_start": "52",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "9",
+        "stream_start": "9",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

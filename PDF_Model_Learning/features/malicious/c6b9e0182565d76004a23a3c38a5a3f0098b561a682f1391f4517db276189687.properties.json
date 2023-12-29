@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 169190,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780071713368&kwd=Practical%20MDX%20Queries:%20For%20Microsoft%20SQL%20Server%20Analysis%20Services%202008",
+        "http://getpdf.pw/book?res=123&isbn=9780071713368&kwd=Practical%20MDX%20Queries:%20For%20Microsoft%20SQL%20Server%20Analysis%20Services%202008",
+        "https://static.s123-cdn.com/uploads/4660132/normal_61b0d50b46bb9.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660172/normal_61b03d7242c85.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660484/normal_61b08f2b76fcb.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780071713368&kwd=Practical%20MDX%20Queries:%20For%20Microsoft%20SQL%20Server%20Analysis%20Services%202008",
+        "http://getpdf.pw/book?res=123&isbn=9780071713368&kwd=Practical%20MDX%20Queries:%20For%20Microsoft%20SQL%20Server%20Analysis%20Services%202008",
+        "https://static.s123-cdn.com/uploads/4660132/normal_61b0d50b46bb9.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660172/normal_61b03d7242c85.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660484/normal_61b08f2b76fcb.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "169",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "115",
+        "object_start": "115",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "15",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "22",
+        "stream_start": "22",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

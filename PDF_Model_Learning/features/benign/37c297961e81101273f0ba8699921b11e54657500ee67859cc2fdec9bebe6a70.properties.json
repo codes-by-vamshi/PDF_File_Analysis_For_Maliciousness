@@ -1,0 +1,39 @@
+{
+    "exif_signatures": {},
+    "file_size": 2260955,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.youtube.com/watch?v=zYxJTeaE9BE",
+        "https://david-campos.com/cks/class_list.htm"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "2.3",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "389",
+        "object_start": "389",
+        "object_streams": "18",
+        "open_action": "0",
+        "page_count": "29",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "354",
+        "stream_start": "354",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

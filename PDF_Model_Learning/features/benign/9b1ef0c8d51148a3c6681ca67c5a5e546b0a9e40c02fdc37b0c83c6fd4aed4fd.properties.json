@@ -1,0 +1,48 @@
+{
+    "exif_signatures": {},
+    "file_size": 1367878,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://zakon.rada.gov.ua/laws/show/114-20",
+        "https://zakon.rada.gov.ua/laws/show/114-20",
+        "https://dpvs.hsc.gov.ua/"
+    ],
+    "regex_uris": [
+        "https://zakon.rada.gov.ua/laws/show/114-20",
+        "https://zakon.rada.gov.ua/laws/show/114-20",
+        "https://dpvs.hsc.gov.ua/"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1368",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "2262",
+        "object_start": "2262",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "40",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "60",
+        "stream_start": "60",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

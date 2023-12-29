@@ -1,0 +1,64 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 15930722,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "mailto:kitabosunnat@gmail.com"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "360",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "16",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "4365",
+        "object_start": "4368",
+        "object_streams": "383",
+        "open_action": "0",
+        "page_count": "363",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "3999",
+        "stream_start": "3999",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 160382,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781934978658&kwd=The%20Museum%20and%20Its%20Social%20Significance%20:%20Aspects%20of%20Museums%20in%20Taiwan",
+        "http://getpdf.pw/book?res=123&isbn=9781934978658&kwd=The%20Museum%20and%20Its%20Social%20Significance%20:%20Aspects%20of%20Museums%20in%20Taiwan",
+        "https://files8.webydo.com/9588982/UploadedFiles/5C9A4A16-3011-BD71-EDB4-E55078D6E432.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659552/normal_61ad858ea1c4f.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781934978658&kwd=The%20Museum%20and%20Its%20Social%20Significance%20:%20Aspects%20of%20Museums%20in%20Taiwan",
+        "http://getpdf.pw/book?res=123&isbn=9781934978658&kwd=The%20Museum%20and%20Its%20Social%20Significance%20:%20Aspects%20of%20Museums%20in%20Taiwan",
+        "https://files8.webydo.com/9588982/UploadedFiles/5C9A4A16-3011-BD71-EDB4-E55078D6E432.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659552/normal_61ad858ea1c4f.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "160",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "109",
+        "object_start": "109",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "14",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "21",
+        "stream_start": "21",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

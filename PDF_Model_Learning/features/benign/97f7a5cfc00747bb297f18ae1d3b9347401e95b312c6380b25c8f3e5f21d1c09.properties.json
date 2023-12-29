@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 1109868,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.mundobochas.com.ar/reglamentosud.htm"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.mundobochas.com.ar/reglamentosud.htm"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "114",
+        "object_start": "114",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "29",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "43",
+        "stream_start": "43",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 988348,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://youtu.be/fJfAWiylpxw",
+        "https://www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue",
+        "https://www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue",
+        "https://www.youtube.com/watch?v=-7xvqQeoA8c"
+    ],
+    "regex_uris": [
+        "https://youtu.be/fJfAWiylpxw"
+    ],
+    "regex_urls": [
+        "http://cairographics.org",
+        "https",
+        "https",
+        "www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue",
+        "https",
+        "www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue",
+        "www.pdf-tools.com",
+        "http://www.pdf-tools.com",
+        "https",
+        "www.youtube.com/watch?v=-7xvqQeoA8c",
+        "http://cairographics.org",
+        "http://cairographics.org"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "988",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "604",
+        "object_start": "604",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "202",
+        "stream_start": "202",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

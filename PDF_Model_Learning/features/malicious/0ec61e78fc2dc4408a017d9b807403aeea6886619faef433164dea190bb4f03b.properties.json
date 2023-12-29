@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 117486,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://resumeskayako.site/File-Complaint-Against-Doctor-Illinois/pdf/rcdhotels.com",
+        "http://resumeskayako.site/File-Complaint-Against-Doctor-Illinois/doc/rcdhotels.com",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/contractors-state-licence-schools-van-nuys.pdf",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/asbestos-short-term-exposure-limit.pdf",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/value-of-old-testament-silver-shekel.pdf",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/can-staples-look-up-my-receipt.pdf"
+    ],
+    "regex_uris": [
+        "http://resumeskayako.site/File-Complaint-Against-Doctor-Illinois/pdf/rcdhotels.com)>>>><</Type /Annot /Subtype /Link /Rect [292.00 455.00 552.00 385.00] /Border [0 0 0] /A <</S /URI /URI (http://resumeskayako.site/File-Complaint-Against-Doctor-Illinois/doc/rcdhotels.com",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/contractors-state-licence-schools-van-nuys.pdf",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/asbestos-short-term-exposure-limit.pdf",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/value-of-old-testament-silver-shekel.pdf",
+        "https://rcdhotels.com/wp-content/uploads/formidable/8/can-staples-look-up-my-receipt.pdf"
+    ],
+    "regex_urls": [
+        "http://resumeskayako.site/File-Complaint-Against-Doctor-Illinois/pdf/rcdhotels.com",
+        "http://resumeskayako.site/File-Complaint-Against-Doctor-Illinois/doc/rcdhotels.com",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "117",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "41",
+        "object_start": "41",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "14",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "22",
+        "stream_start": "22",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

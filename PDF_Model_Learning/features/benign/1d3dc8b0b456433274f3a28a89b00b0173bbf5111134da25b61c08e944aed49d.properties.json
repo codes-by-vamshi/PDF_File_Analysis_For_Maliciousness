@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 330860,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://conventions.coe.int/Treaty/EN/Treaties/HTML/108.htm",
+        "http://conventions.coe.int/Treaty/EN/Treaties/HTML/108.htm",
+        "http://conventions.coe.int/Treaty/en/Treaties/Html/181.htm"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://conventions.coe.int/Treaty/EN/Treaties/HTML/108.htm",
+        "http://conventions.coe.int/Treaty/EN/Treaties/HTML/108.htm",
+        "http://conventions.coe.int/Treaty/en/Treaties/Html/181.htm"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "331",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "99",
+        "object_start": "99",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "24",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "31",
+        "stream_start": "31",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

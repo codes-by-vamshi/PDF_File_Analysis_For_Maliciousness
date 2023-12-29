@@ -1,0 +1,79 @@
+{
+    "exif_signatures": {},
+    "file_size": 326727,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://furuta.lovig.co.za/gdy?utm_term=plan+technique+piscine+a+debordement+pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/96163303015.pdf",
+        "https://img1.wsimg.com/blobby/go/3ccd9234-721c-480b-91a1-84bae34c2069/downloads/ponabupagebolo.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/5250669882.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/9334268304.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/68753762497.pdf",
+        "https://img1.wsimg.com/blobby/go/3ccd9234-721c-480b-91a1-84bae34c2069/downloads/jokigajetefosefipara.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/faceing_math_lesson_19_square_roots_answer_key.pdf",
+        "https://img1.wsimg.com/blobby/go/3ccd9234-721c-480b-91a1-84bae34c2069/downloads/96991730265.pdf"
+    ],
+    "regex_uris": [
+        "https://furuta.lovig.co.za/gdy?utm_term=plan+technique+piscine+a+debordement+pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/96163303015.pdf",
+        "https://img1.wsimg.com/blobby/go/3ccd9234-721c-480b-91a1-84bae34c2069/downloads/ponabupagebolo.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/5250669882.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/9334268304.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/68753762497.pdf",
+        "https://img1.wsimg.com/blobby/go/3ccd9234-721c-480b-91a1-84bae34c2069/downloads/jokigajetefosefipara.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/faceing_math_lesson_19_square_roots_answer_key.pdf",
+        "https://img1.wsimg.com/blobby/go/3ccd9234-721c-480b-91a1-84bae34c2069/downloads/96991730265.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/xap/1.0/rights/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "327",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "60",
+        "object_start": "60",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "multiple_versions",
+        "contentis_base64"
+    ]
+}

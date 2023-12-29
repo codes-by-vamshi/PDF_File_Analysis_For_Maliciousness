@@ -1,0 +1,61 @@
+{
+    "exif_signatures": {},
+    "file_size": 4398894,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://drive.google.com/drive/folders/1iPpaO4hx-eE-ey_brOOTCtbASM2LDlLo?hl&fbclid=IwAR2DYDPniA5wjW-d8L48sve2sUvaJanhxu3NyFOXU3vuWkcYaOFbqOjdWpM",
+        "http://www.safecreative.org/",
+        "https://youtu.be/XiFHXg9o2wo",
+        "https://youtu.be/tyJO8mKvKsM",
+        "https://youtu.be/OHlCEyWMEkY",
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Faliciaceballosblog.wordpress.com%2F2016%2F11%2F09%2Fpino-pinus-sylvestris%2F&psig=AOvVaw0-3ZLDfbDZ8M5OCEWhSkUN&ust=1609209693891000&source=images&cd=vfe&ved=0CBAQtaYDahcKEwiY5fXS0-_tAhUAAAAAHQAAAAAQCA"
+    ],
+    "regex_uris": [
+        "https://drive.google.com/drive/folders/1iPpaO4hx-eE-ey_brOOTCtbASM2LDlLo?hl&fbclid=IwAR2DYDPniA5wjW-d8L48sve2sUvaJanhxu3NyFOXU3vuWkcYaOFbqOjdWpM",
+        "http://www.safecreative.org/",
+        "https://youtu.be/XiFHXg9o2wo",
+        "https://youtu.be/tyJO8mKvKsM",
+        "https://youtu.be/OHlCEyWMEkY",
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Faliciaceballosblog.wordpress.com%2F2016%2F11%2F09%2Fpino-pinus-sylvestris%2F&psig=AOvVaw0-3ZLDfbDZ8M5OCEWhSkUN&ust=1609209693891000&source=images&cd=vfe&ved=0CBAQtaYDahcKEwiY5fXS0-_tAhUAAAAAHQAAAAAQCA"
+    ],
+    "regex_urls": [
+        "https",
+        "http://www.safecreative.org/",
+        "https",
+        "https",
+        "https",
+        "https",
+        "www.google.com/url?sa=i",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "4.4",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "575",
+        "object_start": "575",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "39",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "321",
+        "stream_start": "321",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

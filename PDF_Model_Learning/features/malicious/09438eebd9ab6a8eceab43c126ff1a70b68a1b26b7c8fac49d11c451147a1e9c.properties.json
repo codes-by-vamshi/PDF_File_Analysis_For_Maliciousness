@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 94218,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9789351950806&kwd=Boom%20Country?%20:%20The%20New%20Wave%20of%20Indian%20Enterprise",
+        "http://getpdf.pw/book?res=123&isbn=9789351950806&kwd=Boom%20Country?%20:%20The%20New%20Wave%20of%20Indian%20Enterprise",
+        "https://static.s123-cdn-static-a.com/uploads/4661207/normal_61afb65d5d9e6.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/59f2f6c6-2b6d-4c9b-818a-0beaa11bb2c5/gruffalo-squirrel-7-inch-soft-toy-218.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660535/normal_61afae54e8ab8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9789351950806&kwd=Boom%20Country?%20:%20The%20New%20Wave%20of%20Indian%20Enterprise",
+        "http://getpdf.pw/book?res=123&isbn=9789351950806&kwd=Boom%20Country?%20:%20The%20New%20Wave%20of%20Indian%20Enterprise",
+        "https://static.s123-cdn-static-a.com/uploads/4661207/normal_61afb65d5d9e6.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/59f2f6c6-2b6d-4c9b-818a-0beaa11bb2c5/gruffalo-squirrel-7-inch-soft-toy-218.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660535/normal_61afae54e8ab8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "65",
+        "object_start": "65",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

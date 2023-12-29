@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 106736,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781903854402&kwd=Gun%20Law%20:%20Fighting%20Britains%20Deadliest%20Gangs",
+        "http://getpdf.pw/book?res=123&isbn=9781903854402&kwd=Gun%20Law%20:%20Fighting%20Britains%20Deadliest%20Gangs",
+        "https://files8.webydo.com/9589217/UploadedFiles/30573876-E251-388A-BAC0-D98D0B6B66F9.pdf",
+        "https://static.s123-cdn-static.com/uploads/4662264/normal_61b1ec733d935.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/99b692ce-8c4e-4d11-abe0-29395d1c8816/the-roman-market-economy-475.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781903854402&kwd=Gun%20Law%20:%20Fighting%20Britains%20Deadliest%20Gangs",
+        "http://getpdf.pw/book?res=123&isbn=9781903854402&kwd=Gun%20Law%20:%20Fighting%20Britains%20Deadliest%20Gangs",
+        "https://files8.webydo.com/9589217/UploadedFiles/30573876-E251-388A-BAC0-D98D0B6B66F9.pdf",
+        "https://static.s123-cdn-static.com/uploads/4662264/normal_61b1ec733d935.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/99b692ce-8c4e-4d11-abe0-29395d1c8816/the-roman-market-economy-475.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "107",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

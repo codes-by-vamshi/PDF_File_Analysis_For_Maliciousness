@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 79035,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781536928273&kwd=Lacy%20Sunshines%20Gnomes%20Coloring%20Book%20Volume%2023%20:%20Heather%20Valentins%20Pocket%20Edition%20Whimsical%20Garden%20Gnomes%20Coloring%20for%20Adults%20and%20Children%20of%20All%20Ages",
+        "http://getpdf.pw/book?res=123&isbn=9781536928273&kwd=Lacy%20Sunshines%20Gnomes%20Coloring%20Book%20Volume%2023%20:%20Heather%20Valentins%20Pocket%20Edition%20Whimsical%20Garden%20Gnomes%20Coloring%20for%20Adults%20and%20Children%20of%20All%20Ages",
+        "https://static.s123-cdn-static-c.com/uploads/4659492/normal_61adad05c52ca.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659215/normal_61ad6f051e01f.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781536928273&kwd=Lacy%20Sunshines%20Gnomes%20Coloring%20Book%20Volume%2023%20:%20Heather%20Valentins%20Pocket%20Edition%20Whimsical%20Garden%20Gnomes%20Coloring%20for%20Adults%20and%20Children%20of%20All%20Ages",
+        "http://getpdf.pw/book?res=123&isbn=9781536928273&kwd=Lacy%20Sunshines%20Gnomes%20Coloring%20Book%20Volume%2023%20:%20Heather%20Valentins%20Pocket%20Edition%20Whimsical%20Garden%20Gnomes%20Coloring%20for%20Adults%20and%20Children%20of%20All%20Ages",
+        "https://static.s123-cdn-static-c.com/uploads/4659492/normal_61adad05c52ca.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659215/normal_61ad6f051e01f.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "46",
+        "object_start": "46",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

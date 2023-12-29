@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 182557,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781542793230&kwd=Dissect%20and%20Learn%20Excel(r)%20VBA%20in%2024%20Hours%20:%20Changing%20Workbook%20Appearance",
+        "http://getpdf.pw/book?res=123&isbn=9781542793230&kwd=Dissect%20and%20Learn%20Excel(r)%20VBA%20in%2024%20Hours%20:%20Changing%20Workbook%20Appearance",
+        "https://img1.wsimg.com/blobby/go/3e525b56-2dea-4a33-9ffa-c8d2d202cc04/education-and-technology-key-issues-and-debate.pdf",
+        "https://files8.webydo.com/9589118/UploadedFiles/279E79EB-529C-6F85-8D28-F1974D01BA06.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781542793230&kwd=Dissect%20and%20Learn%20Excel\\(r\\)%20VBA%20in%2024%20Hours%20:%20Changing%20Workbook%20Appearance",
+        "http://getpdf.pw/book?res=123&isbn=9781542793230&kwd=Dissect%20and%20Learn%20Excel\\(r\\)%20VBA%20in%2024%20Hours%20:%20Changing%20Workbook%20Appearance",
+        "https://img1.wsimg.com/blobby/go/3e525b56-2dea-4a33-9ffa-c8d2d202cc04/education-and-technology-key-issues-and-debate.pdf",
+        "https://files8.webydo.com/9589118/UploadedFiles/279E79EB-529C-6F85-8D28-F1974D01BA06.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "183",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "124",
+        "object_start": "124",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "17",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

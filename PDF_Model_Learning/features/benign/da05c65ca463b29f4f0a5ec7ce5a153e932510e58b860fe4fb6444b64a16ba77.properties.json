@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 1582208,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.saraespejo.com",
+        "https://perlasparaelalma.com/",
+        "https://saraespejo.com/",
+        "https://www.instagram.com/perlasparaelalma/?hl=es",
+        "https://www.instagram.com/sara_espejo_/",
+        "https://es-la.facebook.com/perlaparaelalma/",
+        "https://es-la.facebook.com/sarespca",
+        "https://saraespejo.com/dejanos-tu-opinion-sobre-50-capsulas-de-amor-propio",
+        "https://saraespejo.com/dejanos-tu-opinion-sobre-50-capsulas-de-amor-propio"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1582",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "355",
+        "object_start": "355",
+        "object_streams": "64",
+        "open_action": "1",
+        "page_count": "57",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "294",
+        "stream_start": "294",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

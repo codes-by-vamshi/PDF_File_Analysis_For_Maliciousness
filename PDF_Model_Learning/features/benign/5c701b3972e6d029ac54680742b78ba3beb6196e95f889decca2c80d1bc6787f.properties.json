@@ -1,0 +1,48 @@
+{
+    "exif_signatures": {},
+    "file_size": 1084670,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://en.wikipedia.org/wiki/Hypocenter",
+        "https://en.wikipedia.org/wiki/Awaji_Island",
+        "https://en.wikipedia.org/wiki/Kobe"
+    ],
+    "regex_uris": [
+        "https://en.wikipedia.org/wiki/Hypocenter",
+        "https://en.wikipedia.org/wiki/Awaji_Island",
+        "https://en.wikipedia.org/wiki/Kobe"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1085",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "2221",
+        "object_start": "2221",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "28",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "67",
+        "stream_start": "67",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

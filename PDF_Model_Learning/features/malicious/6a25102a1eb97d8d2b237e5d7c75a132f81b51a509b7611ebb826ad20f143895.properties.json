@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 107112,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781492756361&kwd=Killing%20the%20Market%20:%20Legendary%20Investor%20Robert%20W.%20Wilson",
+        "http://getpdf.pw/book?res=123&isbn=9781492756361&kwd=Killing%20the%20Market%20:%20Legendary%20Investor%20Robert%20W.%20Wilson",
+        "https://static.s123-cdn-static-d.com/uploads/4661207/normal_61af97d5d1783.pdf",
+        "https://files8.webydo.com/9589053/UploadedFiles/CC8B35DE-CDCF-956C-6C4E-E0EFB01643B8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781492756361&kwd=Killing%20the%20Market%20:%20Legendary%20Investor%20Robert%20W.%20Wilson",
+        "http://getpdf.pw/book?res=123&isbn=9781492756361&kwd=Killing%20the%20Market%20:%20Legendary%20Investor%20Robert%20W.%20Wilson",
+        "https://static.s123-cdn-static-d.com/uploads/4661207/normal_61af97d5d1783.pdf",
+        "https://files8.webydo.com/9589053/UploadedFiles/CC8B35DE-CDCF-956C-6C4E-E0EFB01643B8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "107",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "75",
+        "object_start": "75",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

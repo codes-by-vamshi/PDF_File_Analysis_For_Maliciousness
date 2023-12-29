@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 78313,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781546480082&kwd=Just%20Cocks%20Coloring%20Book%20For%20Adults%20:%20Funny%20and%20Naughty%20Penis%20Coloring%20Book%20containing%2025%20Cock%20Coloring%20Pages%20filled%20with%20Paisley,%20Henna%20and%20Mandala%20Patterns.",
+        "http://getpdf.pw/book?res=123&isbn=9781546480082&kwd=Just%20Cocks%20Coloring%20Book%20For%20Adults%20:%20Funny%20and%20Naughty%20Penis%20Coloring%20Book%20containing%2025%20Cock%20Coloring%20Pages%20filled%20with%20Paisley,%20Henna%20and%20Mandala%20Patterns.",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fb13fab3c-b41c-4954-9864-65d6b4d47730%252Fresource-management-for-individuals-and-families-5th-edition-223.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781546480082&kwd=Just%20Cocks%20Coloring%20Book%20For%20Adults%20:%20Funny%20and%20Naughty%20Penis%20Coloring%20Book%20containing%2025%20Cock%20Coloring%20Pages%20filled%20with%20Paisley,%20Henna%20and%20Mandala%20Patterns.",
+        "http://getpdf.pw/book?res=123&isbn=9781546480082&kwd=Just%20Cocks%20Coloring%20Book%20For%20Adults%20:%20Funny%20and%20Naughty%20Penis%20Coloring%20Book%20containing%2025%20Cock%20Coloring%20Pages%20filled%20with%20Paisley,%20Henna%20and%20Mandala%20Patterns.",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fb13fab3c-b41c-4954-9864-65d6b4d47730%252Fresource-management-for-individuals-and-families-5th-edition-223.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "78",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

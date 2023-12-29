@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 121825,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781934941355&kwd=Chicago%20Seven%20:%20Testimony%20from%20the%201968%20Conspiracy%20Trial",
+        "http://getpdf.pw/book?res=123&isbn=9781934941355&kwd=Chicago%20Seven%20:%20Testimony%20from%20the%201968%20Conspiracy%20Trial",
+        "https://static.s123-cdn.com/uploads/4660715/normal_61af942cbc484.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659950/normal_61af68a758434.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660079/normal_61afa5cf7bc2e.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781934941355&kwd=Chicago%20Seven%20:%20Testimony%20from%20the%201968%20Conspiracy%20Trial",
+        "http://getpdf.pw/book?res=123&isbn=9781934941355&kwd=Chicago%20Seven%20:%20Testimony%20from%20the%201968%20Conspiracy%20Trial",
+        "https://static.s123-cdn.com/uploads/4660715/normal_61af942cbc484.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659950/normal_61af68a758434.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660079/normal_61afa5cf7bc2e.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "122",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 101085,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781448212620&kwd=To%20the%20Devil,%20a%20Daughter",
+        "http://getpdf.pw/book?res=123&isbn=9781448212620&kwd=To%20the%20Devil,%20a%20Daughter",
+        "https://static.s123-cdn.com/uploads/4666192/normal_61b3a6b587ea1.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781448212620&kwd=To%20the%20Devil,%20a%20Daughter",
+        "http://getpdf.pw/book?res=123&isbn=9781448212620&kwd=To%20the%20Devil,%20a%20Daughter",
+        "https://static.s123-cdn.com/uploads/4666192/normal_61b3a6b587ea1.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "101",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "68",
+        "object_start": "68",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 4569985,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [],
+    "regex_uris": [
+        "chrome-extension://gjjpophepkbhejnglcmkdnncmaanojkf/report.html?chartView=s&idCard=aYsvqEvz&user=lukassmola3",
+        "https://trello.com/c/aYsvqEvz/766-gear-up-03-23-seo",
+        "https://trello.com/1/cards/63ff65fc99ae703305aadde7/attachments/6425693af7cf7dba2a3e0bfc/download/Gear-up_-_odkazy_k_p%C5%99esm%C4%9Brov%C3%A1n%C3%AD.xlsx"
+    ],
+    "regex_urls": [
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "4.6",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "675",
+        "object_start": "676",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "26",
+        "stream_start": "26",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

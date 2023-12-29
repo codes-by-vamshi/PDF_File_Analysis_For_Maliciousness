@@ -1,0 +1,81 @@
+{
+    "exif_signatures": {},
+    "file_size": 34297,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://netcdn.tw/app/479516143/how-to-get-minecraft-for-free-on-mobile-game-hack",
+        "http://netcdn.tw/app/479516143/how-to-get-minecraft-for-free-on-mobile-game-hack",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/how-to-get-robux-for-free-2021_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/free-minecraft-skin-packs_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/rblx-gg-free-robux_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/coin-master-daily-free-spins-link-app_GM406889139.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/minecraft-free-download-windows_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/robux-com-free-robux_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/free-24-7-minecraft-server_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/minecraft-free-download-mac_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/how-to-get-free-robux-easy_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/free-tiktok-likes_GM835599320.pdf"
+    ],
+    "regex_uris": [
+        "http://netcdn.tw/app/479516143/how-to-get-minecraft-for-free-on-mobile-game-hack",
+        "http://netcdn.tw/app/479516143/how-to-get-minecraft-for-free-on-mobile-game-hack",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/how-to-get-robux-for-free-2021_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/free-minecraft-skin-packs_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/rblx-gg-free-robux_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/coin-master-daily-free-spins-link-app_GM406889139.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/minecraft-free-download-windows_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/robux-com-free-robux_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/free-24-7-minecraft-server_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/minecraft-free-download-mac_GM479516143.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/how-to-get-free-robux-easy_GM431946152.pdf",
+        "https://e-learning.mtsn1klaten.sch.id/__statics/gudangsoal/files/free-tiktok-likes_GM835599320.pdf"
+    ],
+    "regex_urls": [
+        "http://netcdn.tw/app/479516143/how-to-get-minecraft-for-free-on-mobile-game-hack",
+        "http://netcdn.tw/app/479516143/how-to-get-minecraft-for-free-on-mobile-game-hack",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "34",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "6",
+        "stream_start": "6",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

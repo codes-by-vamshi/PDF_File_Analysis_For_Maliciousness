@@ -1,0 +1,47 @@
+{
+    "exif_signatures": {},
+    "file_size": 987682,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.youtube.com/watch?v=FNb9ZrhMbFE",
+        "https://www.youtube.com/watch?v=8MuUwc0cWEg",
+        "https://www.youtube.com/watch?v=0o9aZbQOhI0"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.youtube.com/watch?v=0o9aZbQOhI0",
+        "https",
+        "www.youtube.com/watch?v=8MuUwc0cWEg",
+        "https",
+        "www.youtube.com/watch?v=FNb9ZrhMbFE"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "988",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "349",
+        "object_start": "349",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "58",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "88",
+        "stream_start": "88",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

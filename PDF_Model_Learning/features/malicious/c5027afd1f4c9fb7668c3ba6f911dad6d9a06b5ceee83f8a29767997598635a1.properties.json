@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 90076,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781910335765&kwd=Inside%20the%20Rafalution",
+        "http://getpdf.pw/book?res=strik&isbn=9781910335765&kwd=Inside%20the%20Rafalution",
+        "https://files8.webydo.com/9588924/UploadedFiles/54AF8CD9-39B0-66DC-367F-F010680BEC33.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/971b0b37-4c0a-4b94-8d9a-8446af4ee25b/the-principles-of-psychology-vol-1-596.pdf",
+        "https://static.s123-cdn.com/uploads/4659464/normal_61ae4ab0576f8.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659440/normal_61ae48839a055.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/26d987d4-cd52-4e04-8ce1-e05cfbc493f6/the-warrior-number-3-in-series-492.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659540/normal_61ae204073937.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781910335765&kwd=Inside%20the%20Rafalution",
+        "http://getpdf.pw/book?res=strik&isbn=9781910335765&kwd=Inside%20the%20Rafalution",
+        "https://files8.webydo.com/9588924/UploadedFiles/54AF8CD9-39B0-66DC-367F-F010680BEC33.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/971b0b37-4c0a-4b94-8d9a-8446af4ee25b/the-principles-of-psychology-vol-1-596.pdf",
+        "https://static.s123-cdn.com/uploads/4659464/normal_61ae4ab0576f8.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659440/normal_61ae48839a055.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/26d987d4-cd52-4e04-8ce1-e05cfbc493f6/the-warrior-number-3-in-series-492.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659540/normal_61ae204073937.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "90",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 918117,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://epprod.ostroj.cz:50000/irj/servlet/prt/portal/prtroot/com.sap.km.cm.docs/dokumenty_portal/OSTROJ/_Informace/001%20-%20%c5%98%c3%add%c3%adc%c3%ad%20normy%20Ostroj/P%c5%99%c3%adlohy%20%c5%99%c3%add%c3%adc%c3%adch%20norem/MP%2022_2005%20P01.xls"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://epprod.ostroj.cz:50000/irj/servlet/prt/portal/prtroot/com.sap.km.cm.docs/dokumenty_portal/OSTROJ/_Informace/001%20-%20%c5%98%c3%add%c3%adc%c3%ad%20normy%20Ostroj/P%c5%99%c3%adlohy%20%c5%99%c3%add%c3%adc%c3%adch%20norem/MP%2022_2005%20P01.xls"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "918",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "156",
+        "object_start": "156",
+        "object_streams": "5",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "43",
+        "stream_start": "43",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 2906556,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://stephanieshott.com",
+        "mailto:info@themominitiative.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://themominitiative.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "mailto:info@themominitiative.com",
+        "http://stephanieshott.com"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://stephanieshott.com",
+        "http://stephanieshott.com",
+        "http://themominitiative.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "2.9",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "240",
+        "object_start": "240",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "71",
+        "stream_start": "71",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

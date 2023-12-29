@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 126535,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780990412212&kwd=Musketry%20Like%20Thunder%20:%20The%20Greatest%20Civil%20War%20Battles%20Never%20Fought",
+        "http://getpdf.pw/book?res=123&isbn=9780990412212&kwd=Musketry%20Like%20Thunder%20:%20The%20Greatest%20Civil%20War%20Battles%20Never%20Fought",
+        "https://cdn-cms.f-static.net/uploads/4661163/normal_61b1310e0a98a.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4664727/normal_61b239a8910df.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780990412212&kwd=Musketry%20Like%20Thunder%20:%20The%20Greatest%20Civil%20War%20Battles%20Never%20Fought",
+        "http://getpdf.pw/book?res=123&isbn=9780990412212&kwd=Musketry%20Like%20Thunder%20:%20The%20Greatest%20Civil%20War%20Battles%20Never%20Fought",
+        "https://cdn-cms.f-static.net/uploads/4661163/normal_61b1310e0a98a.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4664727/normal_61b239a8910df.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "127",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "84",
+        "object_start": "84",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

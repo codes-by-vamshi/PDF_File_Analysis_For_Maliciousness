@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 109988,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://foeslonghorn.site/Cheap-Hr-Truck-Licence-Sydney/pdf/www.suresitesatellite.com",
+        "http://foeslonghorn.site/Cheap-Hr-Truck-Licence-Sydney/doc/www.suresitesatellite.com",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/an-inconvenient-truth-questionnaire.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/new-look-return-lost-receipt.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/like-parole-revocation-probation-revocation-quizlet.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/cover-letter-format-simple.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/hyundai-capital-america-financial-statements.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/city-of-chicago-tickets-number.pdf"
+    ],
+    "regex_uris": [
+        "http://foeslonghorn.site/Cheap-Hr-Truck-Licence-Sydney/pdf/www.suresitesatellite.com)>>>><</Type /Annot /Subtype /Link /Rect [309.00 470.00 569.00 398.00] /Border [0 0 0] /A <</S /URI /URI (http://foeslonghorn.site/Cheap-Hr-Truck-Licence-Sydney/doc/www.suresitesatellite.com",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/an-inconvenient-truth-questionnaire.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/new-look-return-lost-receipt.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/like-parole-revocation-probation-revocation-quizlet.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/cover-letter-format-simple.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/hyundai-capital-america-financial-statements.pdf",
+        "https://www.suresitesatellite.com/wp-content/uploads/formidable/8/city-of-chicago-tickets-number.pdf"
+    ],
+    "regex_urls": [
+        "http://foeslonghorn.site/Cheap-Hr-Truck-Licence-Sydney/pdf/www.suresitesatellite.com",
+        "http://foeslonghorn.site/Cheap-Hr-Truck-Licence-Sydney/doc/www.suresitesatellite.com",
+        "https",
+        "www.suresitesatellite.com/wp-content/uploads/formidable/8/an-inconvenient-truth-questionnaire.pdf",
+        "https",
+        "www.suresitesatellite.com/wp-content/uploads/formidable/8/new-look-return-lost-receipt.pdf",
+        "https",
+        "www.suresitesatellite.com/wp-content/uploads/formidable/8/like-parole-revocation-probation-revocation-quizlet.pdf",
+        "https",
+        "www.suresitesatellite.com/wp-content/uploads/formidable/8/cover-letter-format-simple.pdf",
+        "https",
+        "www.suresitesatellite.com/wp-content/uploads/formidable/8/hyundai-capital-america-financial-statements.pdf",
+        "https",
+        "www.suresitesatellite.com/wp-content/uploads/formidable/8/city-of-chicago-tickets-number.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "33",
+        "object_start": "33",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

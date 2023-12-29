@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 89520,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781421519555&kwd=Eyeshield%2021,%20Vol.%2022",
+        "http://getpdf.pw/book?res=strik&isbn=9781421519555&kwd=Eyeshield%2021,%20Vol.%2022",
+        "https://static.s123-cdn-static-a.com/uploads/4650435/normal_61ab62e3409c4.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4649709/normal_61ab9d93c6ae6.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650588/normal_61ab8feb838a4.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649695/normal_61ab76ff7ed19.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781421519555&kwd=Eyeshield%2021,%20Vol.%2022",
+        "http://getpdf.pw/book?res=strik&isbn=9781421519555&kwd=Eyeshield%2021,%20Vol.%2022",
+        "https://static.s123-cdn-static-a.com/uploads/4650435/normal_61ab62e3409c4.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4649709/normal_61ab9d93c6ae6.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650588/normal_61ab8feb838a4.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649695/normal_61ab76ff7ed19.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "90",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "61",
+        "object_start": "61",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

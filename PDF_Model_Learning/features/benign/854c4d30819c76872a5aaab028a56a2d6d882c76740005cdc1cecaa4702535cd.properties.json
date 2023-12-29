@@ -1,0 +1,76 @@
+{
+    "exif_signatures": {},
+    "file_size": 129700,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://netzeroclimate.org/what-is-net-zero/",
+        "https://www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is,setting%20anthropogenic%20emissions%20to%20zero.&text=The%20infrastructure%20commitment%20is%20the,end%20of%20its%20expected%20lifetime.",
+        "https://www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is,setting%20anthropogenic%20emissions%20to%20zero.&text=The%20infrastructure%20commitment%20is%20the,end%20of%20its%20expected%20lifetime.",
+        "https://www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is,setting%20anthropogenic%20emissions%20to%20zero.&text=The%20infrastructure%20commitment%20is%20the,end%20of%20its%20expected%20lifetime."
+    ],
+    "regex_uris": [
+        "https://netzeroclimate.org/what-is-net-zero/",
+        "https://www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is,setting%20anthropogenic%20emissions%20to%20zero.&text=The%20infrastructure%20commitment%20is%20the,end%20of%20its%20expected%20lifetime.",
+        "https://www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is,setting%20anthropogenic%20emissions%20to%20zero.&text=The%20infrastructure%20commitment%20is%20the,end%20of%20its%20expected%20lifetime.",
+        "https://www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is,setting%20anthropogenic%20emissions%20to%20zero.&text=The%20infrastructure%20commitment%20is%20the,end%20of%20its%20expected%20lifetime."
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is",
+        "https",
+        "www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is",
+        "https",
+        "www.ipcc.ch/sr15/chapter/glossary/#:~:text=The%20zero%20emissions%20commitment%20is"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "130",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "108",
+        "object_start": "109",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64"
+    ]
+}

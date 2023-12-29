@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 101083,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781538744116&kwd=Barbed%20Wire%20Heart",
+        "http://getpdf.pw/book?res=weby&isbn=9781538744116&kwd=Barbed%20Wire%20Heart",
+        "https://files8.webydo.com/9589056/UploadedFiles/DC2AE33B-420A-6953-45D4-0B3A0A91C080.pdf",
+        "https://files8.webydo.com/9589163/UploadedFiles/2ED5D214-CAEE-698A-B082-4F3EB15E6968.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661754/normal_61b055a6cd9d1.pdf",
+        "https://files8.webydo.com/9589033/UploadedFiles/ED625486-2B19-AE7A-41EB-B9C6EB969C9F.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661333/normal_61b110e6c01ab.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781538744116&kwd=Barbed%20Wire%20Heart",
+        "http://getpdf.pw/book?res=weby&isbn=9781538744116&kwd=Barbed%20Wire%20Heart",
+        "https://files8.webydo.com/9589056/UploadedFiles/DC2AE33B-420A-6953-45D4-0B3A0A91C080.pdf",
+        "https://files8.webydo.com/9589163/UploadedFiles/2ED5D214-CAEE-698A-B082-4F3EB15E6968.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661754/normal_61b055a6cd9d1.pdf",
+        "https://files8.webydo.com/9589033/UploadedFiles/ED625486-2B19-AE7A-41EB-B9C6EB969C9F.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661333/normal_61b110e6c01ab.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "101",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "72",
+        "object_start": "72",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

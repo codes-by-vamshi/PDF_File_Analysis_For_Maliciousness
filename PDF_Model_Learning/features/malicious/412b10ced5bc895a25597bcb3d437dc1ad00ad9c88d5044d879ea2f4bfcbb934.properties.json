@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 115197,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://completespcr.site/Meaning-Of-Subpoena-Power/pdf/wrapexwestcoast.com",
+        "http://completespcr.site/Meaning-Of-Subpoena-Power/doc/wrapexwestcoast.com",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/fidic-contract-arbitration-clause.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/employment-profit-agreement-termination-clause.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/guide-succes-gears-of-war-judgment.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/samples-for-receipts-book-for-rent.pdf"
+    ],
+    "regex_uris": [
+        "http://completespcr.site/Meaning-Of-Subpoena-Power/pdf/wrapexwestcoast.com)>>>><</Type /Annot /Subtype /Link /Rect [292.00 452.00 550.00 378.00] /Border [0 0 0] /A <</S /URI /URI (http://completespcr.site/Meaning-Of-Subpoena-Power/doc/wrapexwestcoast.com",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/fidic-contract-arbitration-clause.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/employment-profit-agreement-termination-clause.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/guide-succes-gears-of-war-judgment.pdf",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/samples-for-receipts-book-for-rent.pdf"
+    ],
+    "regex_urls": [
+        "http://completespcr.site/Meaning-Of-Subpoena-Power/pdf/wrapexwestcoast.com",
+        "http://completespcr.site/Meaning-Of-Subpoena-Power/doc/wrapexwestcoast.com",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "115",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "39",
+        "object_start": "39",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "21",
+        "stream_start": "21",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

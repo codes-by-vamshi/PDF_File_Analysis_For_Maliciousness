@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 99986,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9783858813695&kwd=Concrete:%20Photography%20and%20Architecture",
+        "http://getpdf.pw/book?res=strik&isbn=9783858813695&kwd=Concrete:%20Photography%20and%20Architecture",
+        "https://static.s123-cdn-static-d.com/uploads/4660132/normal_61af8a0a9cc68.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659968/normal_61afa464a54a3.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661384/normal_61af9a584f32a.pdf",
+        "https://img1.wsimg.com/blobby/go/d07acdef-925b-4800-88a5-18ea425518ef/quantum-consciousness-guide-to-experiencing-qu.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660175/normal_61af6e2cdadad.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660647/normal_61af77f64c870.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9783858813695&kwd=Concrete:%20Photography%20and%20Architecture",
+        "http://getpdf.pw/book?res=strik&isbn=9783858813695&kwd=Concrete:%20Photography%20and%20Architecture",
+        "https://static.s123-cdn-static-d.com/uploads/4660132/normal_61af8a0a9cc68.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659968/normal_61afa464a54a3.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661384/normal_61af9a584f32a.pdf",
+        "https://img1.wsimg.com/blobby/go/d07acdef-925b-4800-88a5-18ea425518ef/quantum-consciousness-guide-to-experiencing-qu.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660175/normal_61af6e2cdadad.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660647/normal_61af77f64c870.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "100",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "68",
+        "object_start": "68",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

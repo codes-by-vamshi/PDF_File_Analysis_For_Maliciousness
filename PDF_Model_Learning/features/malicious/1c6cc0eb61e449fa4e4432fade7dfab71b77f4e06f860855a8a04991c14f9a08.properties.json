@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 90241,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780877939344&kwd=A%20Concise%20Guide%20to%20Canon%20Law%20:%20A%20Practical%20Handbook%20for%20Pastoral%20Ministers",
+        "http://getpdf.pw/book?res=123&isbn=9780877939344&kwd=A%20Concise%20Guide%20to%20Canon%20Law%20:%20A%20Practical%20Handbook%20for%20Pastoral%20Ministers",
+        "https://static.s123-cdn-static.com/uploads/4661854/normal_61af9e2ae0bf6.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661381/normal_61af7ebf9f952.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780877939344&kwd=A%20Concise%20Guide%20to%20Canon%20Law%20:%20A%20Practical%20Handbook%20for%20Pastoral%20Ministers",
+        "http://getpdf.pw/book?res=123&isbn=9780877939344&kwd=A%20Concise%20Guide%20to%20Canon%20Law%20:%20A%20Practical%20Handbook%20for%20Pastoral%20Ministers",
+        "https://static.s123-cdn-static.com/uploads/4661854/normal_61af9e2ae0bf6.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661381/normal_61af7ebf9f952.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "90",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "55",
+        "object_start": "55",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

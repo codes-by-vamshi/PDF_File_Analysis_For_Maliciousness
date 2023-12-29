@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 117006,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780425257425&kwd=Red%20Blood,%20Black%20Sand:%20Fighting%20Alongside%20John%20Basilone%20from%20Boot%20Camp%20to%20Iwo%20Jima",
+        "http://getpdf.pw/book?res=123&isbn=9780425257425&kwd=Red%20Blood,%20Black%20Sand:%20Fighting%20Alongside%20John%20Basilone%20from%20Boot%20Camp%20to%20Iwo%20Jima",
+        "https://static.s123-cdn.com/uploads/4659872/normal_61af67a55847e.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/55d63b39-fd04-43b0-9d33-b824a4386329/sports-biomechanics-reducing-injury-risk-and-improving-sports-performance-314.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660933/normal_61afb316b43eb.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780425257425&kwd=Red%20Blood,%20Black%20Sand:%20Fighting%20Alongside%20John%20Basilone%20from%20Boot%20Camp%20to%20Iwo%20Jima",
+        "http://getpdf.pw/book?res=123&isbn=9780425257425&kwd=Red%20Blood,%20Black%20Sand:%20Fighting%20Alongside%20John%20Basilone%20from%20Boot%20Camp%20to%20Iwo%20Jima",
+        "https://static.s123-cdn.com/uploads/4659872/normal_61af67a55847e.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/55d63b39-fd04-43b0-9d33-b824a4386329/sports-biomechanics-reducing-injury-risk-and-improving-sports-performance-314.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660933/normal_61afb316b43eb.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "117",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

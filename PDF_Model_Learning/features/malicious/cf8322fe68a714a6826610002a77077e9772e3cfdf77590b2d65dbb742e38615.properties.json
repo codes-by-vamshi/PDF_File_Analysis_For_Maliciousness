@@ -1,0 +1,80 @@
+{
+    "exif_signatures": {},
+    "file_size": 127515,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://fancli.com/2l2dw7",
+        "https://fancli.com/2l2dw7",
+        "http://blanoval.yolasite.com/resources/Autocad-Civil-3d-2013-64-Bit-Free-FREE-Download.pdf",
+        "http://rantadep.yolasite.com/resources/Download-DoulCi-Activator-Tool-for-PC-Windows-Mac.pdf",
+        "http://tesate.yolasite.com/resources/EaseUS-Data-Recovery-Wizard-132-Crack-FULL-License-Code-2020-Download.pdf",
+        "http://clonvenot.yolasite.com/resources/CorelDRAW-2019-Crack-Keygen-Serial-Number-Free-Download-FREE.pdf",
+        "http://nivima.yolasite.com/resources/if-u-are-still-looking-for-a-game-as-sf4-dubai-to-play-need-a-QUEST.pdf",
+        "http://www.tcpdf.org"
+    ],
+    "regex_uris": [
+        "https://fancli.com/2l2dw7",
+        "https://fancli.com/2l2dw7",
+        "http://blanoval.yolasite.com/resources/Autocad-Civil-3d-2013-64-Bit-Free-FREE-Download.pdf",
+        "http://rantadep.yolasite.com/resources/Download-DoulCi-Activator-Tool-for-PC-Windows-Mac.pdf",
+        "http://tesate.yolasite.com/resources/EaseUS-Data-Recovery-Wizard-132-Crack-FULL-License-Code-2020-Download.pdf",
+        "http://clonvenot.yolasite.com/resources/CorelDRAW-2019-Crack-Keygen-Serial-Number-Free-Download-FREE.pdf",
+        "http://nivima.yolasite.com/resources/if-u-are-still-looking-for-a-game-as-sf4-dubai-to-play-need-a-QUEST.pdf",
+        "http://www.tcpdf.org"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://blanoval.yolasite.com/resources/Autocad-Civil-3d-2013-64-Bit-Free-FREE-Download.pdf",
+        "http://rantadep.yolasite.com/resources/Download-DoulCi-Activator-Tool-for-PC-Windows-Mac.pdf",
+        "http://tesate.yolasite.com/resources/EaseUS-Data-Recovery-Wizard-132-Crack-FULL-License-Code-2020-Download.pdf",
+        "http://clonvenot.yolasite.com/resources/CorelDRAW-2019-Crack-Keygen-Serial-Number-Free-Download-FREE.pdf",
+        "http://nivima.yolasite.com/resources/if-u-are-still-looking-for-a-game-as-sf4-dubai-to-play-need-a-QUEST.pdf",
+        "http://www.tcpdf.org",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/extension/",
+        "http://www.aiim.org/pdfa/ns/schema#",
+        "http://www.aiim.org/pdfa/ns/property#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/id/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "128",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "44",
+        "object_start": "44",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

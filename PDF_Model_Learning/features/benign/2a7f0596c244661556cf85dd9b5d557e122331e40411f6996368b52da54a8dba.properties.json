@@ -1,0 +1,56 @@
+{
+    "exif_signatures": {},
+    "file_size": 295046,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://data.dre.pt/eli/dec-lei/162/2019/10/25/p/dre",
+        "http://creativecommons.org/licenses/by-sa/4.0/",
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "http://creativecommons.org/licenses/by-sa/4.0/",
+        "http://creativecommons.org/licenses/by-sa/4.0/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "295",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

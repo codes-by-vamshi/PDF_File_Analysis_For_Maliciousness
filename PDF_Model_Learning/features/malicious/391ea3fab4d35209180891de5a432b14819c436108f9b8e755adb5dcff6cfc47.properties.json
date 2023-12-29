@@ -1,0 +1,56 @@
+{
+    "exif_signatures": {},
+    "file_size": 97513,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://mongkoktrip.site/Florida-Handbook-Practice-Test/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Florida-Handbook-Practice-Test/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/fun-stuff-parachute-man-instructions.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/guided-reading-the-war-in-the-pacific.pdf"
+    ],
+    "regex_uris": [
+        "http://mongkoktrip.site/Florida-Handbook-Practice-Test/pdf/18.219.185.187)>>>><</Type /Annot /Subtype /Link /Rect [292.00 465.00 544.00 385.00] /Border [0 0 0] /A <</S /URI /URI (http://mongkoktrip.site/Florida-Handbook-Practice-Test/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/fun-stuff-parachute-man-instructions.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/guided-reading-the-war-in-the-pacific.pdf"
+    ],
+    "regex_urls": [
+        "http://mongkoktrip.site/Florida-Handbook-Practice-Test/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Florida-Handbook-Practice-Test/doc/18.219.185.187",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "98",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "21",
+        "object_start": "21",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

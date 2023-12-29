@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 203055,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%80%D0%B5%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA+6+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%BA%D0%B0%D1%83%D1%84%D0%BC%D0%B0%D0%BD+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D1%82%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D1%8C",
+        "https://kahunojimenosurososi.files.wordpress.com/2018/04/biruvubefa-reshebnik-po-matematike-testy-dlia-promezhutochnoi-attestatsii-tisifovude.pdf",
+        "https://piwexidasuk.files.wordpress.com/2018/04/xoxavomubes-gdz-matematika-5-klass-zubareva-mordkovich-uchebnik-otvety-s-resheniem-muxipiridenes.pdf",
+        "https://relamucuv.files.wordpress.com/2018/04/xaded-novoshinskii-novoshinskaia-gotovimsia-k-ege-organicheskaia-khimiia-pefilix.pdf",
+        "https://vujogodisidoruqus.files.wordpress.com/2018/04/razatebomi-gdz-11-klass-algebra-mordkovich-resheba-guporurivogo.pdf",
+        "https://juhiqunaji.files.wordpress.com/2018/04/defolaloke-gdz-po-angliiskomu-4-klass-rabochaia-tetrad-vovevo.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%80%D0%B5%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA+6+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%BA%D0%B0%D1%83%D1%84%D0%BC%D0%B0%D0%BD+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D1%82%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D1%8C",
+        "https://kahunojimenosurososi.files.wordpress.com/2018/04/biruvubefa-reshebnik-po-matematike-testy-dlia-promezhutochnoi-attestatsii-tisifovude.pdf",
+        "https://piwexidasuk.files.wordpress.com/2018/04/xoxavomubes-gdz-matematika-5-klass-zubareva-mordkovich-uchebnik-otvety-s-resheniem-muxipiridenes.pdf",
+        "https://relamucuv.files.wordpress.com/2018/04/xaded-novoshinskii-novoshinskaia-gotovimsia-k-ege-organicheskaia-khimiia-pefilix.pdf",
+        "https://vujogodisidoruqus.files.wordpress.com/2018/04/razatebomi-gdz-11-klass-algebra-mordkovich-resheba-guporurivogo.pdf",
+        "https://juhiqunaji.files.wordpress.com/2018/04/defolaloke-gdz-po-angliiskomu-4-klass-rabochaia-tetrad-vovevo.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%80%D0%B5%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA+6+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%BA%D0%B0%D1%83%D1%84%D0%BC%D0%B0%D0%BD+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D1%82%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D1%8C",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "203",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

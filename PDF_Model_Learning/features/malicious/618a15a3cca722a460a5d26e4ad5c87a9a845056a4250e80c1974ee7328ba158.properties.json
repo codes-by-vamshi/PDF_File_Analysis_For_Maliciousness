@@ -1,0 +1,81 @@
+{
+    "exif_signatures": {},
+    "file_size": 33886,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://netcdn.tw/app/479516143/free-modded-minecraft-server-hosting-game-hack",
+        "http://netcdn.tw/app/479516143/free-modded-minecraft-server-hosting-game-hack",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/minecraft-font-free_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/coin-master-claim-free-spins_GM406889139.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-minecraft-printables_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/how-to-get-free-skins-in-minecraft_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/minecraft-hack-mod_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-robux-hack-2021_GM431946152.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-robux-generator-no-verification-2021_GM431946152.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/mobihack-net-roblox-hack_GM431946152.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-disney-plus-accounts-tiktok_GM835599320.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-robux-hack-generator_GM431946152.pdf"
+    ],
+    "regex_uris": [
+        "http://netcdn.tw/app/479516143/free-modded-minecraft-server-hosting-game-hack",
+        "http://netcdn.tw/app/479516143/free-modded-minecraft-server-hosting-game-hack",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/minecraft-font-free_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/coin-master-claim-free-spins_GM406889139.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-minecraft-printables_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/how-to-get-free-skins-in-minecraft_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/minecraft-hack-mod_GM479516143.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-robux-hack-2021_GM431946152.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-robux-generator-no-verification-2021_GM431946152.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/mobihack-net-roblox-hack_GM431946152.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-disney-plus-accounts-tiktok_GM835599320.pdf",
+        "https://elearning.mts-sukaramaiatas.sch.id/__statics/gudangsoal/files/free-robux-hack-generator_GM431946152.pdf"
+    ],
+    "regex_urls": [
+        "http://netcdn.tw/app/479516143/free-modded-minecraft-server-hosting-game-hack",
+        "http://netcdn.tw/app/479516143/free-modded-minecraft-server-hosting-game-hack",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "34",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "6",
+        "stream_start": "6",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

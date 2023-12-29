@@ -1,0 +1,38 @@
+{
+    "exif_signatures": {},
+    "file_size": 8280679,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "www.ilovepdf.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "8.3",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "332",
+        "object_start": "332",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "62",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "128",
+        "stream_start": "128",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

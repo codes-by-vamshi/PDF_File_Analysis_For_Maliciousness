@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 77071,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781712263327&kwd=This%20Is%20My%20Human%20Costume%20Im%20Really%20A%20Gamer%20:%206x9%20Blank%20Lined%20Notebook%20Journal%20110%20Pages%20Funny%20Halloween%20Gift%20For%20Gamers",
+        "http://getpdf.pw/book?res=123&isbn=9781712263327&kwd=This%20Is%20My%20Human%20Costume%20Im%20Really%20A%20Gamer%20:%206x9%20Blank%20Lined%20Notebook%20Journal%20110%20Pages%20Funny%20Halloween%20Gift%20For%20Gamers",
+        "https://files8.webydo.com/9589003/UploadedFiles/3E2238AE-C42C-4937-CAE6-386A812679F6.pdf",
+        "https://files8.webydo.com/9589081/UploadedFiles/B3B56D74-8D0E-7406-217E-6C667D5E9BB5.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781712263327&kwd=This%20Is%20My%20Human%20Costume%20Im%20Really%20A%20Gamer%20:%206x9%20Blank%20Lined%20Notebook%20Journal%20110%20Pages%20Funny%20Halloween%20Gift%20For%20Gamers",
+        "http://getpdf.pw/book?res=123&isbn=9781712263327&kwd=This%20Is%20My%20Human%20Costume%20Im%20Really%20A%20Gamer%20:%206x9%20Blank%20Lined%20Notebook%20Journal%20110%20Pages%20Funny%20Halloween%20Gift%20For%20Gamers",
+        "https://files8.webydo.com/9589003/UploadedFiles/3E2238AE-C42C-4937-CAE6-386A812679F6.pdf",
+        "https://files8.webydo.com/9589081/UploadedFiles/B3B56D74-8D0E-7406-217E-6C667D5E9BB5.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "77",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "46",
+        "object_start": "46",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

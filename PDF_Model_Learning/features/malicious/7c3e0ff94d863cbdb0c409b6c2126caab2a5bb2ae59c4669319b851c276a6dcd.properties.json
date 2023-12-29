@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 104699,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780861713936&kwd=Novice%20to%20Master%20:%20An%20Ongoing%20Lesson%20in%20the%20Extent%20of%20My%20Own%20Stupidity",
+        "http://getpdf.pw/book?res=123&isbn=9780861713936&kwd=Novice%20to%20Master%20:%20An%20Ongoing%20Lesson%20in%20the%20Extent%20of%20My%20Own%20Stupidity",
+        "https://static.s123-cdn-static-c.com/uploads/4661206/normal_61af7b60d9434.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661620/normal_61af8206b3efe.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780861713936&kwd=Novice%20to%20Master%20:%20An%20Ongoing%20Lesson%20in%20the%20Extent%20of%20My%20Own%20Stupidity",
+        "http://getpdf.pw/book?res=123&isbn=9780861713936&kwd=Novice%20to%20Master%20:%20An%20Ongoing%20Lesson%20in%20the%20Extent%20of%20My%20Own%20Stupidity",
+        "https://static.s123-cdn-static-c.com/uploads/4661206/normal_61af7b60d9434.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661620/normal_61af8206b3efe.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "105",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "65",
+        "object_start": "65",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

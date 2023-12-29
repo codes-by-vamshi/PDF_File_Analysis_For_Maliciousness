@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 277494,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.dneprstat.gov.ua/",
+        "http://ukrstat.gov.ua/klasf/st_kls/kved.rar",
+        "http://ukrstat.gov.ua/metod_polog/metod_doc/2019/46/mp_pzt_ot.pdf"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.dneprstat.gov.ua/",
+        "http://ukrstat.gov.ua/klasf/st_kls/kved.rar",
+        "http://ukrstat.gov.ua/metod_polog/metod_doc/2019/46/mp_pzt_ot.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "277",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "67",
+        "object_start": "67",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

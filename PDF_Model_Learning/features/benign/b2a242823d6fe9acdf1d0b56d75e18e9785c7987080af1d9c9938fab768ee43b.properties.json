@@ -1,0 +1,42 @@
+{
+    "exif_signatures": {},
+    "file_size": 515666,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.my-privilege.com/",
+        "https://my-privilege.com/app/how-to-use"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.my-privilege.com/",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "516",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 207875,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8E+11+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%B0+%D0%B8+%D0%BA%D1%80%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+%D0%B5.%D0%B0+%D0%BF%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%B0",
+        "https://nipefokadojavevilo.files.wordpress.com/2018/04/nipaxunuguj-programma-podgotovki-k-ege-po-russkomu-iazyku-11-klass-vipibime.pdf",
+        "https://julocedisememisige.files.wordpress.com/2018/04/xugoxirowujofi-gdz-po-angliiskomu-iazyku-4-klass-1-chast-uchebnik-otvety-vubijanakobisej.pdf",
+        "https://basisopevesunek.files.wordpress.com/2018/04/tedevel-ege-2017-dosrochnyi-ekzamen-matematika-profil-s-resheniiami-pipimijekixoxew.pdf",
+        "https://xisawuvatotaciluvi.files.wordpress.com/2018/04/jijopijevere-ege-2015-matematika-zadacha-3-rabochaia-tetrad-i-r-vysotskii-chitat-onlain-vuwav.pdf",
+        "https://mosibisov.files.wordpress.com/2018/04/kobagapeze-reshebnik-po-matematike-proverochnye-raboty-2-klass-volkova-paxalujepotil.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8E+11+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%B0+%D0%B8+%D0%BA%D1%80%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+%D0%B5.%D0%B0+%D0%BF%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%B0",
+        "https://nipefokadojavevilo.files.wordpress.com/2018/04/nipaxunuguj-programma-podgotovki-k-ege-po-russkomu-iazyku-11-klass-vipibime.pdf",
+        "https://julocedisememisige.files.wordpress.com/2018/04/xugoxirowujofi-gdz-po-angliiskomu-iazyku-4-klass-1-chast-uchebnik-otvety-vubijanakobisej.pdf",
+        "https://basisopevesunek.files.wordpress.com/2018/04/tedevel-ege-2017-dosrochnyi-ekzamen-matematika-profil-s-resheniiami-pipimijekixoxew.pdf",
+        "https://xisawuvatotaciluvi.files.wordpress.com/2018/04/jijopijevere-ege-2015-matematika-zadacha-3-rabochaia-tetrad-i-r-vysotskii-chitat-onlain-vuwav.pdf",
+        "https://mosibisov.files.wordpress.com/2018/04/kobagapeze-reshebnik-po-matematike-proverochnye-raboty-2-klass-volkova-paxalujepotil.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8E+11+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%B0+%D0%B8+%D0%BA%D1%80%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+%D0%B5.%D0%B0+%D0%BF%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%B0",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "208",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

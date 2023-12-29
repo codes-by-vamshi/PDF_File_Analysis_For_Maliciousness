@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 145834,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781504054225&kwd=The%20Ethics%20of%20Ambiguity",
+        "http://getpdf.pw/book?res=123&isbn=9781504054225&kwd=The%20Ethics%20of%20Ambiguity",
+        "https://static.s123-cdn.com/uploads/4658606/normal_61acf0d2c4087.pdf",
+        "https://files8.webydo.com/9588765/UploadedFiles/2C46DABC-8459-F839-767A-5ABD20A92C32.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781504054225&kwd=The%20Ethics%20of%20Ambiguity",
+        "http://getpdf.pw/book?res=123&isbn=9781504054225&kwd=The%20Ethics%20of%20Ambiguity",
+        "https://static.s123-cdn.com/uploads/4658606/normal_61acf0d2c4087.pdf",
+        "https://files8.webydo.com/9588765/UploadedFiles/2C46DABC-8459-F839-767A-5ABD20A92C32.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "146",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "99",
+        "object_start": "99",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

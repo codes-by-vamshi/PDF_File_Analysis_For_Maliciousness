@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 134103,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780198485704&kwd=Oxford%20Reading%20Tree:%20Level%202:%20Floppys%20Phonics:%20Sounds%20and%20Letters:%20Book%2012",
+        "http://getpdf.pw/book?res=strik&isbn=9780198485704&kwd=Oxford%20Reading%20Tree:%20Level%202:%20Floppys%20Phonics:%20Sounds%20and%20Letters:%20Book%2012",
+        "https://static.s123-cdn-static-d.com/uploads/4650279/normal_61ab83857829a.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650652/normal_61ab46f75ae7c.pdf",
+        "https://files8.webydo.com/9588624/UploadedFiles/395F6834-C9B7-79E6-07D3-019038A1107E.pdf",
+        "https://files8.webydo.com/9588720/UploadedFiles/EFA5DEAD-C703-DA69-6E9C-A5B20A7FA559.pdf",
+        "https://img1.wsimg.com/blobby/go/1629fdae-8fde-4ea1-b462-4be8fb5d1cde/the-drowned-and-the-saved-1st-edition-81.pdf",
+        "https://static.s123-cdn-static.com/uploads/4649585/normal_61ab4fa70eac7.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4649342/normal_61aa8b3200a6b.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780198485704&kwd=Oxford%20Reading%20Tree:%20Level%202:%20Floppys%20Phonics:%20Sounds%20and%20Letters:%20Book%2012",
+        "http://getpdf.pw/book?res=strik&isbn=9780198485704&kwd=Oxford%20Reading%20Tree:%20Level%202:%20Floppys%20Phonics:%20Sounds%20and%20Letters:%20Book%2012",
+        "https://static.s123-cdn-static-d.com/uploads/4650279/normal_61ab83857829a.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650652/normal_61ab46f75ae7c.pdf",
+        "https://files8.webydo.com/9588624/UploadedFiles/395F6834-C9B7-79E6-07D3-019038A1107E.pdf",
+        "https://files8.webydo.com/9588720/UploadedFiles/EFA5DEAD-C703-DA69-6E9C-A5B20A7FA559.pdf",
+        "https://img1.wsimg.com/blobby/go/1629fdae-8fde-4ea1-b462-4be8fb5d1cde/the-drowned-and-the-saved-1st-edition-81.pdf",
+        "https://static.s123-cdn-static.com/uploads/4649585/normal_61ab4fa70eac7.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4649342/normal_61aa8b3200a6b.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "134",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "89",
+        "object_start": "89",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

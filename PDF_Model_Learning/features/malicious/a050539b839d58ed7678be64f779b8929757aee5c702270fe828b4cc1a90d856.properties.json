@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 212554,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781080853847&kwd=Preston%20Lees%20Beginner%20English%20300%20Words%20For%20Hindi%20Speakers%20(British%20Version)",
+        "http://getpdf.pw/book?res=123&isbn=9781080853847&kwd=Preston%20Lees%20Beginner%20English%20300%20Words%20For%20Hindi%20Speakers%20(British%20Version)",
+        "https://files8.webydo.com/9589311/UploadedFiles/F92C7152-CC09-5D6E-FEFC-57DD3CB2B4A9.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4665123/normal_61b36dfcf3b30.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781080853847&kwd=Preston%20Lees%20Beginner%20English%20300%20Words%20For%20Hindi%20Speakers%20\\(British%20Version\\)",
+        "http://getpdf.pw/book?res=123&isbn=9781080853847&kwd=Preston%20Lees%20Beginner%20English%20300%20Words%20For%20Hindi%20Speakers%20\\(British%20Version\\)",
+        "https://files8.webydo.com/9589311/UploadedFiles/F92C7152-CC09-5D6E-FEFC-57DD3CB2B4A9.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4665123/normal_61b36dfcf3b30.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "213",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "139",
+        "object_start": "139",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "20",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "27",
+        "stream_start": "27",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

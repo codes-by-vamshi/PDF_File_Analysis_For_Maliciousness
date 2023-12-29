@@ -1,0 +1,48 @@
+{
+    "exif_signatures": {},
+    "file_size": 395849,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://nashol.com/2011041354397/propedevtika-stomatologicheskih-zabolevanii--"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://nashol.com/2011041354397/propedevtika-stomatologicheskih-zabolevanii--"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "396",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

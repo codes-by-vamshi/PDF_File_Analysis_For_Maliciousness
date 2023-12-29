@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 93486,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781931626200&kwd=Railroad%20History%20on%20American%20Postage%20Stamps",
+        "http://getpdf.pw/book?res=strik&isbn=9781931626200&kwd=Railroad%20History%20on%20American%20Postage%20Stamps",
+        "https://files8.webydo.com/9589041/UploadedFiles/D7442EC0-F7D1-EA0E-A0F9-2ECE4924A40F.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661327/normal_61afb81875c8d.pdf",
+        "https://static.s123-cdn.com/uploads/4660350/normal_61af8d86d3f12.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660843/normal_61afb2a199c63.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/6941c642-0a67-4785-b63c-20e098fa4168/just-joey-the-joey-dunlop-story-244.pdf",
+        "https://uploads.strikinglycdn.com/files/badba8aa-58f0-4ae4-bffe-e58bbc48c53f/cafe-racers-of-the-1970s-986.pdf",
+        "https://uploads.strikinglycdn.com/files/eb8e2bd2-6a9a-45a0-ae2a-0aad657556ab/successful-coaching-921.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781931626200&kwd=Railroad%20History%20on%20American%20Postage%20Stamps",
+        "http://getpdf.pw/book?res=strik&isbn=9781931626200&kwd=Railroad%20History%20on%20American%20Postage%20Stamps",
+        "https://files8.webydo.com/9589041/UploadedFiles/D7442EC0-F7D1-EA0E-A0F9-2ECE4924A40F.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661327/normal_61afb81875c8d.pdf",
+        "https://static.s123-cdn.com/uploads/4660350/normal_61af8d86d3f12.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660843/normal_61afb2a199c63.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/6941c642-0a67-4785-b63c-20e098fa4168/just-joey-the-joey-dunlop-story-244.pdf",
+        "https://uploads.strikinglycdn.com/files/badba8aa-58f0-4ae4-bffe-e58bbc48c53f/cafe-racers-of-the-1970s-986.pdf",
+        "https://uploads.strikinglycdn.com/files/eb8e2bd2-6a9a-45a0-ae2a-0aad657556ab/successful-coaching-921.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "93",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

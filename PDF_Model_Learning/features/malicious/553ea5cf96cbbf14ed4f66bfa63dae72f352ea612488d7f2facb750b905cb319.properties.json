@@ -1,0 +1,68 @@
+{
+    "exif_signatures": {},
+    "file_size": 110258,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://cercpanicing.site/Harvard-Business-School-Mission-Statement/pdf/shannondayrealty.com",
+        "http://cercpanicing.site/Harvard-Business-School-Mission-Statement/doc/shannondayrealty.com",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/notaries-public-manual-cincinnati.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/referencing-a-reference-apa.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/dallas-county-arrest-records.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/browns-pre-snap-penalties.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/dbz-project-z-release-date.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/vacation-waiver-included-in-package-protection-plan.pdf"
+    ],
+    "regex_uris": [
+        "http://cercpanicing.site/Harvard-Business-School-Mission-Statement/pdf/shannondayrealty.com)>>>><</Type /Annot /Subtype /Link /Rect [304.00 465.00 558.00 395.00] /Border [0 0 0] /A <</S /URI /URI (http://cercpanicing.site/Harvard-Business-School-Mission-Statement/doc/shannondayrealty.com",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/notaries-public-manual-cincinnati.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/referencing-a-reference-apa.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/dallas-county-arrest-records.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/browns-pre-snap-penalties.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/dbz-project-z-release-date.pdf",
+        "https://shannondayrealty.com/wp-content/uploads/formidable/12/vacation-waiver-included-in-package-protection-plan.pdf"
+    ],
+    "regex_urls": [
+        "http://cercpanicing.site/Harvard-Business-School-Mission-Statement/pdf/shannondayrealty.com",
+        "http://cercpanicing.site/Harvard-Business-School-Mission-Statement/doc/shannondayrealty.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "35",
+        "object_start": "35",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

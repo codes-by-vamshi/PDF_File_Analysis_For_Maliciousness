@@ -1,0 +1,70 @@
+{
+    "exif_signatures": {},
+    "file_size": 423209,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:amministrazione@cert.unimol.it",
+        "http://www.unimol.it/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.unimol.it/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "5",
+        "embedded_files": "0",
+        "file_size": "423",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "151",
+        "object_start": "151",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "15",
+        "rich_media": "0",
+        "start_cross_reference_table": "5",
+        "stream_end": "42",
+        "stream_start": "42",
+        "trailer_dictionary": "5"
+    },
+    "yara_signatures": [
+        "suspicious_packer_section",
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

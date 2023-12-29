@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 210621,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781700006073&kwd=This%20Wine%20Is%20Making%20Me%20Awesome%20:%20Cornell%20Notes%20Notebook",
+        "http://getpdf.pw/book?res=123&isbn=9781700006073&kwd=This%20Wine%20Is%20Making%20Me%20Awesome%20:%20Cornell%20Notes%20Notebook",
+        "https://files8.webydo.com/9589001/UploadedFiles/E1EE37A3-9597-FC2F-6FE8-56C8E6CC2AC5.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781700006073&kwd=This%20Wine%20Is%20Making%20Me%20Awesome%20:%20Cornell%20Notes%20Notebook",
+        "http://getpdf.pw/book?res=123&isbn=9781700006073&kwd=This%20Wine%20Is%20Making%20Me%20Awesome%20:%20Cornell%20Notes%20Notebook",
+        "https://files8.webydo.com/9589001/UploadedFiles/E1EE37A3-9597-FC2F-6FE8-56C8E6CC2AC5.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "211",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "138",
+        "object_start": "138",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "20",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "27",
+        "stream_start": "27",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

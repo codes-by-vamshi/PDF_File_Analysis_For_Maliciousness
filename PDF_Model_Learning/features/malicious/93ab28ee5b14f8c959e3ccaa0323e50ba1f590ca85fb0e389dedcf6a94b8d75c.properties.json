@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 199797,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D1%82%D0%B5%D1%81%D1%82+%D0%B1%D1%83%D0%BA%D0%BB%D0%B5%D1%82%D1%83+7+%D0%BA%D0%BB%D0%B0%D1%81%D1%81",
+        "https://hobaqosihikiram.files.wordpress.com/2018/04/jatilemeludaj-10-klassy-sdaiut-ege-po-matematike-2016-lejurawapow.pdf",
+        "https://culotaqes.files.wordpress.com/2018/04/piwevojin-gdz-po-algebre-8-klass-2010-teliakovskogo-niludemi.pdf",
+        "https://malajasacajukut.files.wordpress.com/2018/04/bimit-podgotovka-k-ege-po-obshchestvoznaniiu-konstitutsiia-rf-zobepa.pdf",
+        "https://tefavoveto.files.wordpress.com/2018/04/nenaten-ege-istoriia-podgotovka-s-nulia-samostoiatelno-rabasamupel.pdf",
+        "https://wipedorupavevo.files.wordpress.com/2018/04/pudoteduxoza-gdz-matika-10-klass-alimov-jimevifixole.pdf",
+        "https://behaqujawahotix.files.wordpress.com/2018/04/mijila-spisok-literatury-ege-2017-zopewefem.pdf",
+        "https://hoxugiroperarucev.files.wordpress.com/2018/04/xazuja-po-angl-gdz-po-angliiskomu-iazyku-za-5-klass-komarova-larionova-dikobosibaw.pdf",
+        "https://nelimusosaleni.files.wordpress.com/2018/04/waregurav-gdz-po-angl-vereshchagina-rabochaia-tetrad-berato.pdf",
+        "https://vovicifijebid.files.wordpress.com/2018/04/sulax-gdz-rt-po-angliiskomu-8-klass-kaufman-givaxa.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D1%82%D0%B5%D1%81%D1%82+%D0%B1%D1%83%D0%BA%D0%BB%D0%B5%D1%82%D1%83+7+%D0%BA%D0%BB%D0%B0%D1%81%D1%81",
+        "https://hobaqosihikiram.files.wordpress.com/2018/04/jatilemeludaj-10-klassy-sdaiut-ege-po-matematike-2016-lejurawapow.pdf",
+        "https://culotaqes.files.wordpress.com/2018/04/piwevojin-gdz-po-algebre-8-klass-2010-teliakovskogo-niludemi.pdf",
+        "https://malajasacajukut.files.wordpress.com/2018/04/bimit-podgotovka-k-ege-po-obshchestvoznaniiu-konstitutsiia-rf-zobepa.pdf",
+        "https://tefavoveto.files.wordpress.com/2018/04/nenaten-ege-istoriia-podgotovka-s-nulia-samostoiatelno-rabasamupel.pdf",
+        "https://wipedorupavevo.files.wordpress.com/2018/04/pudoteduxoza-gdz-matika-10-klass-alimov-jimevifixole.pdf",
+        "https://behaqujawahotix.files.wordpress.com/2018/04/mijila-spisok-literatury-ege-2017-zopewefem.pdf",
+        "https://hoxugiroperarucev.files.wordpress.com/2018/04/xazuja-po-angl-gdz-po-angliiskomu-iazyku-za-5-klass-komarova-larionova-dikobosibaw.pdf",
+        "https://nelimusosaleni.files.wordpress.com/2018/04/waregurav-gdz-po-angl-vereshchagina-rabochaia-tetrad-berato.pdf",
+        "https://vovicifijebid.files.wordpress.com/2018/04/sulax-gdz-rt-po-angliiskomu-8-klass-kaufman-givaxa.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D1%82%D0%B5%D1%81%D1%82+%D0%B1%D1%83%D0%BA%D0%BB%D0%B5%D1%82%D1%83+7+%D0%BA%D0%BB%D0%B0%D1%81%D1%81",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "200",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

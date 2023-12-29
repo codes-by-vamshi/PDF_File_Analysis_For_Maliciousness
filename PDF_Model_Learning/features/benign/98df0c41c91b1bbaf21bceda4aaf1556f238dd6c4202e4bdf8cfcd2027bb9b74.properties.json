@@ -1,0 +1,43 @@
+{
+    "exif_signatures": {},
+    "file_size": 5574731,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:hhernandez@deltaconectores.com",
+        "mailto:ndelmoral@deltaconectores.com",
+        "mailto:hcontreras@deltaconectores.com",
+        "mailto:ventasmx@deltaconectores.com",
+        "mailto:ale@deltaconectores.com",
+        "mailto:rbaltazar@deltaconectores.com"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "5.6",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "461",
+        "object_start": "461",
+        "object_streams": "29",
+        "open_action": "0",
+        "page_count": "96",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "309",
+        "stream_start": "309",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 129840,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781107560888&kwd=Is%20Killing%20People%20Right?%20:%20More%20Great%20Cases%20that%20Shaped%20the%20Legal%20World",
+        "http://getpdf.pw/book?res=123&isbn=9781107560888&kwd=Is%20Killing%20People%20Right?%20:%20More%20Great%20Cases%20that%20Shaped%20the%20Legal%20World",
+        "https://files8.webydo.com/9589062/UploadedFiles/74159F2A-6EFC-C88E-74F9-30D5B9658260.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660079/normal_61afa580bfd52.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781107560888&kwd=Is%20Killing%20People%20Right?%20:%20More%20Great%20Cases%20that%20Shaped%20the%20Legal%20World",
+        "http://getpdf.pw/book?res=123&isbn=9781107560888&kwd=Is%20Killing%20People%20Right?%20:%20More%20Great%20Cases%20that%20Shaped%20the%20Legal%20World",
+        "https://files8.webydo.com/9589062/UploadedFiles/74159F2A-6EFC-C88E-74F9-30D5B9658260.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660079/normal_61afa580bfd52.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "130",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "89",
+        "object_start": "89",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

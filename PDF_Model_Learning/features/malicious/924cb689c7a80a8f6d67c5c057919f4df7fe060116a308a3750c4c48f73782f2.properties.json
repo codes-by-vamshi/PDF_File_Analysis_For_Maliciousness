@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 123302,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780241392393&kwd=The%20Fork,%20the%20Witch,%20and%20the%20Worm%20:%20Tales%20from%20Alagaesia%20Volume%201:%20Eragon",
+        "http://getpdf.pw/book?res=123&isbn=9780241392393&kwd=The%20Fork,%20the%20Witch,%20and%20the%20Worm%20:%20Tales%20from%20Alagaesia%20Volume%201:%20Eragon",
+        "https://static.s123-cdn.com/uploads/4650273/normal_61aa75414bb0e.pdf",
+        "https://files8.webydo.com/9588416/UploadedFiles/F9297D30-7B11-E6EA-6776-B5DC4877468E.pdf",
+        "https://files8.webydo.com/9588538/UploadedFiles/3CF94D6B-F7E2-7A06-9395-5299DD826A99.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780241392393&kwd=The%20Fork,%20the%20Witch,%20and%20the%20Worm%20:%20Tales%20from%20Alagaesia%20Volume%201:%20Eragon",
+        "http://getpdf.pw/book?res=123&isbn=9780241392393&kwd=The%20Fork,%20the%20Witch,%20and%20the%20Worm%20:%20Tales%20from%20Alagaesia%20Volume%201:%20Eragon",
+        "https://static.s123-cdn.com/uploads/4650273/normal_61aa75414bb0e.pdf",
+        "https://files8.webydo.com/9588416/UploadedFiles/F9297D30-7B11-E6EA-6776-B5DC4877468E.pdf",
+        "https://files8.webydo.com/9588538/UploadedFiles/3CF94D6B-F7E2-7A06-9395-5299DD826A99.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "123",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

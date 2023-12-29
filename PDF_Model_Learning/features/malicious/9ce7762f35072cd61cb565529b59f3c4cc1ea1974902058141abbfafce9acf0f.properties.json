@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 117323,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780830852239&kwd=Reading%20Romans%20with%20Eastern%20Eyes%20:%20Honor%20and%20Shame%20in%20Pauls%20Message%20and%20Mission",
+        "http://getpdf.pw/book?res=strik&isbn=9780830852239&kwd=Reading%20Romans%20with%20Eastern%20Eyes%20:%20Honor%20and%20Shame%20in%20Pauls%20Message%20and%20Mission",
+        "https://static.s123-cdn-static-b.com/uploads/4659033/normal_61ac7ba86c7b1.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4651653/normal_61ac46792a257.pdf",
+        "https://uploads.strikinglycdn.com/files/4c79d7c4-8ed3-4f79-828a-500db7e9efc2/dgray-man-vol-18-366.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659358/normal_61ad1f8989fc6.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780830852239&kwd=Reading%20Romans%20with%20Eastern%20Eyes%20:%20Honor%20and%20Shame%20in%20Pauls%20Message%20and%20Mission",
+        "http://getpdf.pw/book?res=strik&isbn=9780830852239&kwd=Reading%20Romans%20with%20Eastern%20Eyes%20:%20Honor%20and%20Shame%20in%20Pauls%20Message%20and%20Mission",
+        "https://static.s123-cdn-static-b.com/uploads/4659033/normal_61ac7ba86c7b1.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4651653/normal_61ac46792a257.pdf",
+        "https://uploads.strikinglycdn.com/files/4c79d7c4-8ed3-4f79-828a-500db7e9efc2/dgray-man-vol-18-366.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659358/normal_61ad1f8989fc6.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "117",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "81",
+        "object_start": "81",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

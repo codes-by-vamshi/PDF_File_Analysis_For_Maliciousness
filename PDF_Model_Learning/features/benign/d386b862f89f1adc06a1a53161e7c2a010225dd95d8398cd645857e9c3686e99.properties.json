@@ -1,0 +1,64 @@
+{
+    "exif_signatures": {},
+    "file_size": 249683,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.soros.org/initiatives/health/focus/ihrd/articles_publications/publications/harm-reduction-women-ukraine_20100429",
+        "http://www.soros.org/initiatives/health/focus/ihrd/articles_publications/publications/harm-reduction-women-ukraine_20100429",
+        "http://www.harm-reduction.org/images/stories/documents/links/european_convention_ukraine.pdf",
+        "http://www.harm-reduction.org/images/stories/documents/links/european_convention_ukraine.pdf",
+        "http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G08/400/43/PDF/G0840043.pdf?OpenElement",
+        "http://www.who.int/substance_abuse/publications/en/PositionPaper_English.pdf",
+        "http://www.soros.org/publications/women-harm-reduction-and-hiv-0",
+        "http://www.soros.org/reports/arrest-violence-human-rights-violations-against-sex-workers-11-countries-central-and-eastern",
+        "http://www.soros.org/reports/arrest-violence-human-rights-violations-against-sex-workers-11-countries-central-and-eastern",
+        "mailto:dasha.ocheret@gmail.com"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.soros.org/initiatives/health/focus/ihrd/articles_publications/publications/harm-reduction-women-ukraine_20100429",
+        "http://www.soros.org/initiatives/health/focus/ihrd/articles_publications/publications/harm-reduction-women-ukraine_20100429",
+        "http://www.harm-reduction.org/images/stories/documents/links/european_convention_ukraine.pdf",
+        "http://www.harm-reduction.org/images/stories/documents/links/european_convention_ukraine.pdf",
+        "http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G08/400/43/PDF/G0840043.pdf?OpenElement",
+        "http://www.who.int/substance_abuse/publications/en/PositionPaper_English.pdf",
+        "http://www.soros.org/publications/women-harm-reduction-and-hiv-0",
+        "http://www.soros.org/reports/arrest-violence-human-rights-violations-against-sex-workers-11-countries-central-and-eastern",
+        "http://www.soros.org/reports/arrest-violence-human-rights-violations-against-sex-workers-11-countries-central-and-eastern"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "250",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "88",
+        "object_start": "88",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

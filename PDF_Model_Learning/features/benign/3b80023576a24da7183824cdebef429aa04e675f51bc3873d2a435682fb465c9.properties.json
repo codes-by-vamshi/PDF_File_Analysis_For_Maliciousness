@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 197387,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://wvbom.wv.gov/article.asp?id=76&action2=showArticle&ty=CTTS",
+        "https://wvbom.wv.gov/Outofstateandretired.asp",
+        "https://www.wvbdosteo.org/",
+        "https://www.wvbdosteo.org/licensing/do/apply/temp/",
+        "https://www.wvbdosteo.org/licensing/pa/Apply/temp/",
+        "https://wvrnboard.wv.gov/Pages/COVID-19-Information.aspx",
+        "https://wvrnboard.wv.gov/Documents/EO%2017-20.pdf",
+        "https://wvrnboard.wv.gov/Documents/COVID%20Nurses%20Working%20in%20WV%20on%20Other%20State%20License.pdf",
+        "https://wvrnboard.wv.gov/Documents/State_of_Emergency_Other_State_Nursing_Notifications.xlsx",
+        "https://borc.wv.gov/Pages/default.aspx",
+        "https://www.wvbop.com/",
+        "http://apps.sos.wv.gov/adlaw/executivejournal/readpdf.aspx?DocID=89755",
+        "https://www.wvbop.com/www/download_resource.asp?id=295",
+        "https://wvrnboard.wv.gov/Pages/COVID-19-Information.aspx",
+        "https://www.wvinsurance.gov/Portals/0/pdf/pressrelease/20-EO-05%20-%20PBM%20Contracts.pdf?ver=2020-03-27-181054-723"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/pdfx/1.3/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "197",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "51",
+        "object_start": "51",
+        "object_streams": "13",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "43",
+        "stream_start": "43",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

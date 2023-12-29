@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 103436,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781861080493&kwd=Fun%20to%20Make%20Wooden%20Toys%20and%20Games",
+        "http://getpdf.pw/book?res=123&isbn=9781861080493&kwd=Fun%20to%20Make%20Wooden%20Toys%20and%20Games",
+        "https://static.s123-cdn-static-b.com/uploads/4662446/normal_61b1ef144fa2d.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/9fea8a1b-9c16-4473-a02e-a3fc9062dfa0/letters-from-the-east-crusaders-pilgrims-and-settlers-in-the-12th-13th-centuries-443.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781861080493&kwd=Fun%20to%20Make%20Wooden%20Toys%20and%20Games",
+        "http://getpdf.pw/book?res=123&isbn=9781861080493&kwd=Fun%20to%20Make%20Wooden%20Toys%20and%20Games",
+        "https://static.s123-cdn-static-b.com/uploads/4662446/normal_61b1ef144fa2d.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/9fea8a1b-9c16-4473-a02e-a3fc9062dfa0/letters-from-the-east-crusaders-pilgrims-and-settlers-in-the-12th-13th-centuries-443.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "103",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

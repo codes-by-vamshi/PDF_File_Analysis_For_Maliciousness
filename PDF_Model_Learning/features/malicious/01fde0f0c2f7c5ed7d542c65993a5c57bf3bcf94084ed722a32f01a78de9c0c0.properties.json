@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 78047,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781107027428&kwd=Asian%20Capitalism%20and%20the%20Regulation%20of%20Competition%20:%20Towards%20a%20Regulatory%20Geography%20of%20Global%20Competition%20Law",
+        "http://getpdf.pw/book?res=123&isbn=9781107027428&kwd=Asian%20Capitalism%20and%20the%20Regulation%20of%20Competition%20:%20Towards%20a%20Regulatory%20Geography%20of%20Global%20Competition%20Law",
+        "https://img1.wsimg.com/blobby/go/d6935efa-f53a-4cf8-9bd4-210637c6544a/fruit-2nd-edition-edible-inedible-incredible-5.pdf",
+        "https://uploads.strikinglycdn.com/files/9148d0d3-7887-4d9b-8647-56e5f8897194/sports-acupuncture-the-meridian-test-and-its-applications-611.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660302/normal_61af7104aad86.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781107027428&kwd=Asian%20Capitalism%20and%20the%20Regulation%20of%20Competition%20:%20Towards%20a%20Regulatory%20Geography%20of%20Global%20Competition%20Law",
+        "http://getpdf.pw/book?res=123&isbn=9781107027428&kwd=Asian%20Capitalism%20and%20the%20Regulation%20of%20Competition%20:%20Towards%20a%20Regulatory%20Geography%20of%20Global%20Competition%20Law",
+        "https://img1.wsimg.com/blobby/go/d6935efa-f53a-4cf8-9bd4-210637c6544a/fruit-2nd-edition-edible-inedible-incredible-5.pdf",
+        "https://uploads.strikinglycdn.com/files/9148d0d3-7887-4d9b-8647-56e5f8897194/sports-acupuncture-the-meridian-test-and-its-applications-611.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660302/normal_61af7104aad86.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "78",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

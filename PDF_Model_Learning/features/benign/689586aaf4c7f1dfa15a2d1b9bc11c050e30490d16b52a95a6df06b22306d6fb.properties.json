@@ -1,0 +1,46 @@
+{
+    "exif_signatures": {},
+    "file_size": 111171,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "file:///Users/jason/Desktop/SR%20PDFs/web%20pages/sept-oct61%202.htm#Misunderstanding",
+        "file:///Users/jason/Desktop/SR%20PDFs/web%20pages/sept-oct61%202.htm#Anit-Communism%20Schools",
+        "file:///Users/jason/Desktop/SR%20PDFs/web%20pages/sept-oct61%202.htm#Films"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "111",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "without_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

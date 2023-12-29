@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 165591,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781718908642&kwd=The%20Orange%20Family%20:%20A%20Childrens%20Story%20of%20Art%20and%20Love",
+        "http://getpdf.pw/book?res=123&isbn=9781718908642&kwd=The%20Orange%20Family%20:%20A%20Childrens%20Story%20of%20Art%20and%20Love",
+        "https://static.s123-cdn-static-d.com/uploads/4659560/normal_61ad2ec24bd16.pdf",
+        "https://img1.wsimg.com/blobby/go/f5d695e9-fa34-471b-b68b-186308232252/sensory-stimulation-sensory-focused-activities.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659605/normal_61adb507d91c2.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781718908642&kwd=The%20Orange%20Family%20:%20A%20Childrens%20Story%20of%20Art%20and%20Love",
+        "http://getpdf.pw/book?res=123&isbn=9781718908642&kwd=The%20Orange%20Family%20:%20A%20Childrens%20Story%20of%20Art%20and%20Love",
+        "https://static.s123-cdn-static-d.com/uploads/4659560/normal_61ad2ec24bd16.pdf",
+        "https://img1.wsimg.com/blobby/go/f5d695e9-fa34-471b-b68b-186308232252/sensory-stimulation-sensory-focused-activities.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659605/normal_61adb507d91c2.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "166",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "110",
+        "object_start": "110",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "14",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "21",
+        "stream_start": "21",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

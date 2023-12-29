@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 448973,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.has-sante.fr/portail/jcms/c_431294/",
+        "http://www.has-sante.fr/portail/jcms/c_431294/",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/portail/jcms/sd_700619/experts?cid=sd_700619",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.has-sante.fr/portail/jcms/c_431294/",
+        "http://www.has-sante.fr/portail/jcms/c_431294/",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/portail/jcms/sd_700619/experts?cid=sd_700619",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/",
+        "http://www.has-sante.fr/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "449",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "156",
+        "object_start": "156",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "20",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "39",
+        "stream_start": "39",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

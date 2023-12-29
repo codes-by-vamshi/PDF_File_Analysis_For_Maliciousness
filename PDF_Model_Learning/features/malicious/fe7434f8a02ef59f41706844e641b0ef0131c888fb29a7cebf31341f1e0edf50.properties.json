@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 118072,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780750964180&kwd=Junkers:%20Military%20Aircraft%20of%20World%20War%20Two",
+        "http://getpdf.pw/book?res=strik&isbn=9780750964180&kwd=Junkers:%20Military%20Aircraft%20of%20World%20War%20Two",
+        "https://files8.webydo.com/9589011/UploadedFiles/8AE2F68D-5DF6-A6F1-8AF5-4F793E510ED3.pdf",
+        "https://files8.webydo.com/9589053/UploadedFiles/4FCC8465-F631-8B2B-9E4E-EBA50A643268.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660843/normal_61afb4d887f89.pdf",
+        "https://files8.webydo.com/9589039/UploadedFiles/1DB7E8A0-293F-0710-9E8D-7B1C8499358F.pdf",
+        "https://img1.wsimg.com/blobby/go/5ce186df-b5fa-4953-ab91-abc64dc594e5/swing-high-life-lessons-from-childhood-53.pdf",
+        "https://files8.webydo.com/9589105/UploadedFiles/93CB93BE-6EDD-8618-A2DC-17495AEF601D.pdf",
+        "https://files8.webydo.com/9589042/UploadedFiles/2E0C230F-D609-DBA1-B66A-95BBE214DC03.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780750964180&kwd=Junkers:%20Military%20Aircraft%20of%20World%20War%20Two",
+        "http://getpdf.pw/book?res=strik&isbn=9780750964180&kwd=Junkers:%20Military%20Aircraft%20of%20World%20War%20Two",
+        "https://files8.webydo.com/9589011/UploadedFiles/8AE2F68D-5DF6-A6F1-8AF5-4F793E510ED3.pdf",
+        "https://files8.webydo.com/9589053/UploadedFiles/4FCC8465-F631-8B2B-9E4E-EBA50A643268.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660843/normal_61afb4d887f89.pdf",
+        "https://files8.webydo.com/9589039/UploadedFiles/1DB7E8A0-293F-0710-9E8D-7B1C8499358F.pdf",
+        "https://img1.wsimg.com/blobby/go/5ce186df-b5fa-4953-ab91-abc64dc594e5/swing-high-life-lessons-from-childhood-53.pdf",
+        "https://files8.webydo.com/9589105/UploadedFiles/93CB93BE-6EDD-8618-A2DC-17495AEF601D.pdf",
+        "https://files8.webydo.com/9589042/UploadedFiles/2E0C230F-D609-DBA1-B66A-95BBE214DC03.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "118",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "79",
+        "object_start": "79",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

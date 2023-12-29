@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 95043,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781781553077&kwd=Tornado%20F3%20:%20A%20Navigators%20Eye%20on%20Britains%20Last%20Interceptor",
+        "http://getpdf.pw/book?res=strik&isbn=9781781553077&kwd=Tornado%20F3%20:%20A%20Navigators%20Eye%20on%20Britains%20Last%20Interceptor",
+        "https://static.s123-cdn-static-a.com/uploads/4660015/normal_61afc459bba57.pdf",
+        "https://img1.wsimg.com/blobby/go/d0802da5-0d1b-409d-9ee1-3454277c4b6e/suffering-in-silence-exploring-the-painful-tru.pdf",
+        "https://img1.wsimg.com/blobby/go/c99f59d6-d826-4842-bbca-aafcb6373804/coast-postcard-box-50-postcards-from-the-natio.pdf",
+        "https://img1.wsimg.com/blobby/go/c72606bb-210a-44a6-828f-6ae470a3a66a/sneakiest-uses-for-everyday-things-how-to-make.pdf",
+        "https://img1.wsimg.com/blobby/go/42758980-e9e0-4211-83e3-89330f8c4717/the-revolution-of-the-dialectic-esoteric-psych.pdf",
+        "https://img1.wsimg.com/blobby/go/7fa436d4-7413-47aa-8602-d87c5555b4a1/true-stories-of-the-miracles-of-azusa-street-a.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781781553077&kwd=Tornado%20F3%20:%20A%20Navigators%20Eye%20on%20Britains%20Last%20Interceptor",
+        "http://getpdf.pw/book?res=strik&isbn=9781781553077&kwd=Tornado%20F3%20:%20A%20Navigators%20Eye%20on%20Britains%20Last%20Interceptor",
+        "https://static.s123-cdn-static-a.com/uploads/4660015/normal_61afc459bba57.pdf",
+        "https://img1.wsimg.com/blobby/go/d0802da5-0d1b-409d-9ee1-3454277c4b6e/suffering-in-silence-exploring-the-painful-tru.pdf",
+        "https://img1.wsimg.com/blobby/go/c99f59d6-d826-4842-bbca-aafcb6373804/coast-postcard-box-50-postcards-from-the-natio.pdf",
+        "https://img1.wsimg.com/blobby/go/c72606bb-210a-44a6-828f-6ae470a3a66a/sneakiest-uses-for-everyday-things-how-to-make.pdf",
+        "https://img1.wsimg.com/blobby/go/42758980-e9e0-4211-83e3-89330f8c4717/the-revolution-of-the-dialectic-esoteric-psych.pdf",
+        "https://img1.wsimg.com/blobby/go/7fa436d4-7413-47aa-8602-d87c5555b4a1/true-stories-of-the-miracles-of-azusa-street-a.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "68",
+        "object_start": "68",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 102318,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780134058160&kwd=Introductory%20Digital%20Image%20Processing%20:%20A%20Remote%20Sensing%20Perspective",
+        "http://getpdf.pw/book?res=123&isbn=9780134058160&kwd=Introductory%20Digital%20Image%20Processing%20:%20A%20Remote%20Sensing%20Perspective",
+        "https://files8.webydo.com/9588392/UploadedFiles/F1BF0926-E8CF-E11D-959F-69F09231494A.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648629/normal_61a655d9319d4.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/7488b521-3101-468a-b181-fe78d4be3b17/music-for-little-mozarts-music-lesson-book-4-music-discovery-book-4-209.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780134058160&kwd=Introductory%20Digital%20Image%20Processing%20:%20A%20Remote%20Sensing%20Perspective",
+        "http://getpdf.pw/book?res=123&isbn=9780134058160&kwd=Introductory%20Digital%20Image%20Processing%20:%20A%20Remote%20Sensing%20Perspective",
+        "https://files8.webydo.com/9588392/UploadedFiles/F1BF0926-E8CF-E11D-959F-69F09231494A.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648629/normal_61a655d9319d4.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/7488b521-3101-468a-b181-fe78d4be3b17/music-for-little-mozarts-music-lesson-book-4-music-discovery-book-4-209.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "102",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 106612,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781416577935&kwd=Fd%20Companies%20:%20Spectacular%20Dot-com%20Flameouts",
+        "http://getpdf.pw/book?res=123&isbn=9781416577935&kwd=Fd%20Companies%20:%20Spectacular%20Dot-com%20Flameouts",
+        "https://static.s123-cdn.com/uploads/4660175/normal_61afc978e110f.pdf",
+        "https://img1.wsimg.com/blobby/go/df74f976-f949-4514-9861-34a7e499989c/the-body-has-a-mind-of-its-own-how-body-maps-i.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781416577935&kwd=Fd%20Companies%20:%20Spectacular%20Dot-com%20Flameouts",
+        "http://getpdf.pw/book?res=123&isbn=9781416577935&kwd=Fd%20Companies%20:%20Spectacular%20Dot-com%20Flameouts",
+        "https://static.s123-cdn.com/uploads/4660175/normal_61afc978e110f.pdf",
+        "https://img1.wsimg.com/blobby/go/df74f976-f949-4514-9861-34a7e499989c/the-body-has-a-mind-of-its-own-how-body-maps-i.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "107",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

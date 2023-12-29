@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 111442,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://starkave.site/Date-Teresa-Of-Avila-Was-Declared-Venerable/pdf/skankskates.com",
+        "http://starkave.site/Date-Teresa-Of-Avila-Was-Declared-Venerable/doc/skankskates.com",
+        "https://skankskates.com/wp-content/uploads/formidable/10/ca-request-to-enter-default.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/fourth-and-fifth-level-agreement-i-uae.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/teacher-job-satisfaction-scale-tjss-pdf.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/come-to-the-table-by-sidewalk-prophets.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/good-words-to-use-in-a-cv-personal-statement.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/expresssos-license-plate-renewal.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/angelina-jolie-breaks-silence-about-divorce.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/eileen-fisher-renew-collection.pdf"
+    ],
+    "regex_uris": [
+        "http://starkave.site/Date-Teresa-Of-Avila-Was-Declared-Venerable/pdf/skankskates.com)>>>><</Type /Annot /Subtype /Link /Rect [293.00 466.00 542.00 392.00] /Border [0 0 0] /A <</S /URI /URI (http://starkave.site/Date-Teresa-Of-Avila-Was-Declared-Venerable/doc/skankskates.com",
+        "https://skankskates.com/wp-content/uploads/formidable/10/ca-request-to-enter-default.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/fourth-and-fifth-level-agreement-i-uae.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/teacher-job-satisfaction-scale-tjss-pdf.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/come-to-the-table-by-sidewalk-prophets.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/good-words-to-use-in-a-cv-personal-statement.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/expresssos-license-plate-renewal.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/angelina-jolie-breaks-silence-about-divorce.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/eileen-fisher-renew-collection.pdf"
+    ],
+    "regex_urls": [
+        "http://starkave.site/Date-Teresa-Of-Avila-Was-Declared-Venerable/pdf/skankskates.com",
+        "http://starkave.site/Date-Teresa-Of-Avila-Was-Declared-Venerable/doc/skankskates.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "111",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "35",
+        "object_start": "35",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "exif_signatures": {},
+    "file_size": 1143285,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://pubsonline.informs.org",
+        "http://dx.doi.org/10.1287/mnsc.2014.2000",
+        "http://pubsonline.informs.org/page/terms-and-conditions",
+        "http://www.informs.org"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1143",
+        "java_script": "22",
+        "js": "22",
+        "launch_action": "0",
+        "object_end": "212",
+        "object_start": "212",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "188",
+        "stream_start": "188",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

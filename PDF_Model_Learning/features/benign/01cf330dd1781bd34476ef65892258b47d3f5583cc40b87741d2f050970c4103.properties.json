@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 1284712,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://provesjqcv.gva.es/",
+        "https://provesjqcv.gva.es/",
+        "https://provesjqcv.gva.es/",
+        "https://sede.gva.es/es/preguntes-frequents",
+        "https://sede.gva.es/es/per-a-comencar",
+        "https://sede.gva.es/va/ajuda/suport",
+        "https://sede.gva.es/va/ajuda/suport",
+        "https://sede.gva.es/va/ajuda/suport",
+        "mailto:generalitat_en_red@gva.es"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1285",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "173",
+        "object_start": "173",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "15",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "75",
+        "stream_start": "75",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

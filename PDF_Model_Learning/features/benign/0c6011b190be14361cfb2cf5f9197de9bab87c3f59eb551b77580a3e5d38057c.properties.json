@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 108743,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://careers.usc.edu/podcasts/",
+        "http://careers.usc.edu/",
+        "mailto:jobs@zeccotrading.com",
+        "mailto:nfwscvistaleader@gmail.com",
+        "http://www.cecfellowship.org/job2.html",
+        "http://careers.usc.edu/sc_at_work/",
+        "mailto:alison.mann79@gmail.com",
+        "mailto:government_affairs@edwards.com",
+        "mailto:Kristina@tstarmedia.com",
+        "mailto:contact@socialearth.org",
+        "mailto:intrns@usc.edu",
+        "http://careers.usc.edu/students/internships",
+        "http://careers.usc.edu/podcasts",
+        "mailto:Angeline_Macaspac@feinstein.senate.gov",
+        "mailto:lindasanchez.internship@mail.house.gov"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://careers.usc.edu/students/internships",
+        "http://careers.usc.edu/podcasts",
+        "http://www.cecfellowship.org/job2.html",
+        "http://careers.usc.edu/sc_at_work/",
+        "http://careers.usc.edu/podcasts/",
+        "http://careers.usc.edu/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "109",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "55",
+        "object_start": "55",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

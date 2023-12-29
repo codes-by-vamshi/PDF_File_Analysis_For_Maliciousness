@@ -1,0 +1,45 @@
+{
+    "exif_signatures": {},
+    "file_size": 536267,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "javascript:Redirection('LE0000017603_20091227.HTML#I163');",
+        "javascript:Redirection('LE0000017603_20091227.HTML#I163');",
+        "javascript:maf.doc.saveTrail('RCL+1994+1825',%20'RCL_1994_1825-1_A_139',%20'RCL+1994+1825-1*A.139',%20'',%20'LG_2012_30_A_57',%20'spa');",
+        "javascript:maf.doc.saveTrail('RCL+1994+1825',%20'.',%20'RCL+1994+1825',%20'',%20'LG_2012_30_A_57',%20'spa');",
+        "javascript:maf.doc.saveTrail('RCL+1994+1825',%20'.',%20'RCL+1994+1825',%20'',%20'LG_2012_30_A_57',%20'spa');",
+        "javascript:maf.doc.saveTrail('RCL+1994+1825',%20'RCL_1994_1825-1_A_182_BIS',%20'RCL+1994+1825-1*A.182.BIS',%20'',%20'LG_2012_30_A_57',%20'spa');",
+        "javascript:maf.doc.saveTrail('RCL+1994+1825',%20'RCL_1994_1825-1_A_145',%20'RCL+1994+1825-1*A.145',%20'',%20'LG_2012_30_A_57',%20'spa');",
+        "javascript:maf.doc.saveTrail('RCL+1982+1051',%20'.',%20'RCL+1982+1051',%20'',%20'LG_2012_30_A_57',%20'spa');"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "536",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "73",
+        "object_start": "73",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

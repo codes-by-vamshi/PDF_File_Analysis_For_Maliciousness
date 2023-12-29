@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 1026941,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://github.com/alex-bellon/cybersecurity-resources",
+        "https://github.com/fabionoth/awesome-cyber-security",
+        "https://github.com/CSIRT-MU/edu-resources",
+        "https://github.com/onlurking/awesome-infosec",
+        "https://www.cybrary.it/course/comptia-security-plus/",
+        "https://hoppersroppers.org/course.html",
+        "https://hoppersroppers.github.io/courseCTF.html",
+        "https://hoppersroppers.github.io/courseSecurity.html",
+        "https://hoppersroppers.github.io/bootcamp.html",
+        "https://www.sectalks.org/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "www.cybrary.it/course/comptia-security-plus/",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "www.sectalks.org/",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1027",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "838",
+        "object_start": "838",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "108",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "351",
+        "stream_start": "351",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

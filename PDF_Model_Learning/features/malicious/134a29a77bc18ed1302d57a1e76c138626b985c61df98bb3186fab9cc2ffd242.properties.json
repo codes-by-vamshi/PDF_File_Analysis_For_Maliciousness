@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 202711,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=crack+office+mac+2011+torrent",
+        "https://suquwulufamebemof.files.wordpress.com/2018/04/wedoxesu-gdz-po-angliiskomu-iazyku-6-klass-biboletova-2014-zirolawosole.pdf",
+        "https://gurocorewavepetivequ.files.wordpress.com/2018/04/riduzaga-gdz-po-russkomu-iazyku-klass-ladyzhenskaia-ot-putina-wagaxukuv.pdf",
+        "https://jejanatumoli.files.wordpress.com/2018/04/motiveped-reshebnik-po-russkomu-iazyku-6-klass-razumovskaia-2014-god-ot-putina-nazevanuzuse.pdf",
+        "https://pohikereracolicara.files.wordpress.com/2018/04/buduka-prokhodnoi-ball-po-ege-2016-fizika-tetusamefolefar.pdf",
+        "https://tupofofirawamag.files.wordpress.com/2018/04/sobudozabek-varianty-ege-po-obshchestvoznaniiu-2013-tsentr-pegojibadip.pdf",
+        "https://qosevapuvivucifelub.files.wordpress.com/2018/04/sawogotatezo-angliiskii-iazyk-karpiuk-5-klass-zoshit-pedabekoxawo.pdf",
+        "https://hupibopuf.files.wordpress.com/2018/04/daferisaguzo-gdz-po-matem-6-klass-rabochaia-tetrad-erina-fibofobutawik.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=crack+office+mac+2011+torrent",
+        "https://suquwulufamebemof.files.wordpress.com/2018/04/wedoxesu-gdz-po-angliiskomu-iazyku-6-klass-biboletova-2014-zirolawosole.pdf",
+        "https://gurocorewavepetivequ.files.wordpress.com/2018/04/riduzaga-gdz-po-russkomu-iazyku-klass-ladyzhenskaia-ot-putina-wagaxukuv.pdf",
+        "https://jejanatumoli.files.wordpress.com/2018/04/motiveped-reshebnik-po-russkomu-iazyku-6-klass-razumovskaia-2014-god-ot-putina-nazevanuzuse.pdf",
+        "https://pohikereracolicara.files.wordpress.com/2018/04/buduka-prokhodnoi-ball-po-ege-2016-fizika-tetusamefolefar.pdf",
+        "https://tupofofirawamag.files.wordpress.com/2018/04/sobudozabek-varianty-ege-po-obshchestvoznaniiu-2013-tsentr-pegojibadip.pdf",
+        "https://qosevapuvivucifelub.files.wordpress.com/2018/04/sawogotatezo-angliiskii-iazyk-karpiuk-5-klass-zoshit-pedabekoxawo.pdf",
+        "https://hupibopuf.files.wordpress.com/2018/04/daferisaguzo-gdz-po-matem-6-klass-rabochaia-tetrad-erina-fibofobutawik.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=crack+office+mac+2011+torrent",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "203",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "55",
+        "object_start": "55",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

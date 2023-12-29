@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 123906,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781460261828&kwd=Murder%20City%20:%20The%20Untold%20Story%20of%20Canadas%20Serial%20Killer%20Capital,%201959-1984",
+        "http://getpdf.pw/book?res=123&isbn=9781460261828&kwd=Murder%20City%20:%20The%20Untold%20Story%20of%20Canadas%20Serial%20Killer%20Capital,%201959-1984",
+        "https://static.s123-cdn-static-c.com/uploads/4659946/normal_61afa141dace2.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660934/normal_61af794595009.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661499/normal_61af9c80c9534.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781460261828&kwd=Murder%20City%20:%20The%20Untold%20Story%20of%20Canadas%20Serial%20Killer%20Capital,%201959-1984",
+        "http://getpdf.pw/book?res=123&isbn=9781460261828&kwd=Murder%20City%20:%20The%20Untold%20Story%20of%20Canadas%20Serial%20Killer%20Capital,%201959-1984",
+        "https://static.s123-cdn-static-c.com/uploads/4659946/normal_61afa141dace2.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660934/normal_61af794595009.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661499/normal_61af9c80c9534.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "124",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "81",
+        "object_start": "81",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

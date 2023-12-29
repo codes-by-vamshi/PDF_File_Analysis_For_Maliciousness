@@ -1,0 +1,73 @@
+{
+    "exif_signatures": {},
+    "file_size": 419409,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.legis.la.gov/Legis/Law.aspx?d=88016",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102136",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102142",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102142",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102202",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102275",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102293",
+        "http://www.legis.state.la.us/",
+        "https://www.powerdms.com/public/LADPSC/documents/368763",
+        "https://www.powerdms.com/public/LADPSC/documents/371027",
+        "https://www.powerdms.com/public/LADPSC/documents/365310",
+        "https://www.powerdms.com/public/LADPSC/documents/370988"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.legis.la.gov/Legis/Law.aspx?d=88016",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102136",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102142",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102142",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102202",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102275",
+        "http://www.legis.la.gov/Legis/Law.aspx?d=102293",
+        "http://www.legis.state.la.us/",
+        "https",
+        "www.powerdms.com/public/LADPSC/documents/368763",
+        "https",
+        "www.powerdms.com/public/LADPSC/documents/371027",
+        "https",
+        "www.powerdms.com/public/LADPSC/documents/365310",
+        "https",
+        "www.powerdms.com/public/LADPSC/documents/370988"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "419",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

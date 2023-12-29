@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 3109080,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://wallet.google.com",
+        "https://support.google.com/photos/",
+        "http://htc.com/hsm/",
+        "http://htc.com/hsm/",
+        "https://connect.htc.com/certified-devices.html",
+        "https://connect.htc.com/certified-devices.html",
+        "https://connect.htc.com/index.html"
+    ],
+    "regex_uris": [
+        "http://wallet.google.com",
+        "https://support.google.com/photos/",
+        "http://htc.com/hsm/",
+        "http://htc.com/hsm/",
+        "https://connect.htc.com/certified-devices.html",
+        "https://connect.htc.com/certified-devices.html",
+        "https://connect.htc.com/index.html"
+    ],
+    "regex_urls": [
+        "http://wallet.google.com",
+        "https",
+        "http://htc.com/hsm/",
+        "http://htc.com/hsm/",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "3.1",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "8049",
+        "object_start": "8049",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "161",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "540",
+        "stream_start": "540",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

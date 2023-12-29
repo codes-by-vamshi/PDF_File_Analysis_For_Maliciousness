@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 943306,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://pda.etsi.org/pda/queryform.asp)"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://pda.etsi.org/pda/queryform.asp"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "943",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "225",
+        "object_start": "225",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "67",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "89",
+        "stream_start": "89",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

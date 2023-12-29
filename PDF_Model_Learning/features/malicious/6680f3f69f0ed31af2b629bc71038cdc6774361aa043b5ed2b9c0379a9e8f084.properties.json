@@ -1,0 +1,73 @@
+{
+    "exif_signatures": {},
+    "file_size": 85530,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781082219214&kwd=I%20Can%EF%BF%BDt%20Keep%20Calm%20Because%20I%20Am%20An%20Engineering%20Executive%20:%20Career%20journal,%20notebook%20and%20writing%20journal%20for%20encouraging%20men,%20women%20and%20kids.%20A%20framework%20for%20building%20your%20career.",
+        "http://getpdf.pw/book?res=strik&isbn=9781082219214&kwd=I%20Can%EF%BF%BDt%20Keep%20Calm%20Because%20I%20Am%20An%20Engineering%20Executive%20:%20Career%20journal,%20notebook%20and%20writing%20journal%20for%20encouraging%20men,%20women%20and%20kids.%20A%20framework%20for%20building%20your%20career.",
+        "https://static.s123-cdn-static.com/uploads/4671814/normal_61b387c010a23.pdf",
+        "https://static.s123-cdn-static.com/uploads/4662682/normal_61b2e32b8990a.pdf",
+        "https://uploads.strikinglycdn.com/files/31821c4b-78dc-4229-8690-0ca6621a4ace/my-first-encyclopedia-of-bugs-giant-size-33.pdf",
+        "https://static.s123-cdn.com/uploads/4665264/normal_61b39860d360e.pdf",
+        "https://static.s123-cdn-static.com/uploads/4662278/normal_61b2b510b1c27.pdf",
+        "https://static.s123-cdn-static.com/uploads/4663792/normal_61b2810b0f254.pdf",
+        "https://files8.webydo.com/9589301/UploadedFiles/F014247A-B353-F54F-8412-84BD779846DD.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781082219214&kwd=I%20Can%EF%BF%BDt%20Keep%20Calm%20Because%20I%20Am%20An%20Engineering%20Executive%20:%20Career%20journal,%20notebook%20and%20writing%20journal%20for%20encouraging%20men,%20women%20and%20kids.%20A%20framework%20for%20building%20your%20career.",
+        "http://getpdf.pw/book?res=strik&isbn=9781082219214&kwd=I%20Can%EF%BF%BDt%20Keep%20Calm%20Because%20I%20Am%20An%20Engineering%20Executive%20:%20Career%20journal,%20notebook%20and%20writing%20journal%20for%20encouraging%20men,%20women%20and%20kids.%20A%20framework%20for%20building%20your%20career.",
+        "https://static.s123-cdn-static.com/uploads/4671814/normal_61b387c010a23.pdf",
+        "https://static.s123-cdn-static.com/uploads/4662682/normal_61b2e32b8990a.pdf",
+        "https://uploads.strikinglycdn.com/files/31821c4b-78dc-4229-8690-0ca6621a4ace/my-first-encyclopedia-of-bugs-giant-size-33.pdf",
+        "https://static.s123-cdn.com/uploads/4665264/normal_61b39860d360e.pdf",
+        "https://static.s123-cdn-static.com/uploads/4662278/normal_61b2b510b1c27.pdf",
+        "https://static.s123-cdn-static.com/uploads/4663792/normal_61b2810b0f254.pdf",
+        "https://files8.webydo.com/9589301/UploadedFiles/F014247A-B353-F54F-8412-84BD779846DD.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "86",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "suspicious_packer_section",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

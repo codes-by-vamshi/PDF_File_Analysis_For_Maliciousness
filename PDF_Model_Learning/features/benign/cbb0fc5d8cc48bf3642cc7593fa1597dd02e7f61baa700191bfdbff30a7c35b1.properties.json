@@ -1,0 +1,39 @@
+{
+    "exif_signatures": {},
+    "file_size": 558821,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.iec.ch",
+        "http://www.iec.ch"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "559",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "76",
+        "object_start": "76",
+        "object_streams": "7",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "29",
+        "stream_start": "29",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

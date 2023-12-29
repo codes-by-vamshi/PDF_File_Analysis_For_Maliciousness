@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 401576,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level1_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level2_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level3_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level4_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level5_4403702.zip",
+        "http://oupeltemail.com/t/1Q6N-47YDO-N0GIZF-23OAG6-1/c.aspx",
+        "https://elt.oup.com/general_content/cz/meet_the_team?cc=cz&selLanguage=cs&mode=hub"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "402",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "16",
+        "object_start": "16",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "suspicious_packer_section",
+        "without_attachments",
+        "without_images",
+        "without_urls",
+        "invalid_trailer_structure",
+        "invalid_xref_numbers",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

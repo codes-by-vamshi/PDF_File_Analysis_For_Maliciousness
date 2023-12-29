@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 142930,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780415889995&kwd=Effective%20Curriculum%20for%20Teaching%20ESL%20Writing%20and%20Language%20Building",
+        "http://getpdf.pw/book?res=123&isbn=9780415889995&kwd=Effective%20Curriculum%20for%20Teaching%20ESL%20Writing%20and%20Language%20Building",
+        "https://static.s123-cdn-static-a.com/uploads/4662468/normal_61b1eee43980a.pdf",
+        "https://files8.webydo.com/9589298/UploadedFiles/52313D51-ED8A-D920-E181-7A60BAECEDD6.pdf",
+        "https://files8.webydo.com/9589353/UploadedFiles/666C7FA0-8F21-4133-7E47-C854173EB03B.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780415889995&kwd=Effective%20Curriculum%20for%20Teaching%20ESL%20Writing%20and%20Language%20Building",
+        "http://getpdf.pw/book?res=123&isbn=9780415889995&kwd=Effective%20Curriculum%20for%20Teaching%20ESL%20Writing%20and%20Language%20Building",
+        "https://static.s123-cdn-static-a.com/uploads/4662468/normal_61b1eee43980a.pdf",
+        "https://files8.webydo.com/9589298/UploadedFiles/52313D51-ED8A-D920-E181-7A60BAECEDD6.pdf",
+        "https://files8.webydo.com/9589353/UploadedFiles/666C7FA0-8F21-4133-7E47-C854173EB03B.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "143",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "100",
+        "object_start": "100",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

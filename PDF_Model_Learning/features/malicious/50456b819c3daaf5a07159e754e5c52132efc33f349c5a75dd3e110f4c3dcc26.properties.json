@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 45853,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://dbxmsev180.berilata.ru/dwnl3.php",
+        "http://dbxmsev496.berilata.ru/dwnl3.php",
+        "http://arashidal.bltadwin.ru/printworks-baltimore-ohio.pdf",
+        "http://manos.bltadwin.ru/orlando-chilis.pdf",
+        "http://daibar.bltadwin.ru/food-delivery-london-hungry.pdf",
+        "http://samusho.bltadwin.ru/song-nashville-cats-lyrics.pdf",
+        "http://sasida.bltadwin.ru/jeffrey-krupa-charlotte-nc.pdf",
+        "http://samusho.bltadwin.ru/san-francisco-skating-rink-union-square.pdf",
+        "http://tesida.bltadwin.ru/ues-school-los-angeles.pdf"
+    ],
+    "regex_uris": [
+        "http://dbxmsev180.berilata.ru/dwnl3.php",
+        "http://dbxmsev496.berilata.ru/dwnl3.php",
+        "http://arashidal.bltadwin.ru/printworks-baltimore-ohio.pdf",
+        "http://manos.bltadwin.ru/orlando-chilis.pdf",
+        "http://daibar.bltadwin.ru/food-delivery-london-hungry.pdf",
+        "http://samusho.bltadwin.ru/song-nashville-cats-lyrics.pdf",
+        "http://sasida.bltadwin.ru/jeffrey-krupa-charlotte-nc.pdf",
+        "http://samusho.bltadwin.ru/san-francisco-skating-rink-union-square.pdf",
+        "http://tesida.bltadwin.ru/ues-school-los-angeles.pdf"
+    ],
+    "regex_urls": [
+        "http://dbxmsev180.berilata.ru/dwnl3.php",
+        "http://dbxmsev496.berilata.ru/dwnl3.php",
+        "http://arashidal.bltadwin.ru/printworks-baltimore-ohio.pdf",
+        "http://manos.bltadwin.ru/orlando-chilis.pdf",
+        "http://daibar.bltadwin.ru/food-delivery-london-hungry.pdf",
+        "http://samusho.bltadwin.ru/song-nashville-cats-lyrics.pdf",
+        "http://sasida.bltadwin.ru/jeffrey-krupa-charlotte-nc.pdf",
+        "http://samusho.bltadwin.ru/san-francisco-skating-rink-union-square.pdf",
+        "http://tesida.bltadwin.ru/ues-school-los-angeles.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "46",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

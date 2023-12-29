@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 79895,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780525521242&kwd=The%20Art%20of%20Noticing%20:%20131%20Ways%20to%20Spark%20Creativity,%20Find%20Inspiration,%20and%20Discover%20Joy%20in%20the%20Everyday",
+        "http://getpdf.pw/book?res=123&isbn=9780525521242&kwd=The%20Art%20of%20Noticing%20:%20131%20Ways%20to%20Spark%20Creativity,%20Find%20Inspiration,%20and%20Discover%20Joy%20in%20the%20Everyday",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/231bbabf-e103-4f67-9e89-610e096473f2/fatal-voyage-dom-ed-143.pdf",
+        "https://static.s123-cdn-static.com/uploads/4650302/normal_61aa9d72a2b76.pdf",
+        "https://files8.webydo.com/9588537/UploadedFiles/91EE145F-345F-FCE9-E4B5-10DACB08B3A0.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780525521242&kwd=The%20Art%20of%20Noticing%20:%20131%20Ways%20to%20Spark%20Creativity,%20Find%20Inspiration,%20and%20Discover%20Joy%20in%20the%20Everyday",
+        "http://getpdf.pw/book?res=123&isbn=9780525521242&kwd=The%20Art%20of%20Noticing%20:%20131%20Ways%20to%20Spark%20Creativity,%20Find%20Inspiration,%20and%20Discover%20Joy%20in%20the%20Everyday",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/231bbabf-e103-4f67-9e89-610e096473f2/fatal-voyage-dom-ed-143.pdf",
+        "https://static.s123-cdn-static.com/uploads/4650302/normal_61aa9d72a2b76.pdf",
+        "https://files8.webydo.com/9588537/UploadedFiles/91EE145F-345F-FCE9-E4B5-10DACB08B3A0.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "80",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

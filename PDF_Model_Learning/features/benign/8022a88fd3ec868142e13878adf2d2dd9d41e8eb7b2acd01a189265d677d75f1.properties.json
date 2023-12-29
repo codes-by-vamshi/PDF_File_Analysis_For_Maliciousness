@@ -1,0 +1,80 @@
+{
+    "exif_signatures": {},
+    "file_size": 923229,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://responsibleinvestment.org/dhawura-ngilan-business-and-investor-initiative/",
+        "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Northern_Australia/CavesatJuukanGorge/Report",
+        "https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf",
+        "https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf",
+        "https://unglobalcompact.org.au/wp-content/uploads/2020/11/Australian-Business-Guide-to-Implementing-the-UN-Declaration-on-the-Rights-of-Indigenous-People_FINAL.pdf",
+        "https://unglobalcompact.org.au/wp-content/uploads/2020/11/Australian-Business-Guide-to-Implementing-the-UN-Declaration-on-the-Rights-of-Indigenous-People_FINAL.pdf",
+        "https://unglobalcompact.org.au/wp-content/uploads/2020/11/Australian-Business-Guide-to-Implementing-the-UN-Declaration-on-the-Rights-of-Indigenous-People_FINAL.pdf",
+        "https://www.environment.gov.au/system/files/resources/8582db94-6daa-4097-b77e-079a797ef67d/files/dhawura-ngilan-vision-atsi-heritage.pdf",
+        "https://www.environment.gov.au/system/files/resources/8582db94-6daa-4097-b77e-079a797ef67d/files/dhawura-ngilan-vision-atsi-heritage.pdf",
+        "https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards/ps7",
+        "https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards/ps7",
+        "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169",
+        "https://equator-principles.com/",
+        "https://coalitionofpeaks.org.au/new-national-agreement-on-closing-the-gap/targets/",
+        "https://coalitionofpeaks.org.au/new-national-agreement-on-closing-the-gap/targets/",
+        "https://www.icmm.com/en-gb/about-us/member-requirements/position-statements/indigenous-peoples",
+        "https://www.icmm.com/en-gb/about-us/member-requirements/position-statements/indigenous-peoples",
+        "https://aph.gov.au/Parliamentary_Business/Committees/Joint/Northern_Australia/CavesatJuukanGorge/Interim_Report",
+        "https://aph.gov.au/Parliamentary_Business/Committees/Joint/Northern_Australia/CavesatJuukanGorge/Interim_Report",
+        "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Northern_Australia/CavesatJuukanGorge/Report",
+        "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Northern_Australia/CavesatJuukanGorge/Report",
+        "http://www.nntt.gov.au/ILUAs/Pages/default.aspx",
+        "https://info.undp.org/sites/bpps/SES_Toolkit/SES%20Document%20Library/Uploaded%20October%202016/UNDP%20SES%20Supplemental%20Guidance_Grievance%20Redress%20Mechanisms.pdf",
+        "https://info.undp.org/sites/bpps/SES_Toolkit/SES%20Document%20Library/Uploaded%20October%202016/UNDP%20SES%20Supplemental%20Guidance_Grievance%20Redress%20Mechanisms.pdf",
+        "http://www.nntt.gov.au/ILUAs/Pages/default.aspx",
+        "https://www.environment.gov.au/system/files/resources/8582db94-6daa-4097-b77e-079a797ef67d/files/dhawura-ngilan-vision-atsi-heritage.pdf",
+        "https://www.environment.gov.au/system/files/resources/8582db94-6daa-4097-b77e-079a797ef67d/files/dhawura-ngilan-vision-atsi-heritage.pdf",
+        "https://www.un.org/development/desa/indigenouspeoples/publications/2016/10/free-prior-and-informed-consent-an-indigenous-peoples-right-and-a-good-practice-for-local-communities-fao/",
+        "https://www.un.org/development/desa/indigenouspeoples/publications/2016/10/free-prior-and-informed-consent-an-indigenous-peoples-right-and-a-good-practice-for-local-communities-fao/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "923",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "203",
+        "object_start": "203",
+        "object_streams": "12",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "88",
+        "stream_start": "88",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

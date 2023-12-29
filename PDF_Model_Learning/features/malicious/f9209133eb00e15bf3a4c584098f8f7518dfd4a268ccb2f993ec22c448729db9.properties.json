@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 78824,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781437154269&kwd=The%20Colonial%20Records%20Of%20The%20State%20Of%20Georgia%20V23%20:%20Original%20Papers,%20Correspondence,%20Trustees,%20General%20Oglethorpe%20And%20Others,%201741-1742%20(1914)",
+        "http://getpdf.pw/book?res=123&isbn=9781437154269&kwd=The%20Colonial%20Records%20Of%20The%20State%20Of%20Georgia%20V23%20:%20Original%20Papers,%20Correspondence,%20Trustees,%20General%20Oglethorpe%20And%20Others,%201741-1742%20(1914)",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/d7b64f19-64a3-4214-b4e8-3149303e6116/the-timeless-swing-336.pdf",
+        "https://static.s123-cdn.com/uploads/4660103/normal_61af88150d37d.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660307/normal_61afaa685b2a2.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781437154269&kwd=The%20Colonial%20Records%20Of%20The%20State%20Of%20Georgia%20V23%20:%20Original%20Papers,%20Correspondence,%20Trustees,%20General%20Oglethorpe%20And%20Others,%201741-1742%20\\(1914\\)",
+        "http://getpdf.pw/book?res=123&isbn=9781437154269&kwd=The%20Colonial%20Records%20Of%20The%20State%20Of%20Georgia%20V23%20:%20Original%20Papers,%20Correspondence,%20Trustees,%20General%20Oglethorpe%20And%20Others,%201741-1742%20\\(1914\\)",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/d7b64f19-64a3-4214-b4e8-3149303e6116/the-timeless-swing-336.pdf",
+        "https://static.s123-cdn.com/uploads/4660103/normal_61af88150d37d.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660307/normal_61afaa685b2a2.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

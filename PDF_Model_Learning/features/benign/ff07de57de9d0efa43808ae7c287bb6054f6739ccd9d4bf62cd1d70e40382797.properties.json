@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 1672483,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://digital-camscanner.onelink.me/P3GL/g26ffx3k",
+        "https://digital-camscanner.onelink.me/P3GL/g26ffx3k",
+        "https://digital-camscanner.onelink.me/P3GL/g26ffx3k",
+        "https://digital-camscanner.onelink.me/P3GL/g26ffx3k"
+    ],
+    "regex_uris": [
+        "https:\\057\\057digital-camscanner.onelink.me\\057P3GL\\057g26ffx3k",
+        "https:\\057\\057digital-camscanner.onelink.me\\057P3GL\\057g26ffx3k",
+        "https:\\057\\057digital-camscanner.onelink.me\\057P3GL\\057g26ffx3k",
+        "https:\\057\\057digital-camscanner.onelink.me\\057P3GL\\057g26ffx3k"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1672",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "35",
+        "object_start": "35",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

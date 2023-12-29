@@ -1,0 +1,43 @@
+{
+    "exif_signatures": {},
+    "file_size": 4448294,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.timeanddate.com/calendar/seasons.html"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.timeanddate.com/calendar/seasons.html",
+        "http://www.iec.ch",
+        "http://www.iec.ch"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "4.4",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "720",
+        "object_start": "720",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "231",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "372",
+        "stream_start": "372",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

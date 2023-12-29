@@ -1,0 +1,77 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 364515,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.krisamerikos.com/blog/indefinite-pronouns",
+        "https://doi.org/10.21107/prosodi.v13i2.6091",
+        "https://doi.org/10.33369/jeet.1.1.21-34",
+        "https://doi.org/10.1177/104973239300300107",
+        "https://doi.org/10.1177/1362168815572747",
+        "https://www.thoughtco.com/grammatical-error-usage-1690911#:%7E:text=Grammatical%20error%20is%20a%20term,Compare%20grammatical%20error%20with%20correctness",
+        "https://www.thoughtco.com/grammatical-error-usage-1690911#:%7E:text=Grammatical%20error%20is%20a%20term,Compare%20grammatical%20error%20with%20correctness",
+        "https://www.thoughtco.com/grammatical-error-usage-1690911#:%7E:text=Grammatical%20error%20is%20a%20term,Compare%20grammatical%20error%20with%20correctness",
+        "https://doi.org/10.22460/project.v3i4.p477-482",
+        "https://www.grammarly.com/blog/prepositions/",
+        "https://doi.org/10.5539/elt.v10n5p16",
+        "https://keydifferences.com/difference-between-in-and-into.html#:%7E:text=Key%20Differences%20Between%20In%20and%20Into&text=While%20we%20use%20%E2%80%99in%E2%80%99%20to,is%20either%20moving%20or%20transforming",
+        "https://keydifferences.com/difference-between-in-and-into.html#:%7E:text=Key%20Differences%20Between%20In%20and%20Into&text=While%20we%20use%20%E2%80%99in%E2%80%99%20to,is%20either%20moving%20or%20transforming",
+        "https://keydifferences.com/difference-between-in-and-into.html#:%7E:text=Key%20Differences%20Between%20In%20and%20Into&text=While%20we%20use%20%E2%80%99in%E2%80%99%20to,is%20either%20moving%20or%20transforming",
+        "https://keydifferences.com/difference-between-in-and-into.html#:%7E:text=Key%20Differences%20Between%20In%20and%20Into&text=While%20we%20use%20%E2%80%99in%E2%80%99%20to,is%20either%20moving%20or%20transforming",
+        "https://doi.org/10.36232/jurnalpendidikanbahasa.v7i1.443",
+        "https://www.youtube.com/watch?v=uUG9vU99POI&feature=youtu.be"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/pdfx/1.3/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "365",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "61",
+        "object_start": "61",
+        "object_streams": "10",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "51",
+        "stream_start": "51",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

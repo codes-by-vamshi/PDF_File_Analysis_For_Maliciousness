@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 92425,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://msmtp.sourceforge.net/",
+        "http://phpmailer.worxware.com/",
+        "http://localhost/sendmail.php",
+        "http://www.absolutelytech.com/2010/07/17/howto-configure-msmtp-to-work-with-gmail-on-linux/",
+        "http://msmtp.sourceforge.net/doc/msmtp.html",
+        "http://localhost/sendmail.php",
+        "http://localhost/example/phpmailer.php",
+        "https://support.google.com/mail/answer/22370?hl=en",
+        "https://support.google.com/mail/answer/22370?hl=en"
+    ],
+    "regex_uris": [
+        "http://msmtp.sourceforge.net/",
+        "http://phpmailer.worxware.com/",
+        "http://localhost/sendmail.php",
+        "http://www.absolutelytech.com/2010/07/17/howto-configure-msmtp-to-work-with-gmail-on-linux/",
+        "http://msmtp.sourceforge.net/doc/msmtp.html",
+        "http://localhost/sendmail.php",
+        "http://localhost/example/phpmailer.php",
+        "https://support.google.com/mail/answer/22370?hl=en",
+        "https://support.google.com/mail/answer/22370?hl=en"
+    ],
+    "regex_urls": [
+        "http://msmtp.sourceforge.net/",
+        "http://phpmailer.worxware.com/",
+        "http://localhost/sendmail.php",
+        "http://www.absolutelytech.com/2010/07/17/howto-configure-msmtp-to-work-with-gmail-on-linux/",
+        "http://msmtp.sourceforge.net/doc/msmtp.html",
+        "http://localhost/sendmail.php",
+        "http://localhost/example/phpmailer.php",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "92",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "43",
+        "object_start": "43",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers0",
+        "Big_Numbers1",
+        "Big_Numbers2",
+        "Big_Numbers3"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "exif_signatures": {},
+    "file_size": 7220654,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "www.oup.co.uk/vsi",
+        "www.bridgeman.co.uk",
+        "www.hermanmiller.com/europe",
+        "www.design.dk/org/ddc/index_en.htm",
+        "www.design-council.org.uk/",
+        "www.oup.co.uk/vsi",
+        "www.oup.co.uk/isbn/0-19-280239-9",
+        "www.oup.co.uk/isbn/0-19-285421-6",
+        "www.oup.co.uk/vsi/music"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "www.oup.co.uk/isbn/0-19-280239-9",
+        "www.oup.co.uk/vsi/music",
+        "http://www.codemantra.com",
+        "www.design.dk/org/ddc/index_en.htm",
+        "www.hermanmiller.com/europe",
+        "www.design-council.org.uk/",
+        "www.oup.co.uk/vsi",
+        "www.oup.co.uk/isbn/0-19-285421-6",
+        "www.oup.co.uk/vsi",
+        "www.bridgeman.co.uk",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/iX/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/pdfx/1.3/",
+        "http://www.codemantra.com",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "7.2",
+        "java_script": "406",
+        "js": "406",
+        "launch_action": "0",
+        "object_end": "1648",
+        "object_start": "1649",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "169",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "234",
+        "stream_start": "234",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

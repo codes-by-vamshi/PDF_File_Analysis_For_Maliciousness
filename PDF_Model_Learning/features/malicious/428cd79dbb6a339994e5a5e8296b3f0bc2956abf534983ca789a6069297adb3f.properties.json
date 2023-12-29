@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 44047,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://erewutz636.berilata.ru/dwnl3.php",
+        "http://erewutz755.berilata.ru/dwnl3.php",
+        "http://fauzuru.bltadwin.ru/redi-mix-concrete-dallas-texas.pdf",
+        "http://samusho.bltadwin.ru/frank-pellicori-chicago.pdf",
+        "http://mikagis.bltadwin.ru/o-rourke-houston-texas.pdf",
+        "http://zuzuru.bltadwin.ru/las-vegas-network-marketing.pdf",
+        "http://shalabar.bltadwin.ru/tsi-houston-community-college.pdf",
+        "http://tebei.bltadwin.ru/los-angeles-apartments-ibiza-tripadvisor.pdf",
+        "http://mebei.bltadwin.ru/bil-mar-properties-chicago.pdf"
+    ],
+    "regex_uris": [
+        "http://erewutz636.berilata.ru/dwnl3.php",
+        "http://erewutz755.berilata.ru/dwnl3.php",
+        "http://fauzuru.bltadwin.ru/redi-mix-concrete-dallas-texas.pdf",
+        "http://samusho.bltadwin.ru/frank-pellicori-chicago.pdf",
+        "http://mikagis.bltadwin.ru/o-rourke-houston-texas.pdf",
+        "http://zuzuru.bltadwin.ru/las-vegas-network-marketing.pdf",
+        "http://shalabar.bltadwin.ru/tsi-houston-community-college.pdf",
+        "http://tebei.bltadwin.ru/los-angeles-apartments-ibiza-tripadvisor.pdf",
+        "http://mebei.bltadwin.ru/bil-mar-properties-chicago.pdf"
+    ],
+    "regex_urls": [
+        "http://erewutz636.berilata.ru/dwnl3.php",
+        "http://erewutz755.berilata.ru/dwnl3.php",
+        "http://fauzuru.bltadwin.ru/redi-mix-concrete-dallas-texas.pdf",
+        "http://samusho.bltadwin.ru/frank-pellicori-chicago.pdf",
+        "http://mikagis.bltadwin.ru/o-rourke-houston-texas.pdf",
+        "http://zuzuru.bltadwin.ru/las-vegas-network-marketing.pdf",
+        "http://shalabar.bltadwin.ru/tsi-houston-community-college.pdf",
+        "http://tebei.bltadwin.ru/los-angeles-apartments-ibiza-tripadvisor.pdf",
+        "http://mebei.bltadwin.ru/bil-mar-properties-chicago.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "44",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

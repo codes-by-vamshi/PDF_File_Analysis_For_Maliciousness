@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 156892,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:jdacosta@opusd.org",
+        "mailto:vboggs@opusd.org",
+        "https://sites.google.com/opusd.org/opusd-extended-careprogram/hom"
+    ],
+    "regex_uris": [
+        "mailto:jdacosta@opusd.org",
+        "mailto:vboggs@opusd.org",
+        "https://sites.google.com/opusd.org/opusd-extended-careprogram/hom"
+    ],
+    "regex_urls": [
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "157",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "75",
+        "object_start": "75",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "18",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 141859,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9788797060032&kwd=The%20Anatomy%20of%20Viking%20Art%20:%20A%20Quick%20Guide%20to%20the%20Styles%20of%20Norse%20Animal%20Ornament",
+        "http://getpdf.pw/book?res=strik&isbn=9788797060032&kwd=The%20Anatomy%20of%20Viking%20Art%20:%20A%20Quick%20Guide%20to%20the%20Styles%20of%20Norse%20Animal%20Ornament",
+        "https://static.s123-cdn-static.com/uploads/4661207/normal_61af7bf226b86.pdf",
+        "https://files8.webydo.com/9589014/UploadedFiles/F85A4638-0D0C-A50E-4593-648374DABCD0.pdf",
+        "https://uploads.strikinglycdn.com/files/faa3e5a1-6037-485e-a74c-7b5775a9d053/the-long-price-quartet-the-complete-quartet-a-shadow-in-summer-a-betrayal-in-winter-an-autumn-w-43.pdf",
+        "https://static.s123-cdn.com/uploads/4659890/normal_61af84e794505.pdf",
+        "https://static.s123-cdn.com/uploads/4660730/normal_61afb1255d054.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661207/normal_61af7b4c03c58.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9788797060032&kwd=The%20Anatomy%20of%20Viking%20Art%20:%20A%20Quick%20Guide%20to%20the%20Styles%20of%20Norse%20Animal%20Ornament",
+        "http://getpdf.pw/book?res=strik&isbn=9788797060032&kwd=The%20Anatomy%20of%20Viking%20Art%20:%20A%20Quick%20Guide%20to%20the%20Styles%20of%20Norse%20Animal%20Ornament",
+        "https://static.s123-cdn-static.com/uploads/4661207/normal_61af7bf226b86.pdf",
+        "https://files8.webydo.com/9589014/UploadedFiles/F85A4638-0D0C-A50E-4593-648374DABCD0.pdf",
+        "https://uploads.strikinglycdn.com/files/faa3e5a1-6037-485e-a74c-7b5775a9d053/the-long-price-quartet-the-complete-quartet-a-shadow-in-summer-a-betrayal-in-winter-an-autumn-w-43.pdf",
+        "https://static.s123-cdn.com/uploads/4659890/normal_61af84e794505.pdf",
+        "https://static.s123-cdn.com/uploads/4660730/normal_61afb1255d054.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661207/normal_61af7b4c03c58.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "142",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "98",
+        "object_start": "98",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

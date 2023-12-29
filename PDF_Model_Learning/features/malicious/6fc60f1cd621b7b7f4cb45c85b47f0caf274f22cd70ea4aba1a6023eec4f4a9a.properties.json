@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 126075,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780692267059&kwd=Making%20Apps%20with%20Moqui%20:%20Holistic%20Enterprise%20Applications%20Made%20Easy",
+        "http://getpdf.pw/book?res=123&isbn=9780692267059&kwd=Making%20Apps%20with%20Moqui%20:%20Holistic%20Enterprise%20Applications%20Made%20Easy",
+        "https://static.s123-cdn-static-b.com/uploads/4661620/normal_61b0303a8ab50.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661666/normal_61b0ef0ed5be5.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/47de6e56-f984-43f7-b18e-958688643db0/building-better-universities-strategies-spaces-technologies-789.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780692267059&kwd=Making%20Apps%20with%20Moqui%20:%20Holistic%20Enterprise%20Applications%20Made%20Easy",
+        "http://getpdf.pw/book?res=123&isbn=9780692267059&kwd=Making%20Apps%20with%20Moqui%20:%20Holistic%20Enterprise%20Applications%20Made%20Easy",
+        "https://static.s123-cdn-static-b.com/uploads/4661620/normal_61b0303a8ab50.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661666/normal_61b0ef0ed5be5.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/47de6e56-f984-43f7-b18e-958688643db0/building-better-universities-strategies-spaces-technologies-789.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "126",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "85",
+        "object_start": "85",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

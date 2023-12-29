@@ -1,0 +1,70 @@
+{
+    "exif_signatures": {},
+    "file_size": 104994,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://nywherecombo.site/Campbell-County-Va-Warrant-List/pdf/www.novo-soins.com",
+        "http://nywherecombo.site/Campbell-County-Va-Warrant-List/doc/www.novo-soins.com",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/lol-dolls-hair-goals-checklist.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/monterey-county-application-for-modification-of-sentence.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/comet-and-cupid-table-runner.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/testimoni-diet-air-lemon.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/california-constitution-equal-rights-amendment.pdf"
+    ],
+    "regex_uris": [
+        "http://nywherecombo.site/Campbell-County-Va-Warrant-List/pdf/www.novo-soins.com)>>>><</Type /Annot /Subtype /Link /Rect [310.00 454.00 576.00 380.00] /Border [0 0 0] /A <</S /URI /URI (http://nywherecombo.site/Campbell-County-Va-Warrant-List/doc/www.novo-soins.com",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/lol-dolls-hair-goals-checklist.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/monterey-county-application-for-modification-of-sentence.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/comet-and-cupid-table-runner.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/testimoni-diet-air-lemon.pdf",
+        "https://www.novo-soins.com/wp-content/uploads/formidable/2/california-constitution-equal-rights-amendment.pdf"
+    ],
+    "regex_urls": [
+        "http://nywherecombo.site/Campbell-County-Va-Warrant-List/pdf/www.novo-soins.com",
+        "http://nywherecombo.site/Campbell-County-Va-Warrant-List/doc/www.novo-soins.com",
+        "https",
+        "www.novo-soins.com/wp-content/uploads/formidable/2/lol-dolls-hair-goals-checklist.pdf",
+        "https",
+        "www.novo-soins.com/wp-content/uploads/formidable/2/monterey-county-application-for-modification-of-sentence.pdf",
+        "https",
+        "www.novo-soins.com/wp-content/uploads/formidable/2/comet-and-cupid-table-runner.pdf",
+        "https",
+        "www.novo-soins.com/wp-content/uploads/formidable/2/testimoni-diet-air-lemon.pdf",
+        "https",
+        "www.novo-soins.com/wp-content/uploads/formidable/2/california-constitution-equal-rights-amendment.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "105",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "29",
+        "object_start": "29",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

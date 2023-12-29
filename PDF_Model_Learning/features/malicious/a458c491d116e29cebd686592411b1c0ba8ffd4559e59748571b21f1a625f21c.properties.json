@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 102093,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780143130000&kwd=Breaking%20Rockefeller%20:%20The%20Incredible%20Story%20of%20the%20Ambitious%20Rivals%20Who%20Toppled%20an%20Oil%20Empire",
+        "http://getpdf.pw/book?res=123&isbn=9780143130000&kwd=Breaking%20Rockefeller%20:%20The%20Incredible%20Story%20of%20the%20Ambitious%20Rivals%20Who%20Toppled%20an%20Oil%20Empire",
+        "https://img1.wsimg.com/blobby/go/ac4fa1ec-535b-41e9-9244-b3ef045b24cb/australian-bird-guide-930.pdf",
+        "https://files8.webydo.com/9589177/UploadedFiles/5F3624C9-6858-1E9E-3B70-BBD1829E0C01.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780143130000&kwd=Breaking%20Rockefeller%20:%20The%20Incredible%20Story%20of%20the%20Ambitious%20Rivals%20Who%20Toppled%20an%20Oil%20Empire",
+        "http://getpdf.pw/book?res=123&isbn=9780143130000&kwd=Breaking%20Rockefeller%20:%20The%20Incredible%20Story%20of%20the%20Ambitious%20Rivals%20Who%20Toppled%20an%20Oil%20Empire",
+        "https://img1.wsimg.com/blobby/go/ac4fa1ec-535b-41e9-9244-b3ef045b24cb/australian-bird-guide-930.pdf",
+        "https://files8.webydo.com/9589177/UploadedFiles/5F3624C9-6858-1E9E-3B70-BBD1829E0C01.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "102",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

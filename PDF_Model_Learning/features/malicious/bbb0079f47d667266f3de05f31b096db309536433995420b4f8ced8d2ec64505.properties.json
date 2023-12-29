@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 97080,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780983330714&kwd=Managing%20Content%20Marketing%20:%20The%20Real-World%20Guide%20for%20Creating%20Passionate%20Subscribers%20to%20Your%20Brand",
+        "http://getpdf.pw/book?res=123&isbn=9780983330714&kwd=Managing%20Content%20Marketing%20:%20The%20Real-World%20Guide%20for%20Creating%20Passionate%20Subscribers%20to%20Your%20Brand",
+        "https://img1.wsimg.com/blobby/go/1875baf6-ca27-4b6a-a887-7d08938b18ab/power-up-your-brain-the-neuroscience-of-enligh.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660550/normal_61af924812494.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780983330714&kwd=Managing%20Content%20Marketing%20:%20The%20Real-World%20Guide%20for%20Creating%20Passionate%20Subscribers%20to%20Your%20Brand",
+        "http://getpdf.pw/book?res=123&isbn=9780983330714&kwd=Managing%20Content%20Marketing%20:%20The%20Real-World%20Guide%20for%20Creating%20Passionate%20Subscribers%20to%20Your%20Brand",
+        "https://img1.wsimg.com/blobby/go/1875baf6-ca27-4b6a-a887-7d08938b18ab/power-up-your-brain-the-neuroscience-of-enligh.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660550/normal_61af924812494.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

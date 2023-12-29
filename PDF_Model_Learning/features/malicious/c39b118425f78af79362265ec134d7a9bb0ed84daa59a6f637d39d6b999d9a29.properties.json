@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 119935,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780545356626&kwd=A%20Girl%20Named%20Disaster",
+        "http://getpdf.pw/book?res=123&isbn=9780545356626&kwd=A%20Girl%20Named%20Disaster",
+        "https://uploads.strikinglycdn.com/files/06d6b29c-dfa4-4572-b0dd-b20d8682cee8/secrets-of-fertile-soils-humus-as-the-guardian-of-the-fundamentals-of-natural-life-64.pdf",
+        "https://static.s123-cdn.com/uploads/4661854/normal_61b0f14cd3f62.pdf",
+        "https://uploads.strikinglycdn.com/files/1de16977-f9c8-4db0-818d-c2c7abd4fc55/the-sochi-project-an-atlas-of-war-and-tourism-in-the-caucasus-32.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780545356626&kwd=A%20Girl%20Named%20Disaster",
+        "http://getpdf.pw/book?res=123&isbn=9780545356626&kwd=A%20Girl%20Named%20Disaster",
+        "https://uploads.strikinglycdn.com/files/06d6b29c-dfa4-4572-b0dd-b20d8682cee8/secrets-of-fertile-soils-humus-as-the-guardian-of-the-fundamentals-of-natural-life-64.pdf",
+        "https://static.s123-cdn.com/uploads/4661854/normal_61b0f14cd3f62.pdf",
+        "https://uploads.strikinglycdn.com/files/1de16977-f9c8-4db0-818d-c2c7abd4fc55/the-sochi-project-an-atlas-of-war-and-tourism-in-the-caucasus-32.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "120",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

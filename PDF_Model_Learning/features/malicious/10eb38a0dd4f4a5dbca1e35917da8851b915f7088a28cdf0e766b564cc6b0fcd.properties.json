@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 77979,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781500188382&kwd=Staffordshire%20Bull%20Terrier,%20Staffordshire%20Bull%20Terrier%20Training%20AAA%20AKC%20:%20Think%20Like%20a%20Dog%20But%20Dont%20Eat%20Your%20Poop!",
+        "http://getpdf.pw/book?res=123&isbn=9781500188382&kwd=Staffordshire%20Bull%20Terrier,%20Staffordshire%20Bull%20Terrier%20Training%20AAA%20AKC%20:%20Think%20Like%20a%20Dog%20But%20Dont%20Eat%20Your%20Poop!",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/dfaa9d16-079d-482c-bf7a-da99ee07f8e4/waugh-in-abyssinia-350.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781500188382&kwd=Staffordshire%20Bull%20Terrier,%20Staffordshire%20Bull%20Terrier%20Training%20AAA%20AKC%20:%20Think%20Like%20a%20Dog%20But%20Dont%20Eat%20Your%20Poop!",
+        "http://getpdf.pw/book?res=123&isbn=9781500188382&kwd=Staffordshire%20Bull%20Terrier,%20Staffordshire%20Bull%20Terrier%20Training%20AAA%20AKC%20:%20Think%20Like%20a%20Dog%20But%20Dont%20Eat%20Your%20Poop!",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/dfaa9d16-079d-482c-bf7a-da99ee07f8e4/waugh-in-abyssinia-350.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "78",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 123680,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://mongkoktrip.site/Nso-Authenticated-Birth-Certificate-Validity/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Nso-Authenticated-Birth-Certificate-Validity/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/autonomous-machines-moral-judgment-and-acting-for-the-right-reasons.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/basketball-reference-true-shooting-percentage-leaders.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/appliation-of-stat-schema.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/free-robux-offer-website.pdf"
+    ],
+    "regex_uris": [
+        "http://mongkoktrip.site/Nso-Authenticated-Birth-Certificate-Validity/pdf/18.219.185.187)>>>><</Type /Annot /Subtype /Link /Rect [290.00 471.00 555.00 398.00] /Border [0 0 0] /A <</S /URI /URI (http://mongkoktrip.site/Nso-Authenticated-Birth-Certificate-Validity/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/autonomous-machines-moral-judgment-and-acting-for-the-right-reasons.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/basketball-reference-true-shooting-percentage-leaders.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/appliation-of-stat-schema.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/free-robux-offer-website.pdf"
+    ],
+    "regex_urls": [
+        "http://mongkoktrip.site/Nso-Authenticated-Birth-Certificate-Validity/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Nso-Authenticated-Birth-Certificate-Validity/doc/18.219.185.187",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "124",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "51",
+        "object_start": "51",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "19",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "27",
+        "stream_start": "27",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

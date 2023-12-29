@@ -1,0 +1,59 @@
+{
+    "exif_signatures": {},
+    "file_size": 104446,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://nywherecombo.site/Invoice-Ninja-Contact-Phone/pdf/capricahomes.com",
+        "http://nywherecombo.site/Invoice-Ninja-Contact-Phone/doc/capricahomes.com",
+        "https://capricahomes.com/wp-content/uploads/formidable/6/l-oreal-age-perfect-cell-renewal-walmart.pdf",
+        "https://capricahomes.com/wp-content/uploads/formidable/6/directions-to-the-closest-ace-hardware.pdf",
+        "https://capricahomes.com/wp-content/uploads/formidable/6/native-bird-licence-qld.pdf"
+    ],
+    "regex_uris": [
+        "http://nywherecombo.site/Invoice-Ninja-Contact-Phone/pdf/capricahomes.com)>>>><</Type /Annot /Subtype /Link /Rect [309.00 457.00 560.00 387.00] /Border [0 0 0] /A <</S /URI /URI (http://nywherecombo.site/Invoice-Ninja-Contact-Phone/doc/capricahomes.com",
+        "https://capricahomes.com/wp-content/uploads/formidable/6/l-oreal-age-perfect-cell-renewal-walmart.pdf",
+        "https://capricahomes.com/wp-content/uploads/formidable/6/directions-to-the-closest-ace-hardware.pdf",
+        "https://capricahomes.com/wp-content/uploads/formidable/6/native-bird-licence-qld.pdf"
+    ],
+    "regex_urls": [
+        "http://nywherecombo.site/Invoice-Ninja-Contact-Phone/pdf/capricahomes.com",
+        "http://nywherecombo.site/Invoice-Ninja-Contact-Phone/doc/capricahomes.com",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "104",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "27",
+        "object_start": "27",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

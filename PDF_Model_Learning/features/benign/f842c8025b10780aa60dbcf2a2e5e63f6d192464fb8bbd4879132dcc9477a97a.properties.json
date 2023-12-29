@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 44576,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://localhost/xampp/phpinfo.php"
+    ],
+    "regex_uris": [
+        "http://localhost/xampp/phpinfo.php"
+    ],
+    "regex_urls": [
+        "http://localhost/xampp/phpinfo.php"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "45",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "19",
+        "object_start": "19",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "5",
+        "stream_start": "5",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers0",
+        "Big_Numbers1",
+        "Big_Numbers2",
+        "Big_Numbers3"
+    ]
+}

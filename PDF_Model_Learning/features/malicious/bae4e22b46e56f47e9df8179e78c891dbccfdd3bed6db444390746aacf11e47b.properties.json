@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 136981,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781775845119&kwd=South%20Africa",
+        "http://getpdf.pw/book?res=123&isbn=9781775845119&kwd=South%20Africa",
+        "https://uploads.strikinglycdn.com/files/24bb64ef-f214-4168-965a-6361a96a877a/dark-design-782.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781775845119&kwd=South%20Africa",
+        "http://getpdf.pw/book?res=123&isbn=9781775845119&kwd=South%20Africa",
+        "https://uploads.strikinglycdn.com/files/24bb64ef-f214-4168-965a-6361a96a877a/dark-design-782.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "137",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "88",
+        "object_start": "88",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

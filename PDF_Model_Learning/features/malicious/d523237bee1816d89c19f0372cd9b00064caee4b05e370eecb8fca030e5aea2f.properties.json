@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 101116,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781999963125&kwd=Learn%20to%20Crochet%20:%20Clear%20Stitch%20Diagrams%20and%20Instructions.%2020%20Simple%20Projects%20to%20Make",
+        "http://getpdf.pw/book?res=123&isbn=9781999963125&kwd=Learn%20to%20Crochet%20:%20Clear%20Stitch%20Diagrams%20and%20Instructions.%2020%20Simple%20Projects%20to%20Make",
+        "https://static.s123-cdn.com/uploads/4662842/normal_61b22109d3be5.pdf",
+        "https://img1.wsimg.com/blobby/go/c1cf7957-13bd-4430-b820-fa9cd3f1c5f9/placemaking-with-children-and-youth-participat.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781999963125&kwd=Learn%20to%20Crochet%20:%20Clear%20Stitch%20Diagrams%20and%20Instructions.%2020%20Simple%20Projects%20to%20Make",
+        "http://getpdf.pw/book?res=123&isbn=9781999963125&kwd=Learn%20to%20Crochet%20:%20Clear%20Stitch%20Diagrams%20and%20Instructions.%2020%20Simple%20Projects%20to%20Make",
+        "https://static.s123-cdn.com/uploads/4662842/normal_61b22109d3be5.pdf",
+        "https://img1.wsimg.com/blobby/go/c1cf7957-13bd-4430-b820-fa9cd3f1c5f9/placemaking-with-children-and-youth-participat.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "101",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

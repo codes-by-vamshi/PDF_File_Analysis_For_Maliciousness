@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 92543,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780470713792&kwd=Cognitive%20Behavioural%20Coaching%20Techniques%20For%20Dummies",
+        "http://getpdf.pw/book?res=strik&isbn=9780470713792&kwd=Cognitive%20Behavioural%20Coaching%20Techniques%20For%20Dummies",
+        "https://static.s123-cdn-static.com/uploads/4658616/normal_61ac747c47fce.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4658858/normal_61acf8731dac5.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650928/normal_61acb5aad96ed.pdf",
+        "https://static.s123-cdn.com/uploads/4651447/normal_61ad1464ed538.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780470713792&kwd=Cognitive%20Behavioural%20Coaching%20Techniques%20For%20Dummies",
+        "http://getpdf.pw/book?res=strik&isbn=9780470713792&kwd=Cognitive%20Behavioural%20Coaching%20Techniques%20For%20Dummies",
+        "https://static.s123-cdn-static.com/uploads/4658616/normal_61ac747c47fce.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4658858/normal_61acf8731dac5.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650928/normal_61acb5aad96ed.pdf",
+        "https://static.s123-cdn.com/uploads/4651447/normal_61ad1464ed538.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "93",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 390806,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://2.bp.blogspot.com/-V0Fi9Zb6HTk/W5EVVSFg3eI/AAAAAAAAReI/D7cqU3hl3TE2Pu7CnKoe2cnzEWwsgMXEQCEwYBhgL/s1600/Diac-01.JPG",
+        "https://1.bp.blogspot.com/-AmIAtbVKkuA/W5EVVVndQ6I/AAAAAAAAReQ/_PWaXl4VtLA3vH786nu28OvtUZ6K66TEgCEwYBhgL/s1600/Diac-02.JPG",
+        "https://1.bp.blogspot.com/-3VmuhLzCXN4/W5EVViRFPvI/AAAAAAAAReQ/ZpkGFXx5PhcAlGerOQdwFZqoTVfMD6APgCEwYBhgL/s1600/Diac-03.JPG",
+        "https://3.bp.blogspot.com/-qAtJNErKwD0/W5EVWCN6LxI/AAAAAAAAReM/arqRJpERJzEIm6aznaP6G8FLK2iMVuZVACEwYBhgL/s1600/Diac-04.JPG",
+        "https://1.bp.blogspot.com/-S9sc-Mdr05w/W5EVWegC3II/AAAAAAAAReU/-ULUJs_dy1Qm8vzM4VQ6UUa6gstHRwfVQCEwYBhgL/s1600/Diac-05.JPG",
+        "https://2.bp.blogspot.com/-JKsvMCewmUM/W5EVWhwWeSI/AAAAAAAAReM/3cGYfCTfN3Ap190bPoUcW0QRGkYleCg5QCEwYBhgL/s1600/Diac-06.JPG",
+        "https://2.bp.blogspot.com/-JFKqjZiqzfc/W5EVW-iLAmI/AAAAAAAAReU/MRskqRLZS4MflZRd2niKwIH0KIwWohX7QCEwYBhgL/s1600/Diac-07.JPG",
+        "https://3.bp.blogspot.com/-b21Y0H6XVn8/W5EVW68IbCI/AAAAAAAAReQ/3CWlVNgKMuEazSfTLSEr4TVGoK1Edu0UgCEwYBhgL/s1600/Diac-08.JPG",
+        "https://2.bp.blogspot.com/-YjepTbyHS4Q/W5EVXFVYcHI/AAAAAAAAReU/CABEORd7gNs9R4gPXni1pEiJn3VHxT50gCEwYBhgL/s1600/Diac-09.JPG",
+        "https://2.bp.blogspot.com/-LlHSpoMkw88/W5EVXeoWNwI/AAAAAAAAReQ/ty-O-VonDjo6kn0SuE4w0OqRO-dQNDz1QCEwYBhgL/s1600/Diac-10.JPG"
+    ],
+    "regex_uris": [
+        "https://2.bp.blogspot.com/-V0Fi9Zb6HTk/W5EVVSFg3eI/AAAAAAAAReI/D7cqU3hl3TE2Pu7CnKoe2cnzEWwsgMXEQCEwYBhgL/s1600/Diac-01.JPG",
+        "https://1.bp.blogspot.com/-AmIAtbVKkuA/W5EVVVndQ6I/AAAAAAAAReQ/_PWaXl4VtLA3vH786nu28OvtUZ6K66TEgCEwYBhgL/s1600/Diac-02.JPG",
+        "https://1.bp.blogspot.com/-3VmuhLzCXN4/W5EVViRFPvI/AAAAAAAAReQ/ZpkGFXx5PhcAlGerOQdwFZqoTVfMD6APgCEwYBhgL/s1600/Diac-03.JPG",
+        "https://3.bp.blogspot.com/-qAtJNErKwD0/W5EVWCN6LxI/AAAAAAAAReM/arqRJpERJzEIm6aznaP6G8FLK2iMVuZVACEwYBhgL/s1600/Diac-04.JPG",
+        "https://1.bp.blogspot.com/-S9sc-Mdr05w/W5EVWegC3II/AAAAAAAAReU/-ULUJs_dy1Qm8vzM4VQ6UUa6gstHRwfVQCEwYBhgL/s1600/Diac-05.JPG",
+        "https://2.bp.blogspot.com/-JKsvMCewmUM/W5EVWhwWeSI/AAAAAAAAReM/3cGYfCTfN3Ap190bPoUcW0QRGkYleCg5QCEwYBhgL/s1600/Diac-06.JPG",
+        "https://2.bp.blogspot.com/-JFKqjZiqzfc/W5EVW-iLAmI/AAAAAAAAReU/MRskqRLZS4MflZRd2niKwIH0KIwWohX7QCEwYBhgL/s1600/Diac-07.JPG",
+        "https://3.bp.blogspot.com/-b21Y0H6XVn8/W5EVW68IbCI/AAAAAAAAReQ/3CWlVNgKMuEazSfTLSEr4TVGoK1Edu0UgCEwYBhgL/s1600/Diac-08.JPG",
+        "https://2.bp.blogspot.com/-YjepTbyHS4Q/W5EVXFVYcHI/AAAAAAAAReU/CABEORd7gNs9R4gPXni1pEiJn3VHxT50gCEwYBhgL/s1600/Diac-09.JPG",
+        "https://2.bp.blogspot.com/-LlHSpoMkw88/W5EVXeoWNwI/AAAAAAAAReQ/ty-O-VonDjo6kn0SuE4w0OqRO-dQNDz1QCEwYBhgL/s1600/Diac-10.JPG"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "391",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "269",
+        "object_start": "269",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "25",
+        "stream_start": "25",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "with_images",
+        "with_urls",
+        "contentis_base64"
+    ]
+}

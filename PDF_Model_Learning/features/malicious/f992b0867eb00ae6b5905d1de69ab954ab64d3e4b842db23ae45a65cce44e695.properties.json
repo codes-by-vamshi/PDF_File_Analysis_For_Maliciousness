@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 126413,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783639326154&kwd=Social%20Engineering%20in%20Cyber%20Crime",
+        "http://getpdf.pw/book?res=123&isbn=9783639326154&kwd=Social%20Engineering%20in%20Cyber%20Crime",
+        "https://files8.webydo.com/9589003/UploadedFiles/CA90B88F-92C2-882A-8E2A-21969BB9E0F8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783639326154&kwd=Social%20Engineering%20in%20Cyber%20Crime",
+        "http://getpdf.pw/book?res=123&isbn=9783639326154&kwd=Social%20Engineering%20in%20Cyber%20Crime",
+        "https://files8.webydo.com/9589003/UploadedFiles/CA90B88F-92C2-882A-8E2A-21969BB9E0F8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "126",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "83",
+        "object_start": "83",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

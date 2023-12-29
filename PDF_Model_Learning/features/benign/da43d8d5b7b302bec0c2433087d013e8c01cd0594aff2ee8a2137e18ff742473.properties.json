@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 1673697,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://www.johannesuske.com/",
+        "http://www.johannesuske.com/registros-akashicos/registros-akashicos-2/",
+        "http://www.johannesuske.com/registros-akashicos/registros-akashicos-2/",
+        "http://www.johannesuske.com/",
+        "http://registros-akashicos-online.thinkific.com/courses/registros-akashicos-online",
+        "http://www.johannesuske.com/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.johannesuske.com/",
+        "http://www.johannesuske.com/registros-akashicos/registros-akashicos-2/",
+        "http://www.johannesuske.com/registros-akashicos/registros-akashicos-2/",
+        "http://www.johannesuske.com/",
+        "http://registros-akashicos-online.thinkific.com/courses/registros-akashicos-online",
+        "http://www.johannesuske.com/",
+        "http://www.johannesuske.com/",
+        "https",
+        "http://www.lauramorales.es/",
+        "http://www.johannesuske.com/el-metodo-sedona-sedona-method-en-espanol/",
+        "http://www.johannesuske.com/cursos-programados-2/",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1674",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "1003",
+        "object_start": "1004",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "91",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "190",
+        "stream_start": "190",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

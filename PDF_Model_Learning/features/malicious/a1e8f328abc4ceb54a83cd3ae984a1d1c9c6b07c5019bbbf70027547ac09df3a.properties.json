@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 130988,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783319928616&kwd=Building%20Information%20Modeling%20:%20Technology%20Foundations%20and%20Industry%20Practice",
+        "http://getpdf.pw/book?res=123&isbn=9783319928616&kwd=Building%20Information%20Modeling%20:%20Technology%20Foundations%20and%20Industry%20Practice",
+        "https://files8.webydo.com/9589177/UploadedFiles/9F932054-08FC-0DA5-F501-39595DC52604.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660843/normal_61afd790a20bf.pdf",
+        "https://files8.webydo.com/9589146/UploadedFiles/20F8E92D-11BE-6878-E385-2B3C2A3C613B.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783319928616&kwd=Building%20Information%20Modeling%20:%20Technology%20Foundations%20and%20Industry%20Practice",
+        "http://getpdf.pw/book?res=123&isbn=9783319928616&kwd=Building%20Information%20Modeling%20:%20Technology%20Foundations%20and%20Industry%20Practice",
+        "https://files8.webydo.com/9589177/UploadedFiles/9F932054-08FC-0DA5-F501-39595DC52604.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660843/normal_61afd790a20bf.pdf",
+        "https://files8.webydo.com/9589146/UploadedFiles/20F8E92D-11BE-6878-E385-2B3C2A3C613B.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "131",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "90",
+        "object_start": "90",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

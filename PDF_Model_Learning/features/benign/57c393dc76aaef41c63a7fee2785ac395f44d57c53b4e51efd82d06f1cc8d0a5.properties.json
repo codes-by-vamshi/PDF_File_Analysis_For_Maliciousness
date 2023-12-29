@@ -1,0 +1,45 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 4681037,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "4.7",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "311",
+        "object_start": "311",
+        "object_streams": "43",
+        "open_action": "0",
+        "page_count": "22",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "286",
+        "stream_start": "286",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

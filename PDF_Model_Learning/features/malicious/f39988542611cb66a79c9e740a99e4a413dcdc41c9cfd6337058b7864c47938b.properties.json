@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 89037,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781401918668&kwd=The%20Psychic%20Tarot%20Oracle%20Deck",
+        "http://getpdf.pw/book?res=strik&isbn=9781401918668&kwd=The%20Psychic%20Tarot%20Oracle%20Deck",
+        "https://static.s123-cdn-static-d.com/uploads/4651275/normal_61abe8e64b056.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659163/normal_61abda3d095fa.pdf",
+        "https://files8.webydo.com/9588651/UploadedFiles/D9244AE5-09A3-47FD-AA56-2A100D8ABD96.pdf",
+        "https://files8.webydo.com/9588774/UploadedFiles/D6B13224-0CBF-4448-54EA-E9688ABFD524.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/558df6be-7d27-4136-9e01-feac59c2c6e5/cambridge-latin-course-unit-1-students-text-north-american-edition-727.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4658812/normal_61acf57a90079.pdf",
+        "https://uploads.strikinglycdn.com/files/8de267a4-9fc2-47bf-86b5-0e868d809934/komi-cant-communicate-vol-3-188.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781401918668&kwd=The%20Psychic%20Tarot%20Oracle%20Deck",
+        "http://getpdf.pw/book?res=strik&isbn=9781401918668&kwd=The%20Psychic%20Tarot%20Oracle%20Deck",
+        "https://static.s123-cdn-static-d.com/uploads/4651275/normal_61abe8e64b056.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659163/normal_61abda3d095fa.pdf",
+        "https://files8.webydo.com/9588651/UploadedFiles/D9244AE5-09A3-47FD-AA56-2A100D8ABD96.pdf",
+        "https://files8.webydo.com/9588774/UploadedFiles/D6B13224-0CBF-4448-54EA-E9688ABFD524.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/558df6be-7d27-4136-9e01-feac59c2c6e5/cambridge-latin-course-unit-1-students-text-north-american-edition-727.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4658812/normal_61acf57a90079.pdf",
+        "https://uploads.strikinglycdn.com/files/8de267a4-9fc2-47bf-86b5-0e868d809934/komi-cant-communicate-vol-3-188.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "89",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

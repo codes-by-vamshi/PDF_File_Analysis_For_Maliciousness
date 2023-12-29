@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 224040,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780081029022&kwd=Cellular%20Internet%20of%20Things%20:%20From%20Massive%20Deployments%20to%20Critical%205G%20Applications",
+        "http://getpdf.pw/book?res=123&isbn=9780081029022&kwd=Cellular%20Internet%20of%20Things%20:%20From%20Massive%20Deployments%20to%20Critical%205G%20Applications",
+        "https://static.s123-cdn.com/uploads/4659872/normal_61b0339a39d87.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660361/normal_61aff4218c983.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659890/normal_61b058e10d7ed.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780081029022&kwd=Cellular%20Internet%20of%20Things%20:%20From%20Massive%20Deployments%20to%20Critical%205G%20Applications",
+        "http://getpdf.pw/book?res=123&isbn=9780081029022&kwd=Cellular%20Internet%20of%20Things%20:%20From%20Massive%20Deployments%20to%20Critical%205G%20Applications",
+        "https://static.s123-cdn.com/uploads/4659872/normal_61b0339a39d87.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660361/normal_61aff4218c983.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659890/normal_61b058e10d7ed.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "224",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "161",
+        "object_start": "161",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "23",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "32",
+        "stream_start": "32",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

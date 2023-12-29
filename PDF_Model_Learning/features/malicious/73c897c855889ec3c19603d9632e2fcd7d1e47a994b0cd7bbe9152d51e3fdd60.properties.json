@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 79076,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780241297179&kwd=Insect%20:%20Explore%20the%20world%20of%20insects%20and%20creepy-crawlies%20-%20the%20most%20adaptable%20and%20numerous%20creatures%20on%20the%20planet",
+        "http://getpdf.pw/book?res=123&isbn=9780241297179&kwd=Insect%20:%20Explore%20the%20world%20of%20insects%20and%20creepy-crawlies%20-%20the%20most%20adaptable%20and%20numerous%20creatures%20on%20the%20planet",
+        "https://static.s123-cdn-static-c.com/uploads/4661207/normal_61afb69f81f7f.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780241297179&kwd=Insect%20:%20Explore%20the%20world%20of%20insects%20and%20creepy-crawlies%20-%20the%20most%20adaptable%20and%20numerous%20creatures%20on%20the%20planet",
+        "http://getpdf.pw/book?res=123&isbn=9780241297179&kwd=Insect%20:%20Explore%20the%20world%20of%20insects%20and%20creepy-crawlies%20-%20the%20most%20adaptable%20and%20numerous%20creatures%20on%20the%20planet",
+        "https://static.s123-cdn-static-c.com/uploads/4661207/normal_61afb69f81f7f.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 86709,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780008296704&kwd=Virusphere%20:%20Ebola,%20AIDS,%20Influenza%20and%20the%20Hidden%20World%20of%20the%20Virus",
+        "http://getpdf.pw/book?res=123&isbn=9780008296704&kwd=Virusphere%20:%20Ebola,%20AIDS,%20Influenza%20and%20the%20Hidden%20World%20of%20the%20Virus",
+        "https://uploads.strikinglycdn.com/files/3bb4e22a-a18b-4808-9ef1-5be6cfe28ce7/story-of-the-world-vol-2-test-and-answer-key-history-for-the-classical-child-the-middle-ages-494.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661384/normal_61af7f3179dbe.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780008296704&kwd=Virusphere%20:%20Ebola,%20AIDS,%20Influenza%20and%20the%20Hidden%20World%20of%20the%20Virus",
+        "http://getpdf.pw/book?res=123&isbn=9780008296704&kwd=Virusphere%20:%20Ebola,%20AIDS,%20Influenza%20and%20the%20Hidden%20World%20of%20the%20Virus",
+        "https://uploads.strikinglycdn.com/files/3bb4e22a-a18b-4808-9ef1-5be6cfe28ce7/story-of-the-world-vol-2-test-and-answer-key-history-for-the-classical-child-the-middle-ages-494.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661384/normal_61af7f3179dbe.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "87",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

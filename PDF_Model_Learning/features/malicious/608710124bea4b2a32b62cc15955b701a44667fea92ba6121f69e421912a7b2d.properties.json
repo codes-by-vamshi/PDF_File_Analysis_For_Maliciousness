@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 47784,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://jfaihwd39.berilata.ru/dwnl3.php",
+        "http://jfaihwd727.berilata.ru/dwnl3.php",
+        "http://zuzuru.bltadwin.ru/democracy-london-play.pdf",
+        "http://zuzuru.bltadwin.ru/keb-mo-dallas-2017.pdf",
+        "http://zujinn.bltadwin.ru/dallas-fc-stadium.pdf",
+        "http://zologul.bltadwin.ru/u2-claw-philadelphia.pdf",
+        "http://fem.bltadwin.ru/memphis-nashville-new-orleans-tours.pdf",
+        "http://daira.bltadwin.ru/carla-orlando-revista-hombre.pdf",
+        "http://tashicage.bltadwin.ru/detroit-neighborhood-gentrification.pdf"
+    ],
+    "regex_uris": [
+        "http://jfaihwd39.berilata.ru/dwnl3.php",
+        "http://jfaihwd727.berilata.ru/dwnl3.php",
+        "http://zuzuru.bltadwin.ru/democracy-london-play.pdf",
+        "http://zuzuru.bltadwin.ru/keb-mo-dallas-2017.pdf",
+        "http://zujinn.bltadwin.ru/dallas-fc-stadium.pdf",
+        "http://zologul.bltadwin.ru/u2-claw-philadelphia.pdf",
+        "http://fem.bltadwin.ru/memphis-nashville-new-orleans-tours.pdf",
+        "http://daira.bltadwin.ru/carla-orlando-revista-hombre.pdf",
+        "http://tashicage.bltadwin.ru/detroit-neighborhood-gentrification.pdf"
+    ],
+    "regex_urls": [
+        "http://jfaihwd39.berilata.ru/dwnl3.php",
+        "http://jfaihwd727.berilata.ru/dwnl3.php",
+        "http://zuzuru.bltadwin.ru/democracy-london-play.pdf",
+        "http://zuzuru.bltadwin.ru/keb-mo-dallas-2017.pdf",
+        "http://zujinn.bltadwin.ru/dallas-fc-stadium.pdf",
+        "http://zologul.bltadwin.ru/u2-claw-philadelphia.pdf",
+        "http://fem.bltadwin.ru/memphis-nashville-new-orleans-tours.pdf",
+        "http://daira.bltadwin.ru/carla-orlando-revista-hombre.pdf",
+        "http://tashicage.bltadwin.ru/detroit-neighborhood-gentrification.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "48",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

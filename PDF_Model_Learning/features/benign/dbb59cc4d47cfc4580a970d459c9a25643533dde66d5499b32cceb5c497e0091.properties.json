@@ -1,0 +1,64 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 5673823,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://exclusions.oig.hhs.gov/",
+        "https://www.law.cornell.edu/cfr/text/42/491.9",
+        "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=3b7d2100a5a40eebe4b26bca6dee1fe6&term_occur=999&term_src=Title:42:Chapter:IV:Subchapter:G:Part:491:Subpart:A:491.12",
+        "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=3b7d2100a5a40eebe4b26bca6dee1fe6&term_occur=999&term_src=Title:42:Chapter:IV:Subchapter:G:Part:491:Subpart:A:491.12",
+        "https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/SurveyCertEmergPrep/Emergency-Prep-Rule.html",
+        "mailto:SCGEmergencyPrep@cms.hhs.gov",
+        "mailto:khill@thecomplianceteam.org"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "www.law.cornell.edu/cfr/text/42/491.9",
+        "https",
+        "www.law.cornell.edu/definitions/index.php?width=840",
+        "https",
+        "www.law.cornell.edu/definitions/index.php?width=840",
+        "https",
+        "www.cms.gov/Medicare/Provider-Enrollment-and-Certification/SurveyCertEmergPrep/Emergency-Prep-Rule.html",
+        "http://www.pdf-tools.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "5.7",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "458",
+        "object_start": "458",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "85",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "234",
+        "stream_start": "234",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

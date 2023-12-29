@@ -1,0 +1,87 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 227142,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://ec.europa.eu/development/policies/crosscutting/genderequ_en.cfm",
+        "http://register.consilium.europa.eu/pdf/en/07/st09/st09561.en07.pdf",
+        "https://82.142.118.21/exchweb/bin/redir.asp?URL=http://www.igpn.net/download/EU-CIS_Gender_Watch-Czech_Republic.pdf",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://www.oecd.org/document/54/0,3343,en_2649_34541_41048822_1_1_1_1,00.html",
+        "http://www.rozvojovka.cz/index.php?id=200&idArt=33",
+        "http://www.igpn.net/",
+        "mailto:mila.lukasova@osops.cz",
+        "mailto:kristina.kosatikova@igpn.net",
+        "http://www.igpn.net/",
+        "http://62.149.193.10/wide/download/WHO%20DECIDES%20def.pdf?id=547"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://ec.europa.eu/development/policies/crosscutting/genderequ_en.cfm",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://register.consilium.europa.eu/pdf/en/07/st09/st09561.en07.pdf",
+        "https",
+        "http://www.igpn.net/download/EU-CIS_Gender_Watch-Czech_Republic.pdf",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://www.concordeurope.org/Files/media/extranetdocumentsENG/NavigationSecondaire/WorkingGroups/Aidwatch/Aidwatch2008/Light-Full-report.pdf",
+        "http://www.igpn.net/",
+        "http://www.oecd.org/document/54/0",
+        "http://www.rozvojovka.cz/index.php?id=200",
+        "http://www.igpn.net/",
+        "http://62.149.193.10/wide/download/WHO%20DECIDES%20def.pdf?id=547",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/pdfx/1.3/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "1",
+        "file_size": "227",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "114",
+        "object_start": "114",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

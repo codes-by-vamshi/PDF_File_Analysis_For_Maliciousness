@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 221444,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.stockholmexergi.se/content/uploads/2020/12/VARME-670387-v1-Stockholm_Exergis_priss%C3%A4ttningspolicy_-_g%C3%A4ller_from_2020-12-10_Word_DM666757.pdf",
+        "https://www.stockholmexergi.se/sa-klimatkompenserar-vi/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "221",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "8",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "42",
+        "stream_start": "42",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

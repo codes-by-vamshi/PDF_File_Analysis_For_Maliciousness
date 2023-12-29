@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 102821,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780954575038&kwd=50%20Years%20of%20Coronation%20Street%20:%20The%20(Very)%20Unofficial%20Story",
+        "http://getpdf.pw/book?res=123&isbn=9780954575038&kwd=50%20Years%20of%20Coronation%20Street%20:%20The%20(Very)%20Unofficial%20Story",
+        "https://static.s123-cdn-static-b.com/uploads/4659667/normal_61ad3755e8a95.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659767/normal_61ad3d52dff46.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659395/normal_61adf6ee0d152.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780954575038&kwd=50%20Years%20of%20Coronation%20Street%20:%20The%20\\(Very\\)%20Unofficial%20Story",
+        "http://getpdf.pw/book?res=123&isbn=9780954575038&kwd=50%20Years%20of%20Coronation%20Street%20:%20The%20\\(Very\\)%20Unofficial%20Story",
+        "https://static.s123-cdn-static-b.com/uploads/4659667/normal_61ad3755e8a95.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659767/normal_61ad3d52dff46.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659395/normal_61adf6ee0d152.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "103",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

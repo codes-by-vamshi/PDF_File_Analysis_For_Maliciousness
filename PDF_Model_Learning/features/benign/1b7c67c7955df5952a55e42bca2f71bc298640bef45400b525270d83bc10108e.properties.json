@@ -1,0 +1,46 @@
+{
+    "exif_signatures": {},
+    "file_size": 1410006,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.dvgups.ru/",
+        "https://www.dvgups.ru/",
+        "https://lk.dvgups.ru/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.dvgups.ru/",
+        "https",
+        "www.dvgups.ru/",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1410",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "129",
+        "object_start": "129",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "52",
+        "stream_start": "52",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

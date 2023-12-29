@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 103196,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9784431562153&kwd=Groebner%20Bases%20:%20Statistics%20and%20Software%20Systems",
+        "http://getpdf.pw/book?res=123&isbn=9784431562153&kwd=Groebner%20Bases%20:%20Statistics%20and%20Software%20Systems",
+        "https://static.s123-cdn-static-a.com/uploads/4660471/normal_61afced0c4160.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660164/normal_61b03bc3d4eee.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660175/normal_61b062cf26743.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9784431562153&kwd=Groebner%20Bases%20:%20Statistics%20and%20Software%20Systems",
+        "http://getpdf.pw/book?res=123&isbn=9784431562153&kwd=Groebner%20Bases%20:%20Statistics%20and%20Software%20Systems",
+        "https://static.s123-cdn-static-a.com/uploads/4660471/normal_61afced0c4160.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660164/normal_61b03bc3d4eee.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660175/normal_61b062cf26743.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "103",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

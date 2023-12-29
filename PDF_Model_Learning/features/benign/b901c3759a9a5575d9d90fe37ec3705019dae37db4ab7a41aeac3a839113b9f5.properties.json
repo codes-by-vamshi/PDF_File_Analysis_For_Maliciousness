@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 1917416,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://support.google.com/chrome",
+        "http://support.google.com/chrome",
+        "http://www.dlna.org",
+        "http://www.google.com/accounts/recovery",
+        "http://market.android.com/support",
+        "http://www.kobobooks.com",
+        "http://www.adobe.com/cfusion/membership/index.cfm",
+        "http://www.adobe.com/cfusion/membership/index.cfm",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://www.htc.com/support/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1917",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "900",
+        "object_start": "900",
+        "object_streams": "96",
+        "open_action": "0",
+        "page_count": "177",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "721",
+        "stream_start": "721",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

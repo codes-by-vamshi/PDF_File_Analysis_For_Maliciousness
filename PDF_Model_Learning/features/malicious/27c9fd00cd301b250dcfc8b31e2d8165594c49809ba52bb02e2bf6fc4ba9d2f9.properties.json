@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 171591,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781760680657&kwd=When%20Im%20Feeling%20Lonely",
+        "http://getpdf.pw/book?res=weby&isbn=9781760680657&kwd=When%20Im%20Feeling%20Lonely",
+        "https://files8.webydo.com/9588944/UploadedFiles/432B43A4-DFB8-9CCA-E079-764F6D52D92A.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/26454f30-16ec-4171-8598-089abf8248f7/the-twelve-rays-of-light-328.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659386/normal_61ae43dedd1e0.pdf",
+        "https://img1.wsimg.com/blobby/go/351f176f-3dae-4967-bbb4-609a9dd4b5c6/keep-your-gin-up-736.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659632/normal_61ad33e94ec1a.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781760680657&kwd=When%20Im%20Feeling%20Lonely",
+        "http://getpdf.pw/book?res=weby&isbn=9781760680657&kwd=When%20Im%20Feeling%20Lonely",
+        "https://files8.webydo.com/9588944/UploadedFiles/432B43A4-DFB8-9CCA-E079-764F6D52D92A.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/26454f30-16ec-4171-8598-089abf8248f7/the-twelve-rays-of-light-328.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659386/normal_61ae43dedd1e0.pdf",
+        "https://img1.wsimg.com/blobby/go/351f176f-3dae-4967-bbb4-609a9dd4b5c6/keep-your-gin-up-736.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659632/normal_61ad33e94ec1a.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "172",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "117",
+        "object_start": "117",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "15",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "22",
+        "stream_start": "22",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 121497,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://eminemreactor.site/Big-C-Vinayaka-Chavithi-Offers/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Big-C-Vinayaka-Chavithi-Offers/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/top-national-personal-training-certifications.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/private-property-to-rent-bury-st-edmunds.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/these-states-use-the-most-renewable-energy.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/iso-certification-standards-list.pdf"
+    ],
+    "regex_uris": [
+        "http://eminemreactor.site/Big-C-Vinayaka-Chavithi-Offers/pdf/dlinnovations.com)>>>><</Type /Annot /Subtype /Link /Rect [306.00 456.00 554.00 384.00] /Border [0 0 0] /A <</S /URI /URI (http://eminemreactor.site/Big-C-Vinayaka-Chavithi-Offers/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/top-national-personal-training-certifications.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/private-property-to-rent-bury-st-edmunds.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/these-states-use-the-most-renewable-energy.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/iso-certification-standards-list.pdf"
+    ],
+    "regex_urls": [
+        "http://eminemreactor.site/Big-C-Vinayaka-Chavithi-Offers/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Big-C-Vinayaka-Chavithi-Offers/doc/dlinnovations.com",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "121",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "43",
+        "object_start": "43",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "15",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "23",
+        "stream_start": "23",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

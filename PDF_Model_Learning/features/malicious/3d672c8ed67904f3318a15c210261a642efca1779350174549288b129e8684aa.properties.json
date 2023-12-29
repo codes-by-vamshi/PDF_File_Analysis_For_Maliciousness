@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 127115,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781787634381&kwd=Women%20and%20Leadership%20:%20Real%20Lives,%20Real%20Lessons",
+        "http://getpdf.pw/book?res=123&isbn=9781787634381&kwd=Women%20and%20Leadership%20:%20Real%20Lives,%20Real%20Lessons",
+        "https://files8.webydo.com/9588470/UploadedFiles/C5A8EA48-E5CE-C1A2-3A05-2E96D71536E1.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/52729867-97b9-425c-8739-8e4938b7ffd6/the-handbook-of-glaze-recipes-glazes-and-clay-bodies-827.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650466/normal_61aa7c28ba83c.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781787634381&kwd=Women%20and%20Leadership%20:%20Real%20Lives,%20Real%20Lessons",
+        "http://getpdf.pw/book?res=123&isbn=9781787634381&kwd=Women%20and%20Leadership%20:%20Real%20Lives,%20Real%20Lessons",
+        "https://files8.webydo.com/9588470/UploadedFiles/C5A8EA48-E5CE-C1A2-3A05-2E96D71536E1.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/52729867-97b9-425c-8739-8e4938b7ffd6/the-handbook-of-glaze-recipes-glazes-and-clay-bodies-827.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650466/normal_61aa7c28ba83c.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "127",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "85",
+        "object_start": "85",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

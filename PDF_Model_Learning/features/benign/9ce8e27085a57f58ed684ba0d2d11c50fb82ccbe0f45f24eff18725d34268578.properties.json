@@ -1,0 +1,56 @@
+{
+    "exif_signatures": {},
+    "file_size": 828824,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.ariaspa.it/",
+        "http://www.ariaspa.it/",
+        "mailto:segreteria@fasc.it",
+        "http://www.fasc.it/",
+        "mailto:gare.fasc@pecmail.net",
+        "http://www.ariaspa.it/",
+        "mailto:gare.fasc@pecmail.net",
+        "mailto:privacy@fasc.it"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.ariaspa.it/",
+        "http://www.ariaspa.it/",
+        "http://www.fasc.it/",
+        "http://www.ariaspa.it/",
+        "http://crl.infocert.it/crls/firma2/CRL43.crl0",
+        "http://ocsp.sc.infocert.it/05",
+        "http://cert.infocert.it/ca2/firma2/CA.crt0",
+        "https",
+        "www.firma.infocert.it/pdf/PKI-DS.pdf",
+        "http://www.firma.infocert.it/documentazione/manuali.php0"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "829",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "221",
+        "object_start": "221",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "38",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "52",
+        "stream_start": "52",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

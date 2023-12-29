@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 149828,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781168748416&kwd=Uncles%20And%20Aunts%20:%20A%20Farcical%20Comedy%20In%20Three%20Acts%20(1910)",
+        "http://getpdf.pw/book?res=123&isbn=9781168748416&kwd=Uncles%20And%20Aunts%20:%20A%20Farcical%20Comedy%20In%20Three%20Acts%20(1910)",
+        "https://files8.webydo.com/9588962/UploadedFiles/B862DB47-FD4A-1D9C-E824-622692916E40.pdf",
+        "https://img1.wsimg.com/blobby/go/823bbb0f-560f-4b0b-aaff-de5a4bdd7569/the-politically-incorrect-guide-to-the-foundin.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659347/normal_61adf48a2cb96.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781168748416&kwd=Uncles%20And%20Aunts%20:%20A%20Farcical%20Comedy%20In%20Three%20Acts%20\\(1910\\)",
+        "http://getpdf.pw/book?res=123&isbn=9781168748416&kwd=Uncles%20And%20Aunts%20:%20A%20Farcical%20Comedy%20In%20Three%20Acts%20\\(1910\\)",
+        "https://files8.webydo.com/9588962/UploadedFiles/B862DB47-FD4A-1D9C-E824-622692916E40.pdf",
+        "https://img1.wsimg.com/blobby/go/823bbb0f-560f-4b0b-aaff-de5a4bdd7569/the-politically-incorrect-guide-to-the-foundin.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659347/normal_61adf48a2cb96.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "150",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "105",
+        "object_start": "105",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "20",
+        "stream_start": "20",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

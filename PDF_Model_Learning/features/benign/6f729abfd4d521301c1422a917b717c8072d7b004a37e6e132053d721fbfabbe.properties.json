@@ -1,0 +1,49 @@
+{
+    "exif_signatures": {},
+    "file_size": 1034685,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://ukrstat.gov.ua/klasf/nac_kls/op_ukzed_2016.htm",
+        "http://ukrstat.gov.ua/klasf/st_kls/op_skp.pdf",
+        "http://ukrstat.gov.ua/metod_polog/metod_doc/2017/354/mp_ztt.zip",
+        "http://ukrstat.gov.ua/metod_polog/metod_doc/2015/roz_zt/roz_zt.zip",
+        "mailto:ous@dp.ukrstat.gov.ua",
+        "http://www.dneprstat.gov.ua/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://ukrstat.gov.ua/klasf/nac_kls/op_ukzed_2016.htm",
+        "http://ukrstat.gov.ua/klasf/st_kls/op_skp.pdf",
+        "http://ukrstat.gov.ua/metod_polog/metod_doc/2017/354/mp_ztt.zip",
+        "http://ukrstat.gov.ua/metod_polog/metod_doc/2015/roz_zt/roz_zt.zip",
+        "http://www.dneprstat.gov.ua/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1035",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "114",
+        "object_start": "114",
+        "object_streams": "4",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "29",
+        "stream_start": "29",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

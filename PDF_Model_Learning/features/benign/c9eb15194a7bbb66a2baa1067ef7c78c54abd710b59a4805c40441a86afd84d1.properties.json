@@ -1,0 +1,47 @@
+{
+    "exif_signatures": {},
+    "file_size": 1096909,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.elejandria.com/",
+        "file:///private/var/folders/_g/rq9fwpf57k50z4tdfnjpts_h0000gn/C/calibre_5.35.0_tmp_n2fhm5_1/c7i28zos_pdf_out/index_split_002.html#id_Top_of_c1_The_Book_of_Enoch__Cha",
+        "https://www.elejandria.com/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.elejandria.com/",
+        "https",
+        "www.elejandria.com/",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1097",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "2986",
+        "object_start": "2986",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "295",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "534",
+        "stream_start": "534",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

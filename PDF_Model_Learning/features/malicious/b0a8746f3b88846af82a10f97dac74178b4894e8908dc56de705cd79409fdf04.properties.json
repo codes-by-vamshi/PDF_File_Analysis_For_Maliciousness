@@ -1,0 +1,70 @@
+{
+    "exif_signatures": {},
+    "file_size": 105911,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://ujointscheda.site/When-Will-New-Airpods-Be-Released/pdf/www.eagleproductiondesign.com",
+        "http://ujointscheda.site/When-Will-New-Airpods-Be-Released/doc/www.eagleproductiondesign.com",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/the-you-testament-upgrade.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/invitation-letters-crossword-clue.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/does-jewish-bible-have-old-testament.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/oklahoma-homeowners-association-lien.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/towns-called-santa-claus.pdf"
+    ],
+    "regex_uris": [
+        "http://ujointscheda.site/When-Will-New-Airpods-Be-Released/pdf/www.eagleproductiondesign.com)>>>><</Type /Annot /Subtype /Link /Rect [306.00 466.00 560.00 388.00] /Border [0 0 0] /A <</S /URI /URI (http://ujointscheda.site/When-Will-New-Airpods-Be-Released/doc/www.eagleproductiondesign.com",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/the-you-testament-upgrade.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/invitation-letters-crossword-clue.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/does-jewish-bible-have-old-testament.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/oklahoma-homeowners-association-lien.pdf",
+        "https://www.eagleproductiondesign.com/wp-content/uploads/formidable/4/towns-called-santa-claus.pdf"
+    ],
+    "regex_urls": [
+        "http://ujointscheda.site/When-Will-New-Airpods-Be-Released/pdf/www.eagleproductiondesign.com",
+        "http://ujointscheda.site/When-Will-New-Airpods-Be-Released/doc/www.eagleproductiondesign.com",
+        "https",
+        "www.eagleproductiondesign.com/wp-content/uploads/formidable/4/the-you-testament-upgrade.pdf",
+        "https",
+        "www.eagleproductiondesign.com/wp-content/uploads/formidable/4/invitation-letters-crossword-clue.pdf",
+        "https",
+        "www.eagleproductiondesign.com/wp-content/uploads/formidable/4/does-jewish-bible-have-old-testament.pdf",
+        "https",
+        "www.eagleproductiondesign.com/wp-content/uploads/formidable/4/oklahoma-homeowners-association-lien.pdf",
+        "https",
+        "www.eagleproductiondesign.com/wp-content/uploads/formidable/4/towns-called-santa-claus.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "106",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "31",
+        "object_start": "31",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

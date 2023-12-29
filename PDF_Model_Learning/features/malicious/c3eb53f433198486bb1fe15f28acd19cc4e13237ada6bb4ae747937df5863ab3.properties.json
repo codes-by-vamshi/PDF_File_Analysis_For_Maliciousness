@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 96913,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780413649300&kwd=Daniels%20Plays:%20Ripen%20Our%20Darkness,%20Devils%20Gateway,%20Masterpieces,%20Neaptide,%20Byrthrite%20v.%201",
+        "http://getpdf.pw/book?res=strik&isbn=9780413649300&kwd=Daniels%20Plays:%20Ripen%20Our%20Darkness,%20Devils%20Gateway,%20Masterpieces,%20Neaptide,%20Byrthrite%20v.%201",
+        "https://files8.webydo.com/9589021/UploadedFiles/F5E41A6A-0B5B-0B6E-E84B-A41BD9ED778E.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660519/normal_61af75e4a9e54.pdf",
+        "https://files8.webydo.com/9589127/UploadedFiles/35502E1E-D1BB-D9B7-49AA-7DDB17058FE4.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660933/normal_61afb33d8501e.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661218/normal_61af7cd20709f.pdf",
+        "https://static.s123-cdn.com/uploads/4660361/normal_61af8dedabb79.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660175/normal_61af6f93cd272.pdf",
+        "https://img1.wsimg.com/blobby/go/d62e395a-8b5d-49cd-b75b-6562a97de6bd/ghosts-of-gone-birds-677.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780413649300&kwd=Daniels%20Plays:%20Ripen%20Our%20Darkness,%20Devils%20Gateway,%20Masterpieces,%20Neaptide,%20Byrthrite%20v.%201",
+        "http://getpdf.pw/book?res=strik&isbn=9780413649300&kwd=Daniels%20Plays:%20Ripen%20Our%20Darkness,%20Devils%20Gateway,%20Masterpieces,%20Neaptide,%20Byrthrite%20v.%201",
+        "https://files8.webydo.com/9589021/UploadedFiles/F5E41A6A-0B5B-0B6E-E84B-A41BD9ED778E.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660519/normal_61af75e4a9e54.pdf",
+        "https://files8.webydo.com/9589127/UploadedFiles/35502E1E-D1BB-D9B7-49AA-7DDB17058FE4.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660933/normal_61afb33d8501e.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661218/normal_61af7cd20709f.pdf",
+        "https://static.s123-cdn.com/uploads/4660361/normal_61af8dedabb79.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660175/normal_61af6f93cd272.pdf",
+        "https://img1.wsimg.com/blobby/go/d62e395a-8b5d-49cd-b75b-6562a97de6bd/ghosts-of-gone-birds-677.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "66",
+        "object_start": "66",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

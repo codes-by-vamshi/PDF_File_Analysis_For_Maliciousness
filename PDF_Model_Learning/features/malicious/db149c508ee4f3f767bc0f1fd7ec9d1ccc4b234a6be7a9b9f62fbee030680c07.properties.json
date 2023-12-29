@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 90080,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780764355790&kwd=Chadwick%20And%20Friends:%20A%20Lift-the-Flap%20Board%20Book",
+        "http://getpdf.pw/book?res=123&isbn=9780764355790&kwd=Chadwick%20And%20Friends:%20A%20Lift-the-Flap%20Board%20Book",
+        "https://img1.wsimg.com/blobby/go/7d9a832b-b135-42a8-81cb-ca955423a375/keels-simple-diary-volume-two-black-78.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661232/normal_61af7c704343c.pdf",
+        "https://img1.wsimg.com/blobby/go/99ed9f8e-638c-47d9-b3fe-7696e7c7ab95/sabian-symbols-in-astrology-815.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780764355790&kwd=Chadwick%20And%20Friends:%20A%20Lift-the-Flap%20Board%20Book",
+        "http://getpdf.pw/book?res=123&isbn=9780764355790&kwd=Chadwick%20And%20Friends:%20A%20Lift-the-Flap%20Board%20Book",
+        "https://img1.wsimg.com/blobby/go/7d9a832b-b135-42a8-81cb-ca955423a375/keels-simple-diary-volume-two-black-78.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661232/normal_61af7c704343c.pdf",
+        "https://img1.wsimg.com/blobby/go/99ed9f8e-638c-47d9-b3fe-7696e7c7ab95/sabian-symbols-in-astrology-815.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "90",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "60",
+        "object_start": "60",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 3459096,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "mailto:wg14@soasis.org",
+        "mailto:freek@cs.ru.nl",
+        "https://www.iso.org/directives",
+        "https://www.iso.org/patents",
+        "https://www.iso.org/iso/foreword.html",
+        "https://www.open-std.org/JTC1/SC22/WG14/",
+        "http://www.iso.org/obp",
+        "https://standards.iso.org/ittf/PubliclyAvailableStandards/",
+        "https://standards.iso.org/ittf/PubliclyAvailableStandards/",
+        "https://www.unicode.org/reports/tr44",
+        "https://www.unicode.org/reports/tr44",
+        "https://www.unicode.org/reports/tr31",
+        "https://www.unicode.org/reports/tr31",
+        "https://www.unicode.org/Public/UCD/latest/ucd/DerivedCoreProperties.txt",
+        "https://www.unicode.org/Public/UCD/latest/ucd/DerivedCoreProperties.txt",
+        "https://www.iso.org/obp",
+        "https://www.electropedia.org/",
+        "https://www.unicode.org/reports/tr31/tr31-33.html",
+        "https://www.unicode.org/reports/tr31/tr31-33.html"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "3.5",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "1053",
+        "object_start": "1053",
+        "object_streams": "228",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "1052",
+        "stream_start": "1052",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 93442,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781561709793&kwd=Magical%20Mermaids%20and%20Dolphins%20Oracle%20Cards",
+        "http://getpdf.pw/book?res=strik&isbn=9781561709793&kwd=Magical%20Mermaids%20and%20Dolphins%20Oracle%20Cards",
+        "https://static.s123-cdn-static-c.com/uploads/4659225/normal_61ad9af43a3b6.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659426/normal_61ae189fd8dd8.pdf",
+        "https://files8.webydo.com/9588833/UploadedFiles/C49EDBA3-50D1-FC9E-109C-AE9336D30DAB.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/af97a4f7-90c3-402d-a209-49ad078638e1/how-to-research-123.pdf",
+        "https://static.s123-cdn.com/uploads/4659502/normal_61ad56e7ea3bc.pdf",
+        "https://static.s123-cdn.com/uploads/4659630/normal_61ad33c5dc3a7.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781561709793&kwd=Magical%20Mermaids%20and%20Dolphins%20Oracle%20Cards",
+        "http://getpdf.pw/book?res=strik&isbn=9781561709793&kwd=Magical%20Mermaids%20and%20Dolphins%20Oracle%20Cards",
+        "https://static.s123-cdn-static-c.com/uploads/4659225/normal_61ad9af43a3b6.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659426/normal_61ae189fd8dd8.pdf",
+        "https://files8.webydo.com/9588833/UploadedFiles/C49EDBA3-50D1-FC9E-109C-AE9336D30DAB.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/af97a4f7-90c3-402d-a209-49ad078638e1/how-to-research-123.pdf",
+        "https://static.s123-cdn.com/uploads/4659502/normal_61ad56e7ea3bc.pdf",
+        "https://static.s123-cdn.com/uploads/4659630/normal_61ad33c5dc3a7.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "93",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "68",
+        "object_start": "68",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

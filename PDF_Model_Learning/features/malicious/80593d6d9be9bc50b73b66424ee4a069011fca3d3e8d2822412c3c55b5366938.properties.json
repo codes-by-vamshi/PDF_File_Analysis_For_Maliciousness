@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 358747,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781700618474&kwd=I%20Wear%20Purple%20For%20My%20Brother%20Epilepsy%20Awareness%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "http://getpdf.pw/book?res=123&isbn=9781700618474&kwd=I%20Wear%20Purple%20For%20My%20Brother%20Epilepsy%20Awareness%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "https://files8.webydo.com/9589029/UploadedFiles/BE982EE0-218A-90A3-635B-311C3EDE81BE.pdf",
+        "https://img1.wsimg.com/blobby/go/433047cc-4b3f-4ce4-afe5-da2e32702a70/the-healing-power-of-pets-harnessing-the-amazi.pdf",
+        "https://files8.webydo.com/9589100/UploadedFiles/8D85D578-AA93-748D-BBDC-375811104F61.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781700618474&kwd=I%20Wear%20Purple%20For%20My%20Brother%20Epilepsy%20Awareness%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "http://getpdf.pw/book?res=123&isbn=9781700618474&kwd=I%20Wear%20Purple%20For%20My%20Brother%20Epilepsy%20Awareness%20:%20Composition%20Notebook:%20Wide%20Ruled",
+        "https://files8.webydo.com/9589029/UploadedFiles/BE982EE0-218A-90A3-635B-311C3EDE81BE.pdf",
+        "https://img1.wsimg.com/blobby/go/433047cc-4b3f-4ce4-afe5-da2e32702a70/the-healing-power-of-pets-harnessing-the-amazi.pdf",
+        "https://files8.webydo.com/9589100/UploadedFiles/8D85D578-AA93-748D-BBDC-375811104F61.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "359",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "235",
+        "object_start": "235",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "39",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "46",
+        "stream_start": "46",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

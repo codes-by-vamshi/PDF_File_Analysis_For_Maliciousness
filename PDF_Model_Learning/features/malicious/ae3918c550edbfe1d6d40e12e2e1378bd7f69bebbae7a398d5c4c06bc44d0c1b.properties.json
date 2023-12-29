@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 96042,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781473638235&kwd=The%20Arab%20of%20the%20Future%202%20:%20Volume%202:%20A%20Childhood%20in%20the%20Middle%20East,%201984-1985%20-%20A%20Graphic%20Memoir",
+        "http://getpdf.pw/book?res=123&isbn=9781473638235&kwd=The%20Arab%20of%20the%20Future%202%20:%20Volume%202:%20A%20Childhood%20in%20the%20Middle%20East,%201984-1985%20-%20A%20Graphic%20Memoir",
+        "https://files8.webydo.com/9588380/UploadedFiles/585E95AD-9419-EDF5-C00D-492E008D43B6.pdf",
+        "https://uploads.strikinglycdn.com/files/032706f5-b258-4143-81ee-18e1a5d8c223/creating-interactive-fiction-with-inform-7-826.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781473638235&kwd=The%20Arab%20of%20the%20Future%202%20:%20Volume%202:%20A%20Childhood%20in%20the%20Middle%20East,%201984-1985%20-%20A%20Graphic%20Memoir",
+        "http://getpdf.pw/book?res=123&isbn=9781473638235&kwd=The%20Arab%20of%20the%20Future%202%20:%20Volume%202:%20A%20Childhood%20in%20the%20Middle%20East,%201984-1985%20-%20A%20Graphic%20Memoir",
+        "https://files8.webydo.com/9588380/UploadedFiles/585E95AD-9419-EDF5-C00D-492E008D43B6.pdf",
+        "https://uploads.strikinglycdn.com/files/032706f5-b258-4143-81ee-18e1a5d8c223/creating-interactive-fiction-with-inform-7-826.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "96",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

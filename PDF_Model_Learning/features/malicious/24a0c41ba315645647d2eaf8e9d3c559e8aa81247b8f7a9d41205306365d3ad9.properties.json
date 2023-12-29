@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 95449,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781405920308&kwd=Girl%20Unknown%20:%20The%20unputdownable%20SUNDAY%20TIMES%20BESTSELLER%20with%20a%20heart%20stopping%20twist%20.%20.%20.",
+        "http://getpdf.pw/book?res=123&isbn=9781405920308&kwd=Girl%20Unknown%20:%20The%20unputdownable%20SUNDAY%20TIMES%20BESTSELLER%20with%20a%20heart%20stopping%20twist%20.%20.%20.",
+        "https://files8.webydo.com/9588468/UploadedFiles/66E92EB7-84FC-27A8-73B7-896434FB3131.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781405920308&kwd=Girl%20Unknown%20:%20The%20unputdownable%20SUNDAY%20TIMES%20BESTSELLER%20with%20a%20heart%20stopping%20twist%20.%20.%20.",
+        "http://getpdf.pw/book?res=123&isbn=9781405920308&kwd=Girl%20Unknown%20:%20The%20unputdownable%20SUNDAY%20TIMES%20BESTSELLER%20with%20a%20heart%20stopping%20twist%20.%20.%20.",
+        "https://files8.webydo.com/9588468/UploadedFiles/66E92EB7-84FC-27A8-73B7-896434FB3131.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

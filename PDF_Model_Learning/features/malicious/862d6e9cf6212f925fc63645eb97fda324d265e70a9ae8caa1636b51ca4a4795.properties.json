@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 50680,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://woijezp262.berilata.ru/dwnl3.php",
+        "http://woijezp799.berilata.ru/dwnl3.php",
+        "http://jojor.bltadwin.ru/mlslistings-san-jose-ca.pdf",
+        "http://vudot.bltadwin.ru/perrin-kaplan-seattle.pdf",
+        "http://shalabar.bltadwin.ru/deanna-austin-life-coach.pdf",
+        "http://tenos.bltadwin.ru/tokyo-21-c-club.pdf",
+        "http://vudot.bltadwin.ru/festus-missouri-police-department.pdf",
+        "http://mezijar.bltadwin.ru/frank-austin-manyhorses-healing.pdf",
+        "http://fezahn.bltadwin.ru/denver-gun-store.pdf"
+    ],
+    "regex_uris": [
+        "http://woijezp262.berilata.ru/dwnl3.php",
+        "http://woijezp799.berilata.ru/dwnl3.php",
+        "http://jojor.bltadwin.ru/mlslistings-san-jose-ca.pdf",
+        "http://vudot.bltadwin.ru/perrin-kaplan-seattle.pdf",
+        "http://shalabar.bltadwin.ru/deanna-austin-life-coach.pdf",
+        "http://tenos.bltadwin.ru/tokyo-21-c-club.pdf",
+        "http://vudot.bltadwin.ru/festus-missouri-police-department.pdf",
+        "http://mezijar.bltadwin.ru/frank-austin-manyhorses-healing.pdf",
+        "http://fezahn.bltadwin.ru/denver-gun-store.pdf"
+    ],
+    "regex_urls": [
+        "http://woijezp262.berilata.ru/dwnl3.php",
+        "http://woijezp799.berilata.ru/dwnl3.php",
+        "http://jojor.bltadwin.ru/mlslistings-san-jose-ca.pdf",
+        "http://vudot.bltadwin.ru/perrin-kaplan-seattle.pdf",
+        "http://shalabar.bltadwin.ru/deanna-austin-life-coach.pdf",
+        "http://tenos.bltadwin.ru/tokyo-21-c-club.pdf",
+        "http://vudot.bltadwin.ru/festus-missouri-police-department.pdf",
+        "http://mezijar.bltadwin.ru/frank-austin-manyhorses-healing.pdf",
+        "http://fezahn.bltadwin.ru/denver-gun-store.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "51",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "52",
+        "object_start": "52",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "9",
+        "stream_start": "9",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

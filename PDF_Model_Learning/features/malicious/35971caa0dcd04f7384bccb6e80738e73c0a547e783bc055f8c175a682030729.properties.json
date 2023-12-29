@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 141826,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780571303809&kwd=Difficult%20Men%20:%20From%20The%20Sopranos%20and%20The%20Wire%20to%20Mad%20Men%20and%20Breaking%20Bad",
+        "http://getpdf.pw/book?res=123&isbn=9780571303809&kwd=Difficult%20Men%20:%20From%20The%20Sopranos%20and%20The%20Wire%20to%20Mad%20Men%20and%20Breaking%20Bad",
+        "https://files8.webydo.com/9588311/UploadedFiles/DE6400DD-22F0-733B-204E-C48A3B7C1E23.pdf",
+        "https://files8.webydo.com/9588373/UploadedFiles/6E15D1E3-166E-88FF-7638-78F1701642DC.pdf",
+        "https://uploads.strikinglycdn.com/files/66a7f6c5-3c5d-4109-a030-7fec99659289/the-decline-of-eastern-christianity-under-islam-from-jihad-to-dhimmitude-seventh-twentieth-century-744.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780571303809&kwd=Difficult%20Men%20:%20From%20The%20Sopranos%20and%20The%20Wire%20to%20Mad%20Men%20and%20Breaking%20Bad",
+        "http://getpdf.pw/book?res=123&isbn=9780571303809&kwd=Difficult%20Men%20:%20From%20The%20Sopranos%20and%20The%20Wire%20to%20Mad%20Men%20and%20Breaking%20Bad",
+        "https://files8.webydo.com/9588311/UploadedFiles/DE6400DD-22F0-733B-204E-C48A3B7C1E23.pdf",
+        "https://files8.webydo.com/9588373/UploadedFiles/6E15D1E3-166E-88FF-7638-78F1701642DC.pdf",
+        "https://uploads.strikinglycdn.com/files/66a7f6c5-3c5d-4109-a030-7fec99659289/the-decline-of-eastern-christianity-under-islam-from-jihad-to-dhimmitude-seventh-twentieth-century-744.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "142",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "93",
+        "object_start": "93",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

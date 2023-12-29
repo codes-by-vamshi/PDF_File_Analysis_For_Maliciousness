@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 107756,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780691158273&kwd=For%20the%20Time%20Being%20:%20A%20Christmas%20Oratorio",
+        "http://getpdf.pw/book?res=123&isbn=9780691158273&kwd=For%20the%20Time%20Being%20:%20A%20Christmas%20Oratorio",
+        "https://static.s123-cdn.com/uploads/4659643/normal_61ae2542122ee.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659358/normal_61adcf79af480.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780691158273&kwd=For%20the%20Time%20Being%20:%20A%20Christmas%20Oratorio",
+        "http://getpdf.pw/book?res=123&isbn=9780691158273&kwd=For%20the%20Time%20Being%20:%20A%20Christmas%20Oratorio",
+        "https://static.s123-cdn.com/uploads/4659643/normal_61ae2542122ee.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659358/normal_61adcf79af480.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "108",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

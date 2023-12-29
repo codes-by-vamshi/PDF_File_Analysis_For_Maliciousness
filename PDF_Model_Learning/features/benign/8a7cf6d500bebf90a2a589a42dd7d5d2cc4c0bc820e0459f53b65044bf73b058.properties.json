@@ -1,0 +1,64 @@
+{
+    "exif_signatures": {},
+    "file_size": 87724,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html",
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-specialized.html",
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-specialized.html"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.studyinjapan.go.jp/en/smap-stopj-applications-research.html",
+        "https",
+        "www.studyinjapan.go.jp/en/smap-stopj-applications-specialized.html",
+        "https",
+        "www.studyinjapan.go.jp/en/smap-stopj-applications-specialized.html"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "88",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "23",
+        "object_start": "23",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "5",
+        "stream_start": "5",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

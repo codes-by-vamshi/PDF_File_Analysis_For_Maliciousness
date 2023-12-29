@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 142108,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781484250822&kwd=Introducing%20MySQL%20Shell%20:%20Administration%20Made%20Easy%20with%20Python",
+        "http://getpdf.pw/book?res=123&isbn=9781484250822&kwd=Introducing%20MySQL%20Shell%20:%20Administration%20Made%20Easy%20with%20Python",
+        "https://static.s123-cdn-static-d.com/uploads/4660934/normal_61b0981880931.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659968/normal_61b05af410449.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660012/normal_61b01070b02c8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781484250822&kwd=Introducing%20MySQL%20Shell%20:%20Administration%20Made%20Easy%20with%20Python",
+        "http://getpdf.pw/book?res=123&isbn=9781484250822&kwd=Introducing%20MySQL%20Shell%20:%20Administration%20Made%20Easy%20with%20Python",
+        "https://static.s123-cdn-static-d.com/uploads/4660934/normal_61b0981880931.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659968/normal_61b05af410449.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660012/normal_61b01070b02c8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "142",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "100",
+        "object_start": "100",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

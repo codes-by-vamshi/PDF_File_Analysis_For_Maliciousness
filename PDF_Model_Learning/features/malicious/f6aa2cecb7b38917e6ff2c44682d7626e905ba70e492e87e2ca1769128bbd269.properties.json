@@ -1,0 +1,102 @@
+{
+    "exif_signatures": {},
+    "file_size": 110820,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://widesearchengine.com/ZG93bmxvYWR8dng0TVc5bVpUbDhmREUyTmpVM016TTROREY4ZkRJMU9UQjhmQ2hOS1NCWGIzSmtjSEpsYzNNZ1cxaE5URkpRUXlCV01pQlFSRVpk/?U2hhbXMgQWwgTWFhcmlmIEFsIEt1YnJhIDY5NC5wZGYU2h.birthrate?mobilization=impoundment=catchup",
+        "https://agronomie.info/wp-content/uploads/2022/10/fryliv.pdf",
+        "https://koenigthailand.com/wp-content/uploads/2022/10/Visual_Basic_60_Free_Download_HOT_Full_Version_Filehippo.pdf",
+        "http://www.midax.it/registrazione-utenti/",
+        "http://guc.lt/?p=36542",
+        "https://buycoffeemugs.com/magicsim-v25-5-103-__exclusive__/",
+        "https://check-list-demenagement.fr/wp-content/uploads/2022/10/elementary_differential_equations_rainville_bedient_solution-1.pdf",
+        "https://ldssystems.com/wp-content/uploads/spriemme.pdf",
+        "https://cloudxmedia.com/godswar-auto-race-83-22-repack/",
+        "http://sourceofhealth.net/2022/10/18/tournament-dreams-college-basketball-download-full-version-link/",
+        "https://www.djogre.com/wp-content/uploads/2022/10/chemdraw_pro_12_0_16-1.pdf",
+        "http://www.tcpdf.org"
+    ],
+    "regex_uris": [
+        "http://widesearchengine.com/ZG93bmxvYWR8dng0TVc5bVpUbDhmREUyTmpVM016TTROREY4ZkRJMU9UQjhmQ2hOS1NCWGIzSmtjSEpsYzNNZ1cxaE5URkpRUXlCV01pQlFSRVpk/?U2hhbXMgQWwgTWFhcmlmIEFsIEt1YnJhIDY5NC5wZGYU2h.birthrate?mobilization=impoundment=catchup",
+        "https://agronomie.info/wp-content/uploads/2022/10/fryliv.pdf",
+        "https://koenigthailand.com/wp-content/uploads/2022/10/Visual_Basic_60_Free_Download_HOT_Full_Version_Filehippo.pdf",
+        "http://www.midax.it/registrazione-utenti/",
+        "http://guc.lt/?p=36542",
+        "https://buycoffeemugs.com/magicsim-v25-5-103-__exclusive__/",
+        "https://check-list-demenagement.fr/wp-content/uploads/2022/10/elementary_differential_equations_rainville_bedient_solution-1.pdf",
+        "https://ldssystems.com/wp-content/uploads/spriemme.pdf",
+        "https://cloudxmedia.com/godswar-auto-race-83-22-repack/",
+        "http://sourceofhealth.net/2022/10/18/tournament-dreams-college-basketball-download-full-version-link/",
+        "https://www.djogre.com/wp-content/uploads/2022/10/chemdraw_pro_12_0_16-1.pdf",
+        "http://www.tcpdf.org"
+    ],
+    "regex_urls": [
+        "http://widesearchengine.com/ZG93bmxvYWR8dng0TVc5bVpUbDhmREUyTmpVM016TTROREY4ZkRJMU9UQjhmQ2hOS1NCWGIzSmtjSEpsYzNNZ1cxaE5URkpRUXlCV01pQlFSRVpk/?U2hhbXMgQWwgTWFhcmlmIEFsIEt1YnJhIDY5NC5wZGYU2h.birthrate?mobilization=impoundment=catchup",
+        "https",
+        "https",
+        "http://www.midax.it/registrazione-utenti/",
+        "http://guc.lt/?p=36542",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://sourceofhealth.net/2022/10/18/tournament-dreams-college-basketball-download-full-version-link/",
+        "https",
+        "www.djogre.com/wp-content/uploads/2022/10/chemdraw_pro_12_0_16-1.pdf",
+        "http://www.tcpdf.org",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/extension/",
+        "http://www.aiim.org/pdfa/ns/schema#",
+        "http://www.aiim.org/pdfa/ns/property#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/id/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "111",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "34",
+        "object_start": "34",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "9",
+        "stream_start": "9",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

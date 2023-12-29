@@ -1,0 +1,102 @@
+{
+    "exif_signatures": {},
+    "file_size": 109525,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://blogbasters.com/resp/balk?pelai=solving&b2JyYXplYyBlciAyOCBwZGYgMTUb2J=exploding&unipolar=ZG93bmxvYWR8QU40WmpGamFIeDhNVFkyTlRjek16ZzBNWHg4TWpVNU1IeDhLRTBwSUZkdmNtUndjbVZ6Y3lCYldFMU1VbEJESUZZeUlGQkVSbDA",
+        "https://orbeeari.com/gx-works2-torrent-free/",
+        "https://www.faceauxdragons.com/advert/bdeadmin-exe-download-free/",
+        "https://tiftyboard.com/activator-for-windows-and-office-kms-pico-v11-2-3-serial-key-_hot_-keygen/",
+        "https://lacomfortair.com/tmpgenc-xpress-v4-2-3-193-crackonly-keygen-free/",
+        "https://konnektion.com/advert/descargar-statgraphics-centurion-xvi-con-crack-link/",
+        "https://davidocojewelers.com/wp-content/uploads/2022/10/simson_tuning_werkstatt_3d_FULL_Version_94.pdf",
+        "http://mrproject.com.pl/advert/dassmartcalculatorrar/",
+        "https://empoweresports.com/spiderman-2-webhead-exe-download-verified/",
+        "http://bodhirajabs.com/?p=119438",
+        "http://www.ressn.com/the-godfather-1-pc-game-crack-full-free-download/",
+        "http://www.tcpdf.org"
+    ],
+    "regex_uris": [
+        "http://blogbasters.com/resp/balk?pelai=solving&b2JyYXplYyBlciAyOCBwZGYgMTUb2J=exploding&unipolar=ZG93bmxvYWR8QU40WmpGamFIeDhNVFkyTlRjek16ZzBNWHg4TWpVNU1IeDhLRTBwSUZkdmNtUndjbVZ6Y3lCYldFMU1VbEJESUZZeUlGQkVSbDA",
+        "https://orbeeari.com/gx-works2-torrent-free/",
+        "https://www.faceauxdragons.com/advert/bdeadmin-exe-download-free/",
+        "https://tiftyboard.com/activator-for-windows-and-office-kms-pico-v11-2-3-serial-key-_hot_-keygen/",
+        "https://lacomfortair.com/tmpgenc-xpress-v4-2-3-193-crackonly-keygen-free/",
+        "https://konnektion.com/advert/descargar-statgraphics-centurion-xvi-con-crack-link/",
+        "https://davidocojewelers.com/wp-content/uploads/2022/10/simson_tuning_werkstatt_3d_FULL_Version_94.pdf",
+        "http://mrproject.com.pl/advert/dassmartcalculatorrar/",
+        "https://empoweresports.com/spiderman-2-webhead-exe-download-verified/",
+        "http://bodhirajabs.com/?p=119438",
+        "http://www.ressn.com/the-godfather-1-pc-game-crack-full-free-download/",
+        "http://www.tcpdf.org"
+    ],
+    "regex_urls": [
+        "http://blogbasters.com/resp/balk?pelai=solving",
+        "https",
+        "https",
+        "www.faceauxdragons.com/advert/bdeadmin-exe-download-free/",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://mrproject.com.pl/advert/dassmartcalculatorrar/",
+        "https",
+        "http://bodhirajabs.com/?p=119438",
+        "http://www.ressn.com/the-godfather-1-pc-game-crack-full-free-download/",
+        "http://www.tcpdf.org",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/extension/",
+        "http://www.aiim.org/pdfa/ns/schema#",
+        "http://www.aiim.org/pdfa/ns/property#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/id/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "34",
+        "object_start": "34",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "9",
+        "stream_start": "9",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

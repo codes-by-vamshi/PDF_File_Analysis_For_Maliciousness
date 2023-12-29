@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 161978,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781984166333&kwd=E%20:%20Tropical%20Floral,%20150%20Pages,%208%20x%2010",
+        "http://getpdf.pw/book?res=strik&isbn=9781984166333&kwd=E%20:%20Tropical%20Floral,%20150%20Pages,%208%20x%2010",
+        "https://static.s123-cdn-static-c.com/uploads/4664838/normal_61b28dc2b9da1.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4662333/normal_61b32ddb10da2.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4664750/normal_61b28c50336ad.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4672615/normal_61b3b41018d4f.pdf",
+        "https://static.s123-cdn-static.com/uploads/4671890/normal_61b3ad6ed041f.pdf",
+        "https://files8.webydo.com/9589590/UploadedFiles/BF2DBCB4-B4E5-B807-BE06-E4DFB9230AE7.pdf",
+        "https://files8.webydo.com/9589498/UploadedFiles/0A3EDF79-CF77-3CEA-8F55-608A0FBD5E26.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781984166333&kwd=E%20:%20Tropical%20Floral,%20150%20Pages,%208%20x%2010",
+        "http://getpdf.pw/book?res=strik&isbn=9781984166333&kwd=E%20:%20Tropical%20Floral,%20150%20Pages,%208%20x%2010",
+        "https://static.s123-cdn-static-c.com/uploads/4664838/normal_61b28dc2b9da1.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4662333/normal_61b32ddb10da2.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4664750/normal_61b28c50336ad.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4672615/normal_61b3b41018d4f.pdf",
+        "https://static.s123-cdn-static.com/uploads/4671890/normal_61b3ad6ed041f.pdf",
+        "https://files8.webydo.com/9589590/UploadedFiles/BF2DBCB4-B4E5-B807-BE06-E4DFB9230AE7.pdf",
+        "https://files8.webydo.com/9589498/UploadedFiles/0A3EDF79-CF77-3CEA-8F55-608A0FBD5E26.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "162",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "109",
+        "object_start": "109",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "20",
+        "stream_start": "20",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

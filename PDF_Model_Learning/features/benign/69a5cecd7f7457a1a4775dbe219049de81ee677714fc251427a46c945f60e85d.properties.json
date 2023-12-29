@@ -1,0 +1,59 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 1989901,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/xap/1.0/sType/ResourceEvent#",
+        "http://www.aiim.org/pdfa/ns/id/",
+        "http://www.aiim.org/pdfa/ns/extension/",
+        "http://www.aiim.org/pdfa/ns/schema#",
+        "http://www.aiim.org/pdfa/ns/property#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.aiim.org/pdfa/ns/id/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1990",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "828",
+        "object_start": "828",
+        "object_streams": "42",
+        "open_action": "0",
+        "page_count": "137",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "689",
+        "stream_start": "689",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

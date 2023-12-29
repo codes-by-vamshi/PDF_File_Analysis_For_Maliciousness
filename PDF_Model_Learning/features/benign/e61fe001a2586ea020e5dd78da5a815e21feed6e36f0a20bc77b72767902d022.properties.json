@@ -1,0 +1,70 @@
+{
+    "exif_signatures": {},
+    "file_size": 5241286,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://www.fisheries.noaa.gov/international/international-affairs/report-iuu-fishing-bycatch-and-shark-catch",
+        "https://www.fisheries.noaa.gov/foreign/marine-mammal-protection/noaa-fisheries-establishes-international-marine-mammal-bycatch-criteria-us-imports",
+        "https://www.fisheries.noaa.gov/foreign/marine-mammal-protection/noaa-fisheries-establishes-international-marine-mammal-bycatch-criteria-us-imports",
+        "https://www.fisheries.noaa.gov/international/report-iuu-fishing-bycatch-and-shark-catch",
+        "https://www.africom.mil/what-we-do/security-cooperation/africa-maritime-law-enforcement-partnership-amlep-program#:~:text=The%20African%20Maritime%20Law%20Enforcement,combined%20maritime%20law%20enforcement%20operations.",
+        "https://www.africom.mil/what-we-do/security-cooperation/africa-maritime-law-enforcement-partnership-amlep-program#:~:text=The%20African%20Maritime%20Law%20Enforcement,combined%20maritime%20law%20enforcement%20operations.",
+        "https://wwwcdn.imo.org/localresources/en/OurWork/Security/Documents/code_of_conduct%20signed%20from%20ECOWAS%20site.pdf",
+        "https://wwwcdn.imo.org/localresources/en/OurWork/Security/Documents/code_of_conduct%20signed%20from%20ECOWAS%20site.pdf",
+        "https://www.africom.mil/what-we-do/security-cooperation/africa-maritime-law-enforcement-partnership-amlep-program#:~:text=The%20African%20Maritime%20Law%20Enforcement,combined%20maritime%20law%20enforcement%20operations.",
+        "https://www.africom.mil/what-we-do/security-cooperation/africa-maritime-law-enforcement-partnership-amlep-program#:~:text=The%20African%20Maritime%20Law%20Enforcement,combined%20maritime%20law%20enforcement%20operations.",
+        "https://www.africom.mil/what-we-do/security-cooperation/africa-maritime-law-enforcement-partnership-amlep-program#:~:text=The%20African%20Maritime%20Law%20Enforcement,combined%20maritime%20law%20enforcement%20operations.",
+        "https://www.fisheries.noaa.gov/international/seafood-import-monitoring-program",
+        "https://media.fisheries.noaa.gov/dam-migration/maritime_safe_act-508compliant.pdf"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "5.2",
+        "java_script": "0",
+        "js": "2",
+        "launch_action": "0",
+        "object_end": "207",
+        "object_start": "207",
+        "object_streams": "24",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "157",
+        "stream_start": "157",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

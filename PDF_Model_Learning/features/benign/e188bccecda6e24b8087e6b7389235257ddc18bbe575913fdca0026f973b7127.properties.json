@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 479711,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level1_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level2_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level3_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level4_4403702.zip",
+        "http://fdslive.oup.com/www.oup.com/elt/teachers/project/-978019-/project4e_testbank_level5_4403702.zip",
+        "http://oupeltemail.com/t/1Q6N-47YDO-N0GIZF-23OAG6-1/c.aspx",
+        "https://elt.oup.com/general_content/cz/meet_the_team?cc=cz&selLanguage=cs&mode=hub"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "480",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "30",
+        "object_start": "30",
+        "object_streams": "4",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "27",
+        "stream_start": "27",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

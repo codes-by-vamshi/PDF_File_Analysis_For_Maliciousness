@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 126949,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://particlecommit.site/Trade-Reference-Sample-Letter/pdf/old.weeks.com.au",
+        "http://particlecommit.site/Trade-Reference-Sample-Letter/doc/old.weeks.com.au",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/university-college-london-requirements-for-indian-students.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/university-college-london-requirements-for-indian-students.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/university-college-london-requirements-for-indian-students.pdf"
+    ],
+    "regex_uris": [
+        "http://particlecommit.site/Trade-Reference-Sample-Letter/pdf/old.weeks.com.au)>>>><</Type /Annot /Subtype /Link /Rect [290.00 455.00 553.00 382.00] /Border [0 0 0] /A <</S /URI /URI (http://particlecommit.site/Trade-Reference-Sample-Letter/doc/old.weeks.com.au",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/university-college-london-requirements-for-indian-students.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/university-college-london-requirements-for-indian-students.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/baby-shower-headband-station-instructions.pdf",
+        "https://old.weeks.com.au/wp-content/uploads/formidable/18/university-college-london-requirements-for-indian-students.pdf"
+    ],
+    "regex_urls": [
+        "http://particlecommit.site/Trade-Reference-Sample-Letter/pdf/old.weeks.com.au",
+        "http://particlecommit.site/Trade-Reference-Sample-Letter/doc/old.weeks.com.au",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "127",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "49",
+        "object_start": "49",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "18",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "26",
+        "stream_start": "26",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

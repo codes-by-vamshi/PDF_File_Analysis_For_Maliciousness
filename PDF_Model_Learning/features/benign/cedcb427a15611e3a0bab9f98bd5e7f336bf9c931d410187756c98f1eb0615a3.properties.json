@@ -1,0 +1,76 @@
+{
+    "exif_signatures": {},
+    "file_size": 55656258,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://monkeyphysicsblog.wordpress.com/",
+        "https://improveyourmathfluency.com/",
+        "https://chrismcmullen.com/",
+        "mailto:greekphysics@yahoo.com",
+        "http://www.amazon.com/author/chrismcmullen",
+        "http://www.monkeyphysicsblog.wordpress.com/",
+        "http://www.improveyourmathfluency.com/",
+        "http://www.improveyourmathfluency.com/",
+        "https://www.amazon.com/dp/1512044288"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "www.",
+        "http://www.amazon.com/author/chrismcmullen",
+        "http://www.monkeyphysicsblog.wordpress.com/",
+        "http://www.improveyourmathfluency.com/",
+        "http://www.improveyourmathfluency.com/",
+        "https",
+        "www.amazon.com/dp/1512044288",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "56",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "3969",
+        "object_start": "3975",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "505",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "1305",
+        "stream_start": "1305",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,47 @@
+{
+    "exif_signatures": {},
+    "file_size": 41367948,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:atendimento@erealizacoes.com.br",
+        "http://www.erealizacoes.com.br",
+        "flcxiou.il",
+        "ir.ua",
+        "Smpid.il",
+        "1%25e2%2580%2598lui.il",
+        "equiv.de",
+        "adnoniin.il"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.erealizacoes.com.br"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "6",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "41",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "36268",
+        "object_start": "36268",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "498",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "1526",
+        "stream_start": "1526",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 420623,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [
+        "@&\u0016\u042b\\n\\\\\\xff\u0011\\xf8I\\x8dB\\xb5\\b\\xea\\xa5\u02e6\\xd0c2U\\xf3\\xed\\x8dn\\xfc\\xe3\\xcc\u0010\\xc9\\xf0\\xecZ\u05da5\u063a\\x99\\xacN\\x84\\xa3?\\xff\\xff",
+        "\\xf7w}\\xbd+Yx\\x8fANOC1:\\xd33\u079a\\xc3T3\u0016Z\u0010vD\\x9c\\xe8\u0010J\\xcfb\\xfe^\u0017+^\\xff\ub917\u0013\"\\x82\\xc5\\xda;\\xc3",
+        "\\xa7\\x8d+z\\r,cU\\xd26\\xc1\u00134s}\\xacb<\u0013\\xe3\\xf1k\\xe0\\xe1\u000e\\x8b\\xac\"\\xca\u001c'\u00e1\\xa7\\xb9\\xfaQn\\x8c\\xf3_\\xaf\\x8c\u0002\\x9f[\\xf3=",
+        "\\x95\u0006\\xcd\u0003e\\xec\u000b\\nQ\\x84\\xe0B`\u001aO\\xddI\\xc5=\u007f\u001am\\xd6d\\xbe\\xf9\\xfa\\x99\\xa5\u0007\\xc2\\xeePY\\xa4\\xdd\\xe2d\\xfa1F\\xeb\\xeb\\xd2\u0017\\x8f\\x9a\\xe1\\x9f%ap\\xc0\\xaa>Zb:\\x9f\\\\\\xba\\xaa\u0015\\xca",
+        "\\xfak\u0015\\xb1w8\\b\u0019\\n\u0569Y_pc\\xb9\\x8e\\n^\\xa4\u001d\\xf1:\\\\\\xae\\xac\\x9f_\\xf0\\xf4\\xe40\\xac\\xaeI\\fFM]\u0005\\x88\\xbd\\(\u0011\u06d8\\xe2\\(d\\xe8\\x86X}1+\u000f\\x84Y\\xc1\\xf9\\x8d]\u000f\\xfc",
+        "\\t\\xe0@*\\)J\\x9e\\xc1\\x9e\\xff\\xba\u000b\\xe5\\bs\u001a\u0000\\xb6}vO\\xe7M\\xb6ZJn\\x94\\xa7\\x8a\\xcer\\x96%\\x8b\\x8e\u078f\\xc9%\\x8b\\xfb$! \\xb4z\\xff",
+        "?\\x835\u0534\u0011\\x9c\\xb8&m\\xf1.X\\xf5\u000b|\\xac\\x8f\u001b}U\u0007\\xd6\u001f\\xba\\xa3\\t\\x84\\xc8\u001d\u001ex|\\xba\\xe9&\u001d\u03ec\\xc1\\xcfK\\xb6u\\xe2\\xa8Ex",
+        "X\\x85\u000f%4\u0013mC\\xc0z\u043e\\xd46lEHs\u0016\\x9d5\u02e5\\xb2}\u01e6\u000ef\\xd7\\xea\\x9e\u4772\\t\\xad'6\u0012\\xcdVi]\u0014\\xbb\\xfdA"
+    ],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "421",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "158",
+        "object_start": "158",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "36",
+        "stream_start": "36",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "without_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

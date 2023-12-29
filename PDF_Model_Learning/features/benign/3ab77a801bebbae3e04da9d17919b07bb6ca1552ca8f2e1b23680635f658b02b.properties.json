@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 497977,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:andreas.werner@kloster-der-zuflucht.de",
+        "https://kloster-der-zuflucht.de/",
+        "https://das-schriftstellerhaus.de/",
+        "https://www.frau-heinrichs-schreibwerkstatt.de/",
+        "https://www.bod.de/buchshop/buddhismus-fuer-anfaenger-fortgeschrittene-und-gottverlassene-andreas-d-werner-9783744831437?utm_source=saleswidget&utm_medium=referral&utm_campaign=saleswidget_large",
+        "https://www.kloster-der-zuflucht.de/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "www.frau-heinrichs-schreibwerkstatt.de/",
+        "https",
+        "www.bod.de/buchshop/buddhismus-fuer-anfaenger-fortgeschrittene-und-gottverlassene-andreas-d-werner-9783744831437?utm_source=saleswidget",
+        "https",
+        "www.kloster-der-zuflucht.de/",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "498",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "388",
+        "object_start": "388",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "68",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "118",
+        "stream_start": "118",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

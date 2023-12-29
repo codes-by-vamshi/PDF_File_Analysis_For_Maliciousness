@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 111615,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://yoreparosavage.site/Airline-Reporting-Corp-Refund-Exchange-Notice-Form/pdf/nybventuresgroup.com",
+        "http://yoreparosavage.site/Airline-Reporting-Corp-Refund-Exchange-Notice-Form/doc/nybventuresgroup.com",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/apostille-marriage-cert-florida.pdf",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/resume-for-a-call-center-representative.pdf",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/business-philosophy-statement-for-handmade-products-examples.pdf",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/flag-certificate-of-authenticity.pdf"
+    ],
+    "regex_uris": [
+        "http://yoreparosavage.site/Airline-Reporting-Corp-Refund-Exchange-Notice-Form/pdf/nybventuresgroup.com)>>>><</Type /Annot /Subtype /Link /Rect [294.00 461.00 554.00 384.00] /Border [0 0 0] /A <</S /URI /URI (http://yoreparosavage.site/Airline-Reporting-Corp-Refund-Exchange-Notice-Form/doc/nybventuresgroup.com",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/apostille-marriage-cert-florida.pdf",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/resume-for-a-call-center-representative.pdf",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/business-philosophy-statement-for-handmade-products-examples.pdf",
+        "https://nybventuresgroup.com/wp-content/uploads/formidable/8/flag-certificate-of-authenticity.pdf"
+    ],
+    "regex_urls": [
+        "http://yoreparosavage.site/Airline-Reporting-Corp-Refund-Exchange-Notice-Form/pdf/nybventuresgroup.com",
+        "http://yoreparosavage.site/Airline-Reporting-Corp-Refund-Exchange-Notice-Form/doc/nybventuresgroup.com",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "112",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "31",
+        "object_start": "31",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

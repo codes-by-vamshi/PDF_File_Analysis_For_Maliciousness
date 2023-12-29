@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 95561,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781717304384&kwd=Sugar%20Skulls%20:%20Adult%20Coloring%20Book(Volume%202)",
+        "http://getpdf.pw/book?res=strik&isbn=9781717304384&kwd=Sugar%20Skulls%20:%20Adult%20Coloring%20Book(Volume%202)",
+        "https://static.s123-cdn-static-d.com/uploads/4663343/normal_61b318b79e952.pdf",
+        "https://img1.wsimg.com/blobby/go/f2405aa4-d8ac-480f-82b7-8407dfc2a875/jot-dot-doodle-notebook-blue-and-silver-438.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4662301/normal_61b3063f2f5dd.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4665932/normal_61b3a116f3ce3.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4672371/normal_61b3b18367402.pdf",
+        "https://img1.wsimg.com/blobby/go/0705dae2-e9c6-4cc2-a3c4-a63b837f8ee9/price-for-their-pound-of-flesh-the-value-of-th.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4672115/normal_61b38a30e20eb.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4663685/normal_61b27c1b933e4.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781717304384&kwd=Sugar%20Skulls%20:%20Adult%20Coloring%20Book\\(Volume%202\\)",
+        "http://getpdf.pw/book?res=strik&isbn=9781717304384&kwd=Sugar%20Skulls%20:%20Adult%20Coloring%20Book\\(Volume%202\\)",
+        "https://static.s123-cdn-static-d.com/uploads/4663343/normal_61b318b79e952.pdf",
+        "https://img1.wsimg.com/blobby/go/f2405aa4-d8ac-480f-82b7-8407dfc2a875/jot-dot-doodle-notebook-blue-and-silver-438.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4662301/normal_61b3063f2f5dd.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4665932/normal_61b3a116f3ce3.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4672371/normal_61b3b18367402.pdf",
+        "https://img1.wsimg.com/blobby/go/0705dae2-e9c6-4cc2-a3c4-a63b837f8ee9/price-for-their-pound-of-flesh-the-value-of-th.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4672115/normal_61b38a30e20eb.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4663685/normal_61b27c1b933e4.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "96",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

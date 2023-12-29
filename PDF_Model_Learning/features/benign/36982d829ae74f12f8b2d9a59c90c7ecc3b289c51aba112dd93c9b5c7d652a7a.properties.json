@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 609641,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/photoshop/1.0/",
+        "http://ns.adobe.com/xap/1.0/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "610",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "450",
+        "object_start": "450",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "29",
+        "stream_start": "29",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

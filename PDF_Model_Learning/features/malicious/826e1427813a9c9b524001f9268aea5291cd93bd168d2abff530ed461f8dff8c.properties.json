@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 91038,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780719089459&kwd=Chinoiserie%20:%20Commerce%20and%20Critical%20Ornament%20in%20Eighteenth-Century%20Britain",
+        "http://getpdf.pw/book?res=123&isbn=9780719089459&kwd=Chinoiserie%20:%20Commerce%20and%20Critical%20Ornament%20in%20Eighteenth-Century%20Britain",
+        "https://cdn-cms.f-static.net/uploads/4650226/normal_61ab5d4888275.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649342/normal_61ab4d5969c9e.pdf",
+        "https://cdn-cms.f-static.net/uploads/4650078/normal_61ab7dcb41a3c.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4649926/normal_61aae475805df.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780719089459&kwd=Chinoiserie%20:%20Commerce%20and%20Critical%20Ornament%20in%20Eighteenth-Century%20Britain",
+        "http://getpdf.pw/book?res=123&isbn=9780719089459&kwd=Chinoiserie%20:%20Commerce%20and%20Critical%20Ornament%20in%20Eighteenth-Century%20Britain",
+        "https://cdn-cms.f-static.net/uploads/4650226/normal_61ab5d4888275.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649342/normal_61ab4d5969c9e.pdf",
+        "https://cdn-cms.f-static.net/uploads/4650078/normal_61ab7dcb41a3c.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4649926/normal_61aae475805df.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "91",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "61",
+        "object_start": "61",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

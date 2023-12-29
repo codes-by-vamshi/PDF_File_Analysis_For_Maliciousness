@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 44872,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://jldturm783.berilata.ru/dwnl3.php",
+        "http://jldturm392.berilata.ru/dwnl3.php",
+        "http://voodookasa.bltadwin.ru/op-london.pdf",
+        "http://fezahn.bltadwin.ru/emile-austin.pdf",
+        "http://nazuru.bltadwin.ru/memphis-free-running.pdf",
+        "http://zologul.bltadwin.ru/leonardo-di-canio-las-vegas.pdf",
+        "http://tenos.bltadwin.ru/missouri-delays-tax-refunds.pdf",
+        "http://yojora.bltadwin.ru/csi-las-vegas-grissom-and-sara-romance.pdf",
+        "http://kekora.bltadwin.ru/denver-broncos-roster-breakdown.pdf"
+    ],
+    "regex_uris": [
+        "http://jldturm783.berilata.ru/dwnl3.php",
+        "http://jldturm392.berilata.ru/dwnl3.php",
+        "http://voodookasa.bltadwin.ru/op-london.pdf",
+        "http://fezahn.bltadwin.ru/emile-austin.pdf",
+        "http://nazuru.bltadwin.ru/memphis-free-running.pdf",
+        "http://zologul.bltadwin.ru/leonardo-di-canio-las-vegas.pdf",
+        "http://tenos.bltadwin.ru/missouri-delays-tax-refunds.pdf",
+        "http://yojora.bltadwin.ru/csi-las-vegas-grissom-and-sara-romance.pdf",
+        "http://kekora.bltadwin.ru/denver-broncos-roster-breakdown.pdf"
+    ],
+    "regex_urls": [
+        "http://jldturm783.berilata.ru/dwnl3.php",
+        "http://jldturm392.berilata.ru/dwnl3.php",
+        "http://voodookasa.bltadwin.ru/op-london.pdf",
+        "http://fezahn.bltadwin.ru/emile-austin.pdf",
+        "http://nazuru.bltadwin.ru/memphis-free-running.pdf",
+        "http://zologul.bltadwin.ru/leonardo-di-canio-las-vegas.pdf",
+        "http://tenos.bltadwin.ru/missouri-delays-tax-refunds.pdf",
+        "http://yojora.bltadwin.ru/csi-las-vegas-grissom-and-sara-romance.pdf",
+        "http://kekora.bltadwin.ru/denver-broncos-roster-breakdown.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "45",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

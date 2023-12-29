@@ -1,0 +1,53 @@
+{
+    "exif_signatures": {},
+    "file_size": 535371,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.rtl-theme.com/rcu-install-manual/",
+        "https://www.rtl-theme.com/blog/easy-installation-package/",
+        "https://www.rtl-theme.com/blog/quick-install-in-directadmin/",
+        "https://www.rtl-theme.com/blog/installation-package-on-localhost/",
+        "https://www.rtl-theme.com/rtlupdater/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.rtl-theme.com/rcu-install-manual/",
+        "https",
+        "www.rtl-theme.com/blog/easy-installation-package/",
+        "https",
+        "www.rtl-theme.com/blog/quick-install-in-directadmin/",
+        "https",
+        "www.rtl-theme.com/blog/installation-package-on-localhost/",
+        "https",
+        "www.rtl-theme.com/rtlupdater/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "535",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "129",
+        "object_start": "129",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "92",
+        "stream_start": "92",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

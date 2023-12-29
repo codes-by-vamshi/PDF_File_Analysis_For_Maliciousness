@@ -1,0 +1,44 @@
+{
+    "exif_signatures": {},
+    "file_size": 1224950,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.nhs.uk/conditions/atherosclerosis/",
+        "https://www.nhs.uk/conditions/blood-clots/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.nhs.uk/conditions/atherosclerosis/",
+        "https",
+        "www.nhs.uk/conditions/blood-clots/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "3",
+        "embedded_files": "0",
+        "file_size": "1225",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "314",
+        "object_start": "314",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "37",
+        "rich_media": "0",
+        "start_cross_reference_table": "3",
+        "stream_end": "162",
+        "stream_start": "162",
+        "trailer_dictionary": "3"
+    },
+    "yara_signatures": []
+}

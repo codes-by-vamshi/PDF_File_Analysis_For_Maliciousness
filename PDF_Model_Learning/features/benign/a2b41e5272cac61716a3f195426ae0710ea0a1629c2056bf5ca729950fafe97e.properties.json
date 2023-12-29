@@ -1,0 +1,68 @@
+{
+    "exif_signatures": {},
+    "file_size": 225865,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://4.bp.blogspot.com/-H0zU9EBAIow/W_ihP4p6YrI/AAAAAAAASPA/ZBlqYmhPAswUuZJvcDqr4HOz9PRQl1aMQCEwYBhgL/s1600/Een-transistor-versterkers-01.JPG",
+        "https://3.bp.blogspot.com/-HAc7aP4IvKk/W_ihPpxw1RI/AAAAAAAASO8/J3DvpbwGnDAXVYlQ4SH2so3JcKwvlwiVQCEwYBhgL/s1600/Een-transistor-versterkers-02.JPG",
+        "https://4.bp.blogspot.com/-za79e79uB4Y/W_ihP8JCmKI/AAAAAAAASPE/BWhAWKx-pXgWj9wSN_OsQLu8lmQrUGo5gCEwYBhgL/s1600/Een-transistor-versterkers-03.JPG",
+        "https://1.bp.blogspot.com/-EzAibE1Vy5o/W_ihQe03cWI/AAAAAAAASPE/VgMUyEk5cFQNjPk6pGVxYrFe6LI9dV_UACEwYBhgL/s1600/Een-transistor-versterkers-04.JPG",
+        "https://1.bp.blogspot.com/-OsNnCob3Y8Y/W_ihQgmjqHI/AAAAAAAASPI/0mmqr-RBDscOhjV8PdKzVjbwgTEdloowgCEwYBhgL/s1600/Een-transistor-versterkers-05.JPG",
+        "https://1.bp.blogspot.com/-iuFDWpCa9wM/W_ihRF4cVWI/AAAAAAAASPI/RUsdY91vpaI2J4fbuV4U9dZh2ne9GwmKwCEwYBhgL/s1600/Een-transistor-versterkers-06.JPG",
+        "https://2.bp.blogspot.com/-BlDbIk0jFoE/W_ihRcIQcpI/AAAAAAAASPM/KtxaBvk84SgmPKMJZRUOK9CXd7QzZ68ewCEwYBhgL/s1600/Een-transistor-versterkers-07.JPG",
+        "https://1.bp.blogspot.com/-THqBGjG4QCs/W_ihRejdliI/AAAAAAAASPQ/S5mCR4zY48IVVKHGJExlMxaQVXSyyqg1QCEwYBhgL/s1600/Een-transistor-versterkers-08.JPG"
+    ],
+    "regex_uris": [
+        "https://4.bp.blogspot.com/-H0zU9EBAIow/W_ihP4p6YrI/AAAAAAAASPA/ZBlqYmhPAswUuZJvcDqr4HOz9PRQl1aMQCEwYBhgL/s1600/Een-transistor-versterkers-01.JPG",
+        "https://3.bp.blogspot.com/-HAc7aP4IvKk/W_ihPpxw1RI/AAAAAAAASO8/J3DvpbwGnDAXVYlQ4SH2so3JcKwvlwiVQCEwYBhgL/s1600/Een-transistor-versterkers-02.JPG",
+        "https://4.bp.blogspot.com/-za79e79uB4Y/W_ihP8JCmKI/AAAAAAAASPE/BWhAWKx-pXgWj9wSN_OsQLu8lmQrUGo5gCEwYBhgL/s1600/Een-transistor-versterkers-03.JPG",
+        "https://1.bp.blogspot.com/-EzAibE1Vy5o/W_ihQe03cWI/AAAAAAAASPE/VgMUyEk5cFQNjPk6pGVxYrFe6LI9dV_UACEwYBhgL/s1600/Een-transistor-versterkers-04.JPG",
+        "https://1.bp.blogspot.com/-OsNnCob3Y8Y/W_ihQgmjqHI/AAAAAAAASPI/0mmqr-RBDscOhjV8PdKzVjbwgTEdloowgCEwYBhgL/s1600/Een-transistor-versterkers-05.JPG",
+        "https://1.bp.blogspot.com/-iuFDWpCa9wM/W_ihRF4cVWI/AAAAAAAASPI/RUsdY91vpaI2J4fbuV4U9dZh2ne9GwmKwCEwYBhgL/s1600/Een-transistor-versterkers-06.JPG",
+        "https://2.bp.blogspot.com/-BlDbIk0jFoE/W_ihRcIQcpI/AAAAAAAASPM/KtxaBvk84SgmPKMJZRUOK9CXd7QzZ68ewCEwYBhgL/s1600/Een-transistor-versterkers-07.JPG",
+        "https://1.bp.blogspot.com/-THqBGjG4QCs/W_ihRejdliI/AAAAAAAASPQ/S5mCR4zY48IVVKHGJExlMxaQVXSyyqg1QCEwYBhgL/s1600/Een-transistor-versterkers-08.JPG"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "226",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "190",
+        "object_start": "190",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "20",
+        "stream_start": "20",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "with_images",
+        "with_urls",
+        "contentis_base64"
+    ]
+}

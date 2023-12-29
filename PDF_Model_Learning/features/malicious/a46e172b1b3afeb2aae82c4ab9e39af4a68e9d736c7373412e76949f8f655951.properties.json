@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 79739,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783642041587&kwd=Selected%20Areas%20in%20Cryptography%20:%2015th%20Annual%20International%20Workshop,%20SAC%202008,%20Sackville,%20New%20Brunswick,%20Canada,%20August%2014-15,%202008",
+        "http://getpdf.pw/book?res=123&isbn=9783642041587&kwd=Selected%20Areas%20in%20Cryptography%20:%2015th%20Annual%20International%20Workshop,%20SAC%202008,%20Sackville,%20New%20Brunswick,%20Canada,%20August%2014-15,%202008",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/cbb0d1ca-4fe0-4a49-b948-ab10e1f986fd/dk-eyewitness-top-10-athens-60.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659950/normal_61b0350c4baa4.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783642041587&kwd=Selected%20Areas%20in%20Cryptography%20:%2015th%20Annual%20International%20Workshop,%20SAC%202008,%20Sackville,%20New%20Brunswick,%20Canada,%20August%2014-15,%202008",
+        "http://getpdf.pw/book?res=123&isbn=9783642041587&kwd=Selected%20Areas%20in%20Cryptography%20:%2015th%20Annual%20International%20Workshop,%20SAC%202008,%20Sackville,%20New%20Brunswick,%20Canada,%20August%2014-15,%202008",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/cbb0d1ca-4fe0-4a49-b948-ab10e1f986fd/dk-eyewitness-top-10-athens-60.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659950/normal_61b0350c4baa4.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "80",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "46",
+        "object_start": "46",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

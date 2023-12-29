@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 44581,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://uidqbsk339.berilata.ru/dwnl3.php",
+        "http://uidqbsk879.berilata.ru/dwnl3.php",
+        "http://tebei.bltadwin.ru/sligo-london-gaa-match.pdf",
+        "http://goltimuro.bltadwin.ru/memphis-ballet-pilates.pdf",
+        "http://daibar.bltadwin.ru/shoemaker-hill-ranch-jacksonville.pdf",
+        "http://mezijar.bltadwin.ru/american-express-jobs-raleigh-nc.pdf",
+        "http://arashikazahn.bltadwin.ru/heady-topper-new-york.pdf",
+        "http://yojora.bltadwin.ru/lavante-inc-san-jose-ca.pdf",
+        "http://yole.bltadwin.ru/bruno-mars-cleveland-show.pdf"
+    ],
+    "regex_uris": [
+        "http://uidqbsk339.berilata.ru/dwnl3.php",
+        "http://uidqbsk879.berilata.ru/dwnl3.php",
+        "http://tebei.bltadwin.ru/sligo-london-gaa-match.pdf",
+        "http://goltimuro.bltadwin.ru/memphis-ballet-pilates.pdf",
+        "http://daibar.bltadwin.ru/shoemaker-hill-ranch-jacksonville.pdf",
+        "http://mezijar.bltadwin.ru/american-express-jobs-raleigh-nc.pdf",
+        "http://arashikazahn.bltadwin.ru/heady-topper-new-york.pdf",
+        "http://yojora.bltadwin.ru/lavante-inc-san-jose-ca.pdf",
+        "http://yole.bltadwin.ru/bruno-mars-cleveland-show.pdf"
+    ],
+    "regex_urls": [
+        "http://uidqbsk339.berilata.ru/dwnl3.php",
+        "http://uidqbsk879.berilata.ru/dwnl3.php",
+        "http://tebei.bltadwin.ru/sligo-london-gaa-match.pdf",
+        "http://goltimuro.bltadwin.ru/memphis-ballet-pilates.pdf",
+        "http://daibar.bltadwin.ru/shoemaker-hill-ranch-jacksonville.pdf",
+        "http://mezijar.bltadwin.ru/american-express-jobs-raleigh-nc.pdf",
+        "http://arashikazahn.bltadwin.ru/heady-topper-new-york.pdf",
+        "http://yojora.bltadwin.ru/lavante-inc-san-jose-ca.pdf",
+        "http://yole.bltadwin.ru/bruno-mars-cleveland-show.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "45",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

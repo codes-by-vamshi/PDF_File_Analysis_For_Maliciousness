@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 45244,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://focgyho177.berilata.ru/dwnl3.php",
+        "http://focgyho293.berilata.ru/dwnl3.php",
+        "http://yole.bltadwin.ru/dimensional-inspection-services-chicago.pdf",
+        "http://tesida.bltadwin.ru/coyote-ugly-houston-tx.pdf",
+        "http://fezahn.bltadwin.ru/orlando-okinawan-shorin-ryu.pdf",
+        "http://branos.bltadwin.ru/louise-sjoegren-london.pdf",
+        "http://tashicage.bltadwin.ru/lakefront-lines-columbus.pdf",
+        "http://nejora.bltadwin.ru/cowhide-austin.pdf",
+        "http://tebei.bltadwin.ru/dancing-horses-chicago.pdf"
+    ],
+    "regex_uris": [
+        "http://focgyho177.berilata.ru/dwnl3.php",
+        "http://focgyho293.berilata.ru/dwnl3.php",
+        "http://yole.bltadwin.ru/dimensional-inspection-services-chicago.pdf",
+        "http://tesida.bltadwin.ru/coyote-ugly-houston-tx.pdf",
+        "http://fezahn.bltadwin.ru/orlando-okinawan-shorin-ryu.pdf",
+        "http://branos.bltadwin.ru/louise-sjoegren-london.pdf",
+        "http://tashicage.bltadwin.ru/lakefront-lines-columbus.pdf",
+        "http://nejora.bltadwin.ru/cowhide-austin.pdf",
+        "http://tebei.bltadwin.ru/dancing-horses-chicago.pdf"
+    ],
+    "regex_urls": [
+        "http://focgyho177.berilata.ru/dwnl3.php",
+        "http://focgyho293.berilata.ru/dwnl3.php",
+        "http://yole.bltadwin.ru/dimensional-inspection-services-chicago.pdf",
+        "http://tesida.bltadwin.ru/coyote-ugly-houston-tx.pdf",
+        "http://fezahn.bltadwin.ru/orlando-okinawan-shorin-ryu.pdf",
+        "http://branos.bltadwin.ru/louise-sjoegren-london.pdf",
+        "http://tashicage.bltadwin.ru/lakefront-lines-columbus.pdf",
+        "http://nejora.bltadwin.ru/cowhide-austin.pdf",
+        "http://tebei.bltadwin.ru/dancing-horses-chicago.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "45",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

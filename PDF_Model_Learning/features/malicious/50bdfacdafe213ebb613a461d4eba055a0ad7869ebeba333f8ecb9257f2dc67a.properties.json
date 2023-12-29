@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 91116,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781873132722&kwd=The%20Art%20of%20All%20Colours%20:%20Mediaeval%20Recipe%20Books%20for%20Painters%20and%20Illuminators",
+        "http://getpdf.pw/book?res=123&isbn=9781873132722&kwd=The%20Art%20of%20All%20Colours%20:%20Mediaeval%20Recipe%20Books%20for%20Painters%20and%20Illuminators",
+        "https://static.s123-cdn-static-b.com/uploads/4659620/normal_61adffba52af6.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659767/normal_61ae05eb22457.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/5e3f4fb5-8b4f-4c1a-9135-b4dc006a729c/kurt-vonnegut-letters-265.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659263/normal_61ad74b8debb5.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659215/normal_61ae0b39746e2.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781873132722&kwd=The%20Art%20of%20All%20Colours%20:%20Mediaeval%20Recipe%20Books%20for%20Painters%20and%20Illuminators",
+        "http://getpdf.pw/book?res=123&isbn=9781873132722&kwd=The%20Art%20of%20All%20Colours%20:%20Mediaeval%20Recipe%20Books%20for%20Painters%20and%20Illuminators",
+        "https://static.s123-cdn-static-b.com/uploads/4659620/normal_61adffba52af6.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659767/normal_61ae05eb22457.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/5e3f4fb5-8b4f-4c1a-9135-b4dc006a729c/kurt-vonnegut-letters-265.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659263/normal_61ad74b8debb5.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659215/normal_61ae0b39746e2.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "91",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "60",
+        "object_start": "60",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

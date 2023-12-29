@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 188674,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781408126370&kwd=The%20Chronology%20of%20Fashion%20:%20From%20Empire%20Dress%20to%20Ethical%20Design",
+        "http://getpdf.pw/book?res=123&isbn=9781408126370&kwd=The%20Chronology%20of%20Fashion%20:%20From%20Empire%20Dress%20to%20Ethical%20Design",
+        "https://img1.wsimg.com/blobby/go/619cab95-90c8-4ef5-80a8-052a51ce03e9/the-sirtfood-diet-the-revolutionary-plan-for-h.pdf",
+        "https://cdn-cms.f-static.net/uploads/4659708/normal_61ad63b38d355.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781408126370&kwd=The%20Chronology%20of%20Fashion%20:%20From%20Empire%20Dress%20to%20Ethical%20Design",
+        "http://getpdf.pw/book?res=123&isbn=9781408126370&kwd=The%20Chronology%20of%20Fashion%20:%20From%20Empire%20Dress%20to%20Ethical%20Design",
+        "https://img1.wsimg.com/blobby/go/619cab95-90c8-4ef5-80a8-052a51ce03e9/the-sirtfood-diet-the-revolutionary-plan-for-h.pdf",
+        "https://cdn-cms.f-static.net/uploads/4659708/normal_61ad63b38d355.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "189",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "124",
+        "object_start": "124",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "17",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "exif_signatures": {},
+    "file_size": 46933,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://netsecure.top/app/431946152/free-ninja-animation-pack-roblox-game-hack",
+        "https://netsecure.top/app/431946152/free-ninja-animation-pack-roblox-game-hack",
+        "https://amiranet.com.br/files/files/roblox-hack-roghoul.pdf",
+        "https://amiranet.com.br/files/files/roblox-project-pokemon-dupe-hack.pdf",
+        "https://amiranet.com.br/files/files/roblox-island-royale-hack-2021.pdf",
+        "https://amiranet.com.br/files/files/free-bubbly-animation-roblox.pdf",
+        "https://amiranet.com.br/files/files/how-to-find-a-hacker-on-roblox.pdf",
+        "https://amiranet.com.br/files/files/mobil-net-roblox-hack.pdf",
+        "https://amiranet.com.br/files/files/hack-roblox-co-no-verification.pdf",
+        "https://amiranet.com.br/files/files/noclip-roblox-cheat-engine.pdf",
+        "https://amiranet.com.br/files/files/arsenal-roblox-hack-script.pdf",
+        "https://amiranet.com.br/files/files/how-to-get-free-wood-on-trade-land-roblox.pdf"
+    ],
+    "regex_uris": [
+        "https://netsecure.top/app/431946152/free-ninja-animation-pack-roblox-game-hack",
+        "https://netsecure.top/app/431946152/free-ninja-animation-pack-roblox-game-hack",
+        "https://amiranet.com.br/files/files/roblox-hack-roghoul.pdf",
+        "https://amiranet.com.br/files/files/roblox-project-pokemon-dupe-hack.pdf",
+        "https://amiranet.com.br/files/files/roblox-island-royale-hack-2021.pdf",
+        "https://amiranet.com.br/files/files/free-bubbly-animation-roblox.pdf",
+        "https://amiranet.com.br/files/files/how-to-find-a-hacker-on-roblox.pdf",
+        "https://amiranet.com.br/files/files/mobil-net-roblox-hack.pdf",
+        "https://amiranet.com.br/files/files/hack-roblox-co-no-verification.pdf",
+        "https://amiranet.com.br/files/files/noclip-roblox-cheat-engine.pdf",
+        "https://amiranet.com.br/files/files/arsenal-roblox-hack-script.pdf",
+        "https://amiranet.com.br/files/files/how-to-get-free-wood-on-trade-land-roblox.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "47",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "56",
+        "object_start": "56",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "9",
+        "stream_start": "9",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "suspicious_packer_section",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

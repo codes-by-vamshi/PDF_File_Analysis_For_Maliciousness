@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 932443,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.youtube.com/watch?v=5FUWJkwG5Kw&t=1s",
+        "https://www.carmelitasmisioneras.org/carmelo-misionero-seglar/",
+        "http://www.salesianosbogota.org/index.php/formacion",
+        "https://www.perpetuosocorrobaq.org/tercera-asamblea-capitular-imsa/",
+        "https://www.maristas.cl/evangelizacion_explicita/resumen",
+        "http://www.adital.org.br/site/noticia.asp?lang=ES&cod=21397"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.youtube.com/watch?v=5FUWJkwG5Kw",
+        "https",
+        "www.carmelitasmisioneras.org/carmelo-misionero-seglar/",
+        "http://www.salesianosbogota.org/index.php/formacion",
+        "https",
+        "www.perpetuosocorrobaq.org/tercera-asamblea-capitular-imsa/",
+        "https",
+        "www.maristas.cl/evangelizacion_explicita/resumen",
+        "http://www.adital.org.br/site/noticia.asp?lang=ES"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "932",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "98",
+        "object_start": "98",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

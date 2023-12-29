@@ -1,0 +1,110 @@
+{
+    "exif_signatures": {},
+    "file_size": 233645,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D0%BE%D0%B1%D0%B6+6+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2+%D0%BC%D0%B0%D1%80%D0%BA%D0%BE%D0%B2+%D0%BB%D0%B0%D1%82%D1%87%D1%83%D0%BA+%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA",
+        "https://img1.liveinternet.ru/images/attach/d/0//5919/5919063_supawordtopdfdownloadmicrosoftbas.pdf",
+        "https://xefasigituwohohen.files.wordpress.com/2018/04/wonowo-angliiskii-gdz-3-klass-karpiuk-fudutekisa.pdf",
+        "https://img0.liveinternet.ru/images/attach/d/0//5920/5920655_kenevminecraftxbox3602ndbirthdayskinpackdownloadxage.pdf",
+        "https://rubepiso.files.wordpress.com/2018/04/surexokuwim-algebra-9-klass-gdz-makarychev-mindiuk-neshkov-2002-tawuxelaxeka.pdf",
+        "https://vilobequpajigefaguh.files.wordpress.com/2018/04/gififusawo-keigen-3ds-max-2009-wivuxoka.pdf",
+        "https://keridijule.files.wordpress.com/2018/04/loxujuseti-gdz-reshebnik-po-matematike-4-klass-rabochaia-tetrad-1-i-2-chast-volkova-gigewax.pdf",
+        "https://img1.liveinternet.ru/images/attach/d/0//5911/5911595_kopekreshebnikpobiologiikniga9klassdux.pdf",
+        "https://lacepiceqidusu.files.wordpress.com/2018/04/pibopatib-ege-2016-matematika-i-v-iashchenko-30-variantov-tipovykh-testovykh-zadanii-daroziwakililef.pdf",
+        "https://sicaharoge.files.wordpress.com/2018/04/rixevole-gdz-po-angliiskomu-7-klass-starlight-students-book-kuzovlev-bidatenedefew.pdf",
+        "https://img0.liveinternet.ru/images/attach/d/0//5912/5912305_tusafugdzmatematike3klasspeterson2chastotvetyrabochaiatetradmed.pdf",
+        "https://romalifamoq.files.wordpress.com/2018/04/joxudebeme-uchebnik-po-russkomu-iazyku-6-klass-kupalova-praktika-otvety-merelusizowo.pdf",
+        "https://bofukiqiremodunitaq.files.wordpress.com/2018/04/gikuxod-reshebnik-po-tetradi-po-prirodovedeniiu-5-klass-pinal.pdf",
+        "https://tegaqahowuxejehoj.files.wordpress.com/2018/04/kigamafana-gotovye-domashnie-zadanie-po-chteniiu-3-klass-efrosinina-fadovimawos.pdf",
+        "https://nipefokadojavevilo.files.wordpress.com/2018/04/duxunagute-fizika-ege-1000-zadach-gdz-womajur.pdf",
+        "https://tumaqusecime.files.wordpress.com/2018/04/jaboviniza-kak-pisat-pismo-po-angliiskomu-ege-wuwipejejefom.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D0%BE%D0%B1%D0%B6+6+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2+%D0%BC%D0%B0%D1%80%D0%BA%D0%BE%D0%B2+%D0%BB%D0%B0%D1%82%D1%87%D1%83%D0%BA+%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA",
+        "https://img1.liveinternet.ru/images/attach/d/0//5919/5919063_supawordtopdfdownloadmicrosoftbas.pdf",
+        "https://xefasigituwohohen.files.wordpress.com/2018/04/wonowo-angliiskii-gdz-3-klass-karpiuk-fudutekisa.pdf",
+        "https://img0.liveinternet.ru/images/attach/d/0//5920/5920655_kenevminecraftxbox3602ndbirthdayskinpackdownloadxage.pdf",
+        "https://rubepiso.files.wordpress.com/2018/04/surexokuwim-algebra-9-klass-gdz-makarychev-mindiuk-neshkov-2002-tawuxelaxeka.pdf",
+        "https://vilobequpajigefaguh.files.wordpress.com/2018/04/gififusawo-keigen-3ds-max-2009-wivuxoka.pdf",
+        "https://keridijule.files.wordpress.com/2018/04/loxujuseti-gdz-reshebnik-po-matematike-4-klass-rabochaia-tetrad-1-i-2-chast-volkova-gigewax.pdf",
+        "https://img1.liveinternet.ru/images/attach/d/0//5911/5911595_kopekreshebnikpobiologiikniga9klassdux.pdf",
+        "https://lacepiceqidusu.files.wordpress.com/2018/04/pibopatib-ege-2016-matematika-i-v-iashchenko-30-variantov-tipovykh-testovykh-zadanii-daroziwakililef.pdf",
+        "https://sicaharoge.files.wordpress.com/2018/04/rixevole-gdz-po-angliiskomu-7-klass-starlight-students-book-kuzovlev-bidatenedefew.pdf",
+        "https://img0.liveinternet.ru/images/attach/d/0//5912/5912305_tusafugdzmatematike3klasspeterson2chastotvetyrabochaiatetradmed.pdf",
+        "https://romalifamoq.files.wordpress.com/2018/04/joxudebeme-uchebnik-po-russkomu-iazyku-6-klass-kupalova-praktika-otvety-merelusizowo.pdf",
+        "https://bofukiqiremodunitaq.files.wordpress.com/2018/04/gikuxod-reshebnik-po-tetradi-po-prirodovedeniiu-5-klass-pinal.pdf",
+        "https://tegaqahowuxejehoj.files.wordpress.com/2018/04/kigamafana-gotovye-domashnie-zadanie-po-chteniiu-3-klass-efrosinina-fadovimawos.pdf",
+        "https://nipefokadojavevilo.files.wordpress.com/2018/04/duxunagute-fizika-ege-1000-zadach-gdz-womajur.pdf",
+        "https://tumaqusecime.files.wordpress.com/2018/04/jaboviniza-kak-pisat-pismo-po-angliiskomu-ege-wuwipejejefom.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B3%D0%B4%D0%B7+%D0%BF%D0%BE+%D0%BE%D0%B1%D0%B6+6+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2+%D0%BC%D0%B0%D1%80%D0%BA%D0%BE%D0%B2+%D0%BB%D0%B0%D1%82%D1%87%D1%83%D0%BA+%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "234",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "73",
+        "object_start": "74",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

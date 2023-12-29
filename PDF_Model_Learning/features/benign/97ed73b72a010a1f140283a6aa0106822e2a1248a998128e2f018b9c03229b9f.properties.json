@@ -1,0 +1,42 @@
+{
+    "exif_signatures": {},
+    "file_size": 556377,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.tecomat.com/wpimages/other/sw/Utility/FirmwareUpdater.zip",
+        "http://192.168.33.151/syswww/SET_AP.XML"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.tecomat.com/wpimages/other/sw/Utility/FirmwareUpdater.zip",
+        "http://192.168.33.151/syswww/SET_AP.XML"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "556",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "119",
+        "object_start": "119",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "16",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "46",
+        "stream_start": "46",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

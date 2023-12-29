@@ -1,0 +1,44 @@
+{
+    "exif_signatures": {},
+    "file_size": 2946629,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://secure.urkund.com/old/view/77470054-992877-895901#q1bKLVayijbQMdQx0jHWMYnVUSrOTM/LTMtMTsxLTlWyMtAzMDC2NLE0N7UwMwJiQ3NT41oA",
+        "https://secure.urkund.com/old/view/77470054-992877-895901#q1bKLVayijbQMdQx0jHWMYnVUSrOTM/LTMtMTsxLTlWyMtAzMDC2NLE0N7UwMwJiQ3NT41oA",
+        "https://secure.urkund.com/old/view/77470054-992877-895901#q1bKLVayijbQMdQx0jHWMYnVUSrOTM/LTMtMTsxLTlWyMtAzMDC2NLE0N7UwMwJiQ3NT41oA"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "2.9",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "686",
+        "object_start": "686",
+        "object_streams": "16",
+        "open_action": "0",
+        "page_count": "124",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "299",
+        "stream_start": "299",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

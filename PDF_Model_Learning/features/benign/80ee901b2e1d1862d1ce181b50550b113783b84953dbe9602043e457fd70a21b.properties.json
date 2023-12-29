@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 300480,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://achieve.lausd.net/Page/4515",
+        "https://achieve.lausd.net/Page/3087",
+        "https://achieve.lausd.net/Page/4914",
+        "https://achieve.lausd.net/Page/4926",
+        "https://achieve.lausd.net/Page/4915",
+        "https://achieve.lausd.net/Page/5148",
+        "https://achieve.lausd.net/cms/lib/CA01000043/Centricity/Domain/326/Payroll%20Concepts%20Manual%202017.pdf",
+        "https://achieve.lausd.net/Page/14893",
+        "https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.oxy.edu%2Fsites%2Fdefault%2Ffiles%2Fassets%2FHR%2F2018%2520Occidental%2520Staff%2520and%2520Administrator%2520Employee%2520Handbook_0.pdf&data=02%7C01%7Clbramwel%40lausd.net%7C7b685311b3df40a1e0b908d71cf62980%7C042a40a1b1284ac48648016ffa121487%7C0%7C1%7C637009715903718412&sdata=yfARJVheFogIl%2Bz%2BfSBzOdHCm%2Fb6dsGXBXagR1aoR4A%3D&reserved=0",
+        "https://achieve.lausd.net/cms/lib/CA01000043/Centricity/Domain/416/School%20Calendar%20-%20Graphic-%202020-2021%20Board%20Approved.pdf",
+        "https://achieve.lausd.net/site/handlers/filedownload.ashx?moduleinstanceid=38763&dataid=52348&FileName=Bulletin%202643.10%20-%20Time%20and%20Effort%20Documentation.pdf"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/pdf/1.3/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "300",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "17",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "3",
+        "stream_end": "59",
+        "stream_start": "59",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

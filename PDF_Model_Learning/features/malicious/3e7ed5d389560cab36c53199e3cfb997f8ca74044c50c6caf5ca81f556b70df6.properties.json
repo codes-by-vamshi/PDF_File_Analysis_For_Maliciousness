@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 183337,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783319944982&kwd=Fundamental%20Computing%20Forensics%20for%20Africa%20:%20A%20Case%20Study%20of%20the%20Science%20in%20Nigeria",
+        "http://getpdf.pw/book?res=123&isbn=9783319944982&kwd=Fundamental%20Computing%20Forensics%20for%20Africa%20:%20A%20Case%20Study%20of%20the%20Science%20in%20Nigeria",
+        "https://static.s123-cdn-static-b.com/uploads/4660484/normal_61b08e78c9d5c.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783319944982&kwd=Fundamental%20Computing%20Forensics%20for%20Africa%20:%20A%20Case%20Study%20of%20the%20Science%20in%20Nigeria",
+        "http://getpdf.pw/book?res=123&isbn=9783319944982&kwd=Fundamental%20Computing%20Forensics%20for%20Africa%20:%20A%20Case%20Study%20of%20the%20Science%20in%20Nigeria",
+        "https://static.s123-cdn-static-b.com/uploads/4660484/normal_61b08e78c9d5c.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "183",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "123",
+        "object_start": "123",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "17",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

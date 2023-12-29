@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 115757,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781989365670&kwd=The%20Summer%20of%2098%20:%20A%20Qb%20Bad%20Boy%20Novel",
+        "http://getpdf.pw/book?res=123&isbn=9781989365670&kwd=The%20Summer%20of%2098%20:%20A%20Qb%20Bad%20Boy%20Novel",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/2ad15430-a14d-4459-99fb-1db81b4f6b01/strike-art-contemporary-art-and-the-post-occupy-condition-959.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781989365670&kwd=The%20Summer%20of%2098%20:%20A%20Qb%20Bad%20Boy%20Novel",
+        "http://getpdf.pw/book?res=123&isbn=9781989365670&kwd=The%20Summer%20of%2098%20:%20A%20Qb%20Bad%20Boy%20Novel",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/2ad15430-a14d-4459-99fb-1db81b4f6b01/strike-art-contemporary-art-and-the-post-occupy-condition-959.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "116",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "78",
+        "object_start": "78",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

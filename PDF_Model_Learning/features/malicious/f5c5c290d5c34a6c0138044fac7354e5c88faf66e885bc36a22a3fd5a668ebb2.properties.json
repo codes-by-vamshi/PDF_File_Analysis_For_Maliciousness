@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 104576,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780375873959&kwd=Magic%20Tree%20House%20#32%20Winter%20Of%20The%20Ice%20Wizard",
+        "http://getpdf.pw/book?res=123&isbn=9780375873959&kwd=Magic%20Tree%20House%20#32%20Winter%20Of%20The%20Ice%20Wizard",
+        "https://static.s123-cdn-static-b.com/uploads/4660307/normal_61afab44cd1d2.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661327/normal_61afb9211fb25.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780375873959&kwd=Magic%20Tree%20House%20#32%20Winter%20Of%20The%20Ice%20Wizard",
+        "http://getpdf.pw/book?res=123&isbn=9780375873959&kwd=Magic%20Tree%20House%20#32%20Winter%20Of%20The%20Ice%20Wizard",
+        "https://static.s123-cdn-static-b.com/uploads/4660307/normal_61afab44cd1d2.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661327/normal_61afb9211fb25.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "105",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

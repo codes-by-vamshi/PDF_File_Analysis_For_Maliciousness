@@ -1,0 +1,52 @@
+{
+    "exif_signatures": {},
+    "file_size": 1891910,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.drivesnapshot.de/de",
+        "http://www.drivesnapshot.de/download/setup.exe",
+        "http://support.microsoft.com/kb/838183",
+        "http://support.microsoft.com/kb/838183",
+        "http://www.drivesnapshot.de/de/restdos.htm",
+        "http://www.drivesnapshot.de/de/restdos.htm",
+        "http://technet.microsoft.com/en- us/library/bb457110"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.drivesnapshot.de/de",
+        "http://www.drivesnapshot.de/download/setup.exe",
+        "http://support.microsoft.com/kb/838183",
+        "http://support.microsoft.com/kb/838183",
+        "http://www.drivesnapshot.de/de/restdos.htm",
+        "http://www.drivesnapshot.de/de/restdos.htm",
+        "http://technet.microsoft.com/en-"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "1892",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "707",
+        "object_start": "707",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "54",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "85",
+        "stream_start": "85",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

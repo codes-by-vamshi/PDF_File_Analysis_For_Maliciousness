@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 80492,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781719385749&kwd=I%20Dont%20Need%20Google%20My%20Sister%20Knows%20Everything%20:%20Journal,%20Diary,%20Inspirational%20Lined%20Writing%20Notebook%20-%20Funny%20Sister%20birthday%20gifts%20ideas%20-%20humorous%20gag%20gift%20for%20women",
+        "http://getpdf.pw/book?res=weby&isbn=9781719385749&kwd=I%20Dont%20Need%20Google%20My%20Sister%20Knows%20Everything%20:%20Journal,%20Diary,%20Inspirational%20Lined%20Writing%20Notebook%20-%20Funny%20Sister%20birthday%20gifts%20ideas%20-%20humorous%20gag%20gift%20for%20women",
+        "https://cdn-cms.f-static.net/uploads/4660385/normal_61b0d96f40af5.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661206/normal_61b10c857c108.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660730/normal_61b0bc03a2199.pdf",
+        "https://img1.wsimg.com/blobby/go/f42a44a3-982c-4272-937c-db405e7e12dc/what-should-think-tanks-do-a-strategic-guide-t.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660519/normal_61afd1aa4a937.pdf",
+        "https://files8.webydo.com/9589151/UploadedFiles/A3873D39-41BD-FCC0-277E-748C6F08BF41.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781719385749&kwd=I%20Dont%20Need%20Google%20My%20Sister%20Knows%20Everything%20:%20Journal,%20Diary,%20Inspirational%20Lined%20Writing%20Notebook%20-%20Funny%20Sister%20birthday%20gifts%20ideas%20-%20humorous%20gag%20gift%20for%20women",
+        "http://getpdf.pw/book?res=weby&isbn=9781719385749&kwd=I%20Dont%20Need%20Google%20My%20Sister%20Knows%20Everything%20:%20Journal,%20Diary,%20Inspirational%20Lined%20Writing%20Notebook%20-%20Funny%20Sister%20birthday%20gifts%20ideas%20-%20humorous%20gag%20gift%20for%20women",
+        "https://cdn-cms.f-static.net/uploads/4660385/normal_61b0d96f40af5.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661206/normal_61b10c857c108.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660730/normal_61b0bc03a2199.pdf",
+        "https://img1.wsimg.com/blobby/go/f42a44a3-982c-4272-937c-db405e7e12dc/what-should-think-tanks-do-a-strategic-guide-t.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660519/normal_61afd1aa4a937.pdf",
+        "https://files8.webydo.com/9589151/UploadedFiles/A3873D39-41BD-FCC0-277E-748C6F08BF41.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "80",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "50",
+        "object_start": "50",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "exif_signatures": {},
+    "file_size": 2166227,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://mnmrvipr/ipcorp",
+        "mailto:210980@mahindra.com",
+        "mailto:23081235@mahindra.com",
+        "mailto:25000652@mahindra.com",
+        "mailto:25003153@mahindra.com",
+        "mailto:23150000@mahindra.com",
+        "mailto:207060@mahindra.com",
+        "mailto:23066139@mahindra.com"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://mnmrvipr/ipcorp"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "2.2",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "96",
+        "object_start": "96",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "35",
+        "stream_start": "35",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

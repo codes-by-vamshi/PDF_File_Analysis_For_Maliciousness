@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 98343,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781581807288&kwd=Artists%20Guide%20to%20Drawing%20Realistic%20Animals",
+        "http://getpdf.pw/book?res=weby&isbn=9781581807288&kwd=Artists%20Guide%20to%20Drawing%20Realistic%20Animals",
+        "https://static.s123-cdn-static-d.com/uploads/4646947/normal_61a6c7a7cb78c.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fb1b8b8aa-a22e-46ac-8742-54b463f87366%252Fgaming-representation-race-gender-and-sexuality-in-video-games-953.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648641/normal_61a6d8413d9f9.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4646146/normal_61a6deb434b0c.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4647549/normal_61a6acad10ce8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781581807288&kwd=Artists%20Guide%20to%20Drawing%20Realistic%20Animals",
+        "http://getpdf.pw/book?res=weby&isbn=9781581807288&kwd=Artists%20Guide%20to%20Drawing%20Realistic%20Animals",
+        "https://static.s123-cdn-static-d.com/uploads/4646947/normal_61a6c7a7cb78c.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fb1b8b8aa-a22e-46ac-8742-54b463f87366%252Fgaming-representation-race-gender-and-sexuality-in-video-games-953.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648641/normal_61a6d8413d9f9.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4646146/normal_61a6deb434b0c.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4647549/normal_61a6acad10ce8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "98",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "67",
+        "object_start": "67",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

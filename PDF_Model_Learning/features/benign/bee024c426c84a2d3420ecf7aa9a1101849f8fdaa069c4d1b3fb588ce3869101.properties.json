@@ -1,0 +1,41 @@
+{
+    "exif_signatures": {},
+    "file_size": 10416842,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.elephantrobotics.cn/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.elephantrobotics.cn/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "10",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "765",
+        "object_start": "765",
+        "object_streams": "11",
+        "open_action": "0",
+        "page_count": "146",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "485",
+        "stream_start": "485",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

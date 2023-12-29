@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 129515,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://mongkoktrip.site/Long-Term-Data-Storage/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Long-Term-Data-Storage/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/age-waiver-for-british-army.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/sample-divorce-decree-with-children-wv.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/guided-reading-the-war-in-the-pacific.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/lg-india-complaint-escalation.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/us-government-request-for-proposals.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/strengths-and-difficulties-questionnaire-psychometric-properties.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/testimoni-mixer-the-baker.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/if-you-have-a-foreign-pilot-licence.pdf"
+    ],
+    "regex_uris": [
+        "http://mongkoktrip.site/Long-Term-Data-Storage/pdf/18.219.185.187)>>>><</Type /Annot /Subtype /Link /Rect [310.00 459.00 573.00 386.00] /Border [0 0 0] /A <</S /URI /URI (http://mongkoktrip.site/Long-Term-Data-Storage/doc/18.219.185.187",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/age-waiver-for-british-army.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/sample-divorce-decree-with-children-wv.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/guided-reading-the-war-in-the-pacific.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/lg-india-complaint-escalation.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/us-government-request-for-proposals.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/strengths-and-difficulties-questionnaire-psychometric-properties.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/testimoni-mixer-the-baker.pdf",
+        "https://18.219.185.187/wp-content/uploads/formidable/8/if-you-have-a-foreign-pilot-licence.pdf"
+    ],
+    "regex_urls": [
+        "http://mongkoktrip.site/Long-Term-Data-Storage/pdf/18.219.185.187",
+        "http://mongkoktrip.site/Long-Term-Data-Storage/doc/18.219.185.187",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "130",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "20",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

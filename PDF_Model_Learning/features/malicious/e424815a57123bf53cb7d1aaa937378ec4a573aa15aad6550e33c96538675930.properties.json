@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 94211,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781119543152&kwd=Data%20Driven%20Business%20Transformation%20:%20How%20to%20Disrupt,%20Innovate%20and%20Stay%20Ahead%20of%20the%20Competition",
+        "http://getpdf.pw/book?res=123&isbn=9781119543152&kwd=Data%20Driven%20Business%20Transformation%20:%20How%20to%20Disrupt,%20Innovate%20and%20Stay%20Ahead%20of%20the%20Competition",
+        "https://static.s123-cdn-static-c.com/uploads/4661277/normal_61af7f503068d.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661163/normal_61af7ae6b1c8f.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659950/normal_61af68ba264b6.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781119543152&kwd=Data%20Driven%20Business%20Transformation%20:%20How%20to%20Disrupt,%20Innovate%20and%20Stay%20Ahead%20of%20the%20Competition",
+        "http://getpdf.pw/book?res=123&isbn=9781119543152&kwd=Data%20Driven%20Business%20Transformation%20:%20How%20to%20Disrupt,%20Innovate%20and%20Stay%20Ahead%20of%20the%20Competition",
+        "https://static.s123-cdn-static-c.com/uploads/4661277/normal_61af7f503068d.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661163/normal_61af7ae6b1c8f.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659950/normal_61af68ba264b6.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "61",
+        "object_start": "61",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

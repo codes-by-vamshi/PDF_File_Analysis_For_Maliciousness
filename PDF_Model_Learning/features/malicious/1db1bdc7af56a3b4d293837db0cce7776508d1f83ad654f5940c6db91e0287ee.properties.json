@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 37409,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://netcdn.xyz/app/479516143/free-minecraft-codes-game-hack",
+        "https://netcdn.xyz/app/479516143/free-minecraft-codes-game-hack",
+        "http://raqam.net/uploaded_files/userfiles/files/free-robux-websites-that-work_GM431946152.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/how-to-get-free-coins-in-mcpe-master_GM406889139.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/get-free-spins-on-coin-master-2021_GM406889139.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/free-robux-codes-no-human-verification_GM431946152.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/free-tiktok-comments_GM835599320.pdf"
+    ],
+    "regex_uris": [
+        "https://netcdn.xyz/app/479516143/free-minecraft-codes-game-hack",
+        "https://netcdn.xyz/app/479516143/free-minecraft-codes-game-hack",
+        "http://raqam.net/uploaded_files/userfiles/files/free-robux-websites-that-work_GM431946152.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/how-to-get-free-coins-in-mcpe-master_GM406889139.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/get-free-spins-on-coin-master-2021_GM406889139.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/free-robux-codes-no-human-verification_GM431946152.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/free-tiktok-comments_GM835599320.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://raqam.net/uploaded_files/userfiles/files/free-robux-websites-that-work_GM431946152.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/how-to-get-free-coins-in-mcpe-master_GM406889139.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/get-free-spins-on-coin-master-2021_GM406889139.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/free-robux-codes-no-human-verification_GM431946152.pdf",
+        "http://raqam.net/uploaded_files/userfiles/files/free-tiktok-comments_GM835599320.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "37",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "40",
+        "object_start": "40",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "6",
+        "stream_start": "6",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

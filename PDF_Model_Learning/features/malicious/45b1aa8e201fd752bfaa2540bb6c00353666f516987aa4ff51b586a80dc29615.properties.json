@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 108296,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781554071722&kwd=Optical%20Illusions%20:%20The%20Science%20of%20Visual%20Perception",
+        "http://getpdf.pw/book?res=strik&isbn=9781554071722&kwd=Optical%20Illusions%20:%20The%20Science%20of%20Visual%20Perception",
+        "https://uploads.strikinglycdn.com/files/f9fdd82c-a3c8-43d1-ba20-937fead2549d/the-science-of-gymnastics-advanced-concepts-239.pdf",
+        "https://files8.webydo.com/9589006/UploadedFiles/E479DAF8-BBD7-0754-CF11-FDD1DBA39FA3.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660136/normal_61afc7ffa2676.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659931/normal_61afa02a2590f.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660098/normal_61afa5a2b1f5a.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660282/normal_61afcb2f49005.pdf",
+        "https://static.s123-cdn.com/uploads/4660132/normal_61afa7945374e.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781554071722&kwd=Optical%20Illusions%20:%20The%20Science%20of%20Visual%20Perception",
+        "http://getpdf.pw/book?res=strik&isbn=9781554071722&kwd=Optical%20Illusions%20:%20The%20Science%20of%20Visual%20Perception",
+        "https://uploads.strikinglycdn.com/files/f9fdd82c-a3c8-43d1-ba20-937fead2549d/the-science-of-gymnastics-advanced-concepts-239.pdf",
+        "https://files8.webydo.com/9589006/UploadedFiles/E479DAF8-BBD7-0754-CF11-FDD1DBA39FA3.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660136/normal_61afc7ffa2676.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4659931/normal_61afa02a2590f.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660098/normal_61afa5a2b1f5a.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660282/normal_61afcb2f49005.pdf",
+        "https://static.s123-cdn.com/uploads/4660132/normal_61afa7945374e.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "108",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "79",
+        "object_start": "79",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

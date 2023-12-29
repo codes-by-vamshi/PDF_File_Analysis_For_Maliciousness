@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 1167086,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.iot-tw.com/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.iot-tw.com/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1167",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "180",
+        "object_start": "180",
+        "object_streams": "10",
+        "open_action": "0",
+        "page_count": "17",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "48",
+        "stream_start": "48",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

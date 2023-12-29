@@ -1,0 +1,38 @@
+{
+    "exif_signatures": {},
+    "file_size": 3817249,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.pdf-tools.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "3.8",
+        "java_script": "0",
+        "js": "1",
+        "launch_action": "0",
+        "object_end": "455",
+        "object_start": "455",
+        "object_streams": "6",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "79",
+        "stream_start": "79",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

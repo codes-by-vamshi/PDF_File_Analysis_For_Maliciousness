@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 153556,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781515339168&kwd=Getting%20Started%20in%20Transmedia%20Storytelling%20:%20A%20Practical%20Guide%20for%20Beginners%202nd%20Edition",
+        "http://getpdf.pw/book?res=123&isbn=9781515339168&kwd=Getting%20Started%20in%20Transmedia%20Storytelling%20:%20A%20Practical%20Guide%20for%20Beginners%202nd%20Edition",
+        "https://static.s123-cdn-static-c.com/uploads/4660098/normal_61b0d2e9c1c17.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781515339168&kwd=Getting%20Started%20in%20Transmedia%20Storytelling%20:%20A%20Practical%20Guide%20for%20Beginners%202nd%20Edition",
+        "http://getpdf.pw/book?res=123&isbn=9781515339168&kwd=Getting%20Started%20in%20Transmedia%20Storytelling%20:%20A%20Practical%20Guide%20for%20Beginners%202nd%20Edition",
+        "https://static.s123-cdn-static-c.com/uploads/4660098/normal_61b0d2e9c1c17.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "154",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "101",
+        "object_start": "101",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "20",
+        "stream_start": "20",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

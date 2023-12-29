@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 106482,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780452295353&kwd=Learning%20to%20Breathe%20:%20One%20Womans%20Journey%20of%20Spirit%20and%20Survival",
+        "http://getpdf.pw/book?res=123&isbn=9780452295353&kwd=Learning%20to%20Breathe%20:%20One%20Womans%20Journey%20of%20Spirit%20and%20Survival",
+        "https://files8.webydo.com/9589107/UploadedFiles/7210F168-1C25-FB04-69D1-CA00FEAA7F7C.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780452295353&kwd=Learning%20to%20Breathe%20:%20One%20Womans%20Journey%20of%20Spirit%20and%20Survival",
+        "http://getpdf.pw/book?res=123&isbn=9780452295353&kwd=Learning%20to%20Breathe%20:%20One%20Womans%20Journey%20of%20Spirit%20and%20Survival",
+        "https://files8.webydo.com/9589107/UploadedFiles/7210F168-1C25-FB04-69D1-CA00FEAA7F7C.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "106",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "68",
+        "object_start": "68",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

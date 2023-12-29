@@ -1,0 +1,59 @@
+{
+    "exif_signatures": {},
+    "file_size": 897149,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/",
+        "https://matplotlib.org/",
+        "http://www.python-simple.com/",
+        "https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.scatter.html",
+        "http://www.python-simple.com/python-matplotlib/scatterplot.php",
+        "https://www.section.io/engineering-education/matplotlib-visualization-python/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://www.python-simple.com/",
+        "https",
+        "http://www.python-simple.com/python-matplotlib/scatterplot.php",
+        "https",
+        "www.section.io/engineering-education/matplotlib-visualization-python/",
+        "http://matplotlib.org/api/pyplot_api.html#module-matplotlib.pyplot",
+        "http://matplotlib.org/api/pyplot_api.html#module-matplotlib.pyplot",
+        "https",
+        "https",
+        "http://matplotlib.org/api/pyplot_api.html#module-matplotlib.pyplot",
+        "http://matplotlib.org/api/pyplot_api.html#module-matplotlib.pyplot",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "897",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "396",
+        "object_start": "396",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "282",
+        "stream_start": "282",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

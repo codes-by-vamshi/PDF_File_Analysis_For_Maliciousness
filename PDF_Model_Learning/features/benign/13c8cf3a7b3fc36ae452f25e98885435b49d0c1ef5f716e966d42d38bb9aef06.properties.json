@@ -1,0 +1,73 @@
+{
+    "exif_signatures": {},
+    "file_size": 3978816,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.dlna.org",
+        "http://www.htcsense.com",
+        "https://www.htcsense.com/",
+        "http://www.google.com/accounts/recovery",
+        "http://market.android.com/support",
+        "http://www.kobobooks.com",
+        "http://www.adobe.com/cfusion/membership/index.cfm",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://www.htc.com/support/",
+        "http://www.htc.com/support/"
+    ],
+    "regex_uris": [
+        "http://www.dlna.org",
+        "http://www.htcsense.com",
+        "https://www.htcsense.com/",
+        "http://www.google.com/accounts/recovery",
+        "http://market.android.com/support",
+        "http://www.kobobooks.com",
+        "http://www.adobe.com/cfusion/membership/index.cfm",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://www.htc.com/support/",
+        "http://www.htc.com/support/"
+    ],
+    "regex_urls": [
+        "http://www.dlna.org",
+        "http://www.htcsense.com",
+        "https",
+        "www.htcsense.com/",
+        "http://www.google.com/accounts/recovery",
+        "http://market.android.com/support",
+        "http://www.kobobooks.com",
+        "http://www.adobe.com/cfusion/membership/index.cfm",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://www.htc.com/support/",
+        "http://www.htc.com/support/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "4.0",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "10642",
+        "object_start": "10642",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "228",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "756",
+        "stream_start": "756",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

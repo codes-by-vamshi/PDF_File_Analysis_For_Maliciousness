@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 112491,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780739010761&kwd=Guitar%20for%20the%20Absolute%20Beginner,%20Book%201",
+        "http://getpdf.pw/book?res=123&isbn=9780739010761&kwd=Guitar%20for%20the%20Absolute%20Beginner,%20Book%201",
+        "https://static.s123-cdn.com/uploads/4658746/normal_61abf5e189914.pdf",
+        "https://files8.webydo.com/9588754/UploadedFiles/0A2CC2A5-AFE6-9D04-E5C3-537418C64390.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780739010761&kwd=Guitar%20for%20the%20Absolute%20Beginner,%20Book%201",
+        "http://getpdf.pw/book?res=123&isbn=9780739010761&kwd=Guitar%20for%20the%20Absolute%20Beginner,%20Book%201",
+        "https://static.s123-cdn.com/uploads/4658746/normal_61abf5e189914.pdf",
+        "https://files8.webydo.com/9588754/UploadedFiles/0A2CC2A5-AFE6-9D04-E5C3-537418C64390.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "112",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "79",
+        "object_start": "79",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

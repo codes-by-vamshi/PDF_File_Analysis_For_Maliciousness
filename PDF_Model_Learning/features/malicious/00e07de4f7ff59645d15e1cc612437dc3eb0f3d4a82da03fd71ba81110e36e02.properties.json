@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 122267,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://eminemreactor.site/Harrison-Ford-Autograph-Request/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Harrison-Ford-Autograph-Request/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/billy-blanks-jr-abs.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/purdue-owl-reference-generator.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/remove-a-lien-texas.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/conic-sections-circle-example-problems.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/the-free-exercise-clause-is-found-where.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/qld-security-licence-with-crowd-control-component.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/cpcs-blue-card-renewal-questions-and-answers.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/physical-schema-in-dbms.pdf"
+    ],
+    "regex_uris": [
+        "http://eminemreactor.site/Harrison-Ford-Autograph-Request/pdf/dlinnovations.com)>>>><</Type /Annot /Subtype /Link /Rect [300.00 465.00 547.00 389.00] /Border [0 0 0] /A <</S /URI /URI (http://eminemreactor.site/Harrison-Ford-Autograph-Request/doc/dlinnovations.com",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/billy-blanks-jr-abs.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/purdue-owl-reference-generator.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/remove-a-lien-texas.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/conic-sections-circle-example-problems.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/the-free-exercise-clause-is-found-where.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/qld-security-licence-with-crowd-control-component.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/cpcs-blue-card-renewal-questions-and-answers.pdf",
+        "https://dlinnovations.com/wp-content/uploads/formidable/7/physical-schema-in-dbms.pdf"
+    ],
+    "regex_urls": [
+        "http://eminemreactor.site/Harrison-Ford-Autograph-Request/pdf/dlinnovations.com",
+        "http://eminemreactor.site/Harrison-Ford-Autograph-Request/doc/dlinnovations.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "122",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "17",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "25",
+        "stream_start": "25",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

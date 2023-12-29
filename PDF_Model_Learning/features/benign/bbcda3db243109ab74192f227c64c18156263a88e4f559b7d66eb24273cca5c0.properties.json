@@ -1,0 +1,45 @@
+{
+    "exif_signatures": {},
+    "file_size": 18011284,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "746",
+        "XML_forms": "0",
+        "acro_form": "1",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "18",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "7129",
+        "object_start": "7129",
+        "object_streams": "756",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "7123",
+        "stream_start": "7123",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

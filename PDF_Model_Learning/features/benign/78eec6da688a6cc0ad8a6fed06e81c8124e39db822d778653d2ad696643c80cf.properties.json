@@ -1,0 +1,56 @@
+{
+    "exif_signatures": {},
+    "file_size": 7135647,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "mailto:vancea@bentonpud.org",
+        "mailto:dunlapk@bentonpud.org"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "7.1",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "677",
+        "object_start": "678",
+        "object_streams": "12",
+        "open_action": "0",
+        "page_count": "91",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "582",
+        "stream_start": "582",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

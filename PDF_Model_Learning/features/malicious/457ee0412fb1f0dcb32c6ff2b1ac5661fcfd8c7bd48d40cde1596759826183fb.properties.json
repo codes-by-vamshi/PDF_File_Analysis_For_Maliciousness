@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 31043,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://netcdn.tw/app/431946152/can-u-get-free-robux-game-hack",
+        "http://netcdn.tw/app/431946152/can-u-get-free-robux-game-hack",
+        "https://belajar.mtsn4malang.sch.id/__statics/gudangsoal/files/free-tiktok-fans-and-likes_GM835599320.pdf",
+        "https://belajar.mtsn4malang.sch.id/__statics/gudangsoal/files/free-robux-games-on-roblox_GM431946152.pdf",
+        "https://belajar.mtsn4malang.sch.id/__statics/gudangsoal/files/minecraft-free-ios-2021_GM479516143.pdf"
+    ],
+    "regex_uris": [
+        "http://netcdn.tw/app/431946152/can-u-get-free-robux-game-hack",
+        "http://netcdn.tw/app/431946152/can-u-get-free-robux-game-hack",
+        "https://belajar.mtsn4malang.sch.id/__statics/gudangsoal/files/free-tiktok-fans-and-likes_GM835599320.pdf",
+        "https://belajar.mtsn4malang.sch.id/__statics/gudangsoal/files/free-robux-games-on-roblox_GM431946152.pdf",
+        "https://belajar.mtsn4malang.sch.id/__statics/gudangsoal/files/minecraft-free-ios-2021_GM479516143.pdf"
+    ],
+    "regex_urls": [
+        "http://netcdn.tw/app/431946152/can-u-get-free-robux-game-hack",
+        "http://netcdn.tw/app/431946152/can-u-get-free-robux-game-hack",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "31",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "38",
+        "object_start": "38",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "6",
+        "stream_start": "6",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 102556,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781405193207&kwd=Articulatory%20Phonetics",
+        "http://getpdf.pw/book?res=123&isbn=9781405193207&kwd=Articulatory%20Phonetics",
+        "https://files8.webydo.com/9588338/UploadedFiles/125715D7-99CA-07A2-D5BA-207636BF195D.pdf",
+        "https://cdn-cms.f-static.net/uploads/4649616/normal_61aa68fda592c.pdf",
+        "https://img1.wsimg.com/blobby/go/9c3e1f73-45ba-4602-acc4-e4e55f02a2ea/cityboy-beer-and-loathing-in-the-square-mile-8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781405193207&kwd=Articulatory%20Phonetics",
+        "http://getpdf.pw/book?res=123&isbn=9781405193207&kwd=Articulatory%20Phonetics",
+        "https://files8.webydo.com/9588338/UploadedFiles/125715D7-99CA-07A2-D5BA-207636BF195D.pdf",
+        "https://cdn-cms.f-static.net/uploads/4649616/normal_61aa68fda592c.pdf",
+        "https://img1.wsimg.com/blobby/go/9c3e1f73-45ba-4602-acc4-e4e55f02a2ea/cityboy-beer-and-loathing-in-the-square-mile-8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "103",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

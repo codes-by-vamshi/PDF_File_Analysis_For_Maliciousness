@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 97380,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781523394326&kwd=Willow%20Basketry%20:%20A%20How-To%20Guide",
+        "http://getpdf.pw/book?res=123&isbn=9781523394326&kwd=Willow%20Basketry%20:%20A%20How-To%20Guide",
+        "https://uploads.strikinglycdn.com/files/1576c5b9-6754-4ea9-a8e4-057089298e22/suicide-and-the-soul-786.pdf",
+        "https://uploads.strikinglycdn.com/files/9a7c2a4f-1db4-4d13-8690-798a4b111908/gregor-and-the-prophecy-of-bane-718.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781523394326&kwd=Willow%20Basketry%20:%20A%20How-To%20Guide",
+        "http://getpdf.pw/book?res=123&isbn=9781523394326&kwd=Willow%20Basketry%20:%20A%20How-To%20Guide",
+        "https://uploads.strikinglycdn.com/files/1576c5b9-6754-4ea9-a8e4-057089298e22/suicide-and-the-soul-786.pdf",
+        "https://uploads.strikinglycdn.com/files/9a7c2a4f-1db4-4d13-8690-798a4b111908/gregor-and-the-prophecy-of-bane-718.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

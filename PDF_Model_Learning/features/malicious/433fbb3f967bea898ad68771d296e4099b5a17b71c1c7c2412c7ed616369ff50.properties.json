@@ -1,0 +1,53 @@
+{
+    "exif_signatures": {},
+    "file_size": 94243,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://completespcr.site/Anti-Depressant-Wean-Protocol/pdf/wrapexwestcoast.com",
+        "http://completespcr.site/Anti-Depressant-Wean-Protocol/doc/wrapexwestcoast.com",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/piano-sheet-music-liszt-transcription-beethoven-pastoral.pdf"
+    ],
+    "regex_uris": [
+        "http://completespcr.site/Anti-Depressant-Wean-Protocol/pdf/wrapexwestcoast.com)>>>><</Type /Annot /Subtype /Link /Rect [310.00 465.00 567.00 386.00] /Border [0 0 0] /A <</S /URI /URI (http://completespcr.site/Anti-Depressant-Wean-Protocol/doc/wrapexwestcoast.com",
+        "https://wrapexwestcoast.com/wp-content/uploads/formidable/3/piano-sheet-music-liszt-transcription-beethoven-pastoral.pdf"
+    ],
+    "regex_urls": [
+        "http://completespcr.site/Anti-Depressant-Wean-Protocol/pdf/wrapexwestcoast.com",
+        "http://completespcr.site/Anti-Depressant-Wean-Protocol/doc/wrapexwestcoast.com",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "17",
+        "object_start": "17",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

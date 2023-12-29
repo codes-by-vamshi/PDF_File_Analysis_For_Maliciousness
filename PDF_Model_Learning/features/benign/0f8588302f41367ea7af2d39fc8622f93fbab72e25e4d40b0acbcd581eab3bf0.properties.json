@@ -1,0 +1,44 @@
+{
+    "exif_signatures": {},
+    "file_size": 1024529,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.infarmed.pt/web/infarmed/submissaoram",
+        "mailto:farmacovigilancia@infarmed.pt",
+        "http://www.infarmed.pt/web/infarmed/submissaoram",
+        "mailto:farmacovigilancia@infarmed.pt"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.infarmed.pt/web/infarmed/submissaoram",
+        "http://www.infarmed.pt/web/infarmed/submissaoram"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1025",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "211",
+        "object_start": "211",
+        "object_streams": "6",
+        "open_action": "0",
+        "page_count": "66",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "100",
+        "stream_start": "100",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

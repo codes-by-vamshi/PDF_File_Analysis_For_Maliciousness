@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 36459,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://netcdn.xyz/app/406889139/free-spins-and-coins-on-coin-master-game-hack",
+        "https://netcdn.xyz/app/406889139/free-spins-and-coins-on-coin-master-game-hack",
+        "http://dcmetroapp.com/images/free-spins-on-coin-master-game_GM406889139.pdf",
+        "http://dcmetroapp.com/images/easy-ways-to-get-free-robux_GM431946152.pdf",
+        "http://dcmetroapp.com/images/coin-master-villages_GM406889139.pdf",
+        "http://dcmetroapp.com/images/minecraft-story-mode-free_GM479516143.pdf",
+        "http://dcmetroapp.com/images/coin-master-free-spin-today_GM406889139.pdf"
+    ],
+    "regex_uris": [
+        "https://netcdn.xyz/app/406889139/free-spins-and-coins-on-coin-master-game-hack",
+        "https://netcdn.xyz/app/406889139/free-spins-and-coins-on-coin-master-game-hack",
+        "http://dcmetroapp.com/images/free-spins-on-coin-master-game_GM406889139.pdf",
+        "http://dcmetroapp.com/images/easy-ways-to-get-free-robux_GM431946152.pdf",
+        "http://dcmetroapp.com/images/coin-master-villages_GM406889139.pdf",
+        "http://dcmetroapp.com/images/minecraft-story-mode-free_GM479516143.pdf",
+        "http://dcmetroapp.com/images/coin-master-free-spin-today_GM406889139.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://dcmetroapp.com/images/free-spins-on-coin-master-game_GM406889139.pdf",
+        "http://dcmetroapp.com/images/easy-ways-to-get-free-robux_GM431946152.pdf",
+        "http://dcmetroapp.com/images/coin-master-villages_GM406889139.pdf",
+        "http://dcmetroapp.com/images/minecraft-story-mode-free_GM479516143.pdf",
+        "http://dcmetroapp.com/images/coin-master-free-spin-today_GM406889139.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "36",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "40",
+        "object_start": "40",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "6",
+        "stream_start": "6",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

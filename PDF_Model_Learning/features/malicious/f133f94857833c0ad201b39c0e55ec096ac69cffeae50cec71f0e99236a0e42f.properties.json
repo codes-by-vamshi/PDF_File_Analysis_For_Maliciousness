@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 95012,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780500251461&kwd=The%20True%20History%20of%20Tea",
+        "http://getpdf.pw/book?res=strik&isbn=9780500251461&kwd=The%20True%20History%20of%20Tea",
+        "https://img1.wsimg.com/blobby/go/b299884b-e5cb-435a-91b2-4eccc47564cc/madwomen-the-quotlocas-mujeresquot-poems-of-ga.pdf",
+        "https://static.s123-cdn-static.com/uploads/4650239/normal_61ab5de7f25ea.pdf",
+        "https://static.s123-cdn.com/uploads/4650279/normal_61aac492d73ce.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/5f4ac528-06c8-438f-bc93-74058c087a50/the-rose-society-the-young-elites-book-2-505.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780500251461&kwd=The%20True%20History%20of%20Tea",
+        "http://getpdf.pw/book?res=strik&isbn=9780500251461&kwd=The%20True%20History%20of%20Tea",
+        "https://img1.wsimg.com/blobby/go/b299884b-e5cb-435a-91b2-4eccc47564cc/madwomen-the-quotlocas-mujeresquot-poems-of-ga.pdf",
+        "https://static.s123-cdn-static.com/uploads/4650239/normal_61ab5de7f25ea.pdf",
+        "https://static.s123-cdn.com/uploads/4650279/normal_61aac492d73ce.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/5f4ac528-06c8-438f-bc93-74058c087a50/the-rose-society-the-young-elites-book-2-505.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "66",
+        "object_start": "66",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

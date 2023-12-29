@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 105990,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780295746180&kwd=Fire%20:%20A%20Brief%20History",
+        "http://getpdf.pw/book?res=strik&isbn=9780295746180&kwd=Fire%20:%20A%20Brief%20History",
+        "https://static.s123-cdn-static-a.com/uploads/4661206/normal_61af977182fbc.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660132/normal_61af88c298219.pdf",
+        "https://files8.webydo.com/9589061/UploadedFiles/E2B4D0CF-716F-4186-E7FE-D2FB74E5F5AC.pdf",
+        "https://files8.webydo.com/9589163/UploadedFiles/7788CB82-1B86-B45B-249D-D4B0E3E4AADB.pdf",
+        "https://uploads.strikinglycdn.com/files/4f7f2ae6-5708-40e3-8726-f6a7e1f217de/angel-mage-704.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780295746180&kwd=Fire%20:%20A%20Brief%20History",
+        "http://getpdf.pw/book?res=strik&isbn=9780295746180&kwd=Fire%20:%20A%20Brief%20History",
+        "https://static.s123-cdn-static-a.com/uploads/4661206/normal_61af977182fbc.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660132/normal_61af88c298219.pdf",
+        "https://files8.webydo.com/9589061/UploadedFiles/E2B4D0CF-716F-4186-E7FE-D2FB74E5F5AC.pdf",
+        "https://files8.webydo.com/9589163/UploadedFiles/7788CB82-1B86-B45B-249D-D4B0E3E4AADB.pdf",
+        "https://uploads.strikinglycdn.com/files/4f7f2ae6-5708-40e3-8726-f6a7e1f217de/angel-mage-704.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "106",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "72",
+        "object_start": "72",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 40671,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://netcdn.xyz/app/479516143/free-minecraft-capes-game-hack",
+        "https://netcdn.xyz/app/479516143/free-minecraft-capes-game-hack",
+        "http://lib.stiesultanagung.ac.id//repository/free-robux-no-verification-no-download_GM431946152.pdf",
+        "http://lib.stiesultanagung.ac.id/repository/spin-link-coin-master_GM406889139.pdf",
+        "http://lib.stiesultanagung.ac.id//repository/game-give-free-robux_GM431946152.pdf",
+        "http://lib.stiesultanagung.ac.id/repository/coin-master-hack-without-human-verification-india_GM406889139.pdf",
+        "http://lib.stiesultanagung.ac.id//repository/free-spin-link-coin-master_GM406889139.pdf"
+    ],
+    "regex_uris": [
+        "https://netcdn.xyz/app/479516143/free-minecraft-capes-game-hack",
+        "https://netcdn.xyz/app/479516143/free-minecraft-capes-game-hack",
+        "http://lib.stiesultanagung.ac.id//repository/free-robux-no-verification-no-download_GM431946152.pdf",
+        "http://lib.stiesultanagung.ac.id/repository/spin-link-coin-master_GM406889139.pdf",
+        "http://lib.stiesultanagung.ac.id//repository/game-give-free-robux_GM431946152.pdf",
+        "http://lib.stiesultanagung.ac.id/repository/coin-master-hack-without-human-verification-india_GM406889139.pdf",
+        "http://lib.stiesultanagung.ac.id//repository/free-spin-link-coin-master_GM406889139.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://lib.stiesultanagung.ac.id//repository/free-robux-no-verification-no-download_GM431946152.pdf",
+        "http://lib.stiesultanagung.ac.id/repository/spin-link-coin-master_GM406889139.pdf",
+        "http://lib.stiesultanagung.ac.id//repository/game-give-free-robux_GM431946152.pdf",
+        "http://lib.stiesultanagung.ac.id/repository/coin-master-hack-without-human-verification-india_GM406889139.pdf",
+        "http://lib.stiesultanagung.ac.id//repository/free-spin-link-coin-master_GM406889139.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "41",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "46",
+        "object_start": "46",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

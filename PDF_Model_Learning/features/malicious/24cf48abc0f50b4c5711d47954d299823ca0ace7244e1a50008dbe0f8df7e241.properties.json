@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 200645,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B+%D0%B4%D0%BB%D1%8F+2+%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B5%D0%B3%D1%8D+%D0%BF%D0%BE+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5+2017",
+        "https://xegutokaq.files.wordpress.com/2018/04/pizilule-gdz-po-russkomu-iaz-4-kl-kanakina-uchebnik-gidugonewepej.pdf",
+        "https://nelimusosaleni.files.wordpress.com/2018/04/boxetenoj-enjoy-english-4-klass-gdz-skachat-puvizexaxepiros.pdf",
+        "https://malajasacajukut.files.wordpress.com/2018/04/piwapipovi-gdz-po-okruzhaiushchemu-miru-4-klass-a-a-pleshakov-e-a-kriuchkova-jibejefoda.pdf",
+        "https://fedodapusitipuvaju.files.wordpress.com/2018/04/pejexarotewo-gdz-po-rus-iaz-4-klass-goretskii-kanakina-ketez.pdf",
+        "https://kahunojimenosurososi.files.wordpress.com/2018/04/biruvubefa-reshebnik-po-matematike-testy-dlia-promezhutochnoi-attestatsii-tisifovude.pdf",
+        "https://gucidahaqokoneh.files.wordpress.com/2018/04/xijox-reshebnik-po-solutions-pre-intermediate-rabochaia-tetrad-vtoraia-chast-gafoxaki.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B+%D0%B4%D0%BB%D1%8F+2+%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B5%D0%B3%D1%8D+%D0%BF%D0%BE+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5+2017",
+        "https://xegutokaq.files.wordpress.com/2018/04/pizilule-gdz-po-russkomu-iaz-4-kl-kanakina-uchebnik-gidugonewepej.pdf",
+        "https://nelimusosaleni.files.wordpress.com/2018/04/boxetenoj-enjoy-english-4-klass-gdz-skachat-puvizexaxepiros.pdf",
+        "https://malajasacajukut.files.wordpress.com/2018/04/piwapipovi-gdz-po-okruzhaiushchemu-miru-4-klass-a-a-pleshakov-e-a-kriuchkova-jibejefoda.pdf",
+        "https://fedodapusitipuvaju.files.wordpress.com/2018/04/pejexarotewo-gdz-po-rus-iaz-4-klass-goretskii-kanakina-ketez.pdf",
+        "https://kahunojimenosurososi.files.wordpress.com/2018/04/biruvubefa-reshebnik-po-matematike-testy-dlia-promezhutochnoi-attestatsii-tisifovude.pdf",
+        "https://gucidahaqokoneh.files.wordpress.com/2018/04/xijox-reshebnik-po-solutions-pre-intermediate-rabochaia-tetrad-vtoraia-chast-gafoxaki.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B+%D0%B4%D0%BB%D1%8F+2+%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B5%D0%B3%D1%8D+%D0%BF%D0%BE+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5+2017",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "201",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "54",
+        "object_start": "54",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 97927,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780884024644&kwd=The%20Holy%20Apostles%20-%20A%20Lost%20Monument,%20a%20Forgotten%20Project,%20and%20the%20Presentness%20of%20the%20Past",
+        "http://getpdf.pw/book?res=123&isbn=9780884024644&kwd=The%20Holy%20Apostles%20-%20A%20Lost%20Monument,%20a%20Forgotten%20Project,%20and%20the%20Presentness%20of%20the%20Past",
+        "https://uploads.strikinglycdn.com/files/b3f5b14d-d15d-4aa3-ad4a-b514a62b3dfd/pathfinders-the-golden-age-of-arabic-science-310.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4658843/normal_61aca14dd3e7c.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780884024644&kwd=The%20Holy%20Apostles%20-%20A%20Lost%20Monument,%20a%20Forgotten%20Project,%20and%20the%20Presentness%20of%20the%20Past",
+        "http://getpdf.pw/book?res=123&isbn=9780884024644&kwd=The%20Holy%20Apostles%20-%20A%20Lost%20Monument,%20a%20Forgotten%20Project,%20and%20the%20Presentness%20of%20the%20Past",
+        "https://uploads.strikinglycdn.com/files/b3f5b14d-d15d-4aa3-ad4a-b514a62b3dfd/pathfinders-the-golden-age-of-arabic-science-310.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4658843/normal_61aca14dd3e7c.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "98",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "60",
+        "object_start": "60",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

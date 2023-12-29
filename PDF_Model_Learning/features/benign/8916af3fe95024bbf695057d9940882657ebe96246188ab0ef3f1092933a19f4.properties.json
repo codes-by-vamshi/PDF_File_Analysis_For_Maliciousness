@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 2671067,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.canalkids.com.br/viagem/brasil/pantanal.htm",
+        "https://www.canalkids.com.br/viagem/brasil/pantanal.htm",
+        "https://www.youtube.com/watch?v=QOVV7VtlmRc",
+        "https://www.youtube.com/watch?v=NN9CYUD1wb8",
+        "https://www.youtube.com/watch?v=92GYT8hOv4U",
+        "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2020/09/24/pantanal-tem-maior-numero-de-focos-de-incendio-ja-registrado.htm"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.canalkids.com.br/viagem/brasil/pantanal.htm",
+        "https",
+        "www.canalkids.com.br/viagem/brasil/pantanal.htm",
+        "https",
+        "www.youtube.com/watch?v=QOVV7VtlmRc",
+        "https",
+        "www.youtube.com/watch?v=NN9CYUD1wb8",
+        "https",
+        "www.youtube.com/watch?v=92GYT8hOv4U",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "2.7",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "173",
+        "object_start": "173",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "19",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "85",
+        "stream_start": "85",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 55795,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://bcvucbx746.berilata.ru/dwnl3.php",
+        "http://bcvucbx268.berilata.ru/dwnl3.php",
+        "http://tashicage.bltadwin.ru/steuben-lodge-philadelphia.pdf",
+        "http://akinogis.bltadwin.ru/keep-san-francisco-odd.pdf",
+        "http://arashidal.bltadwin.ru/school-cancellations-cleveland-ohio.pdf",
+        "http://milar.bltadwin.ru/rocklands-washington-dc.pdf",
+        "http://voodookasa.bltadwin.ru/faithful-gould-seattle.pdf",
+        "http://kazishura.bltadwin.ru/jak-otworzy-sklep-new-yorker.pdf",
+        "http://samusho.bltadwin.ru/comedian-san-antonio-tx.pdf"
+    ],
+    "regex_uris": [
+        "http://bcvucbx746.berilata.ru/dwnl3.php",
+        "http://bcvucbx268.berilata.ru/dwnl3.php",
+        "http://tashicage.bltadwin.ru/steuben-lodge-philadelphia.pdf",
+        "http://akinogis.bltadwin.ru/keep-san-francisco-odd.pdf",
+        "http://arashidal.bltadwin.ru/school-cancellations-cleveland-ohio.pdf",
+        "http://milar.bltadwin.ru/rocklands-washington-dc.pdf",
+        "http://voodookasa.bltadwin.ru/faithful-gould-seattle.pdf",
+        "http://kazishura.bltadwin.ru/jak-otworzy-sklep-new-yorker.pdf",
+        "http://samusho.bltadwin.ru/comedian-san-antonio-tx.pdf"
+    ],
+    "regex_urls": [
+        "http://bcvucbx746.berilata.ru/dwnl3.php",
+        "http://bcvucbx268.berilata.ru/dwnl3.php",
+        "http://tashicage.bltadwin.ru/steuben-lodge-philadelphia.pdf",
+        "http://akinogis.bltadwin.ru/keep-san-francisco-odd.pdf",
+        "http://arashidal.bltadwin.ru/school-cancellations-cleveland-ohio.pdf",
+        "http://milar.bltadwin.ru/rocklands-washington-dc.pdf",
+        "http://voodookasa.bltadwin.ru/faithful-gould-seattle.pdf",
+        "http://kazishura.bltadwin.ru/jak-otworzy-sklep-new-yorker.pdf",
+        "http://samusho.bltadwin.ru/comedian-san-antonio-tx.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "56",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

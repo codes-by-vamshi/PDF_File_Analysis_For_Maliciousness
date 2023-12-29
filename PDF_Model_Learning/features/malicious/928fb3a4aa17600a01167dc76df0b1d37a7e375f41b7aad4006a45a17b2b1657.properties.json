@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 123047,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781250310576&kwd=Real%20Change%20:%20Mindfulness%20To%20Heal%20Ourselves%20and%20the%20World",
+        "http://getpdf.pw/book?res=strik&isbn=9781250310576&kwd=Real%20Change%20:%20Mindfulness%20To%20Heal%20Ourselves%20and%20the%20World",
+        "https://static.s123-cdn-static-d.com/uploads/4659087/normal_61acd52f917fc.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/ba9b96b2-3343-4735-ba1a-9b302d3415b9/yoga-mama-yoga-baby-ayurveda-and-yoga-for-a-healthy-pregnancy-and-birth-704.pdf",
+        "https://uploads.strikinglycdn.com/files/979671de-d2fb-4d1b-98b0-21b408f42deb/attack-on-titan-before-the-fall-16-283.pdf",
+        "https://uploads.strikinglycdn.com/files/7f1a99f7-424c-4a0d-a58c-a201e394097f/retrain-your-brain-cognitive-behavioral-therapy-in-7-weeks-a-workbook-for-managing-depression-and-333.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4651244/normal_61ac6839d698e.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781250310576&kwd=Real%20Change%20:%20Mindfulness%20To%20Heal%20Ourselves%20and%20the%20World",
+        "http://getpdf.pw/book?res=strik&isbn=9781250310576&kwd=Real%20Change%20:%20Mindfulness%20To%20Heal%20Ourselves%20and%20the%20World",
+        "https://static.s123-cdn-static-d.com/uploads/4659087/normal_61acd52f917fc.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/ba9b96b2-3343-4735-ba1a-9b302d3415b9/yoga-mama-yoga-baby-ayurveda-and-yoga-for-a-healthy-pregnancy-and-birth-704.pdf",
+        "https://uploads.strikinglycdn.com/files/979671de-d2fb-4d1b-98b0-21b408f42deb/attack-on-titan-before-the-fall-16-283.pdf",
+        "https://uploads.strikinglycdn.com/files/7f1a99f7-424c-4a0d-a58c-a201e394097f/retrain-your-brain-cognitive-behavioral-therapy-in-7-weeks-a-workbook-for-managing-depression-and-333.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4651244/normal_61ac6839d698e.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "123",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "85",
+        "object_start": "85",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

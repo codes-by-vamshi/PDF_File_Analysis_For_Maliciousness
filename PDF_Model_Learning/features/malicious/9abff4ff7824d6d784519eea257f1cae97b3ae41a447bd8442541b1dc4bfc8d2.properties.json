@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 96752,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780857203076&kwd=One%20by%20One%20:%20A%20brilliant%20serial%20killer%20thriller,%20featuring%20the%20unstoppable%20Robert%20Hunter",
+        "http://getpdf.pw/book?res=123&isbn=9780857203076&kwd=One%20by%20One%20:%20A%20brilliant%20serial%20killer%20thriller,%20featuring%20the%20unstoppable%20Robert%20Hunter",
+        "https://files8.webydo.com/9588371/UploadedFiles/D9000D59-A11F-25B5-EFEE-3611498B3703.pdf",
+        "https://files8.webydo.com/9588355/UploadedFiles/DDB8A3AD-C45C-06EA-8972-4056A3C16B78.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780857203076&kwd=One%20by%20One%20:%20A%20brilliant%20serial%20killer%20thriller,%20featuring%20the%20unstoppable%20Robert%20Hunter",
+        "http://getpdf.pw/book?res=123&isbn=9780857203076&kwd=One%20by%20One%20:%20A%20brilliant%20serial%20killer%20thriller,%20featuring%20the%20unstoppable%20Robert%20Hunter",
+        "https://files8.webydo.com/9588371/UploadedFiles/D9000D59-A11F-25B5-EFEE-3611498B3703.pdf",
+        "https://files8.webydo.com/9588355/UploadedFiles/DDB8A3AD-C45C-06EA-8972-4056A3C16B78.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

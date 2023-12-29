@@ -1,0 +1,43 @@
+{
+    "exif_signatures": {},
+    "file_size": 1528864,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:\u00e8\u2044\u00b3ppzh@jd.com",
+        "http://dataworks.jd.com/apply/pop/index.htm",
+        "https://myivc.jd.com/fpzz.html"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://dataworks.jd.com/apply/pop/index.htm",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1529",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "147",
+        "object_start": "147",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "34",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "74",
+        "stream_start": "74",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

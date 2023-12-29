@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 97371,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780091951603&kwd=Our%20Songbirds%20:%20A%20songbird%20for%20every%20week%20of%20the%20year",
+        "http://getpdf.pw/book?res=123&isbn=9780091951603&kwd=Our%20Songbirds%20:%20A%20songbird%20for%20every%20week%20of%20the%20year",
+        "https://files8.webydo.com/9588348/UploadedFiles/3740DE66-E2A5-C55C-F589-748BC482D152.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780091951603&kwd=Our%20Songbirds%20:%20A%20songbird%20for%20every%20week%20of%20the%20year",
+        "http://getpdf.pw/book?res=123&isbn=9780091951603&kwd=Our%20Songbirds%20:%20A%20songbird%20for%20every%20week%20of%20the%20year",
+        "https://files8.webydo.com/9588348/UploadedFiles/3740DE66-E2A5-C55C-F589-748BC482D152.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

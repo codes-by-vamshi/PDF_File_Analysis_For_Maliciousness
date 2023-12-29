@@ -1,0 +1,58 @@
+{
+    "exif_signatures": {},
+    "file_size": 2927444,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://confluence.qps.nl/display/geodetics/How-to+Videos",
+        "https://confluence.qps.nl/display/geodetics/Webinars",
+        "https://confluence.qps.nl/display/qinsy/Geodetic+Setup+-+Getting+Started",
+        "http://www.epsg.org/",
+        "https://en.wikipedia.org/wiki/Geodetic_datum",
+        "https://en.wikipedia.org/wiki/Reference_ellipsoid",
+        "https://en.wikipedia.org/wiki/Map_projection",
+        "https://confluence.qps.nl/display/GeodeticUI/.Search+Dialog+vv1.0",
+        "https://confluence.qps.nl/display/GeodeticUI/.Search+Dialog+vv1.0",
+        "https://confluence.qps.nl/display/GeodeticUI/.Search+Dialog+vv1.0"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "http://www.epsg.org/",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "2.9",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "534",
+        "object_start": "534",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "54",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "254",
+        "stream_start": "254",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

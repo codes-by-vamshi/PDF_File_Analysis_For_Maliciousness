@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 117338,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781881508373&kwd=Looking%20at%20Latvia",
+        "http://getpdf.pw/book?res=123&isbn=9781881508373&kwd=Looking%20at%20Latvia",
+        "https://static.s123-cdn-static-a.com/uploads/4660307/normal_61af717519341.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659890/normal_61af83a7d5207.pdf",
+        "https://files8.webydo.com/9589172/UploadedFiles/CC31740F-4F9C-7B4B-2A09-9B9AD103053A.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781881508373&kwd=Looking%20at%20Latvia",
+        "http://getpdf.pw/book?res=123&isbn=9781881508373&kwd=Looking%20at%20Latvia",
+        "https://static.s123-cdn-static-a.com/uploads/4660307/normal_61af717519341.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659890/normal_61af83a7d5207.pdf",
+        "https://files8.webydo.com/9589172/UploadedFiles/CC31740F-4F9C-7B4B-2A09-9B9AD103053A.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "117",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

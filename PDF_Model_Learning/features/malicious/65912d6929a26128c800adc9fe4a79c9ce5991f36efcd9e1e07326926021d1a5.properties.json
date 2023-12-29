@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 79176,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781839380778&kwd=Hacking%20:%20Beginners%20Guide,%20Wireless%20Hacking,%2017%20Must%20Tools%20every%20Hacker%20should%20have,%2017%20Most%20Dangerous%20Hacking%20Attacks,%2010%20Most%20Dangerous%20Cyber%20Gangs",
+        "http://getpdf.pw/book?res=123&isbn=9781839380778&kwd=Hacking%20:%20Beginners%20Guide,%20Wireless%20Hacking,%2017%20Must%20Tools%20every%20Hacker%20should%20have,%2017%20Most%20Dangerous%20Hacking%20Attacks,%2010%20Most%20Dangerous%20Cyber%20Gangs",
+        "https://static.s123-cdn.com/uploads/4660015/normal_61b0f4f3c7eaf.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661327/normal_61b0ebb614041.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661327/normal_61b0c43e0907d.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781839380778&kwd=Hacking%20:%20Beginners%20Guide,%20Wireless%20Hacking,%2017%20Must%20Tools%20every%20Hacker%20should%20have,%2017%20Most%20Dangerous%20Hacking%20Attacks,%2010%20Most%20Dangerous%20Cyber%20Gangs",
+        "http://getpdf.pw/book?res=123&isbn=9781839380778&kwd=Hacking%20:%20Beginners%20Guide,%20Wireless%20Hacking,%2017%20Must%20Tools%20every%20Hacker%20should%20have,%2017%20Most%20Dangerous%20Hacking%20Attacks,%2010%20Most%20Dangerous%20Cyber%20Gangs",
+        "https://static.s123-cdn.com/uploads/4660015/normal_61b0f4f3c7eaf.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661327/normal_61b0ebb614041.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661327/normal_61b0c43e0907d.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

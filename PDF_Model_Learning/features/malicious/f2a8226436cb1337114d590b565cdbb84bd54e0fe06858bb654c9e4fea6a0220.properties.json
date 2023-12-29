@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 87074,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780394743646&kwd=Sleeping%20on%20the%20Wing%20An%20Anthology%20of%20Modern%20Poetry%20with%20Essays%20on%20Reading%20and%20Writing%201st%20edition",
+        "http://getpdf.pw/book?res=strik&isbn=9780394743646&kwd=Sleeping%20on%20the%20Wing%20An%20Anthology%20of%20Modern%20Poetry%20with%20Essays%20on%20Reading%20and%20Writing%201st%20edition"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780394743646&kwd=Sleeping%20on%20the%20Wing%20An%20Anthology%20of%20Modern%20Poetry%20with%20Essays%20on%20Reading%20and%20Writing%201st%20edition",
+        "http://getpdf.pw/book?res=strik&isbn=9780394743646&kwd=Sleeping%20on%20the%20Wing%20An%20Anthology%20of%20Modern%20Poetry%20with%20Essays%20on%20Reading%20and%20Writing%201st%20edition"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "87",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "exif_signatures": {},
+    "file_size": 45578,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://igcurwm775.berilata.ru/dwnl3.php",
+        "http://igcurwm413.berilata.ru/dwnl3.php",
+        "http://goltimuro.bltadwin.ru/alt-dallas.pdf",
+        "http://akinolkree.bltadwin.ru/padi-scuba-dallas.pdf",
+        "http://tashicage.bltadwin.ru/galveston-new-york.pdf",
+        "http://fezuru.bltadwin.ru/san-diego-seven-day-forecast.pdf",
+        "http://daibar.bltadwin.ru/tokyo-university-quantum-computing.pdf",
+        "http://nejora.bltadwin.ru/william-bayne-las-vegas.pdf",
+        "http://moogushura.bltadwin.ru/indianapolis-pulmonary-doctors.pdf"
+    ],
+    "regex_uris": [
+        "http://igcurwm775.berilata.ru/dwnl3.php",
+        "http://igcurwm413.berilata.ru/dwnl3.php",
+        "http://goltimuro.bltadwin.ru/alt-dallas.pdf",
+        "http://akinolkree.bltadwin.ru/padi-scuba-dallas.pdf",
+        "http://tashicage.bltadwin.ru/galveston-new-york.pdf",
+        "http://fezuru.bltadwin.ru/san-diego-seven-day-forecast.pdf",
+        "http://daibar.bltadwin.ru/tokyo-university-quantum-computing.pdf",
+        "http://nejora.bltadwin.ru/william-bayne-las-vegas.pdf",
+        "http://moogushura.bltadwin.ru/indianapolis-pulmonary-doctors.pdf"
+    ],
+    "regex_urls": [
+        "http://igcurwm775.berilata.ru/dwnl3.php",
+        "http://igcurwm413.berilata.ru/dwnl3.php",
+        "http://goltimuro.bltadwin.ru/alt-dallas.pdf",
+        "http://akinolkree.bltadwin.ru/padi-scuba-dallas.pdf",
+        "http://tashicage.bltadwin.ru/galveston-new-york.pdf",
+        "http://fezuru.bltadwin.ru/san-diego-seven-day-forecast.pdf",
+        "http://daibar.bltadwin.ru/tokyo-university-quantum-computing.pdf",
+        "http://nejora.bltadwin.ru/william-bayne-las-vegas.pdf",
+        "http://moogushura.bltadwin.ru/indianapolis-pulmonary-doctors.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "46",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "48",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

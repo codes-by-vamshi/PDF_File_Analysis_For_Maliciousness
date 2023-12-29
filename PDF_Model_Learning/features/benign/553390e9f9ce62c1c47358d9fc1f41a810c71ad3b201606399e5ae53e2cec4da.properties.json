@@ -1,0 +1,59 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 731620,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://ttc-cdn.azureedge.net/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2021/Dec-20/Decisions/2_2022_TTC_Conventional_and_Wheel-Trans_Operating_Budgets_Decision.pdf?rev=5db94dfe6f0441ebb8997d34058180c6&hash=7DF7B503375902771BAAEF56E15EF25B",
+        "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EX30.2",
+        "https://ttc-cdn.azureedge.net/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2022/February-10/Decisions/2062_13_Transit_Network_Expansion_Update.pdf?rev=5865f63984cc4610be5b8bca81ba75f8&hash=378E46161FDB0E18C4214FEB1C5B83BA",
+        "https://ttc-cdn.azureedge.net/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2022/July-14/Decision/2066_8_Transit_-Network_-Expansion_-Update.pdf?rev=c8369b95882941fc820835fea45cbee9&hash=A38657D3AC5AB770B1C7D2675CF60218",
+        "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EX34.16",
+        "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EX34.16"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/pdfx/1.3/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "732",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "182",
+        "object_start": "182",
+        "object_streams": "30",
+        "open_action": "0",
+        "page_count": "55",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "125",
+        "stream_start": "125",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

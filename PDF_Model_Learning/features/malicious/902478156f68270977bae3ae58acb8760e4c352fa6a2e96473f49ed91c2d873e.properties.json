@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 95252,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780312873639&kwd=In%20Greens%20Jungle",
+        "http://getpdf.pw/book?res=strik&isbn=9780312873639&kwd=In%20Greens%20Jungle",
+        "https://img1.wsimg.com/blobby/go/f66dfc7c-88e1-4147-a7ff-4c6c16c18d41/coaching-positively-lessons-for-coaches-from-p.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659289/normal_61ad9f431060d.pdf",
+        "https://img1.wsimg.com/blobby/go/9b9471ae-c9da-4592-855b-feee619e6a79/new-avengers-by-brian-michael-bendis-the-compl.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659235/normal_61ae0db713ba2.pdf",
+        "https://files8.webydo.com/9588962/UploadedFiles/738180E2-B4F0-4B99-8CAD-A4B734C67261.pdf",
+        "https://files8.webydo.com/9588798/UploadedFiles/1FEC2067-1440-57C4-8C24-741B82B7F4F0.pdf",
+        "https://files8.webydo.com/9588997/UploadedFiles/D32CFBF4-BABE-D491-1F2E-3CEC55238F3D.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659829/normal_61ad419f81836.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780312873639&kwd=In%20Greens%20Jungle",
+        "http://getpdf.pw/book?res=strik&isbn=9780312873639&kwd=In%20Greens%20Jungle",
+        "https://img1.wsimg.com/blobby/go/f66dfc7c-88e1-4147-a7ff-4c6c16c18d41/coaching-positively-lessons-for-coaches-from-p.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659289/normal_61ad9f431060d.pdf",
+        "https://img1.wsimg.com/blobby/go/9b9471ae-c9da-4592-855b-feee619e6a79/new-avengers-by-brian-michael-bendis-the-compl.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659235/normal_61ae0db713ba2.pdf",
+        "https://files8.webydo.com/9588962/UploadedFiles/738180E2-B4F0-4B99-8CAD-A4B734C67261.pdf",
+        "https://files8.webydo.com/9588798/UploadedFiles/1FEC2067-1440-57C4-8C24-741B82B7F4F0.pdf",
+        "https://files8.webydo.com/9588997/UploadedFiles/D32CFBF4-BABE-D491-1F2E-3CEC55238F3D.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659829/normal_61ad419f81836.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "68",
+        "object_start": "68",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

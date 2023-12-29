@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 70407,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.congress.gov/bill/117th-congress/house-bill/2617/text",
+        "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf",
+        "mailto:gsa_smartpay@gsa.gov"
+    ],
+    "regex_uris": [
+        "https://www.congress.gov/bill/117th-congress/house-bill/2617/text",
+        "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf",
+        "mailto:gsa_smartpay@gsa.gov"
+    ],
+    "regex_urls": [
+        "https",
+        "www.congress.gov/bill/117th-congress/house-bill/2617/text",
+        "https",
+        "www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "70",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "32",
+        "object_start": "32",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64"
+    ]
+}

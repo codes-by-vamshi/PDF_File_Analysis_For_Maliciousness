@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 315468,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://voffice.co.id/jakarta-virtual-office/business-tips/biografi-nadiem-makarim-founder-gojek-salah-satu-unicorn-di-indonesia/",
+        "https://www.jurnal.id/id/blog/apa-itu-wirausaha-bagaimana-cara-menjadi-wirausaha-sukses/",
+        "https://www.jurnal.id/id/blog/apa-itu-wirausaha-bagaimana-cara-menjadi-wirausaha-sukses/",
+        "https://ditsmp.kemdikbud.go.id/6-tips-penting-menjadi-moderator-dalam-diskusi/",
+        "https://ditsmp.kemdikbud.go.id/6-tips-penting-menjadi-moderator-dalam-diskusi/",
+        "https://mekari.com/blog/contoh-perencanaan-usaha/",
+        "https://www.jurnal.id/id/blog/2018-cara-mencatat-transaksi-keuangan-dengan-rapi-dan-mudah/",
+        "https://www.jurnal.id/id/blog/2018-cara-mencatat-transaksi-keuangan-dengan-rapi-dan-mudah/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "www.jurnal.id/id/blog/apa-itu-wirausaha-bagaimana-cara-menjadi-wirausaha-sukses/",
+        "https",
+        "www.jurnal.id/id/blog/apa-itu-wirausaha-bagaimana-cara-menjadi-wirausaha-sukses/",
+        "https",
+        "https",
+        "https",
+        "https",
+        "www.jurnal.id/id/blog/2018-cara-mencatat-transaksi-keuangan-dengan-rapi-dan-mudah/",
+        "https",
+        "www.jurnal.id/id/blog/2018-cara-mencatat-transaksi-keuangan-dengan-rapi-dan-mudah/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "315",
+        "java_script": "1",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "282",
+        "object_start": "282",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "27",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "71",
+        "stream_start": "71",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

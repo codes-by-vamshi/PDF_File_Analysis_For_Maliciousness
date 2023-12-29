@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 139713,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781137359162&kwd=Asian%20Brand%20Strategy%20(Revised%20and%20Updated)%20:%20Building%20and%20Sustaining%20Strong%20Global%20Brands%20in%20Asia",
+        "http://getpdf.pw/book?res=strik&isbn=9781137359162&kwd=Asian%20Brand%20Strategy%20(Revised%20and%20Updated)%20:%20Building%20and%20Sustaining%20Strong%20Global%20Brands%20in%20Asia",
+        "https://uploads.strikinglycdn.com/files/6bd021da-3d11-4930-833b-bf60fa30c61e/conquest-of-the-atlantic-cunard-liners-of-the-1950s-and-1960s-602.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659968/normal_61b05bdbbb989.pdf",
+        "https://uploads.strikinglycdn.com/files/b4bda2c7-d26c-4a2d-b7e8-5bc7c7ea3b91/story-of-new-yorks-staircase-735.pdf",
+        "https://img1.wsimg.com/blobby/go/1632ff9d-708d-4680-ac5d-f6aa2fb1d3f1/where-there-is-love-there-is-god-her-path-to-c.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660385/normal_61b0404db9804.pdf",
+        "https://static.s123-cdn-static.com/uploads/4661206/normal_61b071e40f57e.pdf",
+        "https://static.s123-cdn-static.com/uploads/4661671/normal_61b1163743e80.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4661620/normal_61b055d39f194.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781137359162&kwd=Asian%20Brand%20Strategy%20\\(Revised%20and%20Updated\\)%20:%20Building%20and%20Sustaining%20Strong%20Global%20Brands%20in%20Asia",
+        "http://getpdf.pw/book?res=strik&isbn=9781137359162&kwd=Asian%20Brand%20Strategy%20\\(Revised%20and%20Updated\\)%20:%20Building%20and%20Sustaining%20Strong%20Global%20Brands%20in%20Asia",
+        "https://uploads.strikinglycdn.com/files/6bd021da-3d11-4930-833b-bf60fa30c61e/conquest-of-the-atlantic-cunard-liners-of-the-1950s-and-1960s-602.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659968/normal_61b05bdbbb989.pdf",
+        "https://uploads.strikinglycdn.com/files/b4bda2c7-d26c-4a2d-b7e8-5bc7c7ea3b91/story-of-new-yorks-staircase-735.pdf",
+        "https://img1.wsimg.com/blobby/go/1632ff9d-708d-4680-ac5d-f6aa2fb1d3f1/where-there-is-love-there-is-god-her-path-to-c.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660385/normal_61b0404db9804.pdf",
+        "https://static.s123-cdn-static.com/uploads/4661206/normal_61b071e40f57e.pdf",
+        "https://static.s123-cdn-static.com/uploads/4661671/normal_61b1163743e80.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4661620/normal_61b055d39f194.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "140",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "94",
+        "object_start": "94",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

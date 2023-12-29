@@ -1,0 +1,73 @@
+{
+    "exif_signatures": {},
+    "file_size": 202085,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B5%D0%B3%D1%8D+%D1%81%D0%BF%D0%B1+%D0%BF%D0%BE+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5+%D1%81+%D0%BF%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8",
+        "https://xidawuxuqawehoj.files.wordpress.com/2018/04/vakilozezub-ege-po-russkomu-iazyku-2016-testy-s-otvetami-xigawapudowetom.pdf",
+        "https://muvunesijej.files.wordpress.com/2018/04/roxidusux-russkii-iazyk-8-klass-lvov-2013-gdz-wikizukazu.pdf",
+        "https://bofukiqiremodunitaq.files.wordpress.com/2018/04/nasili-kakoi-vysshii-ball-ege-po-literature-2016-xuluxifazafus.pdf",
+        "https://kepowikakuqahisahol.files.wordpress.com/2018/04/gizesetomovened-trofimova-sbornik-zadach-po-fizike-s-resheniiami-kupit-fizes.pdf",
+        "https://qecanojid.files.wordpress.com/2018/04/pelemilugixa-reshebnik-po-inostrannomu-iazyku-5-klass-rabochaia-tetrad-komarova-baniribatobapom.pdf",
+        "https://tesufocecaberawe.files.wordpress.com/2018/04/sebinebe-algebra-9-klass-dorofeev-gdz-reshebnik-rurimumegatel.pdf",
+        "https://redukirosu.files.wordpress.com/2018/04/komosupodox-ege-po-algebre-2017-profilnyi-uroven-moxamoweteni.pdf",
+        "https://wotidiwatunomecoq.files.wordpress.com/2018/04/nagev-reshebnik-po-muzyke-3-klass-xewulus.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B5%D0%B3%D1%8D+%D1%81%D0%BF%D0%B1+%D0%BF%D0%BE+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5+%D1%81+%D0%BF%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8",
+        "https://xidawuxuqawehoj.files.wordpress.com/2018/04/vakilozezub-ege-po-russkomu-iazyku-2016-testy-s-otvetami-xigawapudowetom.pdf",
+        "https://muvunesijej.files.wordpress.com/2018/04/roxidusux-russkii-iazyk-8-klass-lvov-2013-gdz-wikizukazu.pdf",
+        "https://bofukiqiremodunitaq.files.wordpress.com/2018/04/nasili-kakoi-vysshii-ball-ege-po-literature-2016-xuluxifazafus.pdf",
+        "https://kepowikakuqahisahol.files.wordpress.com/2018/04/gizesetomovened-trofimova-sbornik-zadach-po-fizike-s-resheniiami-kupit-fizes.pdf",
+        "https://qecanojid.files.wordpress.com/2018/04/pelemilugixa-reshebnik-po-inostrannomu-iazyku-5-klass-rabochaia-tetrad-komarova-baniribatobapom.pdf",
+        "https://tesufocecaberawe.files.wordpress.com/2018/04/sebinebe-algebra-9-klass-dorofeev-gdz-reshebnik-rurimumegatel.pdf",
+        "https://redukirosu.files.wordpress.com/2018/04/komosupodox-ege-po-algebre-2017-profilnyi-uroven-moxamoweteni.pdf",
+        "https://wotidiwatunomecoq.files.wordpress.com/2018/04/nagev-reshebnik-po-muzyke-3-klass-xewulus.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D0%B5%D0%B3%D1%8D+%D1%81%D0%BF%D0%B1+%D0%BF%D0%BE+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5+%D1%81+%D0%BF%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "202",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "56",
+        "object_start": "56",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "possible_includes_base64_packed_functions",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

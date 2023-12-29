@@ -1,0 +1,59 @@
+{
+    "exif_signatures": {},
+    "file_size": 218822,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://www.dbai.tuwien.ac.at/research/argumentation/aspartix/",
+        "https://hub.docker.com/r/aspartix19/aspartix19-repo",
+        "https://potassco.org/",
+        "https://github.com/potassco/guide/releases/tag/v2.2.0",
+        "https://github.com/potassco/guide/releases/tag/v2.2.0",
+        "http://argumentationcompetition.org/2015/pdf/paper_11.pdf"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "219",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "33",
+        "object_start": "33",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "32",
+        "stream_start": "32",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "without_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

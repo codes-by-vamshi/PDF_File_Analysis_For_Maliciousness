@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 98365,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780486225500&kwd=25%20Kites%20That%20Fly",
+        "http://getpdf.pw/book?res=123&isbn=9780486225500&kwd=25%20Kites%20That%20Fly",
+        "https://files8.webydo.com/9588673/UploadedFiles/1F9D2A71-70CD-990A-8125-8D4D37F2C67C.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659088/normal_61abd5044bcfe.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650191/normal_61ab5bf987f2a.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4650466/normal_61ab647ad95e0.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650138/normal_61aba5c6aac0c.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780486225500&kwd=25%20Kites%20That%20Fly",
+        "http://getpdf.pw/book?res=123&isbn=9780486225500&kwd=25%20Kites%20That%20Fly",
+        "https://files8.webydo.com/9588673/UploadedFiles/1F9D2A71-70CD-990A-8125-8D4D37F2C67C.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659088/normal_61abd5044bcfe.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650191/normal_61ab5bf987f2a.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4650466/normal_61ab647ad95e0.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650138/normal_61aba5c6aac0c.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "98",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "67",
+        "object_start": "67",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

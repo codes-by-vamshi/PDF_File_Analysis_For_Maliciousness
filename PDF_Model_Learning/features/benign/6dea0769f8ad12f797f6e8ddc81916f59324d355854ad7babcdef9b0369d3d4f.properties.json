@@ -1,0 +1,44 @@
+{
+    "exif_signatures": {},
+    "file_size": 512509,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.quienesquien.mx/",
+        "mailto:cuentasweb@qeq.mx",
+        "http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=YpOtsVeZUL7JBM&tbnid=oYLhh6CxOIzZOM:&ved=0CAUQjRw&url=http://www.clipartbest.com/caution-stripes&ei=AADQU9-0OufP8AH63IGoDw&bvm=bv.71667212,d.b2U&psig=AFQjCNHT9biBbYirwdsnWyyK65Hzh0iELQ&ust=1406226740227689"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.quienesquien.mx/",
+        "http://www.google.com/url?sa=i",
+        "http://www.clipartbest.com/caution-stripes"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "513",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "72",
+        "object_start": "72",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "31",
+        "stream_start": "31",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

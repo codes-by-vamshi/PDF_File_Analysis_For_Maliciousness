@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 94157,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780571326204&kwd=The%20Lady%20in%20the%20Van%20:%20The%20Complete%20Edition",
+        "http://getpdf.pw/book?res=123&isbn=9780571326204&kwd=The%20Lady%20in%20the%20Van%20:%20The%20Complete%20Edition",
+        "https://uploads.strikinglycdn.com/files/038aa4fe-3ca4-4085-9a34-ac5e3f15db76/engaging-with-god-a-biblical-theology-of-worship-254.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/94d36e5a-6605-408f-82f8-d8c951640925/in-a-time-of-distance-and-other-poems-645.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659718/normal_61ad39e7cad0d.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780571326204&kwd=The%20Lady%20in%20the%20Van%20:%20The%20Complete%20Edition",
+        "http://getpdf.pw/book?res=123&isbn=9780571326204&kwd=The%20Lady%20in%20the%20Van%20:%20The%20Complete%20Edition",
+        "https://uploads.strikinglycdn.com/files/038aa4fe-3ca4-4085-9a34-ac5e3f15db76/engaging-with-god-a-biblical-theology-of-worship-254.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/94d36e5a-6605-408f-82f8-d8c951640925/in-a-time-of-distance-and-other-poems-645.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659718/normal_61ad39e7cad0d.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

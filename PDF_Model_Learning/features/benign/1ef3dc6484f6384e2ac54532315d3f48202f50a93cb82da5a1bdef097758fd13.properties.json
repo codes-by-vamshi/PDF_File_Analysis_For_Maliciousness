@@ -1,0 +1,79 @@
+{
+    "exif_signatures": {},
+    "file_size": 370044,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.daghewardmills.org/",
+        "http://www.daghewardmills.org/lci/",
+        "http://www.daghewardmills.org/healingjesuscrusade/",
+        "http://www.smashwords.com/books/view/16044",
+        "http://www.smashwords.com/books/view/38395",
+        "http://www.smashwords.com/books/view/38526",
+        "http://www.smashwords.com/books/view/38217",
+        "http://www.smashwords.com/books/view/16119",
+        "http://www.smashwords.com/books/view/16117",
+        "http://www.smashwords.com/books/view/16045"
+    ],
+    "regex_uris": [
+        "http://www.daghewardmills.org/",
+        "http://www.daghewardmills.org/lci/",
+        "http://www.daghewardmills.org/healingjesuscrusade/",
+        "http://www.smashwords.com/books/view/16044",
+        "http://www.smashwords.com/books/view/38395",
+        "http://www.smashwords.com/books/view/38526",
+        "http://www.smashwords.com/books/view/38217",
+        "http://www.smashwords.com/books/view/16119",
+        "http://www.smashwords.com/books/view/16117",
+        "http://www.smashwords.com/books/view/16045"
+    ],
+    "regex_urls": [
+        "http://calibre-ebook.com",
+        "http://calibre-ebook.com",
+        "http://calibre-ebook.com",
+        "http://www.daghewardmills.org/",
+        "http://www.daghewardmills.org/lci/",
+        "http://www.daghewardmills.org/healingjesuscrusade/",
+        "http://www.smashwords.com/books/view/16044",
+        "http://www.smashwords.com/books/view/38395",
+        "http://www.smashwords.com/books/view/38526",
+        "http://www.smashwords.com/books/view/38217",
+        "http://www.smashwords.com/books/view/16119",
+        "http://www.smashwords.com/books/view/16117",
+        "http://www.smashwords.com/books/view/16045"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "370",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "111",
+        "object_start": "111",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "24",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "39",
+        "stream_start": "39",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers3"
+    ]
+}

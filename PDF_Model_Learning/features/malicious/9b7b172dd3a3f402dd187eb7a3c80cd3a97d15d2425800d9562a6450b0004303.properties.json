@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 114136,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780470464700&kwd=Classical%20Guitar%20for%20Dummies",
+        "http://getpdf.pw/book?res=123&isbn=9780470464700&kwd=Classical%20Guitar%20for%20Dummies",
+        "https://static.s123-cdn-static-d.com/uploads/4648311/normal_61a6b3fbc18bd.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F6f4a0593-6c5e-464c-b48d-26c7c679e4fe%252Ffive-finger-discount-a-crooked-family-history-1st-edition-64.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780470464700&kwd=Classical%20Guitar%20for%20Dummies",
+        "http://getpdf.pw/book?res=123&isbn=9780470464700&kwd=Classical%20Guitar%20for%20Dummies",
+        "https://static.s123-cdn-static-d.com/uploads/4648311/normal_61a6b3fbc18bd.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F6f4a0593-6c5e-464c-b48d-26c7c679e4fe%252Ffive-finger-discount-a-crooked-family-history-1st-edition-64.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "114",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "74",
+        "object_start": "74",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

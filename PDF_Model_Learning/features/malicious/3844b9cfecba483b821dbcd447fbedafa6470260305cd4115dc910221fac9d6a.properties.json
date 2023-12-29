@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 107667,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781783059379&kwd=When%20the%20Screaming%20Stops%20:%20The%20Dark%20History%20of%20the%20Bay%20City%20Rollers",
+        "http://getpdf.pw/book?res=strik&isbn=9781783059379&kwd=When%20the%20Screaming%20Stops%20:%20The%20Dark%20History%20of%20the%20Bay%20City%20Rollers",
+        "https://uploads.strikinglycdn.com/files/fa8b7bce-bfd2-46ed-8aa3-78136a4b6786/holiday-forest-friends-labels-book-of-labels-395.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660307/normal_61af711c44e84.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660103/normal_61af89575607a.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/b9ccb240-1b2a-4724-a255-7539745a22a9/champions-liverpool-fc-premier-league-title-winners-201920-52.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661499/normal_61afbb5deb411.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660054/normal_61af87494a03e.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/59f2f6c6-2b6d-4c9b-818a-0beaa11bb2c5/adult-jigsaw-puzzle-national-gallery-vincent-van-gogh-sunflowers-1000-piece-jigsaw-puzzles-995.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781783059379&kwd=When%20the%20Screaming%20Stops%20:%20The%20Dark%20History%20of%20the%20Bay%20City%20Rollers",
+        "http://getpdf.pw/book?res=strik&isbn=9781783059379&kwd=When%20the%20Screaming%20Stops%20:%20The%20Dark%20History%20of%20the%20Bay%20City%20Rollers",
+        "https://uploads.strikinglycdn.com/files/fa8b7bce-bfd2-46ed-8aa3-78136a4b6786/holiday-forest-friends-labels-book-of-labels-395.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660307/normal_61af711c44e84.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660103/normal_61af89575607a.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/b9ccb240-1b2a-4724-a255-7539745a22a9/champions-liverpool-fc-premier-league-title-winners-201920-52.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661499/normal_61afbb5deb411.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660054/normal_61af87494a03e.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/59f2f6c6-2b6d-4c9b-818a-0beaa11bb2c5/adult-jigsaw-puzzle-national-gallery-vincent-van-gogh-sunflowers-1000-piece-jigsaw-puzzles-995.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "108",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "74",
+        "object_start": "74",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

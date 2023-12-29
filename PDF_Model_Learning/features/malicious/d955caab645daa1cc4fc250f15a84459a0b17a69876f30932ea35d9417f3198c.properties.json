@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 120568,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781933573113&kwd=Frederic%20Chopin,%20Son%20of%20Poland,%20Early%20Years",
+        "http://getpdf.pw/book?res=123&isbn=9781933573113&kwd=Frederic%20Chopin,%20Son%20of%20Poland,%20Early%20Years",
+        "https://static.s123-cdn-static-a.com/uploads/4659808/normal_61ad6c593f56a.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659249/normal_61ad9e080cc30.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/204c6def-6b1a-42d6-8504-fc9b811d9080/facial-enhancement-acupuncture-clinical-use-and-application-758.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781933573113&kwd=Frederic%20Chopin,%20Son%20of%20Poland,%20Early%20Years",
+        "http://getpdf.pw/book?res=123&isbn=9781933573113&kwd=Frederic%20Chopin,%20Son%20of%20Poland,%20Early%20Years",
+        "https://static.s123-cdn-static-a.com/uploads/4659808/normal_61ad6c593f56a.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659249/normal_61ad9e080cc30.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/204c6def-6b1a-42d6-8504-fc9b811d9080/facial-enhancement-acupuncture-clinical-use-and-application-758.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "121",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

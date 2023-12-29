@@ -1,0 +1,70 @@
+{
+    "exif_signatures": {},
+    "file_size": 113599,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://releasedvarious.site/Excel-Spreadsheet-General-Ledger/pdf/www.torch-inc.co.jp",
+        "http://releasedvarious.site/Excel-Spreadsheet-General-Ledger/doc/www.torch-inc.co.jp",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/national-emergency-in-india-article.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/legal-age-of-consent-western-australia.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/documents-required-for-immigration.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/car-hire-damage-waiver.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/cheque-book-request-letter-format-in-tamil.pdf"
+    ],
+    "regex_uris": [
+        "http://releasedvarious.site/Excel-Spreadsheet-General-Ledger/pdf/www.torch-inc.co.jp)>>>><</Type /Annot /Subtype /Link /Rect [292.00 456.00 552.00 378.00] /Border [0 0 0] /A <</S /URI /URI (http://releasedvarious.site/Excel-Spreadsheet-General-Ledger/doc/www.torch-inc.co.jp",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/national-emergency-in-india-article.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/legal-age-of-consent-western-australia.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/documents-required-for-immigration.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/car-hire-damage-waiver.pdf",
+        "https://www.torch-inc.co.jp/wp-content/uploads/formidable/2/cheque-book-request-letter-format-in-tamil.pdf"
+    ],
+    "regex_urls": [
+        "http://releasedvarious.site/Excel-Spreadsheet-General-Ledger/pdf/www.torch-inc.co.jp",
+        "http://releasedvarious.site/Excel-Spreadsheet-General-Ledger/doc/www.torch-inc.co.jp",
+        "https",
+        "www.torch-inc.co.jp/wp-content/uploads/formidable/2/national-emergency-in-india-article.pdf",
+        "https",
+        "www.torch-inc.co.jp/wp-content/uploads/formidable/2/legal-age-of-consent-western-australia.pdf",
+        "https",
+        "www.torch-inc.co.jp/wp-content/uploads/formidable/2/documents-required-for-immigration.pdf",
+        "https",
+        "www.torch-inc.co.jp/wp-content/uploads/formidable/2/car-hire-damage-waiver.pdf",
+        "https",
+        "www.torch-inc.co.jp/wp-content/uploads/formidable/2/cheque-book-request-letter-format-in-tamil.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "114",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "37",
+        "object_start": "37",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "20",
+        "stream_start": "20",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

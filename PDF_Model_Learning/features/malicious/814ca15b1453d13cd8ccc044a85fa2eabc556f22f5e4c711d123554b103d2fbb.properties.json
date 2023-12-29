@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 90827,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781907222368&kwd=Of%20Shadows%20:%20One%20Hundred%20Objects%20from%20the%20Museum%20of%20Witchcraft%20and%20Magic",
+        "http://getpdf.pw/book?res=strik&isbn=9781907222368&kwd=Of%20Shadows%20:%20One%20Hundred%20Objects%20from%20the%20Museum%20of%20Witchcraft%20and%20Magic",
+        "https://img1.wsimg.com/blobby/go/1632ff9d-708d-4680-ac5d-f6aa2fb1d3f1/every-single-womans-battle-workbook-a-companio.pdf",
+        "https://static.s123-cdn.com/uploads/4661499/normal_61af9b17e5e48.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660487/normal_61af74f1f0a34.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661840/normal_61af9e53ec7e7.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659925/normal_61afc073bef27.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660467/normal_61afad1e18fb9.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661666/normal_61afbc7d260dd.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781907222368&kwd=Of%20Shadows%20:%20One%20Hundred%20Objects%20from%20the%20Museum%20of%20Witchcraft%20and%20Magic",
+        "http://getpdf.pw/book?res=strik&isbn=9781907222368&kwd=Of%20Shadows%20:%20One%20Hundred%20Objects%20from%20the%20Museum%20of%20Witchcraft%20and%20Magic",
+        "https://img1.wsimg.com/blobby/go/1632ff9d-708d-4680-ac5d-f6aa2fb1d3f1/every-single-womans-battle-workbook-a-companio.pdf",
+        "https://static.s123-cdn.com/uploads/4661499/normal_61af9b17e5e48.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660487/normal_61af74f1f0a34.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661840/normal_61af9e53ec7e7.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659925/normal_61afc073bef27.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660467/normal_61afad1e18fb9.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661666/normal_61afbc7d260dd.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "91",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

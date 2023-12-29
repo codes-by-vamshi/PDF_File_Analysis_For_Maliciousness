@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 92473,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781974706464&kwd=Mobile%20Suit%20Gundam%20Thunderbolt,%20Vol.%2011",
+        "http://getpdf.pw/book?res=strik&isbn=9781974706464&kwd=Mobile%20Suit%20Gundam%20Thunderbolt,%20Vol.%2011",
+        "https://static.s123-cdn-static-d.com/uploads/4650111/normal_61aae69d9f005.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/87b737cc-444e-43a8-a157-ed37d1e665c2/the-worst-years-of-my-life-426.pdf",
+        "https://img1.wsimg.com/blobby/go/90bbeedb-2819-4d23-922e-3d2d4905308d/serial-killers-the-method-and-madness-of-monst.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649772/normal_61ab79f3ec925.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/55cd5790-e510-48ee-9678-e525f361fba7/saturday-requiem-a-frieda-klein-novel-6-792.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/9b5818dc-498b-48ed-8c8e-9a63c0ba0ea2/i-tina-my-life-story-765.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781974706464&kwd=Mobile%20Suit%20Gundam%20Thunderbolt,%20Vol.%2011",
+        "http://getpdf.pw/book?res=strik&isbn=9781974706464&kwd=Mobile%20Suit%20Gundam%20Thunderbolt,%20Vol.%2011",
+        "https://static.s123-cdn-static-d.com/uploads/4650111/normal_61aae69d9f005.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/87b737cc-444e-43a8-a157-ed37d1e665c2/the-worst-years-of-my-life-426.pdf",
+        "https://img1.wsimg.com/blobby/go/90bbeedb-2819-4d23-922e-3d2d4905308d/serial-killers-the-method-and-madness-of-monst.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4649772/normal_61ab79f3ec925.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/55cd5790-e510-48ee-9678-e525f361fba7/saturday-requiem-a-frieda-klein-novel-6-792.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/9b5818dc-498b-48ed-8c8e-9a63c0ba0ea2/i-tina-my-life-story-765.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "92",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

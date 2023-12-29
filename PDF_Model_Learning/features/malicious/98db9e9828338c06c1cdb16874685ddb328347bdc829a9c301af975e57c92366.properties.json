@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 110500,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781927366448&kwd=In%20This%20Together%20:%20Fifteen%20Stories%20of%20Truth%20and%20Reconciliation",
+        "http://getpdf.pw/book?res=123&isbn=9781927366448&kwd=In%20This%20Together%20:%20Fifteen%20Stories%20of%20Truth%20and%20Reconciliation",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/e4457ccf-0a59-4445-8b67-2ae9b5dd7907/the-mirror-empire-the-worldbreaker-saga-book-i-653.pdf",
+        "https://files8.webydo.com/9589042/UploadedFiles/91F4B778-A0B6-9BEB-3528-0A004DDA1DAC.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781927366448&kwd=In%20This%20Together%20:%20Fifteen%20Stories%20of%20Truth%20and%20Reconciliation",
+        "http://getpdf.pw/book?res=123&isbn=9781927366448&kwd=In%20This%20Together%20:%20Fifteen%20Stories%20of%20Truth%20and%20Reconciliation",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/e4457ccf-0a59-4445-8b67-2ae9b5dd7907/the-mirror-empire-the-worldbreaker-saga-book-i-653.pdf",
+        "https://files8.webydo.com/9589042/UploadedFiles/91F4B778-A0B6-9BEB-3528-0A004DDA1DAC.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "74",
+        "object_start": "74",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 142040,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780911226447&kwd=The%20Rainbow%20Machine%20:%20Tales%20from%20a%20Neuro-linguists%20Journal",
+        "http://getpdf.pw/book?res=123&isbn=9780911226447&kwd=The%20Rainbow%20Machine%20:%20Tales%20from%20a%20Neuro-linguists%20Journal",
+        "https://files8.webydo.com/9588419/UploadedFiles/678C60E2-C6E1-AAA5-DF2A-7130CA437F4D.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650566/normal_61aa7f75e56f6.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780911226447&kwd=The%20Rainbow%20Machine%20:%20Tales%20from%20a%20Neuro-linguists%20Journal",
+        "http://getpdf.pw/book?res=123&isbn=9780911226447&kwd=The%20Rainbow%20Machine%20:%20Tales%20from%20a%20Neuro-linguists%20Journal",
+        "https://files8.webydo.com/9588419/UploadedFiles/678C60E2-C6E1-AAA5-DF2A-7130CA437F4D.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4650566/normal_61aa7f75e56f6.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "142",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "94",
+        "object_start": "94",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

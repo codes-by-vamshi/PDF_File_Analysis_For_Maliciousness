@@ -1,0 +1,36 @@
+{
+    "exif_signatures": {},
+    "file_size": 519714,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "520",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "257",
+        "object_start": "257",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "118",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "122",
+        "stream_start": "122",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

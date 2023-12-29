@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 129067,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780521603706&kwd=Five%20Things%20to%20Know%20About%20the%20Australian%20Constitution",
+        "http://getpdf.pw/book?res=123&isbn=9780521603706&kwd=Five%20Things%20to%20Know%20About%20the%20Australian%20Constitution",
+        "https://static.s123-cdn-static-c.com/uploads/4660175/normal_61af6e6d7e964.pdf",
+        "https://uploads.strikinglycdn.com/files/b9ccb240-1b2a-4724-a255-7539745a22a9/the-way-of-st-james-le-puy-to-the-pyrenees-gr65-the-chemin-de-saint-jacques-103.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780521603706&kwd=Five%20Things%20to%20Know%20About%20the%20Australian%20Constitution",
+        "http://getpdf.pw/book?res=123&isbn=9780521603706&kwd=Five%20Things%20to%20Know%20About%20the%20Australian%20Constitution",
+        "https://static.s123-cdn-static-c.com/uploads/4660175/normal_61af6e6d7e964.pdf",
+        "https://uploads.strikinglycdn.com/files/b9ccb240-1b2a-4724-a255-7539745a22a9/the-way-of-st-james-le-puy-to-the-pyrenees-gr65-the-chemin-de-saint-jacques-103.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "129",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "89",
+        "object_start": "89",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

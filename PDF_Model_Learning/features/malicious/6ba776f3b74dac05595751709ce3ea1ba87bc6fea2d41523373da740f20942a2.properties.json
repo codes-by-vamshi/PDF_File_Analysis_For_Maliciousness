@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 47586,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://weswciz615.berilata.ru/dwnl3.php",
+        "http://weswciz195.berilata.ru/dwnl3.php",
+        "http://vinris.bltadwin.ru/rank-las-vegas-casinos.pdf",
+        "http://fezahn.bltadwin.ru/peoplesoft-jobs-in-chicago-il.pdf",
+        "http://milar.bltadwin.ru/rachel-suh-los-angeles.pdf",
+        "http://sasida.bltadwin.ru/zro-austin-concert.pdf",
+        "http://shalabar.bltadwin.ru/shorn-scrotum-austin.pdf",
+        "http://kajisho.bltadwin.ru/raleigh-lewis-business-oregon.pdf",
+        "http://vinris.bltadwin.ru/charlie-cleveland.pdf"
+    ],
+    "regex_uris": [
+        "http://weswciz615.berilata.ru/dwnl3.php",
+        "http://weswciz195.berilata.ru/dwnl3.php",
+        "http://vinris.bltadwin.ru/rank-las-vegas-casinos.pdf",
+        "http://fezahn.bltadwin.ru/peoplesoft-jobs-in-chicago-il.pdf",
+        "http://milar.bltadwin.ru/rachel-suh-los-angeles.pdf",
+        "http://sasida.bltadwin.ru/zro-austin-concert.pdf",
+        "http://shalabar.bltadwin.ru/shorn-scrotum-austin.pdf",
+        "http://kajisho.bltadwin.ru/raleigh-lewis-business-oregon.pdf",
+        "http://vinris.bltadwin.ru/charlie-cleveland.pdf"
+    ],
+    "regex_urls": [
+        "http://weswciz615.berilata.ru/dwnl3.php",
+        "http://weswciz195.berilata.ru/dwnl3.php",
+        "http://vinris.bltadwin.ru/rank-las-vegas-casinos.pdf",
+        "http://fezahn.bltadwin.ru/peoplesoft-jobs-in-chicago-il.pdf",
+        "http://milar.bltadwin.ru/rachel-suh-los-angeles.pdf",
+        "http://sasida.bltadwin.ru/zro-austin-concert.pdf",
+        "http://shalabar.bltadwin.ru/shorn-scrotum-austin.pdf",
+        "http://kajisho.bltadwin.ru/raleigh-lewis-business-oregon.pdf",
+        "http://vinris.bltadwin.ru/charlie-cleveland.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "48",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

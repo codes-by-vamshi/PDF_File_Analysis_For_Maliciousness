@@ -1,0 +1,58 @@
+{
+    "exif_signatures": {},
+    "file_size": 428418,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://urldefense.com/v3/__http:/www.toyskingdom.co.id/hsbc__;!!LSAcJDlP!wUy1rfS7Am94V62UqGzHGFetgyRLWeDlfOw9bfkTTX-lFP3v6gX95Kfm2LOWsYNugMTTtorOB5-B5K8OxM3gb6rmtXLOgX_T7lAh$"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.toyskingdom.co.id/hsbc__"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "428",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "265",
+        "object_start": "265",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "252",
+        "stream_start": "252",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

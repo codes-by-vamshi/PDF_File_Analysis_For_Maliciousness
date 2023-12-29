@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 105210,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://jetfightreducing.site/Attach-Word-Document-To-Facebook-Post/pdf/autoschadebuijs.nl",
+        "http://jetfightreducing.site/Attach-Word-Document-To-Facebook-Post/doc/autoschadebuijs.nl",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/continuation-of-tenancy-agreement.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/inpatient-psychiatric-facility-quality-reporting-program-manual.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/comcast-customer-satisfaction-rating.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/declaration-by-pastor-steven-furtick.pdf"
+    ],
+    "regex_uris": [
+        "http://jetfightreducing.site/Attach-Word-Document-To-Facebook-Post/pdf/autoschadebuijs.nl)>>>><</Type /Annot /Subtype /Link /Rect [303.00 462.00 554.00 388.00] /Border [0 0 0] /A <</S /URI /URI (http://jetfightreducing.site/Attach-Word-Document-To-Facebook-Post/doc/autoschadebuijs.nl",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/continuation-of-tenancy-agreement.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/inpatient-psychiatric-facility-quality-reporting-program-manual.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/comcast-customer-satisfaction-rating.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/declaration-by-pastor-steven-furtick.pdf"
+    ],
+    "regex_urls": [
+        "http://jetfightreducing.site/Attach-Word-Document-To-Facebook-Post/pdf/autoschadebuijs.nl",
+        "http://jetfightreducing.site/Attach-Word-Document-To-Facebook-Post/doc/autoschadebuijs.nl",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "105",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "29",
+        "object_start": "29",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

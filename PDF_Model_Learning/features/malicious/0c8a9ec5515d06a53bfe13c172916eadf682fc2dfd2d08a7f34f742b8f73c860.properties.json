@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 44852,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://ququbxb266.berilata.ru/dwnl3.php",
+        "http://ququbxb916.berilata.ru/dwnl3.php",
+        "http://zologul.bltadwin.ru/los-angeles-korean-tacos.pdf",
+        "http://maut.bltadwin.ru/philippines-embassy-in-dallas.pdf",
+        "http://zulular.bltadwin.ru/brian-goetz-columbus-ohio.pdf",
+        "http://yojora.bltadwin.ru/los-angeles-charlotte-flights.pdf",
+        "http://jojor.bltadwin.ru/gem-detroit.pdf",
+        "http://kekora.bltadwin.ru/hostal-los-angeles-primera-de-pro.pdf",
+        "http://kazizshura.bltadwin.ru/las-vegas-ham-radio-store.pdf"
+    ],
+    "regex_uris": [
+        "http://ququbxb266.berilata.ru/dwnl3.php",
+        "http://ququbxb916.berilata.ru/dwnl3.php",
+        "http://zologul.bltadwin.ru/los-angeles-korean-tacos.pdf",
+        "http://maut.bltadwin.ru/philippines-embassy-in-dallas.pdf",
+        "http://zulular.bltadwin.ru/brian-goetz-columbus-ohio.pdf",
+        "http://yojora.bltadwin.ru/los-angeles-charlotte-flights.pdf",
+        "http://jojor.bltadwin.ru/gem-detroit.pdf",
+        "http://kekora.bltadwin.ru/hostal-los-angeles-primera-de-pro.pdf",
+        "http://kazizshura.bltadwin.ru/las-vegas-ham-radio-store.pdf"
+    ],
+    "regex_urls": [
+        "http://ququbxb266.berilata.ru/dwnl3.php",
+        "http://ququbxb916.berilata.ru/dwnl3.php",
+        "http://zologul.bltadwin.ru/los-angeles-korean-tacos.pdf",
+        "http://maut.bltadwin.ru/philippines-embassy-in-dallas.pdf",
+        "http://zulular.bltadwin.ru/brian-goetz-columbus-ohio.pdf",
+        "http://yojora.bltadwin.ru/los-angeles-charlotte-flights.pdf",
+        "http://jojor.bltadwin.ru/gem-detroit.pdf",
+        "http://kekora.bltadwin.ru/hostal-los-angeles-primera-de-pro.pdf",
+        "http://kazizshura.bltadwin.ru/las-vegas-ham-radio-store.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "45",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

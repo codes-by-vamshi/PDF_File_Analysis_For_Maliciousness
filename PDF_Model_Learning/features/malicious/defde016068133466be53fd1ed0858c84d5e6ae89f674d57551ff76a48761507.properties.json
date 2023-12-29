@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 167863,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781676827825&kwd=Dont%20Mess%20With%20Me,%20I%20Am%20A%20Cardiologist%20:%206X9%20Career%20Pride%20120%20pages%20Writing%20Notebooks",
+        "http://getpdf.pw/book?res=123&isbn=9781676827825&kwd=Dont%20Mess%20With%20Me,%20I%20Am%20A%20Cardiologist%20:%206X9%20Career%20Pride%20120%20pages%20Writing%20Notebooks",
+        "https://files8.webydo.com/9589292/UploadedFiles/262391DE-E90B-3C52-F54D-F9EFF1DA53C4.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781676827825&kwd=Dont%20Mess%20With%20Me,%20I%20Am%20A%20Cardiologist%20:%206X9%20Career%20Pride%20120%20pages%20Writing%20Notebooks",
+        "http://getpdf.pw/book?res=123&isbn=9781676827825&kwd=Dont%20Mess%20With%20Me,%20I%20Am%20A%20Cardiologist%20:%206X9%20Career%20Pride%20120%20pages%20Writing%20Notebooks",
+        "https://files8.webydo.com/9589292/UploadedFiles/262391DE-E90B-3C52-F54D-F9EFF1DA53C4.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "168",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "108",
+        "object_start": "108",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "14",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "21",
+        "stream_start": "21",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

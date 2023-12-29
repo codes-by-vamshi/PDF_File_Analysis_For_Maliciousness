@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 179725,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780807170380&kwd=Prohibitions%20Greatest%20Myths%20:%20The%20Distilled%20Truth%20about%20Americas%20Anti-Alcohol%20Crusade",
+        "http://getpdf.pw/book?res=123&isbn=9780807170380&kwd=Prohibitions%20Greatest%20Myths%20:%20The%20Distilled%20Truth%20about%20Americas%20Anti-Alcohol%20Crusade",
+        "https://static.s123-cdn.com/uploads/4661155/normal_61afb64b4c78b.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661163/normal_61af964e2f7ed.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780807170380&kwd=Prohibitions%20Greatest%20Myths%20:%20The%20Distilled%20Truth%20about%20Americas%20Anti-Alcohol%20Crusade",
+        "http://getpdf.pw/book?res=123&isbn=9780807170380&kwd=Prohibitions%20Greatest%20Myths%20:%20The%20Distilled%20Truth%20about%20Americas%20Anti-Alcohol%20Crusade",
+        "https://static.s123-cdn.com/uploads/4661155/normal_61afb64b4c78b.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661163/normal_61af964e2f7ed.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "180",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "119",
+        "object_start": "119",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "16",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "23",
+        "stream_start": "23",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

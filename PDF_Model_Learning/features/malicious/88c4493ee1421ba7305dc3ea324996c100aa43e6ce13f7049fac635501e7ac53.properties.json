@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 93189,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9798601365901&kwd=Mandalas%20-%20%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9%20:%20%E8%87%AA%E7%84%B6%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9",
+        "http://getpdf.pw/book?res=123&isbn=9798601365901&kwd=Mandalas%20-%20%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9%20:%20%E8%87%AA%E7%84%B6%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9",
+        "https://img1.wsimg.com/blobby/go/b3a76789-4c0b-4456-8a5e-13161fc62e4d/appearance-stripped-bare-desire-and-the-object.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4664720/normal_61b23b11c0b0e.pdf",
+        "https://static.s123-cdn.com/uploads/4659925/normal_61b18471d70cf.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9798601365901&kwd=Mandalas%20-%20%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9%20:%20%E8%87%AA%E7%84%B6%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9",
+        "http://getpdf.pw/book?res=123&isbn=9798601365901&kwd=Mandalas%20-%20%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9%20:%20%E8%87%AA%E7%84%B6%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9",
+        "https://img1.wsimg.com/blobby/go/b3a76789-4c0b-4456-8a5e-13161fc62e4d/appearance-stripped-bare-desire-and-the-object.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4664720/normal_61b23b11c0b0e.pdf",
+        "https://static.s123-cdn.com/uploads/4659925/normal_61b18471d70cf.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "93",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "66",
+        "object_start": "66",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 282880,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.bdp.it/rete/im/gentile2.htm",
+        "http://www.youtube.com/watch?v=E4I0PjPH6mI",
+        "http://www.coroscenico.com/",
+        "http://www.edumus.com/news/wmview.php?ArtID=23",
+        "http://www.edumus.com/news/wmview.php?ArtID=23",
+        "http://www.tulliovisioli.it/"
+    ],
+    "regex_uris": [
+        "http://www.bdp.it/rete/im/gentile2.htm",
+        "http://www.coroscenico.com/",
+        "http://www.tulliovisioli.it/"
+    ],
+    "regex_urls": [
+        "http://www.bdp.it/rete/im/gentile2.htm",
+        "http://www.youtube.com/watch?v=E4I0PjPH6mI",
+        "http://www.coroscenico.com/",
+        "http://www.edumus.com/news/wmview.php?ArtID=23",
+        "http://www.edumus.com/news/wmview.php?ArtID=23",
+        "http://www.tulliovisioli.it/",
+        "http://www.pdf-tools.com",
+        "www.pdf-tools.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "283",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "121",
+        "object_start": "121",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "19",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "41",
+        "stream_start": "41",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

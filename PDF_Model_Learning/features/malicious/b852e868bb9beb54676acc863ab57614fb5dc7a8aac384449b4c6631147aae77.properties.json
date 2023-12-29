@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 129861,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780062103222&kwd=A%20False%20Mirror%20:%20An%20Inspector%20Ian%20Rutledge%20Mystery",
+        "http://getpdf.pw/book?res=123&isbn=9780062103222&kwd=A%20False%20Mirror%20:%20An%20Inspector%20Ian%20Rutledge%20Mystery",
+        "https://static.s123-cdn.com/uploads/4660521/normal_61b128c40e3c2.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780062103222&kwd=A%20False%20Mirror%20:%20An%20Inspector%20Ian%20Rutledge%20Mystery",
+        "http://getpdf.pw/book?res=123&isbn=9780062103222&kwd=A%20False%20Mirror%20:%20An%20Inspector%20Ian%20Rutledge%20Mystery",
+        "https://static.s123-cdn.com/uploads/4660521/normal_61b128c40e3c2.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "130",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "81",
+        "object_start": "81",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

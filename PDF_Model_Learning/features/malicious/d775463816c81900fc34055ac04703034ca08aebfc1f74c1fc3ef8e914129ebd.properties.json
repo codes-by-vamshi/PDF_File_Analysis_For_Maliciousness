@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 155296,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781540879592&kwd=Twice%20as%20Far%20:%20The%20True%20Story%20of%20Swissair%20Flight%20111%20Airplane%20Crash%20Investigation",
+        "http://getpdf.pw/book?res=123&isbn=9781540879592&kwd=Twice%20as%20Far%20:%20The%20True%20Story%20of%20Swissair%20Flight%20111%20Airplane%20Crash%20Investigation",
+        "https://files8.webydo.com/9588754/UploadedFiles/FD6CE7C7-4A97-E3E3-1814-EE155C2E09E6.pdf",
+        "https://static.s123-cdn.com/uploads/4651569/normal_61ac97d212be0.pdf",
+        "https://img1.wsimg.com/blobby/go/1d5074f8-5bdf-435c-abc1-e0a984a5c927/10-step-drawing-animals-draw-75-animals-in-10-.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781540879592&kwd=Twice%20as%20Far%20:%20The%20True%20Story%20of%20Swissair%20Flight%20111%20Airplane%20Crash%20Investigation",
+        "http://getpdf.pw/book?res=123&isbn=9781540879592&kwd=Twice%20as%20Far%20:%20The%20True%20Story%20of%20Swissair%20Flight%20111%20Airplane%20Crash%20Investigation",
+        "https://files8.webydo.com/9588754/UploadedFiles/FD6CE7C7-4A97-E3E3-1814-EE155C2E09E6.pdf",
+        "https://static.s123-cdn.com/uploads/4651569/normal_61ac97d212be0.pdf",
+        "https://img1.wsimg.com/blobby/go/1d5074f8-5bdf-435c-abc1-e0a984a5c927/10-step-drawing-animals-draw-75-animals-in-10-.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "155",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "100",
+        "object_start": "100",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

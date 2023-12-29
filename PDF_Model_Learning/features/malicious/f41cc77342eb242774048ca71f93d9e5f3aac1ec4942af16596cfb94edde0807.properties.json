@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 209479,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA+7+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+2010+%D0%B1%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2",
+        "https://cigocopusivakohow.files.wordpress.com/2018/04/goxexulupowegik-gdz-po-russkomu-9-klass-razumovskaia-2006-chernyi-uchebnik-nijileloterub.pdf",
+        "https://todejejiwidoso.files.wordpress.com/2018/04/bimetekikes-gdz-use-of-english-task-5-zukunuke.pdf",
+        "https://tibuxumaceseriri.files.wordpress.com/2018/04/suxadefor-reshebnik-k-petersonu-6-klass-nukudajo.pdf",
+        "https://rikabotijisamitem.files.wordpress.com/2018/04/vazapovun-15-zadanie-ege-matematika-profil-2017-kak-reshat-mazabiliweg.pdf",
+        "https://rimokuqubusatohop.files.wordpress.com/2018/04/bupejutimeziw-gdz-russkii-iazyk-1-klass-ivanov-kuznetsova-1-i-2-chast-rabochaia-tetrad-gutekubil.pdf"
+    ],
+    "regex_uris": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA+7+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+2010+%D0%B1%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2",
+        "https://cigocopusivakohow.files.wordpress.com/2018/04/goxexulupowegik-gdz-po-russkomu-9-klass-razumovskaia-2006-chernyi-uchebnik-nijileloterub.pdf",
+        "https://todejejiwidoso.files.wordpress.com/2018/04/bimetekikes-gdz-use-of-english-task-5-zukunuke.pdf",
+        "https://tibuxumaceseriri.files.wordpress.com/2018/04/suxadefor-reshebnik-k-petersonu-6-klass-nukudajo.pdf",
+        "https://rikabotijisamitem.files.wordpress.com/2018/04/vazapovun-15-zadanie-ege-matematika-profil-2017-kak-reshat-mazabiliweg.pdf",
+        "https://rimokuqubusatohop.files.wordpress.com/2018/04/bupejutimeziw-gdz-russkii-iazyk-1-klass-ivanov-kuznetsova-1-i-2-chast-rabochaia-tetrad-gutekubil.pdf"
+    ],
+    "regex_urls": [
+        "http://tds.advtraff2014.ru/wp1?keyword=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA+7+%D0%BA%D0%BB%D0%B0%D1%81%D1%81+2010+%D0%B1%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "209",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

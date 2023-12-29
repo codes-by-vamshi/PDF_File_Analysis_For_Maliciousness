@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 94147,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781580892575&kwd=Truck%20Stuck",
+        "http://getpdf.pw/book?res=123&isbn=9781580892575&kwd=Truck%20Stuck",
+        "https://static.s123-cdn-static.com/uploads/4661447/normal_61afbad3df9ae.pdf",
+        "https://img1.wsimg.com/blobby/go/f061c8cc-4be2-4909-975c-c7f5fd6c64a9/a-cobra-hijacked-my-camera-bag-snakes-and-stor.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660484/normal_61afad72ce0ae.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659983/normal_61afc2da3d0cc.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660261/normal_61afc9c48b9e0.pdf",
+        "https://img1.wsimg.com/blobby/go/d6935efa-f53a-4cf8-9bd4-210637c6544a/color-a-visual-history-from-newton-to-modern-c.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660624/normal_61af933265b56.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781580892575&kwd=Truck%20Stuck",
+        "http://getpdf.pw/book?res=123&isbn=9781580892575&kwd=Truck%20Stuck",
+        "https://static.s123-cdn-static.com/uploads/4661447/normal_61afbad3df9ae.pdf",
+        "https://img1.wsimg.com/blobby/go/f061c8cc-4be2-4909-975c-c7f5fd6c64a9/a-cobra-hijacked-my-camera-bag-snakes-and-stor.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4660484/normal_61afad72ce0ae.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659983/normal_61afc2da3d0cc.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660261/normal_61afc9c48b9e0.pdf",
+        "https://img1.wsimg.com/blobby/go/d6935efa-f53a-4cf8-9bd4-210637c6544a/color-a-visual-history-from-newton-to-modern-c.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660624/normal_61af933265b56.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

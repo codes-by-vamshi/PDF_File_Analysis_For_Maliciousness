@@ -1,0 +1,81 @@
+{
+    "exif_signatures": {},
+    "file_size": 41399,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://netsecure.top/app/431946152/hacks-for-undertale-boss-3d-fights-roblox-game-hack",
+        "https://netsecure.top/app/431946152/hacks-for-undertale-boss-3d-fights-roblox-game-hack",
+        "http://e-library.akademitelkom.ac.id/repository/free-robux-gift-cards-0views.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/today-free-robux.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/how-to-get-roblox-on-ps4-for-free.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/hack-slash-roblox-id.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/hacks-for-roblox-bee-swarm-simulator.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/how-to-hack-roblox-client.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/roblox-free-wiki-item.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/como-descargar-hacks-de-roblox.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/free-roblox-accounts-with-obc-and-robux.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/claim-free-robux-instantly.pdf"
+    ],
+    "regex_uris": [
+        "https://netsecure.top/app/431946152/hacks-for-undertale-boss-3d-fights-roblox-game-hack",
+        "https://netsecure.top/app/431946152/hacks-for-undertale-boss-3d-fights-roblox-game-hack",
+        "http://e-library.akademitelkom.ac.id/repository/free-robux-gift-cards-0views.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/today-free-robux.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/how-to-get-roblox-on-ps4-for-free.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/hack-slash-roblox-id.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/hacks-for-roblox-bee-swarm-simulator.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/how-to-hack-roblox-client.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/roblox-free-wiki-item.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/como-descargar-hacks-de-roblox.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/free-roblox-accounts-with-obc-and-robux.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/claim-free-robux-instantly.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://e-library.akademitelkom.ac.id/repository/free-robux-gift-cards-0views.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/today-free-robux.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/how-to-get-roblox-on-ps4-for-free.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/hack-slash-roblox-id.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/hacks-for-roblox-bee-swarm-simulator.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/how-to-hack-roblox-client.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/roblox-free-wiki-item.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/como-descargar-hacks-de-roblox.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/free-roblox-accounts-with-obc-and-robux.pdf",
+        "http://e-library.akademitelkom.ac.id/repository/claim-free-robux-instantly.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "41",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "50",
+        "object_start": "50",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "7",
+        "stream_start": "7",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 2643591,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://rea.ec.europa.eu/system/files/2021-06/MSCA%20keywords.pdf",
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/",
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2022-se-01-01;callCode=null;freeTextSearchKeyword=Staff%20Exchanges;matchWholeText=true;typeCodes=1,0;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState",
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=null;freeTextSearchKeyword=HORIZON-MSCA-2022-SE-01;matchWholeText=true;typeCodes=0,1,2,8;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState",
+        "https://rea.ec.europa.eu/index_en",
+        "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions_en"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "2.6",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "418",
+        "object_start": "418",
+        "object_streams": "4",
+        "open_action": "0",
+        "page_count": "38",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "236",
+        "stream_start": "236",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 83455,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://pusotesadurolej.fecuq.co.za/gdy?utm_term=api+570+latest+edition+free+download+pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/libro_cambia_tu_cerebro_cambia_tu_vida_daniel_amen_gratis.pdf",
+        "https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/pulusepopabupasi.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/71619744768.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/rulufesegurujufegobul.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/kesinumumatug.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/70905110318.pdf"
+    ],
+    "regex_uris": [
+        "https://pusotesadurolej.fecuq.co.za/gdy?utm_term=api+570+latest+edition+free+download+pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/libro_cambia_tu_cerebro_cambia_tu_vida_daniel_amen_gratis.pdf",
+        "https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/pulusepopabupasi.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/71619744768.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/rulufesegurujufegobul.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/kesinumumatug.pdf",
+        "https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/70905110318.pdf"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://ns.adobe.com/xap/1.0/rights/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "83",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "50",
+        "object_start": "50",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "suspicious_packer_section",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "multiple_versions",
+        "contentis_base64"
+    ]
+}

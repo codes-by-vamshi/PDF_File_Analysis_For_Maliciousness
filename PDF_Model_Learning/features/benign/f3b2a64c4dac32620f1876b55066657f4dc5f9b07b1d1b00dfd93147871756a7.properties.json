@@ -1,0 +1,46 @@
+{
+    "exif_signatures": {},
+    "file_size": 719190,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www1.health.nsw.gov.au/pds/Pages/doc.aspx?dn=PD2019_055",
+        "https://www1.health.nsw.gov.au/pds/Pages/doc.aspx?dn=PD2022_049",
+        "https://www.health.nsw.gov.au/policies/manuals/Pages/accounts-audit-determination.aspx"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "www.health.nsw.gov.au/policies/manuals/Pages/accounts-audit-determination.aspx",
+        "https",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "719",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "234",
+        "object_start": "234",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "28",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "64",
+        "stream_start": "64",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

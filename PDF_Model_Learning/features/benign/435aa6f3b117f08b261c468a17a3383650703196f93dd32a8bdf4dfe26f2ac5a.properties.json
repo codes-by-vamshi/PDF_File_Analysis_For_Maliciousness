@@ -1,0 +1,53 @@
+{
+    "exif_signatures": {},
+    "file_size": 30971208,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "3",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "1",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "31",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "1106",
+        "object_start": "1107",
+        "object_streams": "66",
+        "open_action": "0",
+        "page_count": "301",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "804",
+        "stream_start": "804",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

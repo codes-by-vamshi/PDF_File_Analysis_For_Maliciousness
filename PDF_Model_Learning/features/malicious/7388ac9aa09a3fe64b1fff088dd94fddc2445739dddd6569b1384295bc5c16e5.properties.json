@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 97094,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783662512265&kwd=Molecular%20Quantum%20Dynamics%20:%20From%20Theory%20to%20Applications",
+        "http://getpdf.pw/book?res=123&isbn=9783662512265&kwd=Molecular%20Quantum%20Dynamics%20:%20From%20Theory%20to%20Applications",
+        "https://static.s123-cdn-static-c.com/uploads/4661456/normal_61b112cc75619.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660471/normal_61b0dd35df560.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/fd86f552-d7f8-4956-a037-2f8089fffd89/fighting-invisible-tigers-stress-management-for-teens-revised-updated-fourth-edition-627.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783662512265&kwd=Molecular%20Quantum%20Dynamics%20:%20From%20Theory%20to%20Applications",
+        "http://getpdf.pw/book?res=123&isbn=9783662512265&kwd=Molecular%20Quantum%20Dynamics%20:%20From%20Theory%20to%20Applications",
+        "https://static.s123-cdn-static-c.com/uploads/4661456/normal_61b112cc75619.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660471/normal_61b0dd35df560.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/fd86f552-d7f8-4956-a037-2f8089fffd89/fighting-invisible-tigers-stress-management-for-teens-revised-updated-fourth-edition-627.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "65",
+        "object_start": "65",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

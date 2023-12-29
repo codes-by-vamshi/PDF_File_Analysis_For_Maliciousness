@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 104226,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://starkave.site/Medical-Case-Study-Template-Word/pdf/skankskates.com",
+        "http://starkave.site/Medical-Case-Study-Template-Word/doc/skankskates.com",
+        "https://skankskates.com/wp-content/uploads/formidable/10/letter-from-birmingham-jail-tone.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/abolition-of-death-penalty-in-england.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/sine-cosine-tangent-worksheet-with-answers.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/tokyo-haneda-airport-international-terminal.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/auto-detailing-certification-near-me.pdf"
+    ],
+    "regex_uris": [
+        "http://starkave.site/Medical-Case-Study-Template-Word/pdf/skankskates.com)>>>><</Type /Annot /Subtype /Link /Rect [307.00 458.00 562.00 386.00] /Border [0 0 0] /A <</S /URI /URI (http://starkave.site/Medical-Case-Study-Template-Word/doc/skankskates.com",
+        "https://skankskates.com/wp-content/uploads/formidable/10/letter-from-birmingham-jail-tone.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/abolition-of-death-penalty-in-england.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/sine-cosine-tangent-worksheet-with-answers.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/tokyo-haneda-airport-international-terminal.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/auto-detailing-certification-near-me.pdf"
+    ],
+    "regex_urls": [
+        "http://starkave.site/Medical-Case-Study-Template-Word/pdf/skankskates.com",
+        "http://starkave.site/Medical-Case-Study-Template-Word/doc/skankskates.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "104",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "29",
+        "object_start": "29",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "16",
+        "stream_start": "16",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

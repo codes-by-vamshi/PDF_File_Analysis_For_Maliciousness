@@ -1,0 +1,18 @@
+{
+    "exif_signatures": {},
+    "file_size": 232543740,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "www./"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "file_size": "233"
+    },
+    "yara_signatures": []
+}

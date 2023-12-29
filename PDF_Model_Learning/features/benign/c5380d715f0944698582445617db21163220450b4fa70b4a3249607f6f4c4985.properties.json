@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 2824212,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://support.google.com/chrome",
+        "http://support.google.com/chrome",
+        "http://www.dlna.org",
+        "http://www.google.com/accounts/recovery",
+        "http://www.dropbox.com/gs",
+        "http://www.dropbox.com",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://support.google.com/googleplay/"
+    ],
+    "regex_uris": [
+        "http://support.google.com/chrome",
+        "http://support.google.com/chrome",
+        "http://www.dlna.org",
+        "http://www.google.com/accounts/recovery",
+        "http://www.dropbox.com/gs",
+        "http://www.dropbox.com",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://support.google.com/googleplay/"
+    ],
+    "regex_urls": [
+        "http://support.google.com/chrome",
+        "http://support.google.com/chrome",
+        "http://www.dlna.org",
+        "http://www.google.com/accounts/recovery",
+        "http://www.dropbox.com/gs",
+        "http://www.dropbox.com",
+        "http://www.dropbox.com",
+        "http://www.evernote.com/about/learn_more/",
+        "http://support.google.com/googleplay/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "2.8",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "8530",
+        "object_start": "8530",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "179",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "573",
+        "stream_start": "573",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 104999,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780470178119&kwd=Type%201%20Diabetes%20For%20Dummies",
+        "http://getpdf.pw/book?res=strik&isbn=9780470178119&kwd=Type%201%20Diabetes%20For%20Dummies",
+        "https://files8.webydo.com/9588785/UploadedFiles/CD450113-FCFA-EFF9-48E9-80BB1F8B3490.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/bec25ec6-66f7-46f2-b712-e600e791276a/walt-disneys-donald-duck-uncle-scrooges-money-rocket-disney-masters-vol-2-166.pdf",
+        "https://files8.webydo.com/9588685/UploadedFiles/5D7D9BD9-CC1A-A406-79F2-F48D857977CE.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4651174/normal_61ac909cbbd4e.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/63a43a61-4893-4daf-bf20-120b44b6babb/krakatoa-the-day-the-world-exploded-842.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780470178119&kwd=Type%201%20Diabetes%20For%20Dummies",
+        "http://getpdf.pw/book?res=strik&isbn=9780470178119&kwd=Type%201%20Diabetes%20For%20Dummies",
+        "https://files8.webydo.com/9588785/UploadedFiles/CD450113-FCFA-EFF9-48E9-80BB1F8B3490.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/bec25ec6-66f7-46f2-b712-e600e791276a/walt-disneys-donald-duck-uncle-scrooges-money-rocket-disney-masters-vol-2-166.pdf",
+        "https://files8.webydo.com/9588685/UploadedFiles/5D7D9BD9-CC1A-A406-79F2-F48D857977CE.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4651174/normal_61ac909cbbd4e.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/63a43a61-4893-4daf-bf20-120b44b6babb/krakatoa-the-day-the-world-exploded-842.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "105",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "72",
+        "object_start": "72",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

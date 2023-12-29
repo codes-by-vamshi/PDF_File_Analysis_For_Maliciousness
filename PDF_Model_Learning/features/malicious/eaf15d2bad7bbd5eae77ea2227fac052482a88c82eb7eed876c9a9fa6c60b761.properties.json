@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 110115,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://neuzeitschmidt.site/Creating-A-Spreadsheet-With-Microsoft-Word/pdf/www.hect.com.br",
+        "http://neuzeitschmidt.site/Creating-A-Spreadsheet-With-Microsoft-Word/doc/www.hect.com.br",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/aetna-affordable-health-choices-limited-benefits-insurance-plan.pdf",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/state-of-illinois-lease-agreement.pdf",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/magento-print-shop-template.pdf",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/nursing-dress-code-policy.pdf"
+    ],
+    "regex_uris": [
+        "http://neuzeitschmidt.site/Creating-A-Spreadsheet-With-Microsoft-Word/pdf/www.hect.com.br)>>>><</Type /Annot /Subtype /Link /Rect [307.00 454.00 569.00 378.00] /Border [0 0 0] /A <</S /URI /URI (http://neuzeitschmidt.site/Creating-A-Spreadsheet-With-Microsoft-Word/doc/www.hect.com.br",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/aetna-affordable-health-choices-limited-benefits-insurance-plan.pdf",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/state-of-illinois-lease-agreement.pdf",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/magento-print-shop-template.pdf",
+        "https://www.hect.com.br/wp-content/uploads/formidable/8/nursing-dress-code-policy.pdf"
+    ],
+    "regex_urls": [
+        "http://neuzeitschmidt.site/Creating-A-Spreadsheet-With-Microsoft-Word/pdf/www.hect.com.br",
+        "http://neuzeitschmidt.site/Creating-A-Spreadsheet-With-Microsoft-Word/doc/www.hect.com.br",
+        "https",
+        "www.hect.com.br/wp-content/uploads/formidable/8/aetna-affordable-health-choices-limited-benefits-insurance-plan.pdf",
+        "https",
+        "www.hect.com.br/wp-content/uploads/formidable/8/state-of-illinois-lease-agreement.pdf",
+        "https",
+        "www.hect.com.br/wp-content/uploads/formidable/8/magento-print-shop-template.pdf",
+        "https",
+        "www.hect.com.br/wp-content/uploads/formidable/8/nursing-dress-code-policy.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "35",
+        "object_start": "35",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 88907,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781250170088&kwd=How%20to%20Draw%20an%20Object%20:%20The%20Foolproof%20Method",
+        "http://getpdf.pw/book?res=strik&isbn=9781250170088&kwd=How%20to%20Draw%20an%20Object%20:%20The%20Foolproof%20Method",
+        "https://static.s123-cdn-static-b.com/uploads/4660294/normal_61afab08dd1d1.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660128/normal_61afa77319959.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661155/normal_61af79609adc9.pdf",
+        "https://files8.webydo.com/9589168/UploadedFiles/2E897D88-7BE4-9F91-3A3F-3D9754B8FC68.pdf",
+        "https://static.s123-cdn.com/uploads/4659946/normal_61afa03e3c55a.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660422/normal_61af8ea827022.pdf",
+        "https://uploads.strikinglycdn.com/files/234f8da3-263e-4d94-85dd-ef0971b7094b/boxed-stationery-set-blue-flowers-660.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/519c53ca-476e-42b5-ab6e-a9853d49c27f/time-capsule-a-seriously-awesome-kids-journal-683.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781250170088&kwd=How%20to%20Draw%20an%20Object%20:%20The%20Foolproof%20Method",
+        "http://getpdf.pw/book?res=strik&isbn=9781250170088&kwd=How%20to%20Draw%20an%20Object%20:%20The%20Foolproof%20Method",
+        "https://static.s123-cdn-static-b.com/uploads/4660294/normal_61afab08dd1d1.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660128/normal_61afa77319959.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4661155/normal_61af79609adc9.pdf",
+        "https://files8.webydo.com/9589168/UploadedFiles/2E897D88-7BE4-9F91-3A3F-3D9754B8FC68.pdf",
+        "https://static.s123-cdn.com/uploads/4659946/normal_61afa03e3c55a.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4660422/normal_61af8ea827022.pdf",
+        "https://uploads.strikinglycdn.com/files/234f8da3-263e-4d94-85dd-ef0971b7094b/boxed-stationery-set-blue-flowers-660.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/519c53ca-476e-42b5-ab6e-a9853d49c27f/time-capsule-a-seriously-awesome-kids-journal-683.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "89",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "65",
+        "object_start": "65",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

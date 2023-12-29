@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 442693,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://software-dl.ti.com/ccs/esd/documents/xdsdebugprobes/emu_xds_software_package_download.html",
+        "http://software-dl.ti.com/ccs/esd/uniflash/uniflash_sl.5.0.0.2289.exe",
+        "http://siderealtechnology.com/F2_Version5_9.zip"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "http://siderealtechnology.com/F2_Version5_9.zip",
+        "http://software-dl.ti.com/ccs/esd/uniflash/uniflash_sl.5.0.0.2289.exe"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "443",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "24",
+        "stream_start": "24",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1",
+        "Big_Numbers3"
+    ]
+}

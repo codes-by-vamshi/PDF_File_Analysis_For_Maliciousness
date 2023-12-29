@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 268336,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://3.bp.blogspot.com/-c326_7aQdzg/WNyB6PTj0fI/AAAAAAAAJwQ/oWZBEz8N2bAt1KOcEUkbFw2ipI2hfex2gCLcB/s1600/omvormers_01.jpg",
+        "https://4.bp.blogspot.com/-QQR_Tp6Nsr4/WNyFU7MD4kI/AAAAAAAAJwc/BA_ixYDywcMx6BJ03M6E89dU8Q4czpJDQCEw/s1600/omvormers_02_03.jpg",
+        "https://3.bp.blogspot.com/-nVf41NAYn3U/WNyF_XC5RCI/AAAAAAAAJwk/h30Y2D02qGwuQEpOkB637179L5fZlKJ5gCLcB/s1600/omvormers_04_05.jpg",
+        "https://4.bp.blogspot.com/-Rt0-Sa2AMiE/WNyGb6A9b6I/AAAAAAAAJwo/AQhhEt7H41cmpJ-GrpCzE1k7x18AlbtzwCLcB/s1600/omvormers_06.jpg",
+        "https://3.bp.blogspot.com/-SU7n3KDlUuw/WNyHOD8EyXI/AAAAAAAAJww/gvpkUGg7BSAHnlUPf9K8BjQoLIfGtTBNQCLcB/s1600/omvormers_07.jpg",
+        "https://1.bp.blogspot.com/-Ro9VYO5VT4E/WNyH0iXkM_I/AAAAAAAAJw4/5RlalyY5oUg_aLNXyDF61_2b_IqMDgh4ACLcB/s1600/omvormers_08.jpg"
+    ],
+    "regex_uris": [
+        "https://3.bp.blogspot.com/-c326_7aQdzg/WNyB6PTj0fI/AAAAAAAAJwQ/oWZBEz8N2bAt1KOcEUkbFw2ipI2hfex2gCLcB/s1600/omvormers_01.jpg",
+        "https://4.bp.blogspot.com/-QQR_Tp6Nsr4/WNyFU7MD4kI/AAAAAAAAJwc/BA_ixYDywcMx6BJ03M6E89dU8Q4czpJDQCEw/s1600/omvormers_02_03.jpg",
+        "https://3.bp.blogspot.com/-nVf41NAYn3U/WNyF_XC5RCI/AAAAAAAAJwk/h30Y2D02qGwuQEpOkB637179L5fZlKJ5gCLcB/s1600/omvormers_04_05.jpg",
+        "https://4.bp.blogspot.com/-Rt0-Sa2AMiE/WNyGb6A9b6I/AAAAAAAAJwo/AQhhEt7H41cmpJ-GrpCzE1k7x18AlbtzwCLcB/s1600/omvormers_06.jpg",
+        "https://3.bp.blogspot.com/-SU7n3KDlUuw/WNyHOD8EyXI/AAAAAAAAJww/gvpkUGg7BSAHnlUPf9K8BjQoLIfGtTBNQCLcB/s1600/omvormers_07.jpg",
+        "https://1.bp.blogspot.com/-Ro9VYO5VT4E/WNyH0iXkM_I/AAAAAAAAJw4/5RlalyY5oUg_aLNXyDF61_2b_IqMDgh4ACLcB/s1600/omvormers_08.jpg"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "268",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "245",
+        "object_start": "245",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "with_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers3"
+    ]
+}

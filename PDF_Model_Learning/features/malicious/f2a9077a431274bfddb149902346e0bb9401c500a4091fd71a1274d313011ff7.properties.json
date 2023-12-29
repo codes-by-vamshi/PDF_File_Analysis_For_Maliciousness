@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 109643,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://findtribune.site/Income-Payment-Agreement-Calculator/pdf/sitedomen/7|22191|5|1|1|1",
+        "https://findtribune.site/Income-Payment-Agreement-Calculator/doc/sitedomen/7|22191|5|1|1|1"
+    ],
+    "regex_uris": [
+        "https://findtribune.site/Income-Payment-Agreement-Calculator/pdf/sitedomen/7|22191|5|1|1|1) >> /Border [ 0 0 0 ] /Rect [ 21.00 462.00 287.00 382.00 ] /Subtype /Link /Type /Annot >> << /A << /S /URI /URI (https://findtribune.site/Income-Payment-Agreement-Calculator/doc/sitedomen/7|22191|5|1|1|1"
+    ],
+    "regex_urls": [
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "41",
+        "object_start": "41",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "13",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "14",
+        "stream_start": "22",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

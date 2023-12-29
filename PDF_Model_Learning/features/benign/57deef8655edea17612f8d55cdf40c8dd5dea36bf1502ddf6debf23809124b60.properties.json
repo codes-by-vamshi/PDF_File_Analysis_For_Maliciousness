@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 624267,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://pt.wikipedia.org/wiki/Pa%C3%ADs",
+        "https://pt.wikipedia.org/wiki/%C3%81sia_Oriental",
+        "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_por_popula%C3%A7%C3%A3o",
+        "https://pt.wikipedia.org/wiki/Zeus",
+        "https://www.e-publicacoes.uerj.br/index.php/maracanan/article/view/20131/14581",
+        "https://www.e-publicacoes.uerj.br/index.php/maracanan/article/view/20131/14581",
+        "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69092012000300001"
+    ],
+    "regex_uris": [
+        "https://pt.wikipedia.org/wiki/Pa%C3%ADs",
+        "https://pt.wikipedia.org/wiki/%C3%81sia_Oriental",
+        "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_por_popula%C3%A7%C3%A3o",
+        "https://pt.wikipedia.org/wiki/Zeus",
+        "https://www.e-publicacoes.uerj.br/index.php/maracanan/article/view/20131/14581",
+        "https://www.e-publicacoes.uerj.br/index.php/maracanan/article/view/20131/14581",
+        "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69092012000300001"
+    ],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "www.e-publicacoes.uerj.br/index.php/maracanan/article/view/20131/14581",
+        "https",
+        "www.e-publicacoes.uerj.br/index.php/maracanan/article/view/20131/14581",
+        "http://www.scielo.br/scielo.php?script=sci_arttext",
+        "www.ilovepdf.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "624",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "532",
+        "object_start": "532",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

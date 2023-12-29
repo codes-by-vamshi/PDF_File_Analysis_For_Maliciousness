@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 78364,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781548371388&kwd=Jumbo%20Activity%20Book%20for%20Kids%20:%20Jumbo%20Coloring%20Book%20and%20Activity%20Book%20in%20One:%20Giant%20Coloring%20Book%20and%20Activity%20Book%20for%20Pre-K%20to%20First%20Grade",
+        "http://getpdf.pw/book?res=123&isbn=9781548371388&kwd=Jumbo%20Activity%20Book%20for%20Kids%20:%20Jumbo%20Coloring%20Book%20and%20Activity%20Book%20in%20One:%20Giant%20Coloring%20Book%20and%20Activity%20Book%20for%20Pre-K%20to%20First%20Grade",
+        "https://uploads.strikinglycdn.com/files/91d4c50f-28a5-48f1-b794-fb98740e3735/the-nomad-of-time-572.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781548371388&kwd=Jumbo%20Activity%20Book%20for%20Kids%20:%20Jumbo%20Coloring%20Book%20and%20Activity%20Book%20in%20One:%20Giant%20Coloring%20Book%20and%20Activity%20Book%20for%20Pre-K%20to%20First%20Grade",
+        "http://getpdf.pw/book?res=123&isbn=9781548371388&kwd=Jumbo%20Activity%20Book%20for%20Kids%20:%20Jumbo%20Coloring%20Book%20and%20Activity%20Book%20in%20One:%20Giant%20Coloring%20Book%20and%20Activity%20Book%20for%20Pre-K%20to%20First%20Grade",
+        "https://uploads.strikinglycdn.com/files/91d4c50f-28a5-48f1-b794-fb98740e3735/the-nomad-of-time-572.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "78",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

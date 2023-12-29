@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 78251,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783319224992&kwd=Electronic%20Participation%20:%207th%20IFIP%208.5%20International%20Conference,%20ePart%202015,%20Thessaloniki,%20Greece,%20August%2030%20--%20September%202,%202015,%20Proceedings",
+        "http://getpdf.pw/book?res=123&isbn=9783319224992&kwd=Electronic%20Participation%20:%207th%20IFIP%208.5%20International%20Conference,%20ePart%202015,%20Thessaloniki,%20Greece,%20August%2030%20--%20September%202,%202015,%20Proceedings",
+        "https://img1.wsimg.com/blobby/go/a0d40ec6-2d81-4b48-9e3a-f9a3999428e6/dark-peril-number-21-in-series-713.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783319224992&kwd=Electronic%20Participation%20:%207th%20IFIP%208.5%20International%20Conference,%20ePart%202015,%20Thessaloniki,%20Greece,%20August%2030%20--%20September%202,%202015,%20Proceedings",
+        "http://getpdf.pw/book?res=123&isbn=9783319224992&kwd=Electronic%20Participation%20:%207th%20IFIP%208.5%20International%20Conference,%20ePart%202015,%20Thessaloniki,%20Greece,%20August%2030%20--%20September%202,%202015,%20Proceedings",
+        "https://img1.wsimg.com/blobby/go/a0d40ec6-2d81-4b48-9e3a-f9a3999428e6/dark-peril-number-21-in-series-713.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "78",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

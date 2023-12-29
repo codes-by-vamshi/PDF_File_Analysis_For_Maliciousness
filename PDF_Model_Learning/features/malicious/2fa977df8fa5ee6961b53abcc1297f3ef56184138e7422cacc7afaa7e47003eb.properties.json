@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 96886,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781594633058&kwd=Strategize%20to%20Win%20:%20The%20New%20Way%20to%20Start%20Out,%20Step%20Up,%20or%20Start%20Over%20in%20Your%20Career",
+        "http://getpdf.pw/book?res=123&isbn=9781594633058&kwd=Strategize%20to%20Win%20:%20The%20New%20Way%20to%20Start%20Out,%20Step%20Up,%20or%20Start%20Over%20in%20Your%20Career",
+        "https://uploads.strikinglycdn.com/files/2f7cd4b7-f73f-4a12-b091-35914f941524/the-healthcare-professionals-guide-to-clinical-cultural-competence-374.pdf",
+        "https://uploads.strikinglycdn.com/files/82c55ac9-be16-4a00-9200-7bc6d02aa557/a-midsummer-nights-dream-the-graphic-novel-quick-text-11.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/4b306620-181c-416a-8645-f1f4b1247127/the-compact-lathe-72.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781594633058&kwd=Strategize%20to%20Win%20:%20The%20New%20Way%20to%20Start%20Out,%20Step%20Up,%20or%20Start%20Over%20in%20Your%20Career",
+        "http://getpdf.pw/book?res=123&isbn=9781594633058&kwd=Strategize%20to%20Win%20:%20The%20New%20Way%20to%20Start%20Out,%20Step%20Up,%20or%20Start%20Over%20in%20Your%20Career",
+        "https://uploads.strikinglycdn.com/files/2f7cd4b7-f73f-4a12-b091-35914f941524/the-healthcare-professionals-guide-to-clinical-cultural-competence-374.pdf",
+        "https://uploads.strikinglycdn.com/files/82c55ac9-be16-4a00-9200-7bc6d02aa557/a-midsummer-nights-dream-the-graphic-novel-quick-text-11.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/4b306620-181c-416a-8645-f1f4b1247127/the-compact-lathe-72.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "97",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "61",
+        "object_start": "61",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

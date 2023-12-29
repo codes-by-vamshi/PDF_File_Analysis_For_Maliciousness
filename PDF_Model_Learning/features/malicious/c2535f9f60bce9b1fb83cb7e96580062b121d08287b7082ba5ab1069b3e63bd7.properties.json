@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 99666,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780385500241&kwd=Dave%20Pelzs%20Putting%20Bible%20:%20The%20Complete%20Guide%20to%20Mastering%20the%20Green",
+        "http://getpdf.pw/book?res=strik&isbn=9780385500241&kwd=Dave%20Pelzs%20Putting%20Bible%20:%20The%20Complete%20Guide%20to%20Mastering%20the%20Green",
+        "https://static.s123-cdn.com/uploads/4659502/normal_61ae1c5edcdf7.pdf",
+        "https://static.s123-cdn.com/uploads/4659225/normal_61adf0d32c59f.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659510/normal_61ad82bda9bf7.pdf",
+        "https://uploads.strikinglycdn.com/files/3b3854b6-3afb-43a7-8349-6bc0410b2231/reclaiming-your-body-how-your-bodys-wisdom-can-help-you-heal-from-trauma-957.pdf",
+        "https://img1.wsimg.com/blobby/go/dd3ce189-e974-44d2-bfc1-f91c61e55f67/the-lady-who-was-beautiful-inside-71.pdf",
+        "https://uploads.strikinglycdn.com/files/bfd93989-668e-4f74-af92-cd83e3037ec7/upstream-selected-essays-941.pdf",
+        "https://files8.webydo.com/9588980/UploadedFiles/250F47FC-F914-3CAF-1F7A-C1F8A201F7B2.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659465/normal_61ad289a8b6f8.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780385500241&kwd=Dave%20Pelzs%20Putting%20Bible%20:%20The%20Complete%20Guide%20to%20Mastering%20the%20Green",
+        "http://getpdf.pw/book?res=strik&isbn=9780385500241&kwd=Dave%20Pelzs%20Putting%20Bible%20:%20The%20Complete%20Guide%20to%20Mastering%20the%20Green",
+        "https://static.s123-cdn.com/uploads/4659502/normal_61ae1c5edcdf7.pdf",
+        "https://static.s123-cdn.com/uploads/4659225/normal_61adf0d32c59f.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4659510/normal_61ad82bda9bf7.pdf",
+        "https://uploads.strikinglycdn.com/files/3b3854b6-3afb-43a7-8349-6bc0410b2231/reclaiming-your-body-how-your-bodys-wisdom-can-help-you-heal-from-trauma-957.pdf",
+        "https://img1.wsimg.com/blobby/go/dd3ce189-e974-44d2-bfc1-f91c61e55f67/the-lady-who-was-beautiful-inside-71.pdf",
+        "https://uploads.strikinglycdn.com/files/bfd93989-668e-4f74-af92-cd83e3037ec7/upstream-selected-essays-941.pdf",
+        "https://files8.webydo.com/9588980/UploadedFiles/250F47FC-F914-3CAF-1F7A-C1F8A201F7B2.pdf",
+        "https://static.s123-cdn-static.com/uploads/4659465/normal_61ad289a8b6f8.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "100",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

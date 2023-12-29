@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 95097,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780985835705&kwd=Late%20Bloomer%20Millionaires",
+        "http://getpdf.pw/book?res=123&isbn=9780985835705&kwd=Late%20Bloomer%20Millionaires",
+        "https://img1.wsimg.com/blobby/go/274c862e-a903-49a1-a089-1ca913336573/gaia-body-soul-in-honour-of-mother-nature-and-.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780985835705&kwd=Late%20Bloomer%20Millionaires",
+        "http://getpdf.pw/book?res=123&isbn=9780985835705&kwd=Late%20Bloomer%20Millionaires",
+        "https://img1.wsimg.com/blobby/go/274c862e-a903-49a1-a089-1ca913336573/gaia-body-soul-in-honour-of-mother-nature-and-.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "63",
+        "object_start": "63",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

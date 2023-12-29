@@ -1,0 +1,61 @@
+{
+    "exif_signatures": {},
+    "file_size": 700935,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://laws-lois.justice.gc.ca/eng/acts/C-46/",
+        "http://www.erasebullying.ca/",
+        "https://reportbullyingbc.edudata.ca/apps/bullying/",
+        "http://mediasmarts.ca/",
+        "https://www.cybertip.ca/app/en/",
+        "http://www.thedoorthatsnotlocked.ca/",
+        "https://wisefootprint.telus.com/en/",
+        "http://www.getcybersafe.gc.ca/index-eng.aspx",
+        "http://www.netsmartz.org/",
+        "http://www.wordswound.org/",
+        "http://www.needhelpnow.ca/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://laws-lois.justice.gc.ca/eng/acts/C-46/",
+        "http://www.erasebullying.ca/",
+        "https",
+        "http://mediasmarts.ca/",
+        "https",
+        "www.cybertip.ca/app/en/",
+        "http://www.thedoorthatsnotlocked.ca/",
+        "https",
+        "http://www.getcybersafe.gc.ca/index-eng.aspx",
+        "http://www.netsmartz.org/",
+        "http://www.wordswound.org/",
+        "http://www.needhelpnow.ca/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "701",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "97",
+        "object_start": "97",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "26",
+        "stream_start": "26",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

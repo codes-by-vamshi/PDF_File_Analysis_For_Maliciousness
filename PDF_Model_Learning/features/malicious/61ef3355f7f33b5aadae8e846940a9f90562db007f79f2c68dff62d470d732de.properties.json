@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 85365,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781421576060&kwd=One%20Piece%20Box%20Set%202:%20Skypeia%20and%20Water%20Seven%20:%20Volumes%2024-46%20with%20Premium",
+        "http://getpdf.pw/book?res=123&isbn=9781421576060&kwd=One%20Piece%20Box%20Set%202:%20Skypeia%20and%20Water%20Seven%20:%20Volumes%2024-46%20with%20Premium",
+        "https://files8.webydo.com/9588341/UploadedFiles/47C586A7-6BCF-F695-7C1A-A3EA29C3739B.pdf",
+        "https://files8.webydo.com/9588469/UploadedFiles/4C99A5F0-9025-CCA1-935A-BF8C5A32DF74.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781421576060&kwd=One%20Piece%20Box%20Set%202:%20Skypeia%20and%20Water%20Seven%20:%20Volumes%2024-46%20with%20Premium",
+        "http://getpdf.pw/book?res=123&isbn=9781421576060&kwd=One%20Piece%20Box%20Set%202:%20Skypeia%20and%20Water%20Seven%20:%20Volumes%2024-46%20with%20Premium",
+        "https://files8.webydo.com/9588341/UploadedFiles/47C586A7-6BCF-F695-7C1A-A3EA29C3739B.pdf",
+        "https://files8.webydo.com/9588469/UploadedFiles/4C99A5F0-9025-CCA1-935A-BF8C5A32DF74.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "85",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "53",
+        "object_start": "53",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

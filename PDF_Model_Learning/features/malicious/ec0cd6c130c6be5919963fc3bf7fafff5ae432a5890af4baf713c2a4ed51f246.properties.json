@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {},
+    "file_size": 110930,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://jetfightreducing.site/Guys-Sucked-My-Breasts-Without-My-Consent/pdf/autoschadebuijs.nl",
+        "http://jetfightreducing.site/Guys-Sucked-My-Breasts-Without-My-Consent/doc/autoschadebuijs.nl",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/china-has-not-comply-with-wto-agreement.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/best-programming-language-to-create-windows-applications.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/biib-earnings-call-transcript.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/cantey-property-management-columbia-sc.pdf"
+    ],
+    "regex_uris": [
+        "http://jetfightreducing.site/Guys-Sucked-My-Breasts-Without-My-Consent/pdf/autoschadebuijs.nl)>>>><</Type /Annot /Subtype /Link /Rect [294.00 468.00 558.00 396.00] /Border [0 0 0] /A <</S /URI /URI (http://jetfightreducing.site/Guys-Sucked-My-Breasts-Without-My-Consent/doc/autoschadebuijs.nl",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/china-has-not-comply-with-wto-agreement.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/best-programming-language-to-create-windows-applications.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/biib-earnings-call-transcript.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/cantey-property-management-columbia-sc.pdf"
+    ],
+    "regex_urls": [
+        "http://jetfightreducing.site/Guys-Sucked-My-Breasts-Without-My-Consent/pdf/autoschadebuijs.nl",
+        "http://jetfightreducing.site/Guys-Sucked-My-Breasts-Without-My-Consent/doc/autoschadebuijs.nl",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "111",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "33",
+        "object_start": "33",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

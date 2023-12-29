@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 79957,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783030000141&kwd=Cloud%20Computing%20and%20Security%20:%204th%20International%20Conference,%20ICCCS%202018,%20Haikou,%20China,%20June%208-10,%202018,%20Revised%20Selected%20Papers,%20Part%20IV",
+        "http://getpdf.pw/book?res=123&isbn=9783030000141&kwd=Cloud%20Computing%20and%20Security%20:%204th%20International%20Conference,%20ICCCS%202018,%20Haikou,%20China,%20June%208-10,%202018,%20Revised%20Selected%20Papers,%20Part%20IV",
+        "https://static.s123-cdn-static-c.com/uploads/4659983/normal_61b01001560ca.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661384/normal_61afde907f59f.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660012/normal_61b0a938448e0.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9783030000141&kwd=Cloud%20Computing%20and%20Security%20:%204th%20International%20Conference,%20ICCCS%202018,%20Haikou,%20China,%20June%208-10,%202018,%20Revised%20Selected%20Papers,%20Part%20IV",
+        "http://getpdf.pw/book?res=123&isbn=9783030000141&kwd=Cloud%20Computing%20and%20Security%20:%204th%20International%20Conference,%20ICCCS%202018,%20Haikou,%20China,%20June%208-10,%202018,%20Revised%20Selected%20Papers,%20Part%20IV",
+        "https://static.s123-cdn-static-c.com/uploads/4659983/normal_61b01001560ca.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4661384/normal_61afde907f59f.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660012/normal_61b0a938448e0.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "80",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

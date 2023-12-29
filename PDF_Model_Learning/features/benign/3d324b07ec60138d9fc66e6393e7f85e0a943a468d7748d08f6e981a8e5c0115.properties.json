@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 854192,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.architecture.com.au/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.architecture.com.au/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "854",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "46",
+        "object_start": "46",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "21",
+        "stream_start": "21",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

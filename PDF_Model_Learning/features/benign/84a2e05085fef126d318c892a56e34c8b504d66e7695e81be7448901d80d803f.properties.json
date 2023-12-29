@@ -1,0 +1,16 @@
+{
+    "exif_signatures": {},
+    "file_size": 70043389,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:principium@list.ru"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {},
+    "yara_signatures": []
+}

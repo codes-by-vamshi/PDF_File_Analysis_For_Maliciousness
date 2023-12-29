@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 114512,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781601631411&kwd=Twilight%20of%20the%20Gods%20:%20The%20Mayan%20Calendar%20and%20the%20Return%20of%20the%20Extraterrestrials",
+        "http://getpdf.pw/book?res=123&isbn=9781601631411&kwd=Twilight%20of%20the%20Gods%20:%20The%20Mayan%20Calendar%20and%20the%20Return%20of%20the%20Extraterrestrials",
+        "https://files8.webydo.com/9588773/UploadedFiles/2646EAC2-BD83-C49D-C0B5-724591EFE7CD.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4649695/normal_61ab9c1b88c8b.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4650439/normal_61aac9941d62a.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781601631411&kwd=Twilight%20of%20the%20Gods%20:%20The%20Mayan%20Calendar%20and%20the%20Return%20of%20the%20Extraterrestrials",
+        "http://getpdf.pw/book?res=123&isbn=9781601631411&kwd=Twilight%20of%20the%20Gods%20:%20The%20Mayan%20Calendar%20and%20the%20Return%20of%20the%20Extraterrestrials",
+        "https://files8.webydo.com/9588773/UploadedFiles/2646EAC2-BD83-C49D-C0B5-724591EFE7CD.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4649695/normal_61ab9c1b88c8b.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4650439/normal_61aac9941d62a.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "115",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "69",
+        "object_start": "69",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

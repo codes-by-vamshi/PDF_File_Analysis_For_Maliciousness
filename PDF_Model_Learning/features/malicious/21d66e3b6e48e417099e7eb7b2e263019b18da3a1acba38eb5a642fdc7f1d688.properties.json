@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 101340,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780199730025&kwd=A%20Cinema%20of%20Loneliness%20(4th%20Edition)",
+        "http://getpdf.pw/book?res=strik&isbn=9780199730025&kwd=A%20Cinema%20of%20Loneliness%20(4th%20Edition)",
+        "https://static.s123-cdn.com/uploads/4661327/normal_61afb83ba3649.pdf",
+        "https://static.s123-cdn.com/uploads/4660933/normal_61af79dfb306b.pdf",
+        "https://uploads.strikinglycdn.com/files/55c78c55-e9ad-4fa1-93e0-495a76b939e5/the-brightest-fell-853.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660302/normal_61af720176ac7.pdf",
+        "https://static.s123-cdn.com/uploads/4661671/normal_61af9c3649ee6.pdf",
+        "https://img1.wsimg.com/blobby/go/bc80ca4f-212b-4c68-90f4-2103cac6467f/the-bondage-breaker-with-study-guide-889.pdf",
+        "https://uploads.strikinglycdn.com/files/07189ad1-2907-4952-b18a-7b0426b94dd3/accel-world-vol-5-light-novel-the-floating-starlight-bridge-737.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660103/normal_61afc63815eda.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780199730025&kwd=A%20Cinema%20of%20Loneliness%20\\(4th%20Edition\\)",
+        "http://getpdf.pw/book?res=strik&isbn=9780199730025&kwd=A%20Cinema%20of%20Loneliness%20\\(4th%20Edition\\)",
+        "https://static.s123-cdn.com/uploads/4661327/normal_61afb83ba3649.pdf",
+        "https://static.s123-cdn.com/uploads/4660933/normal_61af79dfb306b.pdf",
+        "https://uploads.strikinglycdn.com/files/55c78c55-e9ad-4fa1-93e0-495a76b939e5/the-brightest-fell-853.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660302/normal_61af720176ac7.pdf",
+        "https://static.s123-cdn.com/uploads/4661671/normal_61af9c3649ee6.pdf",
+        "https://img1.wsimg.com/blobby/go/bc80ca4f-212b-4c68-90f4-2103cac6467f/the-bondage-breaker-with-study-guide-889.pdf",
+        "https://uploads.strikinglycdn.com/files/07189ad1-2907-4952-b18a-7b0426b94dd3/accel-world-vol-5-light-novel-the-floating-starlight-bridge-737.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660103/normal_61afc63815eda.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "101",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

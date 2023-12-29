@@ -1,0 +1,70 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 142189,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.who.int/about/communications/principles",
+        "https://www.ecdc.europa.eu/en/effective-use-digital-platforms-stihiv-prevention-among-msm-eueea",
+        "https://www.ecdc.europa.eu/en/effective-use-digital-platforms-stihiv-prevention-among-msm-eueea",
+        "https://www.ecdc.europa.eu/en/effective-use-digital-platforms-stihiv-prevention-among-msm-eueea",
+        "https://www.ecdc.europa.eu/en/effective-use-digital-platforms-stihiv-prevention-among-msm-eueea",
+        "https://apps.who.int/iris/handle/10665/338057",
+        "https://doi.org/10.1371/journal.pone.0214229",
+        "https://www.who.int/publications/i/item/10665-242217",
+        "https://cdn.who.int/media/docs/default-source/epi-win/stigma/covid19-stigma-guide.pdf?sfvrsn=48f6ac1_2&download=true",
+        "https://cdn.who.int/media/docs/default-source/epi-win/stigma/covid19-stigma-guide.pdf?sfvrsn=48f6ac1_2&download=true"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "142",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "38",
+        "object_start": "38",
+        "object_streams": "7",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "29",
+        "stream_start": "29",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": [
+        "suspicious_packer_section",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

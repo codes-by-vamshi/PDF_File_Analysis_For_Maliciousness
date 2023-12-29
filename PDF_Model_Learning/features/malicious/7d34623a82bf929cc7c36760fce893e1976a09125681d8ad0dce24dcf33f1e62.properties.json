@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 47866,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://oyfmoqf65.berilata.ru/dwnl3.php",
+        "http://oyfmoqf666.berilata.ru/dwnl3.php",
+        "http://mezijar.bltadwin.ru/steve-monks-raleigh-nc.pdf",
+        "http://branos.bltadwin.ru/philadelphia-volleyball-league.pdf",
+        "http://shalabar.bltadwin.ru/help-wanted-ads-missouri.pdf",
+        "http://akinogis.bltadwin.ru/meditate-in-london-st-albans.pdf",
+        "http://shalabar.bltadwin.ru/st-marks-jacksonville.pdf",
+        "http://tenos.bltadwin.ru/sunny-yuen-seattle.pdf",
+        "http://tebei.bltadwin.ru/airfare-detroit-to-fort-myers.pdf"
+    ],
+    "regex_uris": [
+        "http://oyfmoqf65.berilata.ru/dwnl3.php",
+        "http://oyfmoqf666.berilata.ru/dwnl3.php",
+        "http://mezijar.bltadwin.ru/steve-monks-raleigh-nc.pdf",
+        "http://branos.bltadwin.ru/philadelphia-volleyball-league.pdf",
+        "http://shalabar.bltadwin.ru/help-wanted-ads-missouri.pdf",
+        "http://akinogis.bltadwin.ru/meditate-in-london-st-albans.pdf",
+        "http://shalabar.bltadwin.ru/st-marks-jacksonville.pdf",
+        "http://tenos.bltadwin.ru/sunny-yuen-seattle.pdf",
+        "http://tebei.bltadwin.ru/airfare-detroit-to-fort-myers.pdf"
+    ],
+    "regex_urls": [
+        "http://oyfmoqf65.berilata.ru/dwnl3.php",
+        "http://oyfmoqf666.berilata.ru/dwnl3.php",
+        "http://mezijar.bltadwin.ru/steve-monks-raleigh-nc.pdf",
+        "http://branos.bltadwin.ru/philadelphia-volleyball-league.pdf",
+        "http://shalabar.bltadwin.ru/help-wanted-ads-missouri.pdf",
+        "http://akinogis.bltadwin.ru/meditate-in-london-st-albans.pdf",
+        "http://shalabar.bltadwin.ru/st-marks-jacksonville.pdf",
+        "http://tenos.bltadwin.ru/sunny-yuen-seattle.pdf",
+        "http://tebei.bltadwin.ru/airfare-detroit-to-fort-myers.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "48",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "exif_signatures": {},
+    "file_size": 772191,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://www.tr.mufg.jp/shisan-ken/pdf/kinnyuu_literacy_01.pdf",
+        "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/dabiplan2022.pdf",
+        "https://forbesjapan.com/feat/104consortium/",
+        "https://www.tr.mufg.jp/shisan-ken/",
+        "https://www.tr.mufg.jp/shisan-ken/",
+        "https://www.tr.mufg.jp/shisan-ken/",
+        "https://www.tr.mufg.jp/shisan-ken/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "772",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "5",
+        "open_action": "0",
+        "page_count": "0",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "43",
+        "stream_start": "43",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

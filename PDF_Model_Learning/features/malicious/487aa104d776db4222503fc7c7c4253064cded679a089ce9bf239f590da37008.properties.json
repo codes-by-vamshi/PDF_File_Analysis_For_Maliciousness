@@ -1,0 +1,81 @@
+{
+    "exif_signatures": {},
+    "file_size": 33550,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://netcdn.tw/app/431946152/how-to-get-free-robux-legallz-game-hack",
+        "http://netcdn.tw/app/431946152/how-to-get-free-robux-legallz-game-hack",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/funny-free-roblox-rthro-avatars_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/free-robux-does-not-work_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/hacked-roblox-servers_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/download-roblox-mod-free-robux_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/how-to-make-things-free-on-roblox_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/roblox-hack-no-human-verification-or-survey-2021_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/free-groups-to-join-roblox_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/free-robux-for-free-no-human-verification_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/robux-free-no-vertifacation_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/how-to-hack-peoples-accounts-on-roblox-2021_GM431946152.pdf"
+    ],
+    "regex_uris": [
+        "http://netcdn.tw/app/431946152/how-to-get-free-robux-legallz-game-hack",
+        "http://netcdn.tw/app/431946152/how-to-get-free-robux-legallz-game-hack",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/funny-free-roblox-rthro-avatars_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/free-robux-does-not-work_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/hacked-roblox-servers_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/download-roblox-mod-free-robux_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/how-to-make-things-free-on-roblox_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/roblox-hack-no-human-verification-or-survey-2021_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/free-groups-to-join-roblox_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/free-robux-for-free-no-human-verification_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/robux-free-no-vertifacation_GM431946152.pdf",
+        "https://elearning.man1tuban.sch.id/__statics/gudangsoal/files/how-to-hack-peoples-accounts-on-roblox-2021_GM431946152.pdf"
+    ],
+    "regex_urls": [
+        "http://netcdn.tw/app/431946152/how-to-get-free-robux-legallz-game-hack",
+        "http://netcdn.tw/app/431946152/how-to-get-free-robux-legallz-game-hack",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "34",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "6",
+        "stream_start": "6",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

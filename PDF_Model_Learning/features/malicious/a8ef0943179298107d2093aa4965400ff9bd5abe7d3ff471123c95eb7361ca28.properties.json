@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 108548,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780393704242&kwd=The%20Making%20of%20a%20Therapist",
+        "http://getpdf.pw/book?res=strik&isbn=9780393704242&kwd=The%20Making%20of%20a%20Therapist",
+        "https://uploads.strikinglycdn.com/files/afa62cdb-2fdc-41e2-9362-129df9493c97/the-one-minute-manager-meets-the-monkey-839.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4649695/normal_61aa8e7712831.pdf",
+        "https://static.s123-cdn.com/uploads/4650564/normal_61ab671b52c5f.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/da045553-417a-4ad9-a470-8aceb468e037/creative-haven-horses-color-by-number-coloring-book-963.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650588/normal_61aad02b72487.pdf",
+        "https://img1.wsimg.com/blobby/go/f9084c8a-67bb-40ad-9496-6ca32d646146/crick-crack-monkey-1st-edition-340.pdf",
+        "https://files8.webydo.com/9588488/UploadedFiles/8ABE7F74-AB0A-6263-3055-59384C2F7A20.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780393704242&kwd=The%20Making%20of%20a%20Therapist",
+        "http://getpdf.pw/book?res=strik&isbn=9780393704242&kwd=The%20Making%20of%20a%20Therapist",
+        "https://uploads.strikinglycdn.com/files/afa62cdb-2fdc-41e2-9362-129df9493c97/the-one-minute-manager-meets-the-monkey-839.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4649695/normal_61aa8e7712831.pdf",
+        "https://static.s123-cdn.com/uploads/4650564/normal_61ab671b52c5f.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/da045553-417a-4ad9-a470-8aceb468e037/creative-haven-horses-color-by-number-coloring-book-963.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4650588/normal_61aad02b72487.pdf",
+        "https://img1.wsimg.com/blobby/go/f9084c8a-67bb-40ad-9496-6ca32d646146/crick-crack-monkey-1st-edition-340.pdf",
+        "https://files8.webydo.com/9588488/UploadedFiles/8ABE7F74-AB0A-6263-3055-59384C2F7A20.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "109",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "79",
+        "object_start": "79",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

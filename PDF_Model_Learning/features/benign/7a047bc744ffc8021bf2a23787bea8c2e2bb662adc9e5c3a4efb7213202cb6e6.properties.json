@@ -1,0 +1,48 @@
+{
+    "exif_signatures": {},
+    "file_size": 723698,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.nue.okstate.edu/Algorithm/Algorithm_Outline.htm",
+        "http://www.nue.okstate.edu/Algorithm/Algorithm_Outline.htm",
+        "http://software.ipni.net/article/nutrient-expert",
+        "http://software.ipni.net/article/nutrient-expert",
+        "http://cropmanager.irri.org/home"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.nue.okstate.edu/Algorithm/Algorithm_Outline.htm",
+        "http://www.nue.okstate.edu/Algorithm/Algorithm_Outline.htm",
+        "http://software.ipni.net/article/nutrient-expert",
+        "http://software.ipni.net/article/nutrient-expert",
+        "http://cropmanager.irri.org/home"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "724",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "71",
+        "object_start": "71",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "34",
+        "stream_start": "34",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

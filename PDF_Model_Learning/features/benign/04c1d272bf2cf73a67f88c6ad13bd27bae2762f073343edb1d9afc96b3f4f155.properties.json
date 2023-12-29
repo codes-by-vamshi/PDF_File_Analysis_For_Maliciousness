@@ -1,0 +1,44 @@
+{
+    "exif_signatures": {},
+    "file_size": 657935,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.mara.gov.au/tools-for-agents-subsite/Files/code-of-conduct.pdf",
+        "https://www.mara.gov.au/tools-for-agents-subsite/Files/code-of-conduct.pdf"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "www.mara.gov.au/tools-for-agents-subsite/Files/code-of-conduct.pdf",
+        "https",
+        "www.mara.gov.au/tools-for-agents-subsite/Files/code-of-conduct.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "658",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "109",
+        "object_start": "109",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "14",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "49",
+        "stream_start": "49",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

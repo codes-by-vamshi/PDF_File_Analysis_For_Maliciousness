@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 117187,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780745633374&kwd=The%20New%20Wars",
+        "http://getpdf.pw/book?res=123&isbn=9780745633374&kwd=The%20New%20Wars",
+        "https://files8.webydo.com/9589085/UploadedFiles/419D0D10-EC91-DDE6-1D3B-64A0A451DF76.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660647/normal_61afb0b29d5bd.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660628/normal_61afb14e87bf0.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780745633374&kwd=The%20New%20Wars",
+        "http://getpdf.pw/book?res=123&isbn=9780745633374&kwd=The%20New%20Wars",
+        "https://files8.webydo.com/9589085/UploadedFiles/419D0D10-EC91-DDE6-1D3B-64A0A451DF76.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660647/normal_61afb0b29d5bd.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660628/normal_61afb14e87bf0.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "117",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "80",
+        "object_start": "80",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

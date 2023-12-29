@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 551836,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://support.mozilla.org/ru/kb/udalenie-kukov-dlya-udaleniya-informacii-kotoruyu-",
+        "https://support.mozilla.org/ru/kb/udalenie-kukov-dlya-udaleniya-informacii-kotoruyu-",
+        "https://support.google.com/chrome/answer/95647?hl=ru",
+        "https://support.apple.com/ru-ru/guide/safari/sfri11471/mac",
+        "https://help.opera.com/ru/latest/web-preferences/#%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8-cookie",
+        "https://help.opera.com/ru/latest/web-preferences/#%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8-cookie",
+        "https://support.microsoft.com/ru-ru/microsoft-edge/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-cookie-%D0%B2-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09",
+        "https://support.microsoft.com/ru-ru/microsoft-edge/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-cookie-%D0%B2-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09",
+        "https://support.microsoft.com/ru-ru/windows/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-cookie-%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BC%D0%B8-168dab11-0753-043d-7c16-ede5947fc64d",
+        "https://support.microsoft.com/ru-ru/windows/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-cookie-%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BC%D0%B8-168dab11-0753-043d-7c16-ede5947fc64d"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "3",
+        "embedded_files": "0",
+        "file_size": "552",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "180",
+        "object_start": "180",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "47",
+        "rich_media": "0",
+        "start_cross_reference_table": "3",
+        "stream_end": "40",
+        "stream_start": "40",
+        "trailer_dictionary": "3"
+    },
+    "yara_signatures": []
+}

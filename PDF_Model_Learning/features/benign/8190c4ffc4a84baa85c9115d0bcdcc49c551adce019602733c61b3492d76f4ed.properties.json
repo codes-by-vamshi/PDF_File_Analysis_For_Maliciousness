@@ -1,0 +1,71 @@
+{
+    "exif_signatures": {},
+    "file_size": 4461579,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "http://theborgias.wikifoundry.com/page/Pope+Julius+II",
+        "http://theborgias.wikifoundry.com/page/Pope+Julius+II",
+        "http://theborgias.wikifoundry.com/page/The+Papal+States",
+        "http://theborgias.wikifoundry.com/page/The+Papal+States",
+        "https://tariganter.files.wordpress.com/2017/09/sabbatai-zevi-1626-e28093-1676-izmir-turkey.jpg",
+        "https://tariganter.files.wordpress.com/2017/09/sultan-mehmed-iv.jpg",
+        "https://tariganter.files.wordpress.com/2017/09/sabbatai-zevi-as-the-crowned-messiah-amsterdam-1666.jpeg",
+        "https://tariganter.files.wordpress.com/2017/09/right-rabbi-zvi-hirsch-kalischer-1795-e280931874-born-in-leszno-poland-left-yehuda-solomon-alkalai-1798-1878-born-in-sarajevo-bosnia.jpg"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://theborgias.wikifoundry.com/page/Pope+Julius+II",
+        "http://theborgias.wikifoundry.com/page/Pope+Julius+II",
+        "http://theborgias.wikifoundry.com/page/The+Papal+States",
+        "http://theborgias.wikifoundry.com/page/The+Papal+States",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "3",
+        "embedded_files": "0",
+        "file_size": "4.5",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "513",
+        "object_start": "514",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "112",
+        "rich_media": "0",
+        "start_cross_reference_table": "3",
+        "stream_end": "243",
+        "stream_start": "243",
+        "trailer_dictionary": "3"
+    },
+    "yara_signatures": []
+}

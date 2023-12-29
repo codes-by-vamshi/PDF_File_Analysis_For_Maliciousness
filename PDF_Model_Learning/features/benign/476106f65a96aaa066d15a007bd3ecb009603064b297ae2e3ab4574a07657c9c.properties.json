@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 1277210,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "jacalin1@jhu.edu",
+        "lball@jhu.edu",
+        "http://www.crsp.org/",
+        "https://www.federalreserve.gov/econres/us-models-package.htm",
+        "https://globalfinancialdata.com/",
+        "https://www.nytimes.com/2012/01/02/opinion/krugman-nobody-understands-debt.html",
+        "https://www.nytimes.com/2012/01/02/opinion/krugman-nobody-understands-debt.html",
+        "https://www.nytimes.com/2019/01/09/opinion/melting-snowballs-and-the-winter-of-debt.html",
+        "https://www.nytimes.com/2019/01/09/opinion/melting-snowballs-and-the-winter-of-debt.html",
+        "https://www.whitehouse.gov/omb/budget/historical-tables/",
+        "https://people.brandeis.edu/~ghall/",
+        "https://people.brandeis.edu/~ghall/",
+        "https://people.brandeis.edu/~ghall/",
+        "https://people.brandeis.edu/~ghall/",
+        "https://fraser.stlouisfed.org/title/treasury-bulletin",
+        "https://www.federalreserve.gov/econres/us-models-package.htm",
+        "https://www.federalreserve.gov/econres/us-models-package.htm",
+        "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/atsix",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-expectations",
+        "https://www.aeaweb.org/articles?id=10.1257/aer.109.4.1197"
+    ],
+    "regex_uris": [],
+    "regex_urls": [],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1277",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "172",
+        "object_start": "172",
+        "object_streams": "6",
+        "open_action": "1",
+        "page_count": "46",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "123",
+        "stream_start": "123",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

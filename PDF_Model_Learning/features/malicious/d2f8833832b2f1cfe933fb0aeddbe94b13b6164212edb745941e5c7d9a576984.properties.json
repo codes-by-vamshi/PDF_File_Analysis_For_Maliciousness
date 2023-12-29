@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 101152,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781684222490&kwd=Hidden%20You%20:%20What%20You%20are%20and%20What%20to%20Do%20About%20It",
+        "http://getpdf.pw/book?res=strik&isbn=9781684222490&kwd=Hidden%20You%20:%20What%20You%20are%20and%20What%20to%20Do%20About%20It",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/8e501f04-923f-41c6-a07f-f6a92ce82cde/heart-of-darkness-and-the-secret-sharer-863.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/a3bf0437-acd7-47a5-b5e6-be0df5ee9a6d/lonely-planet-trekking-in-the-nepal-himalaya-340.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660132/normal_61afc8a326c10.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660601/normal_61af92b54f822.pdf",
+        "https://files8.webydo.com/9589178/UploadedFiles/9AA8553A-DA27-7B27-2742-8BFC070F47E1.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9781684222490&kwd=Hidden%20You%20:%20What%20You%20are%20and%20What%20to%20Do%20About%20It",
+        "http://getpdf.pw/book?res=strik&isbn=9781684222490&kwd=Hidden%20You%20:%20What%20You%20are%20and%20What%20to%20Do%20About%20It",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/8e501f04-923f-41c6-a07f-f6a92ce82cde/heart-of-darkness-and-the-secret-sharer-863.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/a3bf0437-acd7-47a5-b5e6-be0df5ee9a6d/lonely-planet-trekking-in-the-nepal-himalaya-340.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660132/normal_61afc8a326c10.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660601/normal_61af92b54f822.pdf",
+        "https://files8.webydo.com/9589178/UploadedFiles/9AA8553A-DA27-7B27-2742-8BFC070F47E1.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "101",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "72",
+        "object_start": "72",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "6",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

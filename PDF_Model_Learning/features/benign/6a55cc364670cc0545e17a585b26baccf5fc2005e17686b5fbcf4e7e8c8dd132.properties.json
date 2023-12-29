@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 14100606,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.test.de/hausratliste",
+        "http://www.test.de",
+        "http://www.zdh.de",
+        "http://www.zdh.de/handwerksorganisationen/handwerkskammern.html",
+        "http://www.test.de"
+    ],
+    "regex_uris": [
+        "http://www.test.de/hausratliste",
+        "http://www.test.de",
+        "http://www.zdh.de",
+        "http://www.zdh.de/handwerksorganisationen/handwerkskammern.html",
+        "http://www.test.de"
+    ],
+    "regex_urls": [
+        "http://calibre-ebook.com",
+        "http://calibre-ebook.com",
+        "http://calibre-ebook.com",
+        "http://www.test.de/hausratliste",
+        "http://www.test.de",
+        "http://www.zdh.de",
+        "http://www.zdh.de/handwerksorganisationen/handwerkskammern.html",
+        "http://www.test.de"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "14",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "1469",
+        "object_start": "1469",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "260",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "721",
+        "stream_start": "721",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 45704,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://etnwoxi124.berilata.ru/dwnl3.php",
+        "http://etnwoxi122.berilata.ru/dwnl3.php",
+        "http://fek.bltadwin.ru/tca-london-twitter.pdf",
+        "http://shalabar.bltadwin.ru/kci-wound-vac-austin-tx.pdf",
+        "http://fezahn.bltadwin.ru/las-vegas-reptiles.pdf",
+        "http://kekora.bltadwin.ru/quantum-h2o-el-paso.pdf",
+        "http://akinogis.bltadwin.ru/pips-restaurant-los-angeles-ca.pdf",
+        "http://akinogis.bltadwin.ru/austin-trolley-company.pdf",
+        "http://goltimuro.bltadwin.ru/las-vegas-new-mexico-harvey-house.pdf"
+    ],
+    "regex_uris": [
+        "http://etnwoxi124.berilata.ru/dwnl3.php",
+        "http://etnwoxi122.berilata.ru/dwnl3.php",
+        "http://fek.bltadwin.ru/tca-london-twitter.pdf",
+        "http://shalabar.bltadwin.ru/kci-wound-vac-austin-tx.pdf",
+        "http://fezahn.bltadwin.ru/las-vegas-reptiles.pdf",
+        "http://kekora.bltadwin.ru/quantum-h2o-el-paso.pdf",
+        "http://akinogis.bltadwin.ru/pips-restaurant-los-angeles-ca.pdf",
+        "http://akinogis.bltadwin.ru/austin-trolley-company.pdf",
+        "http://goltimuro.bltadwin.ru/las-vegas-new-mexico-harvey-house.pdf"
+    ],
+    "regex_urls": [
+        "http://etnwoxi124.berilata.ru/dwnl3.php",
+        "http://etnwoxi122.berilata.ru/dwnl3.php",
+        "http://fek.bltadwin.ru/tca-london-twitter.pdf",
+        "http://shalabar.bltadwin.ru/kci-wound-vac-austin-tx.pdf",
+        "http://fezahn.bltadwin.ru/las-vegas-reptiles.pdf",
+        "http://kekora.bltadwin.ru/quantum-h2o-el-paso.pdf",
+        "http://akinogis.bltadwin.ru/pips-restaurant-los-angeles-ca.pdf",
+        "http://akinogis.bltadwin.ru/austin-trolley-company.pdf",
+        "http://goltimuro.bltadwin.ru/las-vegas-new-mexico-harvey-house.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "46",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

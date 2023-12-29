@@ -1,0 +1,52 @@
+{
+    "exif_signatures": {},
+    "file_size": 996654,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt49",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt59",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt60",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt63",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt64",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt41",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt42"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt49",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt59",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt60",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt63",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt64",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt41",
+        "http://www.lawphil.net/judjuris/juri2009/dec2009/gr_163553_2009.html#fnt42"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "997",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "196",
+        "object_start": "196",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "27",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "76",
+        "stream_start": "76",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

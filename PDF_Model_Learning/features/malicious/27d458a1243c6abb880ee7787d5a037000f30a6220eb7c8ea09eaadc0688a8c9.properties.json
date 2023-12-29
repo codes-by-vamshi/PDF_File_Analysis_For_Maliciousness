@@ -1,0 +1,54 @@
+{
+    "exif_signatures": {},
+    "file_size": 85948,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781647580049&kwd=Toy%20Photographer%202.0%20:%20How%20to%20Take%20Your%20Lego%20Toy%20Photography%20to%20the%20Next%20Level",
+        "http://getpdf.pw/book?res=123&isbn=9781647580049&kwd=Toy%20Photographer%202.0%20:%20How%20to%20Take%20Your%20Lego%20Toy%20Photography%20to%20the%20Next%20Level",
+        "https://files8.webydo.com/9589137/UploadedFiles/3BDDC83C-49B8-88FD-53C5-080A97FF6D5D.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781647580049&kwd=Toy%20Photographer%202.0%20:%20How%20to%20Take%20Your%20Lego%20Toy%20Photography%20to%20the%20Next%20Level",
+        "http://getpdf.pw/book?res=123&isbn=9781647580049&kwd=Toy%20Photographer%202.0%20:%20How%20to%20Take%20Your%20Lego%20Toy%20Photography%20to%20the%20Next%20Level",
+        "https://files8.webydo.com/9589137/UploadedFiles/3BDDC83C-49B8-88FD-53C5-080A97FF6D5D.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "86",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "58",
+        "object_start": "58",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

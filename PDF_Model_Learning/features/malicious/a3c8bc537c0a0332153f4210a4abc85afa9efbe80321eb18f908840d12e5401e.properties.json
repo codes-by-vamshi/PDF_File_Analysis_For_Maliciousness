@@ -1,0 +1,63 @@
+{
+    "exif_signatures": {},
+    "file_size": 93722,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781119425069&kwd=The%20Analytics%20Lifecycle%20Toolkit%20:%20A%20Practical%20Guide%20for%20an%20Effective%20Analytics%20Capability",
+        "http://getpdf.pw/book?res=weby&isbn=9781119425069&kwd=The%20Analytics%20Lifecycle%20Toolkit%20:%20A%20Practical%20Guide%20for%20an%20Effective%20Analytics%20Capability",
+        "https://img1.wsimg.com/blobby/go/b843552e-1dbb-4b59-ad57-3db4cb8d55bc/earth-perfect-nature-utopia-and-the-garden-328.pdf",
+        "https://files8.webydo.com/9589167/UploadedFiles/AF4BCF3F-5057-325E-1BC3-AE1B10EA94E1.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/ea3f6dcb-691e-49e5-a8c6-9a75e9b8f6b6/tarot-of-the-gnomes-789.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660535/normal_61af75a7c8a46.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781119425069&kwd=The%20Analytics%20Lifecycle%20Toolkit%20:%20A%20Practical%20Guide%20for%20an%20Effective%20Analytics%20Capability",
+        "http://getpdf.pw/book?res=weby&isbn=9781119425069&kwd=The%20Analytics%20Lifecycle%20Toolkit%20:%20A%20Practical%20Guide%20for%20an%20Effective%20Analytics%20Capability",
+        "https://img1.wsimg.com/blobby/go/b843552e-1dbb-4b59-ad57-3db4cb8d55bc/earth-perfect-nature-utopia-and-the-garden-328.pdf",
+        "https://files8.webydo.com/9589167/UploadedFiles/AF4BCF3F-5057-325E-1BC3-AE1B10EA94E1.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/ea3f6dcb-691e-49e5-a8c6-9a75e9b8f6b6/tarot-of-the-gnomes-789.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4660535/normal_61af75a7c8a46.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "94",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "66",
+        "object_start": "66",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 92528,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9788446014898&kwd=Diccionario%20Akal%20de%20Historiadores%20Espanoles%20Contemporaneos",
+        "http://getpdf.pw/book?res=123&isbn=9788446014898&kwd=Diccionario%20Akal%20de%20Historiadores%20Espanoles%20Contemporaneos",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/2952499c-293a-43b7-b8cd-ad04e0aff2e2/dead-lucky-life-after-death-on-mount-everest-292.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660302/normal_61afcb4823083.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9788446014898&kwd=Diccionario%20Akal%20de%20Historiadores%20Espanoles%20Contemporaneos",
+        "http://getpdf.pw/book?res=123&isbn=9788446014898&kwd=Diccionario%20Akal%20de%20Historiadores%20Espanoles%20Contemporaneos",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/2952499c-293a-43b7-b8cd-ad04e0aff2e2/dead-lucky-life-after-death-on-mount-everest-292.pdf",
+        "https://static.s123-cdn-static.com/uploads/4660302/normal_61afcb4823083.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "93",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

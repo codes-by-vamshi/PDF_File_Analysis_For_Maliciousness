@@ -1,0 +1,55 @@
+{
+    "exif_signatures": {},
+    "file_size": 78507,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780553447712&kwd=The%20Seven%20Principles%20for%20Making%20Marriage%20Work%20:%20A%20Practical%20Guide%20from%20the%20Countrys%20Foremost%20Relationship%20Expert",
+        "http://getpdf.pw/book?res=123&isbn=9780553447712&kwd=The%20Seven%20Principles%20for%20Making%20Marriage%20Work%20:%20A%20Practical%20Guide%20from%20the%20Countrys%20Foremost%20Relationship%20Expert",
+        "https://static.s123-cdn.com/uploads/4649772/normal_61aae09c8ff87.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780553447712&kwd=The%20Seven%20Principles%20for%20Making%20Marriage%20Work%20:%20A%20Practical%20Guide%20from%20the%20Countrys%20Foremost%20Relationship%20Expert",
+        "http://getpdf.pw/book?res=123&isbn=9780553447712&kwd=The%20Seven%20Principles%20for%20Making%20Marriage%20Work%20:%20A%20Practical%20Guide%20from%20the%20Countrys%20Foremost%20Relationship%20Expert",
+        "https://static.s123-cdn.com/uploads/4649772/normal_61aae09c8ff87.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "45",
+        "object_start": "45",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

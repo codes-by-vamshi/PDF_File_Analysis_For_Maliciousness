@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 95196,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781843797708&kwd=My%20First%20Orchestra%20Book",
+        "http://getpdf.pw/book?res=123&isbn=9781843797708&kwd=My%20First%20Orchestra%20Book",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F1289c7e0-0e83-4c0e-9e90-914a615375ad%252Fbiaxial-stretching-of-film-principles-and-applications-332.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fae366721-fb17-4212-bbe3-6a74decab47d%252Ftrigonometry-10th-edition-118.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781843797708&kwd=My%20First%20Orchestra%20Book",
+        "http://getpdf.pw/book?res=123&isbn=9781843797708&kwd=My%20First%20Orchestra%20Book",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F1289c7e0-0e83-4c0e-9e90-914a615375ad%252Fbiaxial-stretching-of-film-principles-and-applications-332.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fae366721-fb17-4212-bbe3-6a74decab47d%252Ftrigonometry-10th-edition-118.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "95",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "64",
+        "object_start": "64",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

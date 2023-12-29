@@ -1,0 +1,42 @@
+{
+    "exif_signatures": {},
+    "file_size": 531425,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw",
+        "https://videotheque.u-cergy.fr/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "531",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "101",
+        "object_start": "101",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "33",
+        "stream_start": "33",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

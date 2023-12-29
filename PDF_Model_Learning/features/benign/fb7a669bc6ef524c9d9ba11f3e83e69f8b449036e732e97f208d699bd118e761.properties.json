@@ -1,0 +1,42 @@
+{
+    "exif_signatures": {},
+    "file_size": 3002057,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://academy.hackthebox.eu/module/details/34"
+    ],
+    "regex_uris": [
+        "https://academy.hackthebox.eu/module/details/34"
+    ],
+    "regex_urls": [
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "3.0",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "96",
+        "object_start": "96",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "43",
+        "stream_start": "43",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": []
+}

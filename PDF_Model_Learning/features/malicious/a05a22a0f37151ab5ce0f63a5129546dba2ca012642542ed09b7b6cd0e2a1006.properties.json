@@ -1,0 +1,74 @@
+{
+    "exif_signatures": {},
+    "file_size": 131810,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://starkave.site/Breaking-Tenancy-Agreement-Nsw/pdf/skankskates.com",
+        "http://starkave.site/Breaking-Tenancy-Agreement-Nsw/doc/skankskates.com",
+        "https://skankskates.com/wp-content/uploads/formidable/10/jpi-property-management-hayward.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/dollar-general-employee-write-up-policy.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/magical-properties-of-herbs.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/ymca-of-the-usa-mission-statement.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/chevy-volt-service-manual.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/no-capacity-to-consent.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/does-fannie-mae-requie-tax-transcripts.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/where-is-the-driving-licence-numberfor-ohio.pdf"
+    ],
+    "regex_uris": [
+        "http://starkave.site/Breaking-Tenancy-Agreement-Nsw/pdf/skankskates.com)>>>><</Type /Annot /Subtype /Link /Rect [309.00 472.00 561.00 402.00] /Border [0 0 0] /A <</S /URI /URI (http://starkave.site/Breaking-Tenancy-Agreement-Nsw/doc/skankskates.com",
+        "https://skankskates.com/wp-content/uploads/formidable/10/jpi-property-management-hayward.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/dollar-general-employee-write-up-policy.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/magical-properties-of-herbs.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/ymca-of-the-usa-mission-statement.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/chevy-volt-service-manual.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/no-capacity-to-consent.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/does-fannie-mae-requie-tax-transcripts.pdf",
+        "https://skankskates.com/wp-content/uploads/formidable/10/where-is-the-driving-licence-numberfor-ohio.pdf"
+    ],
+    "regex_urls": [
+        "http://starkave.site/Breaking-Tenancy-Agreement-Nsw/pdf/skankskates.com",
+        "http://starkave.site/Breaking-Tenancy-Agreement-Nsw/doc/skankskates.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "132",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "57",
+        "object_start": "57",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "22",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "30",
+        "stream_start": "30",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

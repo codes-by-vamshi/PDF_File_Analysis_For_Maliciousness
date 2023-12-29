@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 107757,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781484218501&kwd=Troubleshooting%20Windows%20Server%20with%20PowerShell",
+        "http://getpdf.pw/book?res=123&isbn=9781484218501&kwd=Troubleshooting%20Windows%20Server%20with%20PowerShell",
+        "https://static.s123-cdn.com/uploads/4659957/normal_61b0cf25e07a5.pdf",
+        "https://static.s123-cdn.com/uploads/4661453/normal_61b1136093b28.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781484218501&kwd=Troubleshooting%20Windows%20Server%20with%20PowerShell",
+        "http://getpdf.pw/book?res=123&isbn=9781484218501&kwd=Troubleshooting%20Windows%20Server%20with%20PowerShell",
+        "https://static.s123-cdn.com/uploads/4659957/normal_61b0cf25e07a5.pdf",
+        "https://static.s123-cdn.com/uploads/4661453/normal_61b1136093b28.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "108",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "74",
+        "object_start": "74",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

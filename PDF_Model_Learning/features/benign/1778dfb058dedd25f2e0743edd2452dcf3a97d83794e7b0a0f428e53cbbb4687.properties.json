@@ -1,0 +1,69 @@
+{
+    "exif_signatures": {},
+    "file_size": 238895,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://agrega.educacion.es/visualizar/es/es_20070518_3_0051200/false",
+        "http://alumnosenredados.blogspot.com/2011/12/el-diablo-en-la-botella-y-otros-cuentos.html",
+        "http://www.aplicaciones.info/lengua/morfo16.htm",
+        "http://cuentos-infantiles.idoneos.com/cuentos_fantasticos/",
+        "http://www.tiposde.org/lengua-y-literatura/106-tipos-de-cuentos/#ixzz3yU1gjMF8",
+        "http://www.mundonets.com/que-es-un-cuento/",
+        "http://www.wordreference.com/definicion/",
+        "http://www.vicentellop.com/ortografia/puntort.htm",
+        "http://www.letralia.com/ciudad/arciniegas/071003.htm",
+        "http://contenidosparaaprender.mineducacion.gov.co/G_7/L/SM/SM_L_G07_U04_L02.pdf",
+        "http://recursos.cnice.mec.es/lengua/profesores/eso2/t1/teoria_5.htm",
+        "http://www.biblioteca.org.ar/libros/130152.pdf"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://agrega.educacion.es/visualizar/es/es_20070518_3_0051200/false",
+        "http://www.biblioteca.org.ar/libros/130152.pdf",
+        "http://alumnosenredados.blogspot.com/2011/12/el-diablo-en-la-botella-y-otros-cuentos.html",
+        "http://www.aplicaciones.info/lengua/morfo16.htm",
+        "http://cuentos-infantiles.idoneos.com/cuentos_fantasticos/",
+        "http://www.tiposde.org/lengua-y-literatura/106-tipos-de-cuentos/#ixzz3yU1gjMF8",
+        "http://www.mundonets.com/que-es-un-cuento/",
+        "http://www.wordreference.com/definicion/",
+        "http://www.vicentellop.com/ortografia/puntort.htm",
+        "http://www.letralia.com/ciudad/arciniegas/071003.htm",
+        "http://contenidosparaaprender.mineducacion.gov.co/G_7/L/SM/SM_L_G07_U04_L02.pdf",
+        "http://recursos.cnice.mec.es/lengua/profesores/eso2/t1/teoria_5.htm"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "239",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "83",
+        "object_start": "83",
+        "object_streams": "0",
+        "open_action": "1",
+        "page_count": "9",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "28",
+        "stream_start": "28",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1",
+        "Big_Numbers3"
+    ]
+}

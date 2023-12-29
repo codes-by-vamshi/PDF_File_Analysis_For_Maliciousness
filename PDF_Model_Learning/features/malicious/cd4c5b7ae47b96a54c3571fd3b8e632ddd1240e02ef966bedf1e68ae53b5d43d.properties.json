@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 173963,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781713472445&kwd=No%20more%20awkward%20Moments%20:%20Password%20Log",
+        "http://getpdf.pw/book?res=123&isbn=9781713472445&kwd=No%20more%20awkward%20Moments%20:%20Password%20Log",
+        "https://cdn-cms.f-static.net/uploads/4660015/normal_61b11cbcf170b.pdf",
+        "https://files8.webydo.com/9589063/UploadedFiles/74305C98-7DA1-7384-6B39-FC7C3A89319B.pdf",
+        "https://static.s123-cdn.com/uploads/4661044/normal_61b04b22ba0ca.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781713472445&kwd=No%20more%20awkward%20Moments%20:%20Password%20Log",
+        "http://getpdf.pw/book?res=123&isbn=9781713472445&kwd=No%20more%20awkward%20Moments%20:%20Password%20Log",
+        "https://cdn-cms.f-static.net/uploads/4660015/normal_61b11cbcf170b.pdf",
+        "https://files8.webydo.com/9589063/UploadedFiles/74305C98-7DA1-7384-6B39-FC7C3A89319B.pdf",
+        "https://static.s123-cdn.com/uploads/4661044/normal_61b04b22ba0ca.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "174",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "115",
+        "object_start": "115",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "15",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "22",
+        "stream_start": "22",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

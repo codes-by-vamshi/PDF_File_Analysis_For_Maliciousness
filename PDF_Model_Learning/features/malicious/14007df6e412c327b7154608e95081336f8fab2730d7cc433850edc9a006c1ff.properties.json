@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 88339,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781683231523&kwd=Camping,%20a%20Campers%20Book%20Travel%20Journal%20Book",
+        "http://getpdf.pw/book?res=123&isbn=9781683231523&kwd=Camping,%20a%20Campers%20Book%20Travel%20Journal%20Book",
+        "https://static.s123-cdn-static.com/uploads/4660533/normal_61af901d57a62.pdf",
+        "https://img1.wsimg.com/blobby/go/d62e395a-8b5d-49cd-b75b-6562a97de6bd/mammals-a-very-short-introduction-469.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781683231523&kwd=Camping,%20a%20Campers%20Book%20Travel%20Journal%20Book",
+        "http://getpdf.pw/book?res=123&isbn=9781683231523&kwd=Camping,%20a%20Campers%20Book%20Travel%20Journal%20Book",
+        "https://static.s123-cdn-static.com/uploads/4660533/normal_61af901d57a62.pdf",
+        "https://img1.wsimg.com/blobby/go/d62e395a-8b5d-49cd-b75b-6562a97de6bd/mammals-a-very-short-introduction-469.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "88",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "59",
+        "object_start": "59",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "11",
+        "stream_start": "11",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 112372,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9780060014162&kwd=The%20Happy%20Hooker%20:%20My%20Own%20Story",
+        "http://getpdf.pw/book?res=weby&isbn=9780060014162&kwd=The%20Happy%20Hooker%20:%20My%20Own%20Story",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F7f75409e-160a-42f1-b6ab-916ddc0e4b43%252Fthe-book-of-relief-passages-and-exercises-to-relieve-negative-emotion-and-create-more-ease-in-the-b-560.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fef9ca15d-2836-4ec1-aa7e-aedd03d92747%252Fquantitative-investment-analysis-workbook-3rd-edition-687.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648523/normal_61a695ff0f8e9.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F735d4f7d-8707-477b-bd6f-be8e4aaccd5b%252Ffixed-income-analysis-third-edition-workbook-664.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F5646e78c-dd64-490a-9650-3ee6a3603f2f%252Fadministrative-management-1st-edition-2.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648250/normal_61a6d3438d389.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4647931/normal_61a6af4fcaeed.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9780060014162&kwd=The%20Happy%20Hooker%20:%20My%20Own%20Story",
+        "http://getpdf.pw/book?res=weby&isbn=9780060014162&kwd=The%20Happy%20Hooker%20:%20My%20Own%20Story",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F7f75409e-160a-42f1-b6ab-916ddc0e4b43%252Fthe-book-of-relief-passages-and-exercises-to-relieve-negative-emotion-and-create-more-ease-in-the-b-560.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252Fef9ca15d-2836-4ec1-aa7e-aedd03d92747%252Fquantitative-investment-analysis-workbook-3rd-edition-687.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648523/normal_61a695ff0f8e9.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F735d4f7d-8707-477b-bd6f-be8e4aaccd5b%252Ffixed-income-analysis-third-edition-workbook-664.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files%252F5646e78c-dd64-490a-9650-3ee6a3603f2f%252Fadministrative-management-1st-edition-2.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4648250/normal_61a6d3438d389.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4647931/normal_61a6af4fcaeed.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "112",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "79",
+        "object_start": "79",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "7",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

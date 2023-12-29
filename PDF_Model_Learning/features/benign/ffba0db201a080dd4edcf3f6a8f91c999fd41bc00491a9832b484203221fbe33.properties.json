@@ -1,0 +1,51 @@
+{
+    "exif_signatures": {},
+    "file_size": 664113,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www2.secure.hsbcnet.com/uims/dl/DSP_AUTHENTICATION;jsessionid=0000oWSa2Spo5CpNOIrm2REgyUm:fiffyzGGK",
+        "https://www.business.hsbcamanah.com.my/en-gb/campaigns/hsbc-global-wallet-i",
+        "https://www.business.hsbc.com.my/en-gb/contact-us"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "www.business.hsbcamanah.com.my/en-gb/campaigns/hsbc-global-wallet-i",
+        "https",
+        "www.business.hsbc.com.my/en-gb/contact-us",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "664",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "618",
+        "object_start": "618",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "578",
+        "stream_start": "578",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

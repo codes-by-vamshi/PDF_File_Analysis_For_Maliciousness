@@ -1,0 +1,40 @@
+{
+    "exif_signatures": {},
+    "file_size": 937179,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://scitation.aip.org/content/aip/journal/jcp"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://scitation.aip.org/content/aip/journal/jcp"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "937",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "488",
+        "object_start": "488",
+        "object_streams": "3",
+        "open_action": "0",
+        "page_count": "44",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "372",
+        "stream_start": "372",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

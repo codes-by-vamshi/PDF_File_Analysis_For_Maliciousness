@@ -1,0 +1,80 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 9022189,
+    "pdfid_signatures": {
+        "Object_Mismatch": {
+            "description": "The number of start objects does not match with end objects.",
+            "families": [],
+            "marks": [],
+            "name": "Object_Mismatch",
+            "references": [],
+            "severity": 1
+        },
+        "Stream_Mismatch": {
+            "description": "The number of start stream does not match with end streams",
+            "families": [],
+            "marks": [],
+            "name": "Stream_Mismatch",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://arc.fiscal.treasury.gov/about-arc/news-and-events/",
+        "https://arc.fiscal.treasury.gov/about-arc/news-and-events/",
+        "https://www.gsa.gov/travel/agency-services/egov-travel-services-ets/etsnext",
+        "https://www.gsa.gov/travel/agency-services/egov-travel-services-ets/etsnext",
+        "https://www.fiscal.treasury.gov/doing-business-with-fiscal-service/updates.html",
+        "https://arc.fiscal.treasury.gov/about-arc/news-and-events/",
+        "https://arc.fiscal.treasury.gov/contact/request-a-consultation/",
+        "tel:+13044808000",
+        "mailto:arcsupportdesk@fiscal.treasury.gov",
+        "https://arc.fiscal.treasury.gov/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/pdfx/1.3/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "9.0",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "344",
+        "object_start": "345",
+        "object_streams": "44",
+        "open_action": "0",
+        "page_count": "65",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "277",
+        "stream_start": "277",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}

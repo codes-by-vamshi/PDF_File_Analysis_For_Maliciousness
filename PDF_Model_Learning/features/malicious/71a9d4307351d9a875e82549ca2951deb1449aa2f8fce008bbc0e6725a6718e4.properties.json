@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 109711,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://jetfightreducing.site/Breaking-Up-With-Long-Term-Partner/pdf/autoschadebuijs.nl",
+        "http://jetfightreducing.site/Breaking-Up-With-Long-Term-Partner/doc/autoschadebuijs.nl",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/pro-bono-income-questionnaire-reduced-fees.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/complaint-made-to-dcfs-for-madical-neglect.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/medical-invoice-template-google-docs.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/aruba-property-for-sale-by-owner.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/health-questionnaire-carnical-cruise.pdf"
+    ],
+    "regex_uris": [
+        "http://jetfightreducing.site/Breaking-Up-With-Long-Term-Partner/pdf/autoschadebuijs.nl)>>>><</Type /Annot /Subtype /Link /Rect [300.00 470.00 548.00 400.00] /Border [0 0 0] /A <</S /URI /URI (http://jetfightreducing.site/Breaking-Up-With-Long-Term-Partner/doc/autoschadebuijs.nl",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/pro-bono-income-questionnaire-reduced-fees.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/complaint-made-to-dcfs-for-madical-neglect.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/medical-invoice-template-google-docs.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/aruba-property-for-sale-by-owner.pdf",
+        "https://autoschadebuijs.nl/wp-content/uploads/formidable/9/health-questionnaire-carnical-cruise.pdf"
+    ],
+    "regex_urls": [
+        "http://jetfightreducing.site/Breaking-Up-With-Long-Term-Partner/pdf/autoschadebuijs.nl",
+        "http://jetfightreducing.site/Breaking-Up-With-Long-Term-Partner/doc/autoschadebuijs.nl",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "110",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "35",
+        "object_start": "35",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "11",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

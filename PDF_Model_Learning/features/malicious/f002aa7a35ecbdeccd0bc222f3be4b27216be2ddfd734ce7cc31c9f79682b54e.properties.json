@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 193427,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781093370478&kwd=Monkeys%20in%20the%20Jungle%20:%20Rousseau%20Cross%20Stitch%20Pattern",
+        "http://getpdf.pw/book?res=weby&isbn=9781093370478&kwd=Monkeys%20in%20the%20Jungle%20:%20Rousseau%20Cross%20Stitch%20Pattern",
+        "https://static.s123-cdn.com/uploads/4660730/normal_61afb10c2668a.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661795/normal_61af81af8c142.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/91c8c341-9d80-4b9a-b575-760da4991d07/zen-art-poetry-wall-calendar-2021-art-calendar-441.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661044/normal_61afb43352c4d.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660067/normal_61af887a3506e.pdf",
+        "https://img1.wsimg.com/blobby/go/2254a069-0029-406f-82d3-191518b6f437/the-butterflies-of-australia-899.pdf",
+        "https://img1.wsimg.com/blobby/go/b79f79e3-af22-4627-a76d-dfcddc363663/cane-258.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=weby&isbn=9781093370478&kwd=Monkeys%20in%20the%20Jungle%20:%20Rousseau%20Cross%20Stitch%20Pattern",
+        "http://getpdf.pw/book?res=weby&isbn=9781093370478&kwd=Monkeys%20in%20the%20Jungle%20:%20Rousseau%20Cross%20Stitch%20Pattern",
+        "https://static.s123-cdn.com/uploads/4660730/normal_61afb10c2668a.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4661795/normal_61af81af8c142.pdf",
+        "https://s3.ap-northeast-1.amazonaws.com/uploads.strikinglycdn.com/files/91c8c341-9d80-4b9a-b575-760da4991d07/zen-art-poetry-wall-calendar-2021-art-calendar-441.pdf",
+        "https://cdn-cms.f-static.net/uploads/4661044/normal_61afb43352c4d.pdf",
+        "https://cdn-cms.f-static.net/uploads/4660067/normal_61af887a3506e.pdf",
+        "https://img1.wsimg.com/blobby/go/2254a069-0029-406f-82d3-191518b6f437/the-butterflies-of-australia-899.pdf",
+        "https://img1.wsimg.com/blobby/go/b79f79e3-af22-4627-a76d-dfcddc363663/cane-258.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=weby",
+        "http://getpdf.pw/book?res=weby",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "193",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "134",
+        "object_start": "134",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "18",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "25",
+        "stream_start": "25",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 150744,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781446542132&kwd=Two%20Volume%20Illustrated%20Guide%20-%20Making%20Toys%20for%20Children%20from%20Wood",
+        "http://getpdf.pw/book?res=123&isbn=9781446542132&kwd=Two%20Volume%20Illustrated%20Guide%20-%20Making%20Toys%20for%20Children%20from%20Wood",
+        "https://static.s123-cdn-static.com/uploads/4662873/normal_61b24cca13daa.pdf",
+        "https://files8.webydo.com/9589194/UploadedFiles/1F89EA30-E7F9-4FF6-CF63-FDCE44DBC5ED.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781446542132&kwd=Two%20Volume%20Illustrated%20Guide%20-%20Making%20Toys%20for%20Children%20from%20Wood",
+        "http://getpdf.pw/book?res=123&isbn=9781446542132&kwd=Two%20Volume%20Illustrated%20Guide%20-%20Making%20Toys%20for%20Children%20from%20Wood",
+        "https://static.s123-cdn-static.com/uploads/4662873/normal_61b24cca13daa.pdf",
+        "https://files8.webydo.com/9589194/UploadedFiles/1F89EA30-E7F9-4FF6-CF63-FDCE44DBC5ED.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "151",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "99",
+        "object_start": "99",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "19",
+        "stream_start": "19",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

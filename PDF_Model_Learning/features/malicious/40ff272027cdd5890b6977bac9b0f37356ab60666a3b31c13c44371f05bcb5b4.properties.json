@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 92609,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781905460939&kwd=Aldebaran%20Vol.3:%20the%20Creature",
+        "http://getpdf.pw/book?res=123&isbn=9781905460939&kwd=Aldebaran%20Vol.3:%20the%20Creature",
+        "https://uploads.strikinglycdn.com/files/5f4ac528-06c8-438f-bc93-74058c087a50/thats-not-my-teddy-605.pdf",
+        "https://files8.webydo.com/9588526/UploadedFiles/8E76DE24-3365-4EB0-FF93-014CB559F321.pdf",
+        "https://files8.webydo.com/9588785/UploadedFiles/C2E50888-6D9A-3398-2495-A328C6BCDEE7.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781905460939&kwd=Aldebaran%20Vol.3:%20the%20Creature",
+        "http://getpdf.pw/book?res=123&isbn=9781905460939&kwd=Aldebaran%20Vol.3:%20the%20Creature",
+        "https://uploads.strikinglycdn.com/files/5f4ac528-06c8-438f-bc93-74058c087a50/thats-not-my-teddy-605.pdf",
+        "https://files8.webydo.com/9588526/UploadedFiles/8E76DE24-3365-4EB0-FF93-014CB559F321.pdf",
+        "https://files8.webydo.com/9588785/UploadedFiles/C2E50888-6D9A-3398-2495-A328C6BCDEE7.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "93",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "65",
+        "object_start": "65",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "12",
+        "stream_start": "12",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

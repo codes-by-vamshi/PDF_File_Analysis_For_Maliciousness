@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 149094,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780792375722&kwd=Trusted%20Recovery%20and%20Defensive%20Information%20Warfare",
+        "http://getpdf.pw/book?res=123&isbn=9780792375722&kwd=Trusted%20Recovery%20and%20Defensive%20Information%20Warfare",
+        "https://static.s123-cdn-static-d.com/uploads/4659890/normal_61b07d69c6496.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659950/normal_61b0ce0cd6976.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660132/normal_61b03ab45200e.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780792375722&kwd=Trusted%20Recovery%20and%20Defensive%20Information%20Warfare",
+        "http://getpdf.pw/book?res=123&isbn=9780792375722&kwd=Trusted%20Recovery%20and%20Defensive%20Information%20Warfare",
+        "https://static.s123-cdn-static-d.com/uploads/4659890/normal_61b07d69c6496.pdf",
+        "https://static.s123-cdn-static-c.com/uploads/4659950/normal_61b0ce0cd6976.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660132/normal_61b03ab45200e.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "149",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "112",
+        "object_start": "112",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "12",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "23",
+        "stream_start": "23",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

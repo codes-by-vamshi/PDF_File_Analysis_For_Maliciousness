@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 101638,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781148884868&kwd=The%20Critic,%20Volume%2024",
+        "http://getpdf.pw/book?res=123&isbn=9781148884868&kwd=The%20Critic,%20Volume%2024",
+        "https://static.s123-cdn-static-c.com/uploads/4659465/normal_61ad2a1eecf6a.pdf",
+        "https://files8.webydo.com/9588858/UploadedFiles/C925FD3E-D794-E866-B460-FD4032B8630C.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781148884868&kwd=The%20Critic,%20Volume%2024",
+        "http://getpdf.pw/book?res=123&isbn=9781148884868&kwd=The%20Critic,%20Volume%2024",
+        "https://static.s123-cdn-static-c.com/uploads/4659465/normal_61ad2a1eecf6a.pdf",
+        "https://files8.webydo.com/9588858/UploadedFiles/C925FD3E-D794-E866-B460-FD4032B8630C.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "102",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "70",
+        "object_start": "70",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "5",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "14",
+        "stream_start": "14",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

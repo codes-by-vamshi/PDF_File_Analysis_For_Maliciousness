@@ -1,0 +1,65 @@
+{
+    "exif_signatures": {},
+    "file_size": 212531,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [
+        "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwe.tl%2Ft-djDMeCHvJD&data=05%7C01%7C42720%40miami-police.org%7C8163e7ec9ff24d178c3608da7711ea04%7C003245fb084d42ad95a40cdc2bfcb62d%7C0%7C0%7C637953216073930506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=F74ebVXbk0V3wIaKqQIK4%2Fl1vaBWzmP%2FWhzlDy9aHgs%3D&reserved=0",
+        "http://www.crimestoppersmiami.com/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "https",
+        "https",
+        "http://www.crimestoppersmiami.com/",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "213",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "50",
+        "object_start": "50",
+        "object_streams": "1",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "multiple_versions",
+        "contentis_base64",
+        "Big_Numbers0",
+        "Big_Numbers1"
+    ]
+}

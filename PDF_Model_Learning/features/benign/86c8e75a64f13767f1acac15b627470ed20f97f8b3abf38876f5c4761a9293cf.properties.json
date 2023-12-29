@@ -1,0 +1,42 @@
+{
+    "exif_signatures": {},
+    "file_size": 1224317,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.hsbc./",
+        "http://www.hsbc.com.eg/"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.hsbc./",
+        "http://www.hsbc.com.eg/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "2",
+        "embedded_files": "0",
+        "file_size": "1224",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "825",
+        "object_start": "825",
+        "object_streams": "2",
+        "open_action": "0",
+        "page_count": "2",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "783",
+        "stream_start": "783",
+        "trailer_dictionary": "2"
+    },
+    "yara_signatures": []
+}

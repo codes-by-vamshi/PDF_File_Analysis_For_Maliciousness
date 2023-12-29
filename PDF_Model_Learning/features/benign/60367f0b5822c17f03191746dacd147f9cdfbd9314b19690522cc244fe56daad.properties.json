@@ -1,0 +1,18 @@
+{
+    "exif_signatures": {},
+    "file_size": 90138705,
+    "pdfid_signatures": {},
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "www.CompulsiveCode.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "file_size": "90"
+    },
+    "yara_signatures": []
+}

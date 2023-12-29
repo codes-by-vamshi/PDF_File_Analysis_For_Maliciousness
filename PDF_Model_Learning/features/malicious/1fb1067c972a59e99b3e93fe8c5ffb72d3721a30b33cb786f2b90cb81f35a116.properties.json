@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 79359,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781785921391&kwd=The%20Healthy%20Coping%20Colouring%20Book%20and%20Journal%20:%20Creative%20Activities%20to%20Help%20Manage%20Stress,%20Anxiety%20and%20Other%20Big%20Feelings",
+        "http://getpdf.pw/book?res=123&isbn=9781785921391&kwd=The%20Healthy%20Coping%20Colouring%20Book%20and%20Journal%20:%20Creative%20Activities%20to%20Help%20Manage%20Stress,%20Anxiety%20and%20Other%20Big%20Feelings",
+        "https://static.s123-cdn-static-d.com/uploads/4660294/normal_61af70fa1a3fa.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660175/normal_61afc99b8f8f8.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659872/normal_61af685142fc7.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9781785921391&kwd=The%20Healthy%20Coping%20Colouring%20Book%20and%20Journal%20:%20Creative%20Activities%20to%20Help%20Manage%20Stress,%20Anxiety%20and%20Other%20Big%20Feelings",
+        "http://getpdf.pw/book?res=123&isbn=9781785921391&kwd=The%20Healthy%20Coping%20Colouring%20Book%20and%20Journal%20:%20Creative%20Activities%20to%20Help%20Manage%20Stress,%20Anxiety%20and%20Other%20Big%20Feelings",
+        "https://static.s123-cdn-static-d.com/uploads/4660294/normal_61af70fa1a3fa.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660175/normal_61afc99b8f8f8.pdf",
+        "https://static.s123-cdn-static-b.com/uploads/4659872/normal_61af685142fc7.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "79",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

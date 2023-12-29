@@ -1,0 +1,72 @@
+{
+    "exif_signatures": {},
+    "file_size": 45884,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://kryljwd608.berilata.ru/dwnl3.php",
+        "http://kryljwd344.berilata.ru/dwnl3.php",
+        "http://branos.bltadwin.ru/charlotte-discovery-place-parking.pdf",
+        "http://mikajind.bltadwin.ru/san-diego-conservatorship-forms.pdf",
+        "http://mebei.bltadwin.ru/fortune-realty-memphis.pdf",
+        "http://kajisho.bltadwin.ru/distillery-denver-co.pdf",
+        "http://zologul.bltadwin.ru/private-lenders-new-york.pdf",
+        "http://samulabar.bltadwin.ru/dayton-washington-school-district.pdf",
+        "http://zulular.bltadwin.ru/5101-beverly-skyline-austin-tx.pdf"
+    ],
+    "regex_uris": [
+        "http://kryljwd608.berilata.ru/dwnl3.php",
+        "http://kryljwd344.berilata.ru/dwnl3.php",
+        "http://branos.bltadwin.ru/charlotte-discovery-place-parking.pdf",
+        "http://mikajind.bltadwin.ru/san-diego-conservatorship-forms.pdf",
+        "http://mebei.bltadwin.ru/fortune-realty-memphis.pdf",
+        "http://kajisho.bltadwin.ru/distillery-denver-co.pdf",
+        "http://zologul.bltadwin.ru/private-lenders-new-york.pdf",
+        "http://samulabar.bltadwin.ru/dayton-washington-school-district.pdf",
+        "http://zulular.bltadwin.ru/5101-beverly-skyline-austin-tx.pdf"
+    ],
+    "regex_urls": [
+        "http://kryljwd608.berilata.ru/dwnl3.php",
+        "http://kryljwd344.berilata.ru/dwnl3.php",
+        "http://branos.bltadwin.ru/charlotte-discovery-place-parking.pdf",
+        "http://mikajind.bltadwin.ru/san-diego-conservatorship-forms.pdf",
+        "http://mebei.bltadwin.ru/fortune-realty-memphis.pdf",
+        "http://kajisho.bltadwin.ru/distillery-denver-co.pdf",
+        "http://zologul.bltadwin.ru/private-lenders-new-york.pdf",
+        "http://samulabar.bltadwin.ru/dayton-washington-school-district.pdf",
+        "http://zulular.bltadwin.ru/5101-beverly-skyline-austin-tx.pdf"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "46",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "8",
+        "stream_start": "8",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

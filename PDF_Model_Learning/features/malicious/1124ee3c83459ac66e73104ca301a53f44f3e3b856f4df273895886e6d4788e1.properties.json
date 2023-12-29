@@ -1,0 +1,66 @@
+{
+    "exif_signatures": {},
+    "file_size": 138930,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780241335185&kwd=The%20Story%20of%20Painting%20:%20How%20art%20was%20made",
+        "http://getpdf.pw/book?res=strik&isbn=9780241335185&kwd=The%20Story%20of%20Painting%20:%20How%20art%20was%20made",
+        "https://files8.webydo.com/9588516/UploadedFiles/4127CFA8-BA6C-17DD-7173-6BC9557381E5.pdf",
+        "https://files8.webydo.com/9588407/UploadedFiles/083496A1-46B7-7072-171D-996C73493031.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4647945/normal_61a62ee7e2816.pdf",
+        "https://uploads.strikinglycdn.com/files/0814a878-738b-402d-8988-66aaa65abef2/finnish-tutor-grammar-and-vocabulary-workbook-learn-finnish-with-teach-yourself-advanced-beginne-528.pdf",
+        "https://files8.webydo.com/9588527/UploadedFiles/70C33E31-973F-FAFC-72DA-D9592DCA3CDC.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=strik&isbn=9780241335185&kwd=The%20Story%20of%20Painting%20:%20How%20art%20was%20made",
+        "http://getpdf.pw/book?res=strik&isbn=9780241335185&kwd=The%20Story%20of%20Painting%20:%20How%20art%20was%20made",
+        "https://files8.webydo.com/9588516/UploadedFiles/4127CFA8-BA6C-17DD-7173-6BC9557381E5.pdf",
+        "https://files8.webydo.com/9588407/UploadedFiles/083496A1-46B7-7072-171D-996C73493031.pdf",
+        "https://static.s123-cdn-static-d.com/uploads/4647945/normal_61a62ee7e2816.pdf",
+        "https://uploads.strikinglycdn.com/files/0814a878-738b-402d-8988-66aaa65abef2/finnish-tutor-grammar-and-vocabulary-workbook-learn-finnish-with-teach-yourself-advanced-beginne-528.pdf",
+        "https://files8.webydo.com/9588527/UploadedFiles/70C33E31-973F-FAFC-72DA-D9592DCA3CDC.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=strik",
+        "http://getpdf.pw/book?res=strik",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "139",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "92",
+        "object_start": "92",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

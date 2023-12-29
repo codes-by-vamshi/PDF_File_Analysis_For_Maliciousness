@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 116616,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780375864957&kwd=The%20Red%20Blazer%20Girls:%20The%20Secret%20Cellar",
+        "http://getpdf.pw/book?res=123&isbn=9780375864957&kwd=The%20Red%20Blazer%20Girls:%20The%20Secret%20Cellar",
+        "https://img1.wsimg.com/blobby/go/74966dab-a283-4c4c-a9b9-f0069f6329e4/the-reception-year-in-action-revised-and-updat.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660132/normal_61b0fa3584419.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780375864957&kwd=The%20Red%20Blazer%20Girls:%20The%20Secret%20Cellar",
+        "http://getpdf.pw/book?res=123&isbn=9780375864957&kwd=The%20Red%20Blazer%20Girls:%20The%20Secret%20Cellar",
+        "https://img1.wsimg.com/blobby/go/74966dab-a283-4c4c-a9b9-f0069f6329e4/the-reception-year-in-action-revised-and-updat.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660132/normal_61b0fa3584419.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "117",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "79",
+        "object_start": "79",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "8",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "15",
+        "stream_start": "15",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

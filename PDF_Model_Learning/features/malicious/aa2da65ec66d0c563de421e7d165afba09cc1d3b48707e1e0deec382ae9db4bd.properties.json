@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 81138,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780470641200&kwd=Planning,%20Implementing,%20and%20Maintaining%20a%20Microsoft%20Windows%20Server%202003%20Active%20Directory%20Infrastructure%20(70-294)%20Lab%20Manual",
+        "http://getpdf.pw/book?res=123&isbn=9780470641200&kwd=Planning,%20Implementing,%20and%20Maintaining%20a%20Microsoft%20Windows%20Server%202003%20Active%20Directory%20Infrastructure%20(70-294)%20Lab%20Manual",
+        "https://static.s123-cdn-static-c.com/uploads/4660294/normal_61aff29138051.pdf",
+        "https://uploads.strikinglycdn.com/files/46b2cdd0-7e95-429e-9cb8-c1f81e9cfb3a/first-book-of-bassoon-solos-903.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660471/normal_61b067a85baa4.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780470641200&kwd=Planning,%20Implementing,%20and%20Maintaining%20a%20Microsoft%20Windows%20Server%202003%20Active%20Directory%20Infrastructure%20\\(70-294\\)%20Lab%20Manual",
+        "http://getpdf.pw/book?res=123&isbn=9780470641200&kwd=Planning,%20Implementing,%20and%20Maintaining%20a%20Microsoft%20Windows%20Server%202003%20Active%20Directory%20Infrastructure%20\\(70-294\\)%20Lab%20Manual",
+        "https://static.s123-cdn-static-c.com/uploads/4660294/normal_61aff29138051.pdf",
+        "https://uploads.strikinglycdn.com/files/46b2cdd0-7e95-429e-9cb8-c1f81e9cfb3a/first-book-of-bassoon-solos-903.pdf",
+        "https://static.s123-cdn-static-a.com/uploads/4660471/normal_61b067a85baa4.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "81",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "47",
+        "object_start": "47",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "3",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "10",
+        "stream_start": "10",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

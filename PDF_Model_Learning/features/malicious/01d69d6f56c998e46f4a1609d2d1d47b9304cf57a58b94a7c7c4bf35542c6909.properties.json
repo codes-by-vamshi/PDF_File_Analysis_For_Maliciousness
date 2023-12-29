@@ -1,0 +1,75 @@
+{
+    "exif_signatures": {},
+    "file_size": 108922,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://foeslonghorn.site/Elements-Of-Photogrammetry-With-Applications-In-Gis/pdf/4heros.com",
+        "http://foeslonghorn.site/Elements-Of-Photogrammetry-With-Applications-In-Gis/doc/4heros.com",
+        "https://4heros.com/wp-content/uploads/formidable/2/sample-script-for-hosting-a-company-christmas-party.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/rotary-asymmetrical-lift-installation-instructions.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/assurance-auto-desjardins-ontario.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/new-testament-beat-your-slave.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/ags-ticket-booking-omr.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/fayette-county-wv-sheriff-warrants.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/expedited-passport-renewal-houston.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/thanks-for-requesting-me.pdf"
+    ],
+    "regex_uris": [
+        "http://foeslonghorn.site/Elements-Of-Photogrammetry-With-Applications-In-Gis/pdf/4heros.com)>>>><</Type /Annot /Subtype /Link /Rect [296.00 452.00 558.00 375.00] /Border [0 0 0] /A <</S /URI /URI (http://foeslonghorn.site/Elements-Of-Photogrammetry-With-Applications-In-Gis/doc/4heros.com",
+        "https://4heros.com/wp-content/uploads/formidable/2/sample-script-for-hosting-a-company-christmas-party.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/rotary-asymmetrical-lift-installation-instructions.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/assurance-auto-desjardins-ontario.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/new-testament-beat-your-slave.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/ags-ticket-booking-omr.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/fayette-county-wv-sheriff-warrants.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/expedited-passport-renewal-houston.pdf",
+        "https://4heros.com/wp-content/uploads/formidable/2/thanks-for-requesting-me.pdf"
+    ],
+    "regex_urls": [
+        "http://foeslonghorn.site/Elements-Of-Photogrammetry-With-Applications-In-Gis/pdf/4heros.com",
+        "http://foeslonghorn.site/Elements-Of-Photogrammetry-With-Applications-In-Gis/doc/4heros.com",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "109",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "33",
+        "object_start": "33",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "18",
+        "stream_start": "18",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "vmdetect",
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

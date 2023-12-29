@@ -1,0 +1,62 @@
+{
+    "exif_signatures": {
+        "invalid_xref_table": {
+            "description": "This PDF file contains invalid cross reference table.",
+            "families": [],
+            "marks": [],
+            "name": "invalid_xref_table",
+            "references": [],
+            "severity": 5
+        }
+    },
+    "file_size": 140920,
+    "pdfid_signatures": {
+        "Page_Count": {
+            "description": "This PDF has only one page",
+            "families": [],
+            "marks": [],
+            "name": "Page_Count",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "pypdf_uris": [],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.marvell.com"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "141",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "9",
+        "object_start": "9",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "1",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "2",
+        "stream_start": "2",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "with_images",
+        "with_urls",
+        "contentis_base64",
+        "Big_Numbers1"
+    ]
+}

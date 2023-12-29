@@ -1,0 +1,57 @@
+{
+    "exif_signatures": {},
+    "file_size": 53014,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "https://www.globenewswire.com/Tracker?data=vJJIoprKODfe6GR39ey1kFClf3KMOJUq9rlslKJkEzPTxCkqBIb6BoRaUSS9PAEbN0iOgfvjU2ijRptv_mWvVHpqeDvCL-EV_aZqq7b3xqlH0TYYmZGSUrQvMAYJ09BZwHmdFjEUbKt2Z3N4HBZCoQ==",
+        "https://www.globenewswire.com/Tracker?data=z8ht-9qmfE90Mf_uBQ6k4VriUfNYJovaMTb2zMonpFnOHgYoFD2asw3UGSiho5mGS0OGOtA2x-_Ocy6-O6PrEsFZlu2zB4kcpim-xTwPZzg=",
+        "https://www.globenewswire.com/NewsRoom/AttachmentNg/16aad249-3d33-4501-b3d9-118a703fa46e"
+    ],
+    "regex_uris": [
+        "https://www.globenewswire.com/Tracker?data=vJJIoprKODfe6GR39ey1kFClf3KMOJUq9rlslKJkEzPTxCkqBIb6BoRaUSS9PAEbN0iOgfvjU2ijRptv_mWvVHpqeDvCL-EV_aZqq7b3xqlH0TYYmZGSUrQvMAYJ09BZwHmdFjEUbKt2Z3N4HBZCoQ==",
+        "https://www.globenewswire.com/Tracker?data=z8ht-9qmfE90Mf_uBQ6k4VriUfNYJovaMTb2zMonpFnOHgYoFD2asw3UGSiho5mGS0OGOtA2x-_Ocy6-O6PrEsFZlu2zB4kcpim-xTwPZzg=",
+        "https://www.globenewswire.com/NewsRoom/AttachmentNg/16aad249-3d33-4501-b3d9-118a703fa46e"
+    ],
+    "regex_urls": [
+        "https",
+        "www.globenewswire.com/Tracker?data=vJJIoprKODfe6GR39ey1kFClf3KMOJUq9rlslKJkEzPTxCkqBIb6BoRaUSS9PAEbN0iOgfvjU2ijRptv_mWvVHpqeDvCL-EV_aZqq7b3xqlH0TYYmZGSUrQvMAYJ09BZwHmdFjEUbKt2Z3N4HBZCoQ==",
+        "https",
+        "www.globenewswire.com/Tracker?data=z8ht-9qmfE90Mf_uBQ6k4VriUfNYJovaMTb2zMonpFnOHgYoFD2asw3UGSiho5mGS0OGOtA2x-_Ocy6-O6PrEsFZlu2zB4kcpim-xTwPZzg=",
+        "https",
+        "www.globenewswire.com/NewsRoom/AttachmentNg/16aad249-3d33-4501-b3d9-118a703fa46e"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "53",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "56",
+        "object_start": "56",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "4",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "13",
+        "stream_start": "13",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

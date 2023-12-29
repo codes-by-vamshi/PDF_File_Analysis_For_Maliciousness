@@ -1,0 +1,20 @@
+{
+    "exif_signatures": {},
+    "file_size": 217179506,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://www.talkenglish.com/audio871/AudioTE1/E19/sentence/E019S7.mp3"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.talkenglish.com/audio871/AudioTE1/E19/sentence/E019S7.mp3"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "file_size": "217"
+    },
+    "yara_signatures": []
+}

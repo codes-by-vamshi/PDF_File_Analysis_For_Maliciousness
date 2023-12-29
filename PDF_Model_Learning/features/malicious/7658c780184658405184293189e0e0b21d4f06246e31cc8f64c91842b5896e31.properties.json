@@ -1,0 +1,60 @@
+{
+    "exif_signatures": {},
+    "file_size": 129704,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780563522966&kwd=Auschwitz",
+        "http://getpdf.pw/book?res=123&isbn=9780563522966&kwd=Auschwitz",
+        "https://static.s123-cdn.com/uploads/4649446/normal_61ab01255d91c.pdf",
+        "https://uploads.strikinglycdn.com/files/c15d717b-3af8-42aa-9f7e-1d7ad4b35583/the-judas-strain-744.pdf",
+        "https://cdn-cms.f-static.net/uploads/4650344/normal_61aac79aee56c.pdf"
+    ],
+    "regex_uris": [
+        "http://getpdf.pw/book?res=123&isbn=9780563522966&kwd=Auschwitz",
+        "http://getpdf.pw/book?res=123&isbn=9780563522966&kwd=Auschwitz",
+        "https://static.s123-cdn.com/uploads/4649446/normal_61ab01255d91c.pdf",
+        "https://uploads.strikinglycdn.com/files/c15d717b-3af8-42aa-9f7e-1d7ad4b35583/the-judas-strain-744.pdf",
+        "https://cdn-cms.f-static.net/uploads/4650344/normal_61aac79aee56c.pdf"
+    ],
+    "regex_urls": [
+        "http://getpdf.pw/book?res=123",
+        "http://getpdf.pw/book?res=123",
+        "https",
+        "https",
+        "https"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "1",
+        "embedded_files": "0",
+        "file_size": "130",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "90",
+        "object_start": "90",
+        "object_streams": "0",
+        "open_action": "0",
+        "page_count": "10",
+        "rich_media": "0",
+        "start_cross_reference_table": "1",
+        "stream_end": "17",
+        "stream_start": "17",
+        "trailer_dictionary": "1"
+    },
+    "yara_signatures": [
+        "without_attachments",
+        "without_images",
+        "with_urls",
+        "invalid_trailer_structure",
+        "contentis_base64"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "exif_signatures": {
+        "linearized": {
+            "description": "This PDF is linearized",
+            "families": [],
+            "marks": [],
+            "name": "linearized",
+            "references": [],
+            "severity": 1
+        }
+    },
+    "file_size": 1289006,
+    "pdfid_signatures": {},
+    "pypdf_uris": [
+        "mailto:ttra-dcvd@mtpconnect.org.au",
+        "https://www.finance.gov.au/government/commonwealth-grants/commonwealth-grants-rules-and-guidelines",
+        "https://www.finance.gov.au/government/commonwealth-grants/commonwealth-grants-rules-and-guidelines",
+        "https://www.nhmrc.gov.au/about-us/resources/ethical-conduct-research-aboriginal-and-torres-strait-islander-peoples-and-communities#:~:text=Peoples%20and%20communities-,Ethical%20conduct%20in%20research%20with%20Aboriginal%20and%20Torres%20Strait%20Islander,Strait%20Islander%20people%20and%20communities.",
+        "https://www.nhmrc.gov.au/about-us/resources/ethical-conduct-research-aboriginal-and-torres-strait-islander-peoples-and-communities#:~:text=Peoples%20and%20communities-,Ethical%20conduct%20in%20research%20with%20Aboriginal%20and%20Torres%20Strait%20Islander,Strait%20Islander%20people%20and%20communities.",
+        "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018",
+        "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018",
+        "https://www.legislation.gov.au/Details/C2015A00116",
+        "https://www.legislation.gov.au/Details/C2015A00116",
+        "https://www.finance.gov.au/sites/default/files/2019-11/Cth%20Standard%20Dec%202018.pdf",
+        "https://www.finance.gov.au/sites/default/files/2019-11/Cth%20Standard%20Dec%202018.pdf",
+        "http://webarchive.nla.gov.au/gov/20171114071911/http:/www.health.gov.au/internet/main/publishing.nsf/Content/gps-standard-funding-agreement",
+        "mailto:ttra-dcvd@mtpconnect.org.au",
+        "https://www.mtpconnect.org.au/programs/TTRA/ResearchProjectsRound3",
+        "https://www.mtpconnect.org.au/programs/TTRA/ResearchProjectsRound3",
+        "https://www.mtpconnect.org.au/programs/TTRA/ResearchProjectsRound3",
+        "mailto:ttra-dcvd@mtpconnect.org.au",
+        "https://www.mtpconnect.org.au/Category?Action=View&Category_id=102",
+        "https://www.finance.gov.au/government/commonwealth-grants/commonwealth-grants-rules-and-guidelines",
+        "mailto:ttra-dcvd@mtpconnect.org.au"
+    ],
+    "regex_uris": [],
+    "regex_urls": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "http://ns.adobe.com/pdf/1.3/",
+        "http://ns.adobe.com/pdfx/1.3/",
+        "http://purl.org/dc/elements/1.1/",
+        "http://ns.adobe.com/xap/1.0/",
+        "http://ns.adobe.com/xap/1.0/mm/"
+    ],
+    "scripts": {
+        "iframe": [],
+        "urls": []
+    },
+    "static_properties": {
+        "JBIG2Decode": "0",
+        "XML_forms": "0",
+        "acro_form": "0",
+        "auto_action": "0",
+        "colors": "0",
+        "cross_reference_table": "0",
+        "embedded_files": "0",
+        "file_size": "1289",
+        "java_script": "0",
+        "js": "0",
+        "launch_action": "0",
+        "object_end": "104",
+        "object_start": "104",
+        "object_streams": "15",
+        "open_action": "0",
+        "page_count": "24",
+        "rich_media": "0",
+        "start_cross_reference_table": "2",
+        "stream_end": "78",
+        "stream_start": "78",
+        "trailer_dictionary": "0"
+    },
+    "yara_signatures": []
+}
